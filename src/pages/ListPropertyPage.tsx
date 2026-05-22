@@ -5,6 +5,7 @@ import {
   ArrowRight, Check, ShieldCheck, TrendingUp, Languages,
   Camera, FileText, Users, Sparkles, ArrowLeft,
 } from 'lucide-react'
+import { AmbientVideoBg } from '../components/ui/AmbientVideoBg'
 
 const SERVICES = [
   { icon: <TrendingUp size={17} />, title: '市场评估与定价', desc: '基于维也纳各区实时成交数据，给出合理估价区间与定价策略。' },
@@ -105,8 +106,30 @@ export default function ListPropertyPage() {
       </section>
 
       {/* Form */}
-      <section id="form" className="py-16 sm:py-24 px-4 sm:px-6 lg:px-10 bg-bg-elev-1 border-t border-white/[0.06]">
-        <div className="max-w-prose mx-auto">
+      <section id="form" className="relative overflow-hidden py-16 sm:py-24 px-4 sm:px-6 lg:px-10 bg-bg-elev-1 border-t border-white/[0.06]">
+        {/* Ambient sunlit-apartment video behind the form — same treatment as homepage contact section. */}
+        <AmbientVideoBg
+          src={[
+            '/contact/lucky-cat-gold.mp4',
+            '/about/stadtpark-autumn.mp4',
+          ]}
+          opacity={0.42}
+          scanlines
+          scanlineColor="black"
+          videoStyles={[
+            { transform: 'translateX(12%)' },
+            {},
+          ]}
+        />
+        <div
+          aria-hidden
+          className="absolute inset-0 pointer-events-none"
+          style={{
+            background:
+              'linear-gradient(180deg, rgba(19,19,19,0.2) 0%, rgba(19,19,19,0.32) 50%, rgba(12,12,12,0.68) 100%)',
+          }}
+        />
+        <div className="relative max-w-prose mx-auto">
           <div className="mb-10">
             <p className="text-overline text-gold/80 mb-3 uppercase">Free Consultation</p>
             <h2 className="font-serif text-display-lg text-fg-primary mb-3">
