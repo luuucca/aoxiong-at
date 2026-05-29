@@ -3,6 +3,16 @@ import { MapContainer, TileLayer, Marker, Tooltip, useMap, ZoomControl } from 'r
 import L from 'leaflet'
 import type { Auction } from '../types/auction'
 import { formatPriceLabel, formatCurrency, generateTitle } from '../utils/formatters'
+import { TransitLayer } from './TransitLayer'
+
+// U-Bahn lines + official colours, for the legend and toggle.
+const UBAHN_LINES: { ref: string; colour: string }[] = [
+  { ref: 'U1', colour: '#E3000F' },
+  { ref: 'U2', colour: '#A862A4' },
+  { ref: 'U3', colour: '#EF7C00' },
+  { ref: 'U4', colour: '#319F49' },
+  { ref: 'U6', colour: '#9D6830' },
+]
 
 const CATEGORY_COLORS: Record<string, { bg: string; text: string; border: string }> = {
   Eigentumswohnung:         { bg: '#1A4A7A', text: '#A8D4FF', border: '#5B9BD5' },
@@ -163,6 +173,8 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
   const validAuctions = auctions.filter(validCoord)
   const [layer, setLayer] = useState<LayerKey>('light')
   const [expandedClusters, setExpandedClusters] = useState<Set<string>>(new Set())
+  const [showSubway, setShowSubway] = useState(true)
+  const [showTram, setShowTram] = useState(false)
   const current = LAYERS[layer]
 
   // Group auctions by coordinate key
@@ -199,6 +211,38 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
         ))}
       </div>
 
+      {/* Transit toggle + U-Bahn legend */}
+      <div className="absolute bottom-3 left-3 z-[1000] rounded-lg overflow-hidden shadow-md border border-cream-200 bg-white/95 backdrop-blur-sm">
+        <div className="flex">
+          <button
+            onClick={() => setShowSubway((v) => !v)}
+            className={`px-3 py-1.5 text-xs font-medium transition-colors border-r border-cream-200 ${
+              showSubway ? 'bg-forest-700 text-cream-100' : 'bg-white text-warm-600 hover:bg-cream-50'
+            }`}
+          >
+            🚇 地铁
+          </button>
+          <button
+            onClick={() => setShowTram((v) => !v)}
+            className={`px-3 py-1.5 text-xs font-medium transition-colors ${
+              showTram ? 'bg-forest-700 text-cream-100' : 'bg-white text-warm-600 hover:bg-cream-50'
+            }`}
+          >
+            🚊 电车
+          </button>
+        </div>
+        {showSubway && (
+          <div className="flex items-center gap-2 px-3 py-1.5 border-t border-cream-200">
+            {UBAHN_LINES.map((l) => (
+              <span key={l.ref} className="inline-flex items-center gap-1">
+                <span className="inline-block w-2.5 h-2.5 rounded-full" style={{ background: l.colour }} />
+                <span className="text-[10px] font-semibold text-warm-600">{l.ref}</span>
+              </span>
+            ))}
+          </div>
+        )}
+      </div>
+
       <MapErrorBoundary>
         <MapContainer
           center={[48.21, 16.37]}
@@ -206,6 +250,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
           className="w-full h-full"
           zoomControl={false}
           attributionControl={true}
+          preferCanvas={true}
         >
           <TileLayer
             key={layer}
@@ -221,6 +266,8 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
             auctions={validAuctions}
             initialFit={initialFit}
           />
+
+          <TransitLayer showSubway={showSubway} showTram={showTram} />
 
           {[...coordGroups.entries()].map(([coordKey, group]) => {
             const isExpanded = expandedClusters.has(coordKey)
