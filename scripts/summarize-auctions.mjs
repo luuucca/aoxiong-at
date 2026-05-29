@@ -148,7 +148,9 @@ async function summarizeWithGemini(file) {
   })
   if (!res.ok) {
     const txt = await res.text().catch(() => '')
-    throw new Error(`Gemini HTTP ${res.status}: ${txt.slice(0, 200)}`)
+    const err = new Error(`Gemini HTTP ${res.status}: ${txt.slice(0, 500)}`)
+    if (res.status === 429) err.quota = true // daily/rate quota exhausted
+    throw err
   }
   const data = await res.json()
   const text = data?.candidates?.[0]?.content?.parts?.[0]?.text
@@ -199,6 +201,13 @@ async function main() {
     } catch (e) {
       fail++
       console.log(`✗ ${e.message}`)
+      if (e.quota) {
+        // Daily/rate quota hit — no point hammering the API for the rest of
+        // the run. Stop now; already-summarized rows are saved, and the next
+        // scheduled run resumes the remainder (summarizedAt gating).
+        console.log('\n⚠️  Gemini 配额已用尽，本轮提前停止；下次运行自动续做剩余报告。')
+        break
+      }
     } finally {
       if (uploadedName) await deleteFile(uploadedName)
     }
