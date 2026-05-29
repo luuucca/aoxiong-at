@@ -50,6 +50,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data/auctions.json
           git commit -m "data: 自动更新法拍数据 $(date -u +'%Y-%m-%d')"
+          # Rebase onto any commits that landed on main while this job ran
+          # (e.g. a code push), so the push isn't rejected as non-fast-forward.
+          git pull --rebase origin ${{ github.ref_name }}
           git push
 
       - name: 数据无变化
