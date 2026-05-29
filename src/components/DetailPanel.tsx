@@ -132,11 +132,16 @@ export function DetailPanel({ auction, onClose }: Props) {
         {/* Summary */}
         {auction.summary && (
           <div className="bg-forest-700 bg-opacity-5 border border-forest-700 border-opacity-10 rounded-lg px-3 py-2.5 mb-2.5">
-            <div className="flex items-center gap-1.5 mb-1.5">
-              <FileText size={12} className="text-forest-600" />
-              <span className="text-xs font-semibold text-forest-700">专家报告摘要</span>
+            <div className="flex items-center justify-between gap-2 mb-1.5">
+              <div className="flex items-center gap-1.5">
+                <FileText size={12} className="text-forest-600" />
+                <span className="text-xs font-semibold text-forest-700">专家报告摘要</span>
+              </div>
+              {auction.summarizedAt && (
+                <span className="text-[10px] text-warm-400 flex-shrink-0">AI 翻译·仅供参考</span>
+              )}
             </div>
-            <p className="text-xs text-warm-700 leading-relaxed">{auction.summary}</p>
+            <p className="text-xs text-warm-700 leading-relaxed whitespace-pre-line">{auction.summary}</p>
           </div>
         )}
 

@@ -51,6 +51,8 @@ export interface Auction {
   shortReportUrl: string
   /** ISO timestamp of when the scraper first encountered this UNID. */
   firstSeenAt?: string
+  /** ISO timestamp of when Gemini generated the Chinese summary + riskTags. */
+  summarizedAt?: string
 }
 
 export interface FilterState {

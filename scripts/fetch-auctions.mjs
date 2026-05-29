@@ -295,6 +295,10 @@ function upsert(existing, incoming) {
         summary: merged[i].summary || rec.summary,
         riskTags: merged[i].riskTags?.length ? merged[i].riskTags : rec.riskTags,
         shortReportUrl: merged[i].shortReportUrl || rec.shortReportUrl,
+        // Preserve the Gemini-generated Chinese summary timestamp so the
+        // summarize step doesn't re-process (and re-spend quota on) a
+        // report it already translated. Paired with summary/riskTags above.
+        summarizedAt: merged[i].summarizedAt || rec.summarizedAt,
         // Preserve the original "first seen" stamp across re-runs.
         // Old records without it stay without it — the frontend treats
         // missing firstSeenAt as oldest in the "newest added" sort.
