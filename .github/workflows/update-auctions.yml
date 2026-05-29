@@ -17,6 +17,10 @@ jobs:
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
+        with:
+          # Full history so the pre-push `git pull --rebase` has a merge
+          # base — a shallow (depth 1) clone makes the rebase fail (exit 128).
+          fetch-depth: 0
 
       - name: 安装 Node.js
         uses: actions/setup-node@v4
