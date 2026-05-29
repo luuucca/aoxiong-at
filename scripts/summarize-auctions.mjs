@@ -25,7 +25,7 @@ const DATA_PATH = join(__dirname, '..', 'public', 'data', 'auctions.json')
 const API_KEY = process.env.GEMINI_API_KEY
 const MODEL = process.env.GEMINI_MODEL || 'gemini-2.0-flash'
 const MAX_PER_RUN = Number(process.env.GEMINI_MAX_PER_RUN || 80)
-const MAX_PDF_BYTES = 18 * 1024 * 1024 // inline-data 上限 ~20MB，留余量
+const MAX_PDF_BYTES = 45 * 1024 * 1024 // File API 支持到 50MB，留余量
 const THROTTLE_MS = 4500 // ~13 RPM，低于 15 RPM 限制
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
@@ -55,22 +55,81 @@ const RESPONSE_SCHEMA = {
   required: ['summary', 'riskTags'],
 }
 
-async function downloadPdfBase64(url) {
-  const res = await fetch(url, { headers: PDF_HEADERS, signal: AbortSignal.timeout(30000) })
+async function downloadPdf(url) {
+  const res = await fetch(url, { headers: PDF_HEADERS, signal: AbortSignal.timeout(60000) })
   if (!res.ok) throw new Error(`PDF HTTP ${res.status}`)
   const buf = Buffer.from(await res.arrayBuffer())
   if (buf.length > MAX_PDF_BYTES) throw new Error(`PDF too large (${(buf.length / 1e6).toFixed(1)}MB)`)
   if (buf.length < 1000) throw new Error('PDF suspiciously small')
-  return buf.toString('base64')
+  return buf
 }
 
-async function summarizeWithGemini(pdfBase64) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`
+const FILE_BASE = 'https://generativelanguage.googleapis.com'
+
+/**
+ * Upload a PDF via the Gemini File API (resumable protocol). These court
+ * appraisals are scanned 10–15MB documents — well over the ~20MB inline
+ * request ceiling once base64-inflated — so we upload first and reference
+ * the file by URI. Returns the active file resource ({ uri, mimeType, name }).
+ */
+async function uploadPdf(buffer, displayName) {
+  // Step 1 — initiate resumable upload session
+  const start = await fetch(`${FILE_BASE}/upload/v1beta/files?key=${API_KEY}`, {
+    method: 'POST',
+    headers: {
+      'X-Goog-Upload-Protocol': 'resumable',
+      'X-Goog-Upload-Command': 'start',
+      'X-Goog-Upload-Header-Content-Length': String(buffer.length),
+      'X-Goog-Upload-Header-Content-Type': 'application/pdf',
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ file: { display_name: displayName } }),
+    signal: AbortSignal.timeout(60000),
+  })
+  if (!start.ok) throw new Error(`upload start HTTP ${start.status}`)
+  const uploadUrl = start.headers.get('x-goog-upload-url')
+  if (!uploadUrl) throw new Error('no upload URL returned')
+
+  // Step 2 — upload bytes and finalize
+  const up = await fetch(uploadUrl, {
+    method: 'POST',
+    headers: {
+      'Content-Length': String(buffer.length),
+      'X-Goog-Upload-Offset': '0',
+      'X-Goog-Upload-Command': 'upload, finalize',
+    },
+    body: buffer,
+    signal: AbortSignal.timeout(120000),
+  })
+  if (!up.ok) throw new Error(`upload HTTP ${up.status}`)
+  let file = (await up.json()).file
+  if (!file?.name) throw new Error('upload returned no file')
+
+  // Step 3 — wait until the file finishes processing
+  let tries = 0
+  while (file.state === 'PROCESSING' && tries++ < 30) {
+    await sleep(2000)
+    file = await fetch(`${FILE_BASE}/v1beta/${file.name}?key=${API_KEY}`).then((r) => r.json())
+  }
+  if (file.state !== 'ACTIVE') throw new Error(`file not ACTIVE (${file.state})`)
+  return file
+}
+
+async function deleteFile(name) {
+  try {
+    await fetch(`${FILE_BASE}/v1beta/${name}?key=${API_KEY}`, { method: 'DELETE' })
+  } catch {
+    /* files auto-expire after 48h anyway */
+  }
+}
+
+async function summarizeWithGemini(file) {
+  const url = `${FILE_BASE}/v1beta/models/${MODEL}:generateContent?key=${API_KEY}`
   const body = {
     contents: [
       {
         parts: [
-          { inline_data: { mime_type: 'application/pdf', data: pdfBase64 } },
+          { file_data: { mime_type: file.mimeType || 'application/pdf', file_uri: file.uri } },
           { text: PROMPT },
         ],
       },
@@ -125,9 +184,12 @@ async function main() {
   for (let i = 0; i < batch.length; i++) {
     const a = batch[i]
     process.stdout.write(`  [${i + 1}/${batch.length}] ${a.address?.slice(0, 45)} ... `)
+    let uploadedName = null
     try {
-      const pdf = await downloadPdfBase64(a.pdfUrl)
-      const { summary, riskTags } = await summarizeWithGemini(pdf)
+      const pdf = await downloadPdf(a.pdfUrl)
+      const file = await uploadPdf(pdf, a.id)
+      uploadedName = file.name
+      const { summary, riskTags } = await summarizeWithGemini(file)
       const idx = byId.get(a.id)
       all[idx] = { ...all[idx], summary, riskTags, summarizedAt: new Date().toISOString() }
       ok++
@@ -137,6 +199,8 @@ async function main() {
     } catch (e) {
       fail++
       console.log(`✗ ${e.message}`)
+    } finally {
+      if (uploadedName) await deleteFile(uploadedName)
     }
     if (i < batch.length - 1) await sleep(THROTTLE_MS)
   }
