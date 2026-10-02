@@ -139,9 +139,27 @@ interface Props {
 }
 
 const LAYERS = {
-  light:     { label: '地图', url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',     attr: '© OpenStreetMap © CARTO', sub: 'abcd' },
-  osm:       { label: '街道', url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',                   attr: '© OpenStreetMap', sub: 'abc' },
-  satellite: { label: '卫星', url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', attr: '© Esri', sub: undefined },
+  light: {
+    label: '地图',
+    url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+    attr: 'Tiles © Esri — Esri, HERE, Garmin, © OpenStreetMap contributors, and the GIS user community',
+    sub: undefined,
+    maxNativeZoom: 16,
+  },
+  osm: {
+    label: '街道',
+    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    attr: '© OpenStreetMap contributors',
+    sub: 'abc',
+    maxNativeZoom: 19,
+  },
+  satellite: {
+    label: '卫星',
+    url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+    attr: 'Tiles © Esri',
+    sub: undefined,
+    maxNativeZoom: 19,
+  },
 }
 type LayerKey = keyof typeof LAYERS
 
@@ -257,6 +275,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
             url={current.url}
             attribution={current.attr}
             subdomains={current.sub ?? 'abc'}
+            maxNativeZoom={current.maxNativeZoom}
             maxZoom={20}
           />
           <ZoomControl position="bottomright" />
