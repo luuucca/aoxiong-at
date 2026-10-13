@@ -6139,5 +6139,29 @@
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f7bb5690c8c0d7a6c1258e8b002a71f0/$file/GZ-25056-1140_Griesingergasse26-a.pdf",
     "shortReportUrl": "",
     "firstSeenAt": "2026-10-10T06:59:48.448Z"
+  },
+  {
+    "id": "wien-2bfdd8f94eca",
+    "caseNumber": "24 E 69/24y",
+    "auctionDate": "2026-11-18",
+    "address": "1100 Wien Langsulzgasse 16",
+    "district": "1100",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Einfamilienhaus",
+    "estimatedValue": 544000,
+    "minimumBid": 544000,
+    "area": 135.93,
+    "pricePerSqm": 4002.06,
+    "deposit": 54400,
+    "latitude": 48.1568987,
+    "longitude": 16.4016324,
+    "geocodeSource": "official",
+    "ownershipType": "Auf der bewertungsgegenständlichen Liegenschaft befindet sich ein unterkellertes, eingeschossiges Gebäude mit nicht ausgebautem Dachgeschoss, das ursprünglich um das Jahr 1979 errichtet wurde. \nDie Li",
+    "summary": "Auf der bewertungsgegenständlichen Liegenschaft befindet sich ein unterkellertes, eingeschossiges Gebäude mit nicht ausgebautem Dachgeschoss, das ursprünglich um das Jahr 1979 errichtet wurde. \nDie Li",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2bfdd8f94eca02dfc1258e8e0034a00c!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/39c613a46875546ac1258e8e0034a00e/$file/GA_Langsulzgasse16kom.pdf",
+    "shortReportUrl": "",
+    "firstSeenAt": "2026-10-13T07:40:59.251Z"
   }
 ]
