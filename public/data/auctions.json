@@ -6499,5 +6499,29 @@
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d095f74b28e1ace5c1258e95003e5288/$file/GA_Bucheng4.pdf",
     "shortReportUrl": "",
     "firstSeenAt": "2026-10-20T05:57:30.763Z"
+  },
+  {
+    "id": "wien-4f88750cdf6d",
+    "caseNumber": "39 E 44/24p",
+    "auctionDate": "2026-12-04",
+    "address": "1150 Wien Kranzgasse 25-27",
+    "district": "1150",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Eigentumswohnung",
+    "estimatedValue": 249000,
+    "minimumBid": 184260,
+    "area": 65.76,
+    "pricePerSqm": 3786.5,
+    "deposit": 24900,
+    "latitude": 48.1910206,
+    "longitude": 16.3324571,
+    "geocodeSource": "official",
+    "ownershipType": "Das Mehrfamilienwohnhaus im 15. Wiener Gemeindebezirk wurde in den 1970er-Jahren errichtet und besteht aus einem Kellergeschoss (Eingangsebene), einem Erdgeschoss, vier Obergeschossen und einem Dachge",
+    "summary": "Das Mehrfamilienwohnhaus im 15. Wiener Gemeindebezirk wurde in den 1970er-Jahren errichtet und besteht aus einem Kellergeschoss (Eingangsebene), einem Erdgeschoss, vier Obergeschossen und einem Dachge",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4f88750cdf6df8b4c1258e96005b86f4!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8a38dd6a5a70cb23c1258e96005b86f6/$file/GZ-24143-1150_Kranzgasse25-27_anonym.pdf",
+    "shortReportUrl": "",
+    "firstSeenAt": "2026-10-21T05:58:16.385Z"
   }
 ]
