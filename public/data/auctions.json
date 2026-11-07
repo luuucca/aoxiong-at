@@ -4023,14 +4023,22 @@
     "longitude": 16.4239672,
     "geocodeSource": "official",
     "ownershipType": "",
-    "summary": "",
-    "riskTags": [],
+    "summary": "整栋 1912 年出租楼，534.13㎡，地块 279㎡，13 套住宅；需翻修，各单元未入内查看。净租 €2,454/月（€4.63/㎡）：9 套定期至 2029-04-14（€5.70/㎡），3 套无限期（€2.77–3.25/㎡），Top 6 租约 2022 年到期，按空置假设。残值法按翻修后分售约 €4,296/㎡、翻修 €1,930/㎡，估值 €880,000（约 €1,410/㎡），前提是现租金可执行，租约未审查。",
+    "riskTags": [
+      "定期出租",
+      "无限期出租",
+      "旧租约低租金",
+      "需翻修",
+      "估值含特别假设"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ff5b15ea88261711c1258e6100207280!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/47460fdacbdcc983c1258e6100207285/$file/74E118_26w_Gutachten.pdf",
     "shortReportUrl": "",
-    "tenancyStatus": "unknown",
-    "tenancyText": "",
-    "firstSeenAt": "2026-08-28T12:42:29.162Z"
+    "tenancyStatus": "rented",
+    "tenancyText": "Das Objekt ist überwiegend befristet vermietet.",
+    "firstSeenAt": "2026-08-28T12:42:29.162Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-92ef04754ad1",
@@ -4121,14 +4129,15 @@
     "longitude": 16.415627,
     "geocodeSource": "official",
     "ownershipType": "",
-    "summary": "",
+    "summary": "现有文件只有 4 页扫描件，是市政 MA 64 于 2026-02-16 发出的地块分割许可，不是估值报告。文件涉及 Quarzweg 9–11 一带、KG Donaufeld 的 EZ 837 和 957，未提到本标的门牌、面积、现状、租赁或估值，也看不出对应哪块地。内容为准许分出 1320/35、/36、/50、/73、/74 共 5 块地，须在送达后两年内完成土地册登记，否则失效。",
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e7df4de4a359d0f6c1258e67003e956c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bffe62727cd55e78c1258e67003e956d/$file/User_1_2026_09_03_07_53_04_581.pdf",
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z"
+    "firstSeenAt": "2026-09-04T05:48:11.590Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-4844d387e588",
@@ -4147,14 +4156,15 @@
     "longitude": 16.415627,
     "geocodeSource": "official",
     "ownershipType": "",
-    "summary": "",
+    "summary": "现有文件只有 4 页扫描件，是市政 MA 64 于 2026-02-16 发出的地块分割许可，不是估值报告。文件涉及 Quarzweg 9–11 一带、KG Donaufeld 的 EZ 837 和 957，未提到本标的门牌、面积、现状、租赁或估值，也看不出对应哪块地。内容为准许分出 1320/35、/36、/50、/73、/74 共 5 块地，须在送达后两年内完成土地册登记，否则失效。",
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4844d387e588e78ac1258e67003ec068!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bffe62727cd55e78c1258e67003e956d/$file/User_1_2026_09_03_07_53_04_581.pdf",
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z"
+    "firstSeenAt": "2026-09-04T05:48:11.590Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-9db914f4207c",
@@ -4197,14 +4207,21 @@
     "longitude": 16.391582,
     "geocodeSource": "official",
     "ownershipType": "Beschreibung des Rohdachbodens:\nDer Rohdachboden scheint sich aufgrund der Gebäudesituation (Gebäudetiefe, First/Giebelhöhe, hofseitiger Platz für Lifteinbau) für den geplanten Ausbau sehr gut zu eign",
-    "summary": "Beschreibung des Rohdachbodens:\nDer Rohdachboden scheint sich aufgrund der Gebäudesituation (Gebäudetiefe, First/Giebelhöhe, hofseitiger Platz für Lifteinbau) für den geplanten Ausbau sehr gut zu eign",
-    "riskTags": [],
+    "summary": "未改建的毛坯阁楼（350/1485 份额），毛面积约 490㎡。2018 年方案拟建 6 套复式，共 763.40㎡，加权 797.62㎡，但尚无建筑许可。无电梯，无车位。1862 年建，楼况中等至部分需翻修。阁楼已清空，无租约。1993 年协议写明当时买方有权改建和加装电梯。开发残值法：售价约 €9,103/㎡，因无许可扣 5%，合 €2,200/㎡。每月需付储备金和翻修贷款 €1,177.83。",
+    "riskTags": [
+      "未获建筑许可",
+      "翻修贷款分摊",
+      "毛坯需开发",
+      "无电梯"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8f8bb71b2818e4eac1258e6c00294077!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8e14c4628946fae1c1258e6c00294079/$file/25%2005%2008%20Gutachten%20Obere%20Viaduktgasse%204%20DG27.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/ceb62c9a847b3abfc1258e6c00294078",
-    "tenancyStatus": "unknown",
-    "tenancyText": "",
-    "firstSeenAt": "2026-09-09T05:55:27.579Z"
+    "tenancyStatus": "vacant",
+    "tenancyText": "bestandsfrei und geräumt. Es liegen keine Miet- oder sonstiger Nutzungsverträge vor.",
+    "firstSeenAt": "2026-09-09T05:55:27.579Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-19a397258aeb",
@@ -4415,14 +4432,20 @@
     "longitude": 16.4406855,
     "geocodeSource": "official",
     "ownershipType": "Auf der Liegenschaft befinden sich zahlreiche abbruchreife Gebäude und Gerümpel. \nEs handelt sich um ein Baurecht auf der Stammeinlage EZ 1947.\nDie Liegenschaft hat einen annähernd rechteckigen Grundr",
-    "summary": "Auf der Liegenschaft befinden sich zahlreiche abbruchreife Gebäude und Gerümpel. \nEs handelt sich um ein Baurecht auf der Stammeinlage EZ 1947.\nDie Liegenschaft hat einen annähernd rechteckigen Grundr",
-    "riskTags": [],
+    "summary": "并非成品物业，而是 1,466㎡ 地块上的建筑权（Baurecht，至 2122 年），现有多栋待拆旧屋，地面低于街道约 3 米。合同规定权利人须自费建住宅楼。剩余法：假设拆除新建 45 套约 2,350㎡ 及 23 车位，按 €5,400/㎡ 售价共 €1,338 万，建造约 €918 万，估值 €94.65 万。建筑权租金现约 €11.76 万/年，随指数上调，超 2,400㎡ 另加收。地块分割须地主书面同意，地主不担污染责任。",
+    "riskTags": [
+      "建筑权年租金",
+      "需拆除重建",
+      "须建住宅楼",
+      "污染责任自负"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0743f996b600aadfc1258e7200294454!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3282059e7b588834c1258e720029445c/$file/SV%20078-24%20Gutachten%20sign%2030-09-2025.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/884fb24741d1370fc1258e7200294455",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-fac65ae4867a",
@@ -4441,14 +4464,20 @@
     "longitude": 16.4528921,
     "geocodeSource": "official",
     "ownershipType": "Die ggst. Liegenschaft EZ 1598 mit den GST 1189/23, 1189/24 und 1189/25 ist eben gelegen, als unregelmäßiges Viereck ausgestaltet und verfügt gem. Grundbuch über eine Grundstücksfläche von 3.350m².\nAu",
-    "summary": "Die ggst. Liegenschaft EZ 1598 mit den GST 1189/23, 1189/24 und 1189/25 ist eben gelegen, als unregelmäßiges Viereck ausgestaltet und verfügt gem. Grundbuch über eine Grundstücksfläche von 3.350m².\nAu",
-    "riskTags": [],
+    "summary": "W 5 St XI，2 楼无电梯（1965 年楼，2020–22 节能翻新），82.66㎡含凉廊，三室，朝内院，附储物间。状况一般，木地板磨损，设备老旧。勘查时明显有人住，被执行人称无租约，按无租估值。月费 €351.74。翻修贷款至 2036 年由拍得人承担份额，鉴定扣约 €13,500。截至 2024-09 欠费 €3,444.78。成本法并扣无电梯 7.5%，估值 €240,000（约 €2,903/㎡）。",
+    "riskTags": [
+      "欠管理费",
+      "翻修贷款分摊",
+      "有人居住待核实",
+      "无电梯"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/fac65ae4867a1de2c1258e720042ef26!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/665882116f0e6e6fc1258e720042ef31/$file/Langgutachten.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/25c1f05ddc2e6a27c1258e720042ef27",
     "tenancyStatus": "vacant",
     "tenancyText": "keine",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-09db7d58cd9b",
@@ -4731,14 +4760,21 @@
     "longitude": 16.3826363,
     "geocodeSource": "official",
     "ownershipType": "siehe angeschlossenes Gutachten",
-    "summary": "siehe angeschlossenes Gutachten",
-    "riskTags": [],
+    "summary": "3楼，44.25㎡一居，大理石门厅，起居睡眠合一，两扇窗朝Beatrixgasse，淋浴卫生间加衣帽间。约1960年建，地上7层转角楼带电梯，楼体状况中上，本套状况很好。定期出租至2028年3月1日，净租€455.88/月（€10.30/㎡），运营费€165.43，报告称低于市场。收益法按到期后€15/㎡测算得约€252,000，可比价€5,700/㎡（已扣5%租约影响）验证。未提供能源证书，未核查建筑许可。",
+    "riskTags": [
+      "定期出租",
+      "低于市场租金",
+      "无能源证书",
+      "未核建筑许可"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/502fa325925f1bc6c1258e74002c0424!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/58c37291ee8a596bc1258e74002c0426/$file/AS%20-%20001%20050%20E%2040_26%20y.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c980971b6a75682bc1258e74002c0425",
-    "tenancyStatus": "unknown",
-    "tenancyText": "",
-    "firstSeenAt": "2026-09-17T06:02:59.597Z"
+    "tenancyStatus": "limited",
+    "tenancyText": "Die bewertungsgegenständliche Wohnung ist befristet vermietet.",
+    "firstSeenAt": "2026-09-17T06:02:59.597Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-b5aaf481f0c4",
@@ -4783,14 +4819,17 @@
     "longitude": 16.3278464,
     "geocodeSource": "official",
     "ownershipType": "Gablenzgasse 50, 1160 Wien\nWohnungseigentumsobjekte:\nGeschäft 1-2\nBüro 3\nWohnung 13 und 14\nWerkstatt Hof Sout. \nWerkstatt Hof HP",
-    "summary": "Gablenzgasse 50, 1160 Wien\nWohnungseigentumsobjekte:\nGeschäft 1-2\nBüro 3\nWohnung 13 und 14\nWerkstatt Hof Sout. \nWerkstatt Hof HP",
-    "riskTags": [],
+    "summary": "打包 5 个单元，212/843 份额，共约 289㎡：商铺 Top 1-2 65.54㎡、办公 Top 3 28.93㎡、内院半地下车间 68.41㎡、内院底层车间 72.71㎡、2 楼住宅 Top 13+14 53.77㎡。木梁楼板，燃气供暖，建造年份不详。成本法：地价 €1,200/㎡ 扣 10%，房屋扣年代 38.5%、无法修复缺陷 10%、损失建造投入 10%，估值 €373,000。报告无分单元估值，自称仅作参考模板。",
+    "riskTags": [
+      "无法修复缺陷"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/661c1f4712a6357cc1258e790048d3ca!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d6b550836ecacc36c1258e790048d3cc/$file/korrigiertes%20BEWERTUNGSGUTACHTEN.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6c184c86cb0408f9c1258e790048d3cb",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-22T06:03:43.766Z"
+    "firstSeenAt": "2026-09-22T06:03:43.766Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-f2086633bf75",
@@ -5027,14 +5066,19 @@
     "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer, 2 aneinander anschließende Haupträume, Abstellraum, Küchennische (kein eigener Raum), Badezimmer/WC",
-    "summary": "Die Wohnung besteht aus Vorzimmer, 2 aneinander anschließende Haupträume, Abstellraum, Küchennische (kein eigener Raum), Badezimmer/WC",
-    "riskTags": [],
+    "summary": "位于 Palais Bellegarde 庭院翼 Stiege 3 的 2.OG，朝内院，58.53㎡，前厅、两间相连主室、储藏室、厨房角、浴室及独立 WC。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1961 年，租客告知月租 €167.01（含税及运营费），净租金仅约 €0.67/㎡，市场约 €10/㎡。收益法：现租金资本化约 €2.6 万，加 20 年折现的市场租金差约 €12.1 万，取整估值 €14 万。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "文物保护"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/27c97a01a921c286c1258e7b0039d138!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/9bcadd688c5abd23c1258e7b0039d13a/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/72b36e5c3c2f37c2c1258e7b0039d139",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-27c0ae61e1fa",
@@ -5053,14 +5097,19 @@
     "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer; Küchennische, Badezimmer, Kabinett, 2  straßenseitig ausgerichtete Zimmer",
-    "summary": "Die Wohnung besteht aus Vorzimmer; Küchennische, Badezimmer, Kabinett, 2  straßenseitig ausgerichtete Zimmer",
-    "riskTags": [],
+    "summary": "位于 Stiege 4 的 3.OG，朝内院及街道，73.15㎡，厨房角、浴室、一小间及两间临街主室，WC 在走廊。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约由继承而来，未提供合同；租客告知月租 €210.30（含税及运营费），净租金约 €0.69/㎡，市场约 €10/㎡。收益法：现租金资本化约 €4.2 万，加 20 年折现的市场租金差约 €15.1 万，取整估值 €18.5 万。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "文物保护"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/27c0ae61e1fafa34c1258e7b0039d935!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/9bcadd688c5abd23c1258e7b0039d13a/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/32048cc3e88bd1a1c1258e7b0039d936",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-ee51dc338f5a",
@@ -5079,14 +5128,19 @@
     "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Vorzimmer, 2 Zimmer, 1 Kabinett, Küchennische, Bad, WC",
-    "summary": "Vorzimmer, 2 Zimmer, 1 Kabinett, Küchennische, Bad, WC",
-    "riskTags": [],
+    "summary": "位于 Stiege 5 的 2.OG，朝内院及 Große Mohrengasse，89.81㎡，前厅、两室、一小间、厨房角、浴室及 WC，厨房与浴区之间没有隔断。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1986 年 8 月，净租金 €187.50/月（约 €2.09/㎡），市场约 €10/㎡。收益法：现租金资本化约 €11.6 万，加 20 年折现的市场租金差约 €15.7 万，取整估值 €27.5 万。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "文物保护"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ee51dc338f5a138bc1258e7b0039dff3!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/9bcadd688c5abd23c1258e7b0039d13a/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/971bb8cb96c3916fc1258e7b0039dff4",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Whg ist unbefristet vermietet. Beginn des Mietverhältnisses: 01.08.1986. Monatlicher Mietzins, lt. Auskunft Mieter: € 187,50 netto (exkl. BK).",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-7f87a375ffb3",
@@ -5105,14 +5159,20 @@
     "longitude": 16.3738797,
     "geocodeSource": "official",
     "ownershipType": "Das Objekt W 6 St 1 liegt im 1. Stock und wird vom allgemeinen Gang über eine doppelflügelige Holztür mit zusätzlichem Kastenriegelschloss betreten. Die Wohnung ist überwiegend in Richtung Herminengas",
-    "summary": "Das Objekt W 6 St 1 liegt im 1. Stock und wird vom allgemeinen Gang über eine doppelflügelige Holztür mit zusätzlichem Kastenriegelschloss betreten. Die Wohnung ist überwiegend in Richtung Herminengas",
-    "riskTags": [],
+    "summary": "W 6（114.10㎡）与 W 8（70.60㎡）已打通，合并估值，共 184.70㎡，位于 1871 年建筑的 1. Stock，主要朝西北；电梯不停此层。W 6 有厨房、两室和小阳台，W 8 有三室和浴室。房况很好，有空调，W 8 为地暖，据称两套管线互相独立。被执行人称自住。按 €14/㎡ 假设租金用收益法，因阳台、改造、打通和空调无许可文件扣 10%，估值约 €5,035/㎡，共 €93 万。楼基座有潮湿迹象。储藏间不在产权内。",
+    "riskTags": [
+      "被执行人自住",
+      "未获建筑许可",
+      "与图纸有出入",
+      "潮湿受损"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7f87a375ffb36d69c1258e7b0043f205!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/399f06e61a6e5c55c1258e7b0043f20c/$file/GA_Herminengasse_6_T6.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a6f4eeec28d753efc1258e7b0043f206",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist eigengenutzt",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-434766334510",
@@ -5155,14 +5215,19 @@
     "longitude": 16.3254113,
     "geocodeSource": "official",
     "ownershipType": "Sowohl lt. Bestandsplan vom 23.08.2006 als auch gem. Nutzwertgutachten vom 21.03.2007 verfügt die ggst. Wohnung C-Süd W 13 über eine Wohnnutzfläche von insgesamt 96,79 m² und Kellerräumlichkeiten im A",
-    "summary": "Sowohl lt. Bestandsplan vom 23.08.2006 als auch gem. Nutzwertgutachten vom 21.03.2007 verfügt die ggst. Wohnung C-Süd W 13 über eine Wohnnutzfläche von insgesamt 96,79 m² und Kellerräumlichkeiten im A",
-    "riskTags": [],
+    "summary": "C-Süd W 13，2004–2006 年建小区内的中庭联排屋，地下、底层、一楼三层，户内无电梯。住宅 96.79㎡ 加地下室 19.19㎡，共 115.98㎡，另有花园 16.02㎡、露台 9.94㎡、储藏 3.11㎡；状况整齐，装修部分过时。定期出租至 2026-11-30，现净租 €1,291.05/月，租客可提前解约，续约未获同意。估值为租期收益加到期后成本法，无市场调整。登记有住房补贴禁售，至 2026-06-15 未清 €23,430.91，报告假定由拍卖款清偿；另欠杂费 €859.53。",
+    "riskTags": [
+      "定期出租",
+      "补贴贷款欠款",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f4c3a6d68ea3a754c1258e7d002edca9!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/27bfbe651ce14f55c1258e7d002edcb4/$file/GA%201120%20Wien%2C%20Thorvaldsengasse%2040_Helene-Potetz-Weg%203_final.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8c346c4f813b1343c1258e7d002edcaa",
     "tenancyStatus": "limited",
     "tenancyText": "bis 30.11.2026 befristeter Mietvertrag Nettomiete aktuell € 1.291,05 p.m.",
-    "firstSeenAt": "2026-09-26T06:04:53.485Z"
+    "firstSeenAt": "2026-09-26T06:04:53.485Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-01ea1337f239",
@@ -5181,14 +5246,21 @@
     "longitude": 16.2617299,
     "geocodeSource": "official",
     "ownershipType": "Beim Bewertungsobjekt handelt es sich um ein Wohngebäude im 13. Wiener Gemeindebezirk.\nDas Wohnhaus besteht aus Kellergeschoss (Souterrain), Erdgeschoss (Hochparterre) und Dachgeschoss (Mansarde) und ",
-    "summary": "Beim Bewertungsobjekt handelt es sich um ein Wohngebäude im 13. Wiener Gemeindebezirk.\nDas Wohnhaus besteht aus Kellergeschoss (Souterrain), Erdgeschoss (Hochparterre) und Dachgeschoss (Mansarde) und ",
-    "riskTags": [],
+    "summary": "1913 年独栋，536㎡ 带花园，Souterrain 加两套住宅，共 260.22㎡（居住 176.22㎡），电暖。状况中等，地下室潮湿，部分管线不当。Hochparterre 被执行人自住；Mansarde 住户口头称有无限期租约，无合同，法院指示买受人可依 §1120 ABGB 终止。成本法：地价 €1,938/㎡，约 €149 万，因租约扣 2% 得 €146 万。卫浴及格局改动无批准文件，泳池无许可。HORA 显示滑坡风险高。",
+    "riskTags": [
+      "被执行人自住",
+      "口头租约未证实",
+      "未获建筑许可",
+      "与图纸有出入",
+      "潮湿受损"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/01ea1337f23969d8c1258e80002dce29!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/35eacb01c92da46fc1258e80002dce2b/$file/GA_1130%20Wien-Veitingergasse102_ohneAnh_signed.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/74c666275c4e2cb7c1258e80002dce2a",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-29T06:48:17.219Z"
+    "firstSeenAt": "2026-09-29T06:48:17.219Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-099b14c9e004",
@@ -5207,14 +5279,21 @@
     "longitude": 16.3291322,
     "geocodeSource": "official",
     "ownershipType": "Bei der bewertungsgegenständlichen Liegenschaft handelt es sich um ein klassisches Wiener Zinshaus der Gründerzeit, Eckhaus, unterkellert, Geschäfts- und Wohnflächen im Erdgeschoss, darüber zwei Vollg",
-    "summary": "Bei der bewertungsgegenständlichen Liegenschaft handelt es sich um ein klassisches Wiener Zinshaus der Gründerzeit, Eckhaus, unterkellert, Geschäfts- und Wohnflächen im Erdgeschoss, darüber zwei Vollg",
-    "riskTags": [],
+    "summary": "约 1890 年建的 Gründerzeit 转角 Zinshaus，地下室、底层商铺和住宅、两层住宅及未改建阁楼，院内另有小屋，无电梯，分户燃气取暖；共 699㎡（住宅 531、商业 168）。约 94% 已出租，约 69% 为定期，两套共 43㎡ 空置；主租金 €5,000/月，含空置拟制 €540。状况中等，公共区需修缮，地窖、院屋和外墙下部潮湿；2025 年有外墙抹灰和缺玻璃的建筑令。估值由收益法 €1,330,000 与阁楼加建潜力 €810,000 构成；2021 年加建许可已过期，能否重批不确定。",
+    "riskTags": [
+      "定期出租",
+      "潮湿受损",
+      "需翻修",
+      "建筑整改令",
+      "加建许可过期"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/099b14c9e004d3d5c1258e810029e552!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2d9eb7268ba8a662c1258e810029e554/$file/Lang.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b2b370bc05ad6cddc1258e810029e553",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-38af0caffd21",
@@ -5233,14 +5312,20 @@
     "longitude": 16.3369404,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "summary": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "riskTags": [],
+    "summary": "Top 8，1 楼，50.77㎡（租约写 44.5㎡），一室一小室，朝 Palffygasse 与内院。约 1887 年转角楼，有电梯，楼况良好。房内状况一般，使用痕迹明显。1991 年起无限期出租，净租 €437/月（€8.61/㎡），鉴定按 €7.50/㎡ 收益法估值 €115,000（约 €2,262/㎡）。每月另摊翻修贷款 €200.94。管理方称优先抵押权程序在办，欠款额未告知。",
+    "riskTags": [
+      "无限期出租",
+      "翻修贷款分摊",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/38af0caffd215bfec1258e81003f3879!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7787ffb445cb726ac1258e81003ea5c0/$file/GA_HernalserHauptstr35_11E2458_25m_KOMP.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d633108b5fa23785c1258e81003f387a",
-    "tenancyStatus": "rented",
-    "tenancyText": "Das Objekt ist vermietet.",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Die Top 8 ist auf unbestimmte Zeit vermietet.",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-beb7e0e4c5a9",
@@ -5259,14 +5344,21 @@
     "longitude": 16.3369404,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "summary": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "riskTags": [],
+    "summary": "Top 9，1 楼，46.10㎡（租约写约 50㎡），一室一小室，朝 Palffygasse。约 1887 年转角楼，有电梯，楼况良好。房内状况一般；图纸上的天井窗已不存在。定期租至 2026-12-31，租约仅租客签字；净租 €438/月（€9.50/㎡），鉴定按 €7.50/㎡ 收益法估值 €104,000（约 €2,262/㎡）。每月另摊翻修贷款 €173.36。管理方称优先抵押权程序在办，欠款额未告知。",
+    "riskTags": [
+      "定期出租",
+      "与图纸有出入",
+      "翻修贷款分摊",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/beb7e0e4c5a9f8e8c1258e81003f2769!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7787ffb445cb726ac1258e81003ea5c0/$file/GA_HernalserHauptstr35_11E2458_25m_KOMP.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1e574efdf0f95581c1258e81003f276a",
-    "tenancyStatus": "rented",
-    "tenancyText": "Das Objekt ist vermietet.",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "tenancyStatus": "limited",
+    "tenancyText": "Die Top 9 ist befristet bis zum 31. Dezember 2026 vermietet.",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-056cd1016331",
@@ -5285,14 +5377,20 @@
     "longitude": 16.3369404,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "summary": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "riskTags": [],
+    "summary": "Top 12，1 楼，28.51㎡，卫浴一体加厨房起居室，附走廊 WC。不足 30㎡，无法升到 A 类；卫浴无供暖且与图纸不符。2026-02 起租 3 年，租约双方未签；因不足 5 年，鉴定按无限期处理。净租 €251.83/月，按 €5.50/㎡ 收益法估值 €47,000（约 €1,647/㎡）。每月另摊翻修贷款 €90.62。管理方称优先抵押权程序在办，欠款额未告知。",
+    "riskTags": [
+      "无限期出租",
+      "与图纸有出入",
+      "翻修贷款分摊",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/056cd1016331da7ec1258e81003f1520!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7787ffb445cb726ac1258e81003ea5c0/$file/GA_HernalserHauptstr35_11E2458_25m_KOMP.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/78d2af428cbe7498c1258e81003f1521",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-91584a90d888",
@@ -5311,14 +5409,21 @@
     "longitude": 16.3369404,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "summary": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "riskTags": [],
+    "summary": "Top 13，1 楼，59.03㎡（租约写约 65㎡），两室，可对流；状况一般，浴室无对外排风。定期租至 2028-10-31，净租 €453/月（€7.68/㎡）。两段收益法：租期内 €5.50/㎡，到期后按翻修后 €8.50/㎡，扣翻修费 €14,758，估值 €132,000（约 €2,240/㎡）。每月另摊翻修贷款 €212.76。管理方称优先抵押权程序在办，欠款额未告知。",
+    "riskTags": [
+      "定期出租",
+      "需翻修",
+      "翻修贷款分摊",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/91584a90d888e033c1258e81003ee79e!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7787ffb445cb726ac1258e81003ea5c0/$file/GA_HernalserHauptstr35_11E2458_25m_KOMP.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/76b7990c925e1983c1258e81003ee79f",
-    "tenancyStatus": "rented",
-    "tenancyText": "",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "tenancyStatus": "limited",
+    "tenancyText": "Die Top 13 ist befristet bis zum 31. Oktober 2028 vermietet.",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-1d09d2c405ba",
@@ -5337,14 +5442,22 @@
     "longitude": 16.3369404,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "summary": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "riskTags": [],
+    "summary": "Top 19，2 楼，37.83㎡（租约写约 40㎡），一室，附走廊 WC；状况一般。实际加建卫浴并改隔墙，与图纸不符。定期租至 2026-12-31，净租 €201.93/月（€5.34/㎡）。两段收益法：到期后按翻修后 €8.50/㎡，扣翻修费 €9,458，估值 €87,000（约 €2,300/㎡）。每月另摊翻修贷款 €114.26。管理方称优先抵押权程序在办，欠款额未告知。",
+    "riskTags": [
+      "定期出租",
+      "与图纸有出入",
+      "需翻修",
+      "翻修贷款分摊",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1d09d2c405bab699c1258e81003ecef8!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7787ffb445cb726ac1258e81003ea5c0/$file/GA_HernalserHauptstr35_11E2458_25m_KOMP.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2ad33e3a68ad3559c1258e81003ecef9",
-    "tenancyStatus": "rented",
-    "tenancyText": "Das Objekt ist vermietet.",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "tenancyStatus": "limited",
+    "tenancyText": "Die Top 19 ist befristet bis zum 31. Dezember 2026 vermietet.",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-e32c3b71f0f0",
@@ -5363,14 +5476,21 @@
     "longitude": 16.3369404,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "summary": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
-    "riskTags": [],
+    "summary": "Top 17/18，2 楼，67.97㎡（租约写约 70㎡），一室两小室。状况一般，墙顶有疑似旧水渍和裂缝。定期 3 年但止于 2027-10-30，不足 3 年，有效性属法律问题。净租 €478/月，租期内按 €5.50/㎡，到期后按 €8.50/㎡，扣翻修费 €33,985，估值 €138,000（约 €2,031/㎡）。每月另摊翻修贷款 €240.34。",
+    "riskTags": [
+      "定期出租",
+      "潮湿受损",
+      "需翻修",
+      "翻修贷款分摊",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e32c3b71f0f0d72fc1258e81003ea5bd!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7787ffb445cb726ac1258e81003ea5c0/$file/GA_HernalserHauptstr35_11E2458_25m_KOMP.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/11b9f4fcb63ae3f0c1258e81003ea5be",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-f321a884ba88",
@@ -5415,14 +5535,19 @@
     "longitude": 16.3257501,
     "geocodeSource": "official",
     "ownershipType": "KG 01301 Altmannsdorf, EZ 1514, GST 283/90 und 238/98, € 19.000,00 € 9.500,00\n1120 Wien, Thorvaldsengasse 34 und 40 und div. (Verkehrswert)\nIdentadressen, BLNr 408, 4/8741 Anteile, verbunden mit\nWE an",
-    "summary": "KG 01301 Altmannsdorf, EZ 1514, GST 283/90 und 238/98, € 19.000,00 € 9.500,00\n1120 Wien, Thorvaldsengasse 34 und 40 und div. (Verkehrswert)\nIdentadressen, BLNr 408, 4/8741 Anteile, verbunden mit\nWE an",
-    "riskTags": [],
+    "summary": "小区地下车库 249 号车位，在地下一层，面积 11.04㎡，紧贴墙面，上方有斜向吊顶，净高约 166–216 cm；车库状况良好。以口头无限期租约出租约两年，租金 €75/月，解约期等具体约定不明；据租客称，租金不付给被执行人，而是付给其亲属。估值用收益法：扣杂费和增值税后净租 €43.96/月，判定低于市场，资本化率 1%，算得 €18,514，取整 €19,000。不含地价。",
+    "riskTags": [
+      "无限期出租",
+      "口头租约",
+      "净高受限"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a9f8edc7427718c9c1258e8100274584!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/27bfbe651ce14f55c1258e7d002edcb4/$file/GA%201120%20Wien%2C%20Thorvaldsengasse%2040_Helene-Potetz-Weg%203_final.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5a7996b2a73d4ce0c1258e8100274585",
     "tenancyStatus": "unlimited",
     "tenancyText": "mündlicher, unbefristeter Mietvertrag, pauschaler Mietzins € 75,-/pm",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-a1c86fb76cd0",
@@ -5441,14 +5566,18 @@
     "longitude": 16.2972845,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde zu Beginn des 20.Jahrhunderts errichtet, ein Wiederaufbau nach Kriegsschäden erfolgte um das Jahr 1950. Das Gebäude besteht aus einem Kellergeschoss (So",
-    "summary": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde zu Beginn des 20.Jahrhunderts errichtet, ein Wiederaufbau nach Kriegsschäden erfolgte um das Jahr 1950. Das Gebäude besteht aus einem Kellergeschoss (So",
-    "riskTags": [],
+    "summary": "Top 8，高位底层，69.78㎡，两室一小室，层高约 3.5 米，两室朝南临 Penzinger Straße。状况一般，带家具（不计入估值），厨房门扇缺失。楼约 1900 年建、1950 年前后重建，无电梯。定期租至 2027-12-14，月租 €916.51（含运营费和增值税）。比较法均价约 €3,445/㎡，因底层临街扣约 10%，按 €3,100/㎡ 估值 €216,000。月费 €271.76，维修基金约 €52,000。",
+    "riskTags": [
+      "定期出租",
+      "无电梯"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a1c86fb76cd03101c1258e8200265914!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/16e2ac6981744841c1258e8200265916/$file/GZ-26060-1140_Jenullgasse7-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a34e11f4c1b4d873c1258e8200265915",
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-d2a427b10a77",
@@ -5467,14 +5596,19 @@
     "longitude": 16.3294257,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde im Jahr 1964 fertiggestellt und besteht aus 5 Stiegenhäusern mit jeweils einem Kellergeschoss, einem Erdgeschoss und fünf Obergeschossen. Im Innenhof is",
-    "summary": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde im Jahr 1964 fertiggestellt und besteht aus 5 Stiegenhäusern mit jeweils einem Kellergeschoss, einem Erdgeschoss und fünf Obergeschossen. Im Innenhof is",
-    "riskTags": [],
+    "summary": "楼内底层商铺，1号楼梯，约57㎡，含店面、储物、更衣及WC，1964年建，带电梯，楼况中等。店内堆满废弃物，后三间未能查看。因被执行人未回复且无租约迹象，报告假定无租约。按虚拟租金€6/㎡收益法，土地€800/㎡，因废弃物扣约20%，得€50,300。月费€1,137.80，含翻修贷款分摊，贷款至2038、2040年，本铺未还余额约€33,956。无需分摊电梯费。配套Magazin IV另估€6,500。",
+    "riskTags": [
+      "翻修贷款分摊",
+      "废弃物待清运",
+      "未完整查验"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d2a427b10a774b40c1258e830023cac0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dc620aa6619cd474c1258e830023caca/$file/GZ-26030-1150_Schwendergasse7-13-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/668afba949df1c4fc1258e830023cac1",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-388a932c7d97",
@@ -5545,14 +5679,20 @@
     "longitude": 16.2983321,
     "geocodeSource": "official",
     "ownershipType": "Die zu bewertende Eigentumswohnung befindet sich in einer Wohnhausanlage in der Bundeshauptstadt Wien, im Bezirk Hietzing. Die Wohnhausanlage besteht aus einem in Massivbauweise errichteten Wohngebäud",
-    "summary": "Die zu bewertende Eigentumswohnung befindet sich in einer Wohnhausanlage in der Bundeshauptstadt Wien, im Bezirk Hietzing. Die Wohnhausanlage besteht aus einem in Massivbauweise errichteten Wohngebäud",
-    "riskTags": [],
+    "summary": "W 3 位于底层，图纸面积 63.04㎡，未实测；门厅、厨房、三室和卫浴，无户外空间，另可用 3.02㎡ 地下储藏室。卫浴合并、厨房与客厅隔墙部分拆除，与图纸不符。室内已翻新，状况良好，但缺灶具，燃气 2024 年起停用。1963 年重建的楼况偏差，无外保温、无电梯，能耗 G 级。业主称 2023 年起空置、无租约。按可比价 €5,000/㎡ 估值。月费 €252.47，无欠费和贷款，储备金约 €154,700；外墙保温正在询价。",
+    "riskTags": [
+      "与图纸有出入",
+      "能耗等级G",
+      "楼体状况差",
+      "燃气已停用"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/27c4b982b964247ec1258e83002dfa96!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b49e011b1cbbed47c1258e83002dfa99/$file/GA-ohneAnh_Auhofstra%C3%9Fe%206-W3__signed.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f1829119864957dfc1258e83002dfa97",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-797ba782fa9a",
@@ -5571,14 +5711,21 @@
     "longitude": 16.2541591,
     "geocodeSource": "official",
     "ownershipType": "Die ggst. Mittelliegenschaft EZ 173 besteht aus dem GST 100/2, in in leichter Hanglage gelegen, polygonal (Fahnengrundstück) ausgestaltet und verfügt lt. Grundbuch über eine Grundstücksfläche von insg",
-    "summary": "Die ggst. Mittelliegenschaft EZ 173 besteht aus dem GST 100/2, in in leichter Hanglage gelegen, polygonal (Fahnengrundstück) ausgestaltet und verfügt lt. Grundbuch über eine Grundstücksfläche von insg",
-    "riskTags": [],
+    "summary": "2楼（无电梯），W16与W17于1989年合并，现状面积117.32㎡加两阳台，三房、厨房、两浴室及独立WC，有多个穿堂房。约1965年建，状况尚可但陈旧，有小损伤。2005年起出租，2007年转无限期，净租€834.46/月（€6.67/㎡），报告认为偏低。土地€3,020/㎡，收益法后扣5%合规费用，约€2,015/㎡。登记仍为两单元，Loggia封闭与图纸不符。管理方称欠费共€10,323.68。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "欠管理费",
+      "与图纸有出入",
+      "登记仍为两户"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/797ba782fa9a9dfcc1258e83002d790e!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/daca817cf85446d3c1258e83002d7915/$file/GA%201130%20Wien%2C%20Himmelhofgasse%2092.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/43439093c7457f70c1258e83002d790f",
     "tenancyStatus": "unlimited",
     "tenancyText": "seit 17.02.2005 vermietet, seit 24.02.2007 unbefristet vermietet",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-bd1711ec8b31",
@@ -5597,14 +5744,19 @@
     "longitude": 16.3708765,
     "geocodeSource": "official",
     "ownershipType": "Wohnung W 10, 5. Obergeschoß, ca. 127,95 m², bestehend aus Vorraum, Wohnraum, 2 Zimmern, Bad, WC, Küche, Abstellraum; hochwertige Ausstattung (Parkett, Naturstein, Klimaanlage, abgehängte Decken); 5 A",
-    "summary": "Wohnung W 10, 5. Obergeschoß, ca. 127,95 m², bestehend aus Vorraum, Wohnraum, 2 Zimmern, Bad, WC, Küche, Abstellraum; hochwertige Ausstattung (Parkett, Naturstein, Klimaanlage, abgehängte Decken); 5 A",
-    "riskTags": [],
+    "summary": "Neuer Markt 与 Kärntner Straße 之间的酒店住宅楼，2003 年完成改造。W 10 在 5 层，127.95㎡，客餐厅朝西、两室朝东，主卫加客卫，层高约 2.70m，部分房间无自然采光，装修豪华，状况良好，但空调通风预计要大额投入。现由被执行人公司负责人及其配偶使用，未告知有租约，按无租估值。可比价：同楼三宗调整后每份额 €17,164，合约 €18,102/㎡，已含屋顶、空调、护栏待修的 5% 折价。欠管理费约 €20,828.45。",
+    "riskTags": [
+      "被执行人自住",
+      "欠管理费",
+      "维修积压"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/bd1711ec8b31e50ac1258e83003eda12!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bb70f5f75a3a1d14c1258e83003eda23/$file/GA%20K%C3%A4rntner%20Stra%C3%9Fe%2022.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e352458dd5c85bfec1258e83003eda13",
     "tenancyStatus": "vacant",
     "tenancyText": "nicht vermietet, Eigennutzung angenommen; kein Mietvertrag bekannt; Bewertung unter Annahme der Bestandsfreiheit",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-10897f26a23a",
@@ -5623,14 +5775,19 @@
     "longitude": 16.385784,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
-    "summary": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
-    "riskTags": [],
+    "summary": "约 1965 年建七层院内楼 Stiege 1 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "面积与租约不符"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/10897f26a23a1821c1258e84002b3fec!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4e52b258bcc35bccc1258e84002b3fee/$file/Gutachten%20Praterstra%C3%9Fe%2050.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db111dccd13f4c0cc1258e84002b3fed",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-03T06:23:24.205Z"
+    "firstSeenAt": "2026-10-03T06:23:24.205Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-ba46c3bf46ba",
@@ -5649,14 +5806,19 @@
     "longitude": 16.3527509,
     "geocodeSource": "official",
     "ownershipType": "Eigentumswohnung im Altbau im gebrauchten, jedoch gepflegten Zustand mit überwiegend funktionaler, einfacher Ausstattungsqualität. Durch die Lage im Hochparterre\nwirkt die Wohnung eher dunkel. Badezim",
-    "summary": "Eigentumswohnung im Altbau im gebrauchten, jedoch gepflegten Zustand mit überwiegend funktionaler, einfacher Ausstattungsqualität. Durch die Lage im Hochparterre\nwirkt die Wohnung eher dunkel. Badezim",
-    "riskTags": [],
+    "summary": "1869 年老楼 Hochparterre 一居，30.79㎡，主室带爬梯上下的夹层，有小厨房、浴室和独立 WC，朝内院，偏暗，用不上电梯。房况旧但整洁，设备简单，未见重大损坏。勘查时看似无人常住、家具齐全，未见租约迹象，但报告称不能排除。成本法约 €16.4 万，已扣楼栋贷款分摊约 €570；浴室未获建筑许可，再扣 2.5%，估值 €16 万，可比价约 €5,220/㎡。业主会议记录称，下方他户储藏间在本户干燥工程后持续潮湿。",
+    "riskTags": [
+      "未获建筑许可",
+      "楼栋贷款分摊",
+      "潮湿受损"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ba46c3bf46babd76c1258e88002346d7!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8fb1f33271910d1cc1258e88002346db/$file/gga%20vw%201060%20Wien%20Kopernikusgasse%206%20Top%206_mB-signed.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1c0dbc8b1e0245c1c1258e88002346d8",
     "tenancyStatus": "unknown",
     "tenancyText": "nicht offensichtlich",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-c51ec0c7c315",
@@ -5675,14 +5837,20 @@
     "longitude": 16.4410841,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft hat einen annähernd rechteckigen Grundriss. Von der Erzherzog-Karl-\nStraße aus ist das Niveau der Liegenschaft über eine Böschung zu erreichen, das allgemeine\nNiveau befindet sich run",
-    "summary": "Die Liegenschaft hat einen annähernd rechteckigen Grundriss. Von der Erzherzog-Karl-\nStraße aus ist das Niveau der Liegenschaft über eine Böschung zu erreichen, das allgemeine\nNiveau befindet sich run",
-    "riskTags": [],
+    "summary": "标的是至 2120 年底的建筑权，不是房屋。地块 1,366㎡，多为草地树木，只有一个木棚，地面低于 Erzherzog-Karl-Straße 约 3 米，由 Masurenweg 进入，街道噪音大。权利人须自费建住宅，年建筑权租金现为 €114,583.34（保底），可建面积超 2,004㎡ 还要加收。估值用剩余法：假设 45 套共 2,350㎡、23 个车位，售价 €5,400/㎡，建造含拆除 €905 万。分割或并入邻地开发须土地方同意，目前未获。买受人须承担市政欠款 €3,472.11。",
+    "riskTags": [
+      "高额建筑权租金",
+      "须自费开发",
+      "欠市政款项",
+      "交通噪音"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c51ec0c7c3155b1dc1258e87003253a1!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/9603078db628b553c1258e87003253a9/$file/SV%20079-24%20Gutachten%20sign%2030-09-2025.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b48eed54e2d12256c1258e87003253a3",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-a6d0db886724",
@@ -5701,14 +5869,19 @@
     "longitude": 16.2850067,
     "geocodeSource": "official",
     "ownershipType": "Die bewertungsgegenständlichen 84/1539 Anteile B-LNR 32 sind verbunden mit dem Wohnungseigentum an Geschäftslokal 3/4. \nEs befindet sich im EG des Wohnhauses St.Veit-Gasse 37 direkt an der Straßenfron",
-    "summary": "Die bewertungsgegenständlichen 84/1539 Anteile B-LNR 32 sind verbunden mit dem Wohnungseigentum an Geschäftslokal 3/4. \nEs befindet sich im EG des Wohnhauses St.Veit-Gasse 37 direkt an der Straßenfron",
-    "riskTags": [],
+    "summary": "底层临街商铺，68.71㎡，配2个地下储藏间，约1999年建，楼况较好、本铺保养良好。现为理发店，定期出租至2027年8月31日，净租€13/㎡（约€893/月），报告称市场约€17/㎡。月费€386.63。按4.5%收益法约€232,500，扣押金及投资返还后€229,000；管理方称本铺欠费€37,525.05，报告另列扣除后价值€191,500。费用按面积分摊已入登记。配套车位另行估价。",
+    "riskTags": [
+      "定期出租",
+      "欠管理费",
+      "费用按面积分摊"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a6d0db8867244d38c1258e870027d115!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/074e2bcd6536edc7c1258e870027d11a/$file/GA.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1c07b1ac86da3d8ac1258e870027d116",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-6391b05d5add",
@@ -6013,14 +6186,22 @@
     "longitude": 16.3477713,
     "geocodeSource": "official",
     "ownershipType": "Geschäftslokal Top 6 und Top 7 in Natur als eine Einheit ausgeführt (baubehörldich bewilligt), grundbücherlich noch in zwei Einheiten getrennt. Keine Information zur allfällig erforderlichen Zustimmun",
-    "summary": "Geschäftslokal Top 6 und Top 7 in Natur als eine Einheit ausgeführt (baubehörldich bewilligt), grundbücherlich noch in zwei Einheiten getrennt. Keine Information zur allfällig erforderlichen Zustimmun",
-    "riskTags": [],
+    "summary": "底层商铺，Top 6与7已合并，合计82.44㎡，登记仍为两单元，须一并拍卖。约1884年建，带2019年电梯。铺面朝Semperstraße，客流偏少；内设3间、无窗后室（茶水间、燃气壁炉）及卫浴区2个WC，状况良好，设施较新。现状隔间与图纸不符，配属地下室未找到，地下室潮湿。现场看似自用。按虚拟租金€15/㎡收益法约€191,000（假定无租约）。中短期需弃气投资。",
+    "riskTags": [
+      "与图纸有出入",
+      "潮湿受损",
+      "地下室未找到",
+      "需弃气改造",
+      "登记仍为两户"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2bf32279e9c20c26c1258e8900255ef2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3f543fb16a3c81f9c1258e8900255ef5/$file/GA%201180%20Schulg%207_signiert.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/58dac1bfc9d70f02c1258e8900255ef3",
-    "tenancyStatus": "unknown",
-    "tenancyText": "Bestandsfreiheit vorausgesetzt.",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z"
+    "tenancyStatus": "vacant",
+    "tenancyText": "Augenscheinlich war das Geschäftslokal in Eigennutzung.",
+    "firstSeenAt": "2026-10-08T07:18:38.363Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-005301023b33",
@@ -6039,14 +6220,20 @@
     "longitude": 16.2904778,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaften EZ 996 und EZ 1394 bestehend aus GST 382/10 und 382/11 bilden eine wirtschaftliche Einheit. Es besteht zum Gutachtensstichtag eine aufrechte Baugenehmigung aus April 2022 zur Errich",
-    "summary": "Die Liegenschaften EZ 996 und EZ 1394 bestehend aus GST 382/10 und 382/11 bilden eine wirtschaftliche Einheit. Es besteht zum Gutachtensstichtag eine aufrechte Baugenehmigung aus April 2022 zur Errich",
-    "riskTags": [],
+    "summary": "Speising 两块相邻空地共 943㎡，住宅用地，建筑高度限 6.5 米。原批准 7 栋联排、约 688㎡ 居住面积，未见开工申报，最迟开工日为 2026-06-09，展期很少获批，需重新报建；新法收紧东侧退界。围栏破损，有探坑及旧基础残留。残值法（售价约 €8,002/㎡、造价 €4,238/㎡）估值 €1,607,000（约 €1,704/㎡）；空地比较法约 €1,493/㎡。",
+    "riskTags": [
+      "建筑许可将失效",
+      "需重新报建",
+      "围栏破损",
+      "基础残留"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/005301023b334267c1258e89002d9472!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/48d4d218724f1784c1258e89002d9478/$file/Gutachten%20Kugyg%207-9%2C%20Fehlingerg%208-10.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/13ba6987afce70cfc1258e89002d9473",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z"
+    "firstSeenAt": "2026-10-08T07:18:38.363Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-7886ac694fad",
@@ -6065,14 +6252,22 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "riskTags": [],
+    "summary": "底层大单元448.05㎡，按未入登记的新分割含住宅226.63㎡、车间110.08㎡、办公30.37㎡、后楼80.97㎡。约1900年建，无电梯，状况中等有磨损。车间与办公无限期出租，净租€1,652.82/月；住宅被执行人自用；后楼据称无租约，只能经未完工屋面进入。Sachwert €551,165与收益法€553,171取均值，土地€800/㎡，建筑因过时格局扣25%、登记待更新扣10%。住宅改建未见完工申报。",
+    "riskTags": [
+      "无限期出租",
+      "被执行人自住",
+      "登记待更新",
+      "需维修",
+      "未办完工申报"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7886ac694fad5955c1258e8a00362978!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00474d2652227b83c1258e8a0036297e/$file/GZ-26103-1140_Schanzstra%C3%9Fe51-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/219126bf77dc93aac1258e8a00362979",
-    "tenancyStatus": "rented",
-    "tenancyText": "teilweise vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Das Wohnungseigentumsobjekt Geschäftslokal 1-4 ist in Teilbereichen (Werkstatt und Büro) gemäß Mietvertrag vom 01.05.2024 unbefristet vermietet.",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-0754d1097bb1",
@@ -6091,14 +6286,20 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "riskTags": [],
+    "summary": "1楼，现状面积53.56㎡（登记42.88㎡），门厅、WC、浴室、厨厅加2房，另配3.2㎡储藏间（待新分割入登记）。约1900年建，无电梯。报告称本套处于未完工毛坯状态，地暖仅预留，同时载明2026年2月签约无限期出租，净租€412.41/月（€7.70/㎡）。Sachwert €99,103与收益法€91,737取均值，土地€1,000/㎡，建筑部分因未完工扣30%、登记待更新扣10%。月费约€243。",
+    "riskTags": [
+      "无限期出租",
+      "未完工毛坯",
+      "与登记面积不符",
+      "登记待更新"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0754d1097bb1cdb5c1258e8a00364fc3!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00474d2652227b83c1258e8a0036297e/$file/GZ-26103-1140_Schanzstra%C3%9Fe51-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8cb063c1f1134d7fc1258e8a00364fc4",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-4dbffc37dbf7",
@@ -6117,14 +6318,18 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "riskTags": [],
+    "summary": "1楼，现状面积107.43㎡（登记109.83㎡），门厅、浴室WC、厨厅、储物间、走廊加3房，三房朝街、厨厅朝院。约1900年建，无电梯，本套状况中等，燃气壁炉供暖，塑钢窗。2024年6月签约无限期出租，净租€769.30/月（€7.16/㎡），押金€1,650。Sachwert €214,318与收益法€214,119取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€346.02。",
+    "riskTags": [
+      "无限期出租",
+      "登记待更新"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4dbffc37dbf761eec1258e8a003679cc!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00474d2652227b83c1258e8a0036297e/$file/GZ-26103-1140_Schanzstra%C3%9Fe51-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/08153021b7a918c2c1258e8a003679cd",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-2451a33595fb",
@@ -6143,14 +6348,18 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "riskTags": [],
+    "summary": "2楼，现状面积56.77㎡（登记56.74㎡），门厅、独立WC、浴室、厨厅加2房，两房朝街、厨厅朝院。约1900年建，无电梯，本套状况中等，燃气壁炉供暖。2024年9月签约无限期出租，净租€448.96/月（€7.91/㎡），押金€1,269。Sachwert €113,253与收益法€122,957取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€226.61。楼内计划做地下室修缮及增压设备。",
+    "riskTags": [
+      "无限期出租",
+      "登记待更新"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2451a33595fbe0bac1258e8a00369e55!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00474d2652227b83c1258e8a0036297e/$file/GZ-26103-1140_Schanzstra%C3%9Fe51-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a3ffb85319f964ecc1258e8a00369e56",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-32bbf52d55ee",
@@ -6169,14 +6378,20 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "riskTags": [],
+    "summary": "3楼，现状面积81.48㎡（登记82.87㎡），门厅、浴室WC、内廊、客厅厨房加2房，红外电暖。约1900年建，无电梯，本套状况中等；阳台门无防坠护栏，外墙水损已修但墙面抹灰缺失。2024年9月签约无限期出租，净租€492.82/月（€6.05/㎡）。Sachwert €154,442与收益法€149,109取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€251.23。",
+    "riskTags": [
+      "无限期出租",
+      "登记待更新",
+      "水损痕迹",
+      "阳台门无护栏"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/32bbf52d55ee2debc1258e8a0036cbe2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00474d2652227b83c1258e8a0036297e/$file/GZ-26103-1140_Schanzstra%C3%9Fe51-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/efeb45ec52cad125c1258e8a0036cbe3",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-1f94f8d10bf1",
@@ -6195,14 +6410,19 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "riskTags": [],
+    "summary": "4楼加阁楼复式，现状面积83.90㎡，登记仅68.46㎡。4楼为厨厅、1房、卫浴及两储物间，阁楼为1房加Galerie，另有阳台、露台及可上人屋面。阁楼加建于1999至2008年，无电梯，本套状况中等。定期出租至2031年7月31日，净租€811.82/月（€9.68/㎡）。Sachwert €215,891与收益法€215,998取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费约€346。",
+    "riskTags": [
+      "定期出租",
+      "与登记面积不符",
+      "登记待更新"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1f94f8d10bf1c895c1258e8a0036f373!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00474d2652227b83c1258e8a0036297e/$file/GZ-26103-1140_Schanzstra%C3%9Fe51-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/56f330b49391a617c1258e8a0036f374",
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-f72b49a7235a",
@@ -6221,14 +6441,19 @@
     "longitude": 16.3523186,
     "geocodeSource": "official",
     "ownershipType": "B lfd. Nr. 8, 48/1830 Anteil – verbunden mit Wohnungseigentum an W top 9 – an \nder Liegenschaft EZ 407, Grundbuch 01009 Mariahilf, BG Innere Stadt Wien, mit \nden Grundstücksnummern 800/2, 800/3, mit d",
-    "summary": "B lfd. Nr. 8, 48/1830 Anteil – verbunden mit Wohnungseigentum an W top 9 – an \nder Liegenschaft EZ 407, Grundbuch 01009 Mariahilf, BG Innere Stadt Wien, mit \nden Grundstücksnummern 800/2, 800/3, mit d",
-    "riskTags": [],
+    "summary": "1楼，53.37㎡，约1883年建，带电梯，门厅、淋浴浴室、独立WC、厨房及房间，木窗，据称燃气壁炉供暖。楼与本套状况均属中等，报告建议全面检查电气。据被执行人家属称未出租、由被执行人自用，按无租约估值。Sachwert：土地€2,000/㎡加折旧后建筑价，因小户型好地段需求加价20%，得€236,000。月费€187.47。所称地下室未列入分割文件，报告不保证归属。",
+    "riskTags": [
+      "被执行人自住",
+      "地下室归属不明",
+      "建议电气检查"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f72b49a7235ae509c1258e8a0028c1d2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8e09ee0f9cd1a1e5c1258e8a0028c1d4/$file/Gutachten%201060%20Wien%2C%20Hofm%C3%BChlgasse%207a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db778e1d647d378fc1258e8a0028c1d3",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-f05fad6f6b3b",
@@ -6247,14 +6472,20 @@
     "longitude": 16.2754399,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnhausanlage im 14. Wiener Gemeindebezirk in der Griesingergasse 26 wurde um das Jahr 1990 errichtet (Benützungsbewilligung aus 1993) und besteht aus zwei Wohnblöcken (Haus 1 und Haus 2). Haus 1",
-    "summary": "Die Wohnhausanlage im 14. Wiener Gemeindebezirk in der Griesingergasse 26 wurde um das Jahr 1990 errichtet (Benützungsbewilligung aus 1993) und besteht aus zwei Wohnblöcken (Haus 1 und Haus 2). Haus 1",
-    "riskTags": [],
+    "summary": "约 1990 年建的 Haus 2 的 2.OG，139.05㎡，另有阳台 8.31㎡、储藏间 2.52㎡，客厅加三室，Fernwärme 供暖。房况良好，客厅地板局部起翘。一名转租租客住其中约 13㎡ 的一间，2012 年租约无限期，净月租 €250，报告称之为“主张的租约”。可比价约 €5,220/㎡，扣瑕疵 5%，估值 €69 万为不计该租约；计入并折价 20% 后为 €49.9 万。月费约 €488，车库、水损、金属屋顶待修。",
+    "riskTags": [
+      "无限期出租",
+      "部分转租",
+      "屋顶车库待修"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f05fad6f6b3bfc4bc1258e8b002a71e4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f7bb5690c8c0d7a6c1258e8b002a71f0/$file/GZ-25056-1140_Griesingergasse26-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0c0f2006c7d1d661c1258e8b002a71e5",
-    "tenancyStatus": "rented",
-    "tenancyText": "Der Sohn des Verpflichteten wohnt als Untermieter in einem Zimmer der Wohnung. Darüber hinaus bestehen keine Bestandrechte an der Wohnung.",
-    "firstSeenAt": "2026-10-10T06:59:48.448Z"
+    "tenancyStatus": "unlimited",
+    "tenancyText": "wird eine Nettomiete (Untermiete) in der Höhe von € 250,- pro Monat bezahlt. Das Mietverhältnis wurde auf unbestimmte Zeit vereinbart.",
+    "firstSeenAt": "2026-10-10T06:59:48.448Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-2bfdd8f94eca",
@@ -6273,14 +6504,19 @@
     "longitude": 16.4016324,
     "geocodeSource": "official",
     "ownershipType": "Auf der bewertungsgegenständlichen Liegenschaft befindet sich ein unterkellertes, eingeschossiges Gebäude mit nicht ausgebautem Dachgeschoss, das ursprünglich um das Jahr 1979 errichtet wurde. \nDie Li",
-    "summary": "Auf der bewertungsgegenständlichen Liegenschaft befindet sich ein unterkellertes, eingeschossiges Gebäude mit nicht ausgebautem Dachgeschoss, das ursprünglich um das Jahr 1979 errichtet wurde. \nDie Li",
-    "riskTags": [],
+    "summary": "独栋屋，约1979年建，主层71.01㎡（三房、厨厅、浴室、WC）加地下层64.92㎡（含车库），合计135.93㎡，阁楼未装修且未保温，带露台花园，地块533㎡。电蓄热炉加固体燃料炉，报告指无现代供暖。在场方称2022年起空置。估值以土地为主，€1,060/㎡，建筑折旧后约€5.3万，再扣过时设施10%与市场10%。现状楼梯、门洞与批准图纸不符。目前有Bausperre。",
+    "riskTags": [
+      "与图纸有出入",
+      "建筑禁令",
+      "部分需维修"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2bfdd8f94eca02dfc1258e8e0034a00c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/39c613a46875546ac1258e8e0034a00e/$file/GA_Langsulzgasse16kom.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2157e0ee6e4051c1c1258e8e0034a00d",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist laut Aussage der anwesenden Partei seit dem Jahr 2022 leerstehend.",
-    "firstSeenAt": "2026-10-13T07:40:59.251Z"
+    "firstSeenAt": "2026-10-13T07:40:59.251Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-419898296293",
@@ -6299,14 +6535,20 @@
     "longitude": 16.3417757,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft ist bereits seit mehreren Jahren leerstehend.\nDie Liegenschaft befindet sich insgesamt in einem schlechten Bau- und Erhaltungszustand. Sanierungsbedarf ist durchgehend gegeben. Sämtli",
-    "summary": "Die Liegenschaft ist bereits seit mehreren Jahren leerstehend.\nDie Liegenschaft befindet sich insgesamt in einem schlechten Bau- und Erhaltungszustand. Sanierungsbedarf ist durchgehend gegeben. Sämtli",
-    "riskTags": [],
+    "summary": "整栋约1888年建的Gründerzeit楼，共19个单元（18套住宅加1个约58㎡仓库），合计828.96㎡，多年空置，无租金收入。整体状况差，鸽粪与动物尸体污染严重，部分楼层及后楼未能查验，已开始的翻修未完工且不计价值。新房可比价€5,395.60/㎡，扣10%风险后约€4,860/㎡，再扣住宅翻修€2,000/㎡及公共部分€30万。不在保护区，未提供能源证书。管理方文件提及未结欠款，金额在扫描件中。",
+    "riskTags": [
+      "需翻修",
+      "未完整查验",
+      "欠管理费",
+      "无能源证书"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/419898296293c08dc1258e9000458fdc!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cb96b3d3cf189fd0c1258e9000458fde/$file/Verkehrswertgutachten%20Herthergasse%2031%20(2026-07-8).pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a74d0ea91658d182c1258e9000458fdd",
     "tenancyStatus": "vacant",
     "tenancyText": "leerstehend",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z"
+    "firstSeenAt": "2026-10-15T05:51:03.770Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-9bf93d478b13",
@@ -6325,14 +6567,22 @@
     "longitude": 16.3298736,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
-    "summary": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
-    "riskTags": [],
+    "summary": "Stg 1 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
+    "riskTags": [
+      "无限期出租",
+      "租约效力存疑",
+      "低租金无指数",
+      "需翻修",
+      "租户索赔主张"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9bf93d478b13fbfac1258e90002c787e!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/58820b7a35c565e6c1258e90002c7880/$file/GA_MeidlingerHauptstr19_ST1_GL4kom.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5fabc55b40732091c1258e90002c787f",
-    "tenancyStatus": "vacant",
+    "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z"
+    "firstSeenAt": "2026-10-15T05:51:03.770Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-2ad3a54564a1",
@@ -6351,14 +6601,21 @@
     "longitude": 16.3019073,
     "geocodeSource": "official",
     "ownershipType": "50/751-Anteile mit denen Wohnungseigentum an Wohnung top 1, Einlagerungsraum 1,\nAußenpodest, Garten 1 untrennbar verbunden ist. Das Objekt hat eine Nutzfläche von\n47,39m² und weist einen durchschnittl",
-    "summary": "50/751-Anteile mit denen Wohnungseigentum an Wohnung top 1, Einlagerungsraum 1,\nAußenpodest, Garten 1 untrennbar verbunden ist. Das Objekt hat eine Nutzfläche von\n47,39m² und weist einen durchschnittl",
-    "riskTags": [],
+    "summary": "Top 1，底层公寓带花园，使用面积 47.39㎡，经院内外部台阶进入；建筑年代不详（档案最早见 1903 年扩建图），无电梯。定期出租至 2027-12-31，合同为总包毛租 €300/月，现场看似作仓库用、未见床铺。图纸上的一间房实际划给 Top 3，与建筑许可不符；未见明显损坏，但杂物多、查看受限。估值用租期加转租收益法：合同期净租按 €98.82/月，到期后按 €372.96/月，扣合规修复 €35,000（报告估 €23,000–47,000）及购置附加费 8.6%。至 2026-03-01 欠管理费 €1,711.50。",
+    "riskTags": [
+      "定期出租",
+      "旧租约低租金",
+      "与图纸有出入",
+      "需翻修",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2ad3a54564a15e32c1258e910022d69a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b489e6b3370d75bdc1258e910022d69c/$file/Verkehrswertgutachten%20Rosenh%C3%BCgelstra%C3%9Fe%20final%20(2026-07-07).pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dad74d753996da1dc1258e910022d69b",
     "tenancyStatus": "limited",
     "tenancyText": "Die Wohnung top 1 ist befristet vermietet.",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-a791409b23c9",
@@ -6377,14 +6634,20 @@
     "longitude": 16.3019073,
     "geocodeSource": "official",
     "ownershipType": "235/751 Anteile (BLNr 18), mit denen Wohnungseigentum an Geschäftslokal top 2, Einlage -\nrungsraum 2, Windfang, Garten 2 untrennbar verbunden ist. Das Geschäftslokal hat eine\nNutzfläche von 269,18m², ",
-    "summary": "235/751 Anteile (BLNr 18), mit denen Wohnungseigentum an Geschäftslokal top 2, Einlage -\nrungsraum 2, Windfang, Garten 2 untrennbar verbunden ist. Das Geschäftslokal hat eine\nNutzfläche von 269,18m², ",
-    "riskTags": [],
+    "summary": "Top 2，底层餐饮商铺，带地下拱顶储藏、客座花园和部分居住区，使用面积 269.18㎡，空置或自用。严重脏污，墙顶开裂、掉灰、发霉，拱顶窖因潮湿长菌，局部破败，不能立即使用；有砌墙隔断和用途改动，与建筑许可不符。估值用收益法，按翻修后拟制租金：底层 204.90㎡ 按 €11.45/㎡、地下 66.30㎡ 按 €2.86/㎡，年毛租 €30,418，再扣合规修复加核心翻修 €246,177.50。至 2026-03-01 欠管理费 €13,170.91。",
+    "riskTags": [
+      "需翻修",
+      "与图纸有出入",
+      "潮湿受损",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a791409b23c98dbfc1258e910023500c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b489e6b3370d75bdc1258e910022d69c/$file/Verkehrswertgutachten%20Rosenh%C3%BCgelstra%C3%9Fe%20final%20(2026-07-07).pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/daad57c302fb8618c1258e910023500d",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Geschäftslokal top 2 ist nach derzeitigem Wissensstand des gefertigten Sachverständigen leerstehend bzw. eigengenutzt.",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-229427549290",
@@ -6403,14 +6666,19 @@
     "longitude": 16.3019073,
     "geocodeSource": "official",
     "ownershipType": "53/751 Anteile (BLNr 19) mit denen Wohnungseigentum Wohnung top 3, Einlagerungsraum 3,\nLichthof untrennbar verbunden ist. Eine sofortige Benützung ist aufgrund fehlender\n(technischer) Einrichtungen (K",
-    "summary": "53/751 Anteile (BLNr 19) mit denen Wohnungseigentum Wohnung top 3, Einlagerungsraum 3,\nLichthof untrennbar verbunden ist. Eine sofortige Benützung ist aufgrund fehlender\n(technischer) Einrichtungen (K",
-    "riskTags": [],
+    "summary": "Top 3，公寓带采光井，使用面积 56.37㎡，经院子和公共楼梯进入，无电梯，空置或自用。没有厨房、浴室设施不全，不能立即入住；地板起翘、掉灰、部分严重脏污。比图纸多一间原属 Top 1 的房间，与建筑许可不符。估值用可比价法：调整后约 €2,428/㎡，合 €136,891，扣合规修复相关 €6,500。报告依当事方说明假定楼体抗震所需钢框架已安装，质量未经技术查验。至 2026-03-01 欠管理费 €1,499.37。",
+    "riskTags": [
+      "需翻修",
+      "与图纸有出入",
+      "欠管理费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2294275492903fdec1258e910023d4fc!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b489e6b3370d75bdc1258e910022d69c/$file/Verkehrswertgutachten%20Rosenh%C3%BCgelstra%C3%9Fe%20final%20(2026-07-07).pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/66583337094655dac1258e910023d4fd",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-a30de1a846ec",
@@ -6429,14 +6697,20 @@
     "longitude": 16.34488,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt B-LNr. 22 – Wohnung W 12 liegt im 1. und 2. Dachgeschoss straßenseitig und hat lt. Einreichplan vom Mai 1991 eine Wohnnutzfläche von 93,78 m²\nzuzüglich 42,04 m² Dachterrass",
-    "summary": "Das Wohnungseigentumsobjekt B-LNr. 22 – Wohnung W 12 liegt im 1. und 2. Dachgeschoss straßenseitig und hat lt. Einreichplan vom Mai 1991 eine Wohnnutzfläche von 93,78 m²\nzuzüglich 42,04 m² Dachterrass",
-    "riskTags": [],
+    "summary": "约 1900 年建老楼的 1、2 层阁楼，图纸面积 93.78㎡ 加屋顶露台 42.04㎡，有电梯，楼况中等偏好，院侧有上升潮湿。W 12 实建与图纸不符：浴室仍是毛坯，暖气间无设备，加建的冬园未获许可并缩小露台，可能须拆除。探查显示防火和建筑物理不达标，全套须全面翻修，状况差。估值用成本法：地价 €3,000/㎡，建造 €4,800/㎡，按 102㎡ 计，扣缺陷 50%（€244,800）和折旧 20%，再扣约 10% 市场调整。业主间协商未果；2026 年拟修屋顶，基金约 €3,000。",
+    "riskTags": [
+      "需翻修",
+      "未获建筑许可",
+      "与图纸有出入",
+      "潮湿受损"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a30de1a846ecca42c1258e91002e92e3!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c8e97868402ac96ec1258e91002e92ec/$file/GA%201050%20Wien%2C%20Sankt-Johann-Gasse%2016%20v%2020260617%20GZ%2050%20E%206_26y.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/790b7e709ba2a826c1258e91002e92e4",
     "tenancyStatus": "vacant",
     "tenancyText": "Die Wohnung ist bestandfrei.",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-d610825c8d67",
@@ -6455,14 +6729,19 @@
     "longitude": 16.3245417,
     "geocodeSource": "official",
     "ownershipType": "BLNr. 6, 1/1 Anteil\nan der Liegenschaft EZ 1091, Grundbuch 01402 Hernals, BG Hernals, mit der \nGrundstücksnummer .608, mit der Adresse 1170 Wien, Gschwandnergasse 33\nEnergieausweis:\nOb eine Energieaus",
-    "summary": "BLNr. 6, 1/1 Anteil\nan der Liegenschaft EZ 1091, Grundbuch 01402 Hernals, BG Hernals, mit der \nGrundstücksnummer .608, mit der Adresse 1170 Wien, Gschwandnergasse 33\nEnergieausweis:\nOb eine Energieaus",
-    "riskTags": [],
+    "summary": "约 1900 年建的整栋小楼（1/1 产权），地块 381㎡，三户共约 273㎡：底层约 172㎡，1 楼约 71㎡ 和约 30㎡；另有露台阳台约 42㎡、地下约 26㎡、杂物间约 46㎡，阁楼未改建，无电梯。状况一般，有维修欠账，估值扣 €20,000。看房时 1 楼有人自称“客人”，称无租约；底层判断无人居住。估值按无租约、€9/㎡ 假设租金，再加 30% 市场溢价；估值日 2023 年 9 月。",
+    "riskTags": [
+      "有人居住无租约",
+      "维修欠账",
+      "与图纸有出入"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d610825c8d674394c1258e910025056a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1dce3cf1344fa584c1258e910025056c/$file/Gutachten%201170%20Wien%2C%20Gschwandnergasse%2033.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d8098bc47591fde4c1258e910025056b",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-47248b0b2fe7",
@@ -6481,14 +6760,21 @@
     "longitude": 16.3429031,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus aus Bj. 1848-1918 in 1090 Wien, Währinger Gürtel Nr. 10; erhöhte verkehrsbedingte Lärmbelastung; gute Versorgungslage; gute Anbindung an den öffentlichen Verkehr; ordentlicher Bau- un",
-    "summary": "Mehrparteienhaus aus Bj. 1848-1918 in 1090 Wien, Währinger Gürtel Nr. 10; erhöhte verkehrsbedingte Lärmbelastung; gute Versorgungslage; gute Anbindung an den öffentlichen Verkehr; ordentlicher Bau- un",
-    "riskTags": [],
+    "summary": "阁楼4套 Top 25至28，规划面积357.57㎡加露台阳台85.46㎡，目前只有外壳，完工度约33%，保温、内装、水电暖均未做。楼建于约1848至1918年，临Gürtel噪音明显。按€7,900/㎡可比价倒算残值，扣剩余工程、融资、开发利润、5%市场折让及€2万持有费，约€2,533/㎡（加权）。未完工期间仍需付约€1,529/月，已就这4套欠费起诉。院侧超高已获2023年批准，阁楼不在完工申报内；5个车位补偿费未确认。",
+    "riskTags": [
+      "未完工毛坯",
+      "欠管理费",
+      "噪音较大",
+      "未办完工申报",
+      "车位费待核实"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/47248b0b2fe7dbecc1258e920031db0b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5d3f167f7cff7253c1258e920031db0f/$file/ggavw1090%20Wien%20Wa%CC%88hringer%20Gu%CC%88rtel%2010_mB-signed.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4d8ccad6e2bb0230c1258e920031db0c",
     "tenancyStatus": "vacant",
     "tenancyText": "augenscheinlich keine",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-046228e7fae9",
@@ -6507,14 +6793,20 @@
     "longitude": 16.3632586,
     "geocodeSource": "official",
     "ownershipType": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
-    "summary": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
-    "riskTags": [],
+    "summary": "底层办公室 Top 5-8（191.53㎡）与储藏室 Top R1（9.66㎡）合并估值，共 201.19㎡，1887 年建筑，房况一般，现作社会超市。两份租约均无限期，始于 1989 年，净主租金 €716.15 和 €43.30/月（约 €3.74、€4.48/㎡）；Top 5-8 的租约写明约 241.76㎡，与产权单位不一致。现状与图纸不符、需重新核定份额，收益法后扣 5%，约 €1,592/㎡。业主间有 §27 WEG 诉讼。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "与图纸有出入",
+      "未获建筑许可"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/046228e7fae9b433c1258e9200326671!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5e9ab815db4386b6c1258e9200326675/$file/GA_Pramergasse%2012_div.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/98e35586ef314fd7c1258e9200326672",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-ebaad1f0173b",
@@ -6533,14 +6825,22 @@
     "longitude": 16.3632586,
     "geocodeSource": "official",
     "ownershipType": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
-    "summary": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
-    "riskTags": [],
+    "summary": "底层单位，被公共走廊隔成 Top 2（两室）和 Top 3（含三间办公室），现作跳蚤市场和办公。登记为带露台住宅，批准用途却是办公，现场未见露台。面积有 120.85㎡（估值采用）、123.41㎡、126.95㎡ 三种，走廊 WC 及部分走廊归属不明。2000 年 5 月起租，期限不定，净主租金 €142.05/月（约 €1.18/㎡），估值中净收益为负。收益法后因无建筑许可等扣 5%，约 €753/㎡。一间办公室有潮湿痕迹。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "未获建筑许可",
+      "与图纸有出入",
+      "潮湿受损"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ebaad1f0173bb3e6c1258e920032ae76!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5e9ab815db4386b6c1258e9200326675/$file/GA_Pramergasse%2012_div.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/99c5c563984e45fac1258e920032ae77",
-    "tenancyStatus": "rented",
-    "tenancyText": "",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Mietdauer unbestimmte Zeit",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "summarizedAt": "2026-11-07T12:23:58.108Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-421577b6f425",
@@ -6559,14 +6859,20 @@
     "longitude": 16.3632586,
     "geocodeSource": "official",
     "ownershipType": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
-    "summary": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
-    "riskTags": [],
+    "summary": "位于 1887 年建筑的 Mezzanin，92.25㎡，前厅、厨房、浴室、两室、一小间及 WC。房况良好，厨房、浴室和 WC 由现租客翻新。出租中，1977 年 3 月起租，期限不定，净主租金 €260.66/月（约 €2.83/㎡），含运营费及税 €494.57。现靠租客自装的电暖设备供暖，原燃气壁挂炉的散热器未接通。现状与批准图纸不符，收益法后扣 2.5%，约 €1,629/㎡。业主间有 §27 WEG 诉讼。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "与图纸有出入",
+      "未获建筑许可"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/421577b6f4257cd7c1258e920032fceb!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5e9ab815db4386b6c1258e9200326675/$file/GA_Pramergasse%2012_div.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6291dc672cc39f76c1258e920032fcec",
     "tenancyStatus": "unlimited",
     "tenancyText": "Am Tag der Befundaufnahme war die Wohnung Top 11 bewohnt. Die Wohnung ist seit 1977 auf unbestimmte Zeit vermietet.",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-a051ec405dd1",
@@ -6585,14 +6891,20 @@
     "longitude": 16.3551892,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus in 1070 Wien, Siebensterngasse 16A;\nBj. 1870, weitgehend historisch erhalten; Keller, EG, 1. – 4. Stock, DG nachträglich ausgebaut; Haus in durchschnittlichem Erhaltungszustand, Perso",
-    "summary": "Mehrparteienhaus in 1070 Wien, Siebensterngasse 16A;\nBj. 1870, weitgehend historisch erhalten; Keller, EG, 1. – 4. Stock, DG nachträglich ausgebaut; Haus in durchschnittlichem Erhaltungszustand, Perso",
-    "riskTags": [],
+    "summary": "约 1870 年建老楼的 2 楼，1996–2000 年加建阁楼，电梯停半层，楼况中等。W 7 面积 96.72㎡，两室一小间、厨房内设洗浴、WC、临街阳台，可对流通风，燃气壁挂炉，状况中等，部分使用痕迹重，大致符合图纸，地下储藏不明。自 1982 年无限期出租，现租客 2005 年经判决承接，主租金净 €215.69/月（€2.23/㎡）。收益法算得 €224,218，扣贷款余额 €5,038，估值约 €2,266/㎡。楼内 2023 年贷款 €67,000 修楼板，本套月摊 €55.36；维修基金仅 €2,878，可能修地窖拱顶。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "翻修贷款分摊"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a051ec405dd1936cc1258e920030e36d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f4f1f4c67e09453dc1258e920030e36f/$file/GA_Siebensterng16AT9kom.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f6cd5270a44a6cc3c1258e920030e36e",
-    "tenancyStatus": "rented",
-    "tenancyText": "",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Das Objekt ist auf unbestimmte Zeit vermietet.",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-3372c32d278e",
@@ -6611,14 +6923,17 @@
     "longitude": 16.3316786,
     "geocodeSource": "official",
     "ownershipType": "",
-    "summary": "",
-    "riskTags": [],
+    "summary": "W 4 位于 1 楼，60.98㎡，朝西临 Haberlgasse，门厅、两室、厨房、浴室和独立 WC，暖气片取暖。楼房 1958 年获批，有电梯但非无障碍，已换塑钢窗并做外保温，公共区域良好至尚可。室内略显陈旧但可正常使用，目测无需维修。按可比价 €3,600/㎡ 估值，未作维修扣减。报告未审查建筑许可和租约。土地册中本套有一项依 WEG §27 第 2 款提起的诉讼注记。",
+    "riskTags": [
+      "土地册诉讼注记"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/3372c32d278e167bc1258e95001e055b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/12254ba3857d7d96c1258e95001e055d/$file/260449_SV-GA.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b7a8907470caa4ebc1258e95001e055c",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-19T06:03:58.763Z"
+    "firstSeenAt": "2026-10-19T06:03:58.763Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-a669654f8743",
@@ -6637,14 +6952,22 @@
     "longitude": 16.3892869,
     "geocodeSource": "official",
     "ownershipType": "Beim bewertungsgegenständlichen Gebäude handelt es sich um ein unterkellertes,\nviergeschossiges Mietwohnhaus des Bautyps „Miethaus s. d. Gründerzeit-Seitenflügelhaus“, das\nursprünglich in den Jahren u",
-    "summary": "Beim bewertungsgegenständlichen Gebäude handelt es sich um ein unterkellertes,\nviergeschossiges Mietwohnhaus des Bautyps „Miethaus s. d. Gründerzeit-Seitenflügelhaus“, das\nursprünglich in den Jahren u",
-    "riskTags": [],
+    "summary": "整栋约 1898 年出租楼，1,119.80㎡，17 套住宅、1 商铺、2 处仓库。失修，有水渍，部分浴室破败，多套与图纸不符。净租约 €5,041/月（€4.50/㎡），部分旧约仅约 €0.9/㎡，鉴定按 €3,221/月。收益法扣通用翻修 €786,200，加阁楼潜力 €310,250，再扣欠款 €13,142 及 2.5% 风险，估值 €1,890,000（约 €1,685/㎡）。有未结建筑令，已启动代履行。",
+    "riskTags": [
+      "旧租约低租金",
+      "需翻修",
+      "与图纸有出入",
+      "潮湿受损",
+      "未结建筑令"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a669654f87431df1c1258e95003e5286!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d095f74b28e1ace5c1258e95003e5288/$file/GA_Bucheng4.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/37a273de10d5b408c1258e95003e5287",
-    "tenancyStatus": "unknown",
-    "tenancyText": "siehe Langgutachten",
-    "firstSeenAt": "2026-10-20T05:57:30.763Z"
+    "tenancyStatus": "rented",
+    "tenancyText": "Gemäß der mietvertraglichen Erkenntnisse sind davon 17 Objekte zu Wohnzwecken, 1 Objekt zu Geschäftszwecken vermietet.",
+    "firstSeenAt": "2026-10-20T05:57:30.763Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-4f88750cdf6d",
@@ -6663,14 +6986,15 @@
     "longitude": 16.3324571,
     "geocodeSource": "official",
     "ownershipType": "Das Mehrfamilienwohnhaus im 15. Wiener Gemeindebezirk wurde in den 1970er-Jahren errichtet und besteht aus einem Kellergeschoss (Eingangsebene), einem Erdgeschoss, vier Obergeschossen und einem Dachge",
-    "summary": "Das Mehrfamilienwohnhaus im 15. Wiener Gemeindebezirk wurde in den 1970er-Jahren errichtet und besteht aus einem Kellergeschoss (Eingangsebene), einem Erdgeschoss, vier Obergeschossen und einem Dachge",
+    "summary": "Top 24 位于 3. OG，65.76㎡，另有封闭凉廊 5.48㎡ 和地下储藏室 1.46㎡；门厅、卫浴一体、厨房和两室，朝东临街，区域供暖，状况一般，有家具但不计入估值。1970 年代建，有电梯，楼况与楼龄相符。被执行人称无租约。按可比价 €3,670/㎡（凉廊按 40% 计）估值，未发现明显缺陷；估值日为 2024 年 10 月。月费 €439.48（含取暖和热水）；储备金约 €42,556，暂无大修计划。",
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4f88750cdf6df8b4c1258e96005b86f4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8a38dd6a5a70cb23c1258e96005b86f6/$file/GZ-24143-1150_Kranzgasse25-27_anonym.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0811f200a5e3e260c1258e96005b86f5",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-21T05:58:16.385Z"
+    "firstSeenAt": "2026-10-21T05:58:16.385Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-2ee136dda971",
@@ -6689,14 +7013,21 @@
     "longitude": 16.3403144,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus aus Bj. 1891 in 1070 Wien, Seideng. 38;\nKeller, EG, Mezzain, 1. bis 3. Sock und nachträglicher\nmehrgeschoßiger Dachbodenausbau; grs. guter Zustand.\n---\nleicht erhöhte verkehrsbedingte",
-    "summary": "Mehrparteienhaus aus Bj. 1891 in 1070 Wien, Seideng. 38;\nKeller, EG, Mezzain, 1. bis 3. Sock und nachträglicher\nmehrgeschoßiger Dachbodenausbau; grs. guter Zustand.\n---\nleicht erhöhte verkehrsbedingte",
-    "riskTags": [],
+    "summary": "约 1891 年建老楼的 2 楼，后加建多层阁楼，有电梯，整体状况好。W 14 面积 60.61㎡，两室、厨房、浴室、独立 WC，朝内院，燃气壁挂炉，状况简朴中等，大致符合图纸。1972 年起无限期出租，现主租金净 €93.03/月（€1.53/㎡）。收益法算得 €89,573，扣翻修贷款分摊余额 €4,501，估值 €85,000。楼内正治理上升潮湿，燃气管待查，公共区电气待修；本套摊贷款共 €4,603.12。Nutzwert 更正其余业主已同意，尚缺本套。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "翻修贷款分摊",
+      "潮湿受损"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2ee136dda9718ce2c1258e98003dc8ab!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10d6f5525d8451f3c1258e98003dc8b4/$file/GA_Seidengase%2038_%20T%2014kom.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c549f4253d11cb06c1258e98003dc8ac",
-    "tenancyStatus": "unknown",
-    "tenancyText": "",
-    "firstSeenAt": "2026-10-23T05:59:13.039Z"
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Das Objekt ist derzeit unbefristet vermietet.",
+    "firstSeenAt": "2026-10-23T05:59:13.039Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-8e37df13c5f5",
@@ -6715,14 +7046,21 @@
     "longitude": 16.3191825,
     "geocodeSource": "official",
     "ownershipType": "Zinshaus in sanierungsbedürftigem Zustand",
-    "summary": "Zinshaus in sanierungsbedürftigem Zustand",
-    "riskTags": [],
+    "summary": "整栋 Zinshaus，617㎡ 转角地块，两栋建于 1860、1898 年，无电梯，估算 1,013㎡，状况差。过半单元空置；已租的多为无限期低租约（净租金约 €1.42–3.21/㎡），一套定期至 2028 年 5 月，两套无资料。被执行人未提供任何文件，报告明确警告。估值 €210 万＝收益部分约 €50 万＋空置单元约 €80 万（已扣翻修）＋阁楼扩建约 €79 万（约 580㎡）。需承接欠费约 €3 万。",
+    "riskTags": [
+      "无限期出租",
+      "定期出租",
+      "旧租约低租金",
+      "需翻修",
+      "承接欠缴税费"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8e37df13c5f5dd56c1258e9e0043be41!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/49f57454aa594e96c1258e9e0043be43/$file/SV%20006-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/49074938d85a8424c1258e9e0043be42",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-2cdaf73f4de2",
@@ -6767,14 +7105,21 @@
     "longitude": 16.3369404,
     "geocodeSource": "official",
     "ownershipType": "Die bewertungsgegenständliche Liegenschaft befindet sich im 17. Wiener Gemeindebezirk „Hernals“ per Adresse Hernalser Hauptstraße 35 ident Palffygasse 23. Die bewertungsgegenständliche Liegenschaft wi",
-    "summary": "Die bewertungsgegenständliche Liegenschaft befindet sich im 17. Wiener Gemeindebezirk „Hernals“ per Adresse Hernalser Hauptstraße 35 ident Palffygasse 23. Die bewertungsgegenständliche Liegenschaft wi",
-    "riskTags": [],
+    "summary": "四个产权单元（1000/4166 份额）合并估值，共 693.15㎡（地下 167.61㎡），实为 10 套服务式公寓及储藏空间，格局与产权文件不同。整体出租至 2033 年底，固定净租 €15,000/月，指数调整后约 €16,768，但未确认已调整，无押金。收益法按 €24/㎡、地下 €10/㎡、6% 估值，因需重新分摊份额并变更用途扣 2.5%，再减欠款 €4,273。月费约 €3,944，含两笔翻修贷款；业主共同体有优先抵押权。",
+    "riskTags": [
+      "定期出租",
+      "翻修贷款分摊",
+      "欠管理费",
+      "需重新分摊份额",
+      "与图纸有出入"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/6632268cf7be09cbc1258e9e0045f34c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/364150fe6020e1edc1258e9e0045f34e/$file/GA_HernalserHauptstr35_11E2455_25w_KOM.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3512b7b8f5d00981c1258e9e0045f34d",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-efe9fdc10059",
@@ -6793,14 +7138,17 @@
     "longitude": 16.3737184,
     "geocodeSource": "official",
     "ownershipType": "Vorraum mit Küchenbereich; Hauptraum straßenseitig;\nGang; Bad/WC, getrennt",
-    "summary": "Vorraum mit Küchenbereich; Hauptraum straßenseitig;\nGang; Bad/WC, getrennt",
-    "riskTags": [],
+    "summary": "底层 Top 5，41.85㎡，已翻新，无租约。一室户格局：门厅带厨房、临街主室、独立卫浴，燃气壁挂炉供暖、地暖。楼房建于1880年，2013年加建两层阁楼，共20套住宅和1间商铺，近 Augarten，U2 Taborstraße 可达。评估按 €5,000/㎡ 可比价，未扣翻修费。楼内有翻修贷款，业主需按面积额外缴维修基金。",
+    "riskTags": [
+      "翻修贷款分摊"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/efe9fdc1005974e9c1258e9f00344113!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/80753a0e17505d14c1258e9f00344115/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8578d45224512f63c1258e9f00344114",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:07:26.792Z"
   },
   {
     "id": "wien-0a4a9907b1f6",
@@ -6819,14 +7167,20 @@
     "longitude": 16.3737184,
     "geocodeSource": "official",
     "ownershipType": "Teil Top 6: Hauptraum lt. Plan  in zwei kleine Kabinette getrennt, offener Küchenbereich mit Duschnische im Vorraum \t \nTop 7: getrennte Küche; Kabinett (hofseitig); Hauptraum (straßenseitig); \"Duschni",
-    "summary": "Teil Top 6: Hauptraum lt. Plan  in zwei kleine Kabinette getrennt, offener Küchenbereich mit Duschnische im Vorraum \t \nTop 7: getrennte Küche; Kabinett (hofseitig); Hauptraum (straßenseitig); \"Duschni",
-    "riskTags": [],
+    "summary": "底层 Top 6/7 两户合并，77.59㎡，无限期出租（旧租约），净租金仅 €179.12/月（约 €2.31/㎡），且两户可独立进出。房况需翻修，评估扣减约 €1,500/㎡，并因租约按15年折现（系数0.665）。租金几乎被维修费用抵消，短期难以收回自用或转售。楼内另有翻修贷款分摊。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "需翻修",
+      "翻修贷款分摊"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0a4a9907b1f68a9cc1258e9f00344377!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/80753a0e17505d14c1258e9f00344115/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/819dc6d811ce8241c1258e9f00344378",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet ; Nettoertrag mtl. € 179,12 zuz. BK /Lift € 152,11",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:07:26.792Z"
   },
   {
     "id": "wien-036fd19ea36d",
@@ -6845,14 +7199,18 @@
     "longitude": 16.3737184,
     "geocodeSource": "official",
     "ownershipType": "Küchenbereich (Gang-KÜ); Hauptraum straßenseitig; weitere Küche; Kabinett (hofseitig); Hauptraum (straßenseitig)\nBad/WC, zusammen",
-    "summary": "Küchenbereich (Gang-KÜ); Hauptraum straßenseitig; weitere Küche; Kabinett (hofseitig); Hauptraum (straßenseitig)\nBad/WC, zusammen",
-    "riskTags": [],
+    "summary": "一楼 Top 12/13 两户合并，78㎡，已翻新，无租约，勘查时两户可独立进出。含两个厨房区、临街主室、朝院小间和卫浴，燃气壁挂炉供暖。评估按 €5,250/㎡ 可比价，再扣约 €1,000/㎡ 改造费。卫浴实际位置与批准图纸略有出入。楼内翻修贷款需按面积分摊。",
+    "riskTags": [
+      "翻修贷款分摊",
+      "与图纸有出入"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/036fd19ea36d0edec1258e9f0034453c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/80753a0e17505d14c1258e9f00344115/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/71bca1cf73734797c1258e9f0034453d",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:07:26.792Z"
   },
   {
     "id": "wien-d574b8bf3c76",
@@ -6871,14 +7229,20 @@
     "longitude": 16.3737184,
     "geocodeSource": "official",
     "ownershipType": "Hauptraum straßenseitig; Gang-Küche; Kabinett hofseitig\n\"Dusche in der KÜ/Gang-WC\"",
-    "summary": "Hauptraum straßenseitig; Gang-Küche; Kabinett hofseitig\n\"Dusche in der KÜ/Gang-WC\"",
-    "riskTags": [],
+    "summary": "二楼 Top 14，46.12㎡，无限期出租（旧租约），净租金仅 €102.85/月（约 €2.23/㎡）。格局为临街主室、走廊式厨房、朝院小间，淋浴在厨房内，厕所在公共走廊。房况需翻修，评估扣减约 €1,500/㎡，并因租约按15年折现。楼内翻修贷款需分摊。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "需翻修",
+      "走廊公厕"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d574b8bf3c7611e5c1258e9f00344751!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/80753a0e17505d14c1258e9f00344115/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e18abc5cddd57c7c1258e9f00344752",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet; Nettoertrag mtl. € 102,85",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:07:26.792Z"
   },
   {
     "id": "wien-0870d936427b",
@@ -6897,14 +7261,19 @@
     "longitude": 16.3737184,
     "geocodeSource": "official",
     "ownershipType": "Vorraum; Küchennische; Hauptraum und  Kabinett (straßenseitig);  WC und Badezimmer\n(separat)",
-    "summary": "Vorraum; Küchennische; Hauptraum und  Kabinett (straßenseitig);  WC und Badezimmer\n(separat)",
-    "riskTags": [],
+    "summary": "二楼 Top 15，38.77㎡，无租约。格局为门厅、厨房角、临街主室和小间，卫浴分开，燃气壁挂炉供暖。房况需翻修，评估按 €5,500/㎡ 可比价扣减约 €1,500/㎡。卫浴实际位置与批准图纸略有出入。楼内翻修贷款需按面积分摊。",
+    "riskTags": [
+      "需翻修",
+      "翻修贷款分摊",
+      "与图纸有出入"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0870d936427b6fa6c1258e9f0034494b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/80753a0e17505d14c1258e9f00344115/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dff6183df7086f4dc1258e9f0034494c",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:07:26.792Z"
   },
   {
     "id": "wien-422d02b2289c",
@@ -6923,14 +7292,18 @@
     "longitude": 16.3737184,
     "geocodeSource": "official",
     "ownershipType": "Vorraum; Gang-Küche; drei Haupträume straßenseitig; WC und Badezimmer (separat); \"Bad/WC, zusammen \n(Badewanne)\"",
-    "summary": "Vorraum; Gang-Küche; drei Haupträume straßenseitig; WC und Badezimmer (separat); \"Bad/WC, zusammen \n(Badewanne)\"",
-    "riskTags": [],
+    "summary": "三楼 Top 22/23，90.48㎡，已翻新，无租约。含门厅、走廊式厨房、三间临街主室和卫浴，燃气中央供暖。评估按 €5,500/㎡ 可比价，再扣约 €1,000/㎡ 改造费。卫浴实际位置与批准图纸略有出入。楼内翻修贷款需按面积分摊。",
+    "riskTags": [
+      "翻修贷款分摊",
+      "与图纸有出入"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/422d02b2289c2665c1258e9f00344b33!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/80753a0e17505d14c1258e9f00344115/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/fc7c85e90a1bc84ac1258e9f00344b34",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:07:26.792Z"
   },
   {
     "id": "wien-ca132eeb7bf0",
@@ -6949,14 +7322,19 @@
     "longitude": 16.3737184,
     "geocodeSource": "official",
     "ownershipType": "\"1.DG:\nVorraum; offener Küchenbereich; mehrere Haupträume straßenseitig; mehrere Sanitärbereiche (Bad /WC); Aufenthaltsbereiche (Nebenräume); \nInterne Verbindung über Treppe in das 2. DG\nRaumaufteilun",
-    "summary": "\"1.DG:\nVorraum; offener Küchenbereich; mehrere Haupträume straßenseitig; mehrere Sanitärbereiche (Bad /WC); Aufenthaltsbereiche (Nebenräume); \nInterne Verbindung über Treppe in das 2. DG\nRaumaufteilun",
-    "riskTags": [],
+    "summary": "2013年后加建的两层阁楼 Top 26，登记面积201.52㎡（竣工文件为231.18㎡），带多处露台和内部木楼梯，有地暖，目前由被执行人自住。评估按 €6,000/㎡ 可比价，扣约 €1,000/㎡ 改造费，并因实际面积较大加价5%。楼内翻修贷款按面积分摊，本户份额最大（17.64%）。",
+    "riskTags": [
+      "被执行人自住",
+      "面积记录不一致",
+      "翻修贷款分摊"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ca132eeb7bf07d5ec1258e9f00344cee!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/80753a0e17505d14c1258e9f00344115/$file/Gutachten_.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b0eefbd0e6039878c1258e9f00344cef",
     "tenancyStatus": "vacant",
     "tenancyText": "keine , Eigennutzung durch Verpflichteten",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:07:26.792Z"
   },
   {
     "id": "wien-dd92906e3021",
@@ -6975,14 +7353,20 @@
     "longitude": 16.3306764,
     "geocodeSource": "official",
     "ownershipType": "Lager mit Rohdachboden",
-    "summary": "Lager mit Rohdachboden",
-    "riskTags": [],
+    "summary": "实为 23/845 份额：地下 Lager 11.18㎡（现作婴儿车和单车间）、未改建阁楼 258.19㎡及 3 个储物间；221.52㎡ 是规划面积。改建许可已于 2024-10-11 失效，需重新报建并加电梯。屋架部分受损。残值法（售价 €6,000/㎡、造价 €3,700/㎡）估值 €135,000（约 €523/㎡ 阁楼）。2021 年购入价 €237,000，合同含开工和完工期限。土地册有 §27 WEG 诉讼注记。",
+    "riskTags": [
+      "建筑许可已过期",
+      "需重新报建",
+      "屋架局部受损",
+      "业主会诉讼注记"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/dd92906e30217331c1258e9f0047c2fd!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d1533a4018d685b2c1258e9f0047c2ff/$file/260174_SV-GA.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/29a50ae4c78c392fc1258e9f0047c2fe",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-35cc9e39963c",
@@ -7001,14 +7385,19 @@
     "longitude": 16.3423851,
     "geocodeSource": "official",
     "ownershipType": "55/1252 Anteile, BLNr 38, verbunden mit WE an W Top 5a.\nNutzfläche laut Nutzwertgutachten 66,69 m².\nWohnung im Hochparterre, sowohl straßenseitig in Richtung Laudongasse als auch hofseitig ausgerichte",
-    "summary": "55/1252 Anteile, BLNr 38, verbunden mit WE an W Top 5a.\nNutzfläche laut Nutzwertgutachten 66,69 m².\nWohnung im Hochparterre, sowohl straßenseitig in Richtung Laudongasse als auch hofseitig ausgerichte",
-    "riskTags": [],
+    "summary": "Top 5a 位于 Hochparterre，66.69㎡，门厅、厨房、卫浴和三室，临街也朝院。1886/87 年老楼，后建阁楼，楼况良好至很好；有电梯但本层不停。1986 年起无限期出租，净租金 €148.73/月（约 €2.23/㎡）。租客称入住时没有浴室，浴室、暖气和厨房由其安装。现状与建筑许可图纸不符。收益法估值，地价 €2,930/㎡，合 €2,369/㎡。押金情况不明；储备金约 €61,500，未获翻修信息。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "与图纸有出入"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/35cc9e39963cbeccc1258e9f004ad6df!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0a8da2e0678b3c74c1258e9f004ad6fc/$file/GA_Bennongasse%2015kom.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7cfa1632bbb139eec1258e9f004ad6e0",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Wohnung ist seit 1986 unbefristet vermietet",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-9c2eb47fc89b",
@@ -7053,14 +7442,20 @@
     "longitude": 16.37264,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus einem Vorraum, einer Küchennische, einem Sanitärbereich (Bad mit WC), einem Richtung Straßenseite orientierten Hauptraum und einem Kabinett (hofseitig).",
-    "summary": "Die Wohnung besteht aus einem Vorraum, einer Küchennische, einem Sanitärbereich (Bad mit WC), einem Richtung Straßenseite orientierten Hauptraum und einem Kabinett (hofseitig).",
-    "riskTags": [],
+    "summary": "Top 20，底层，45.77㎡，一室一小室，厨房角，朝街与内院，燃气供暖，无专属储物间。已翻新，地板磨损；约 1888 年楼。定期转租至 2027-05-31，毛租 €750/月，另收水电气 €150。比较法 €4,250/㎡，底层扣 5% 得 €185,000；因租约到期执行和租金有法律风险，收益法扣 15% 后估值 €165,000（约 €3,605/㎡）。计划修外立面、内院、楼梯间潮湿、烟道和下水。",
+    "riskTags": [
+      "定期出租",
+      "转租合约",
+      "租约法律风险",
+      "楼梯间潮湿"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7bf84356a0b53425c1258ea000495d5f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f9833169d4d3c1dec1258ea000495d61/$file/Gutachten.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/eb3e889e28e249d7c1258ea000495d60",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z"
+    "firstSeenAt": "2026-10-31T06:58:28.863Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-c02c3f07d6cf",
@@ -7079,14 +7474,21 @@
     "longitude": 16.3445256,
     "geocodeSource": "official",
     "ownershipType": "Wohnungseigentumsobjekt an Tankstelle in 1070 Wien, Seidengasse 12 ident mit Zieglergasse 27;\n---\nsiebengeschoßige Wohnhausanlage aus Bj 1966 mit ausgebautem Dachgeschoss, bestehend aus drei Stiegen d",
-    "summary": "Wohnungseigentumsobjekt an Tankstelle in 1070 Wien, Seidengasse 12 ident mit Zieglergasse 27;\n---\nsiebengeschoßige Wohnhausanlage aus Bj 1966 mit ausgebautem Dachgeschoss, bestehend aus drei Stiegen d",
-    "riskTags": [],
+    "summary": "1966 年住宅楼底层的加油站与轮胎仓库 Top 1a，已打通，合并估值，共 922.04㎡，状况简单实用。2022 年 3 月起无限期整体出租，可转租，净主租金 €1,200，指数调整后约 €1,365/月（约 €1.48/㎡），但提供的租约双方均未签字。收益法约 €41.3 万，因垃圾房归属、实际面积和强制车位不清扣 15%，再扣押金，估值约 €34.1 万。两单元月费合计约 €2,536。经营涉及危险品，污染未排除但无迹象。",
+    "riskTags": [
+      "无限期出租",
+      "租约未签字",
+      "面积权属不清",
+      "污染未排除"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c02c3f07d6cfdc35c1258ea0004c79da!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/876d735f9994df01c1258ea0004c7a10/$file/GA_Seideng12_Tankstelle.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c32c0b3a8666a829c1258ea0004c79db",
-    "tenancyStatus": "rented",
-    "tenancyText": "",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z"
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Die Tankstelle inkl. der Top 1a St I ist seit dem März 2022 auf unbestimmte Zeit vermietet.",
+    "firstSeenAt": "2026-10-31T06:58:28.863Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-8f24b4baeb6a",
@@ -7105,14 +7507,20 @@
     "longitude": 16.4786565,
     "geocodeSource": "official",
     "ownershipType": "Bei der bewertungsgegenständlichen Wohnung W 24 handelt es sich um eine im 2. Obergeschoß situierten Dreizimmerwohnung. Alle Räume mit Ausnahme eines Abstellraums bezeichneten Raumes, der von einem  Z",
-    "summary": "Bei der bewertungsgegenständlichen Wohnung W 24 handelt es sich um eine im 2. Obergeschoß situierten Dreizimmerwohnung. Alle Räume mit Ausnahme eines Abstellraums bezeichneten Raumes, der von einem  Z",
-    "riskTags": [],
+    "summary": "W 24，2 楼（1981 年楼，有电梯，燃气集中供暖），79.72㎡，三室，无阳台，附地下储物间。只朝西南临 Erzherzog-Karl-Straße（噪音约 75 dB），不能对流。整体状况中等偏旧：卫浴老化，厨房窗边和浴室顶有轻微霉斑，电气漏保不达现行标准。被执行人自住。同楼成交比较法 €3,340/㎡，因状况扣 10%，得约 €3,006/㎡，估值 €240,000。楼宇外壳状况良好，维修基金约 €60,000。",
+    "riskTags": [
+      "被执行人自住",
+      "轻微霉斑",
+      "电气不达标",
+      "临街噪音大"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8f24b4baeb6a3b45c1258ea500483560!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8940f56ca05b4c9cc1258ea500483564/$file/Gutachten_Murmanngasse.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a97bb11ebf560450c1258ea500483561",
     "tenancyStatus": "vacant",
     "tenancyText": "Die Einheit wird eigengenutzt. Über etwaige Bestands- und Nutzungsrechte liegen keine Informationen vor.",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z"
+    "firstSeenAt": "2026-11-05T07:55:21.908Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-ec9044b23245",
@@ -7131,14 +7539,22 @@
     "longitude": 16.4548238,
     "geocodeSource": "official",
     "ownershipType": "Die ggst. Liegenschaft EZ 66 (Stammeinlage) mit den GST 215/15 und 215/16, ist eben gelegen, annähernd rechteckig ausgestaltet und verfügt gem. Grundbuch über eine Fläche von 832 m².\nDie Liegenschaft ",
-    "summary": "Die ggst. Liegenschaft EZ 66 (Stammeinlage) mit den GST 215/15 und 215/16, ist eben gelegen, annähernd rechteckig ausgestaltet und verfügt gem. Grundbuch über eine Fläche von 832 m².\nDie Liegenschaft ",
-    "riskTags": [],
+    "summary": "并非成品物业，而是 832㎡ 地块上的建筑权（Baurecht，至 2121 年），现有 5 个一层旧商铺共 465.53㎡，空置，状况差，部分有水损和霉。估值假设拆除重建约 2,845㎡（约 44 个单元、28 车位），剩余法：预计售价约 €1,559 万，成本及利润约 €1,320 万，折现后约 €191 万。建筑权租金约 €6.8 万/年。2025 年建筑申请尚未获批，部分旧建筑的许可可随时撤销。到期建筑无偿归地主。未做土壤检测。",
+    "riskTags": [
+      "建筑权年租金",
+      "需拆除重建",
+      "未获建筑许可",
+      "临时许可可撤销",
+      "潮湿受损"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ec9044b23245ac69c1258ea5004baf0f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/eb80e81dc92a4216c1258ea5004baf19/$file/GA_1220%20Wien%2C%20Genochplatz%208%2C%20Baurecht_final.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7966e999339b68ccc1258ea5004baf10",
-    "tenancyStatus": "unknown",
-    "tenancyText": "Baurechtsvertrag vom 08.06.2021, Dauer bis 01.06.2121 Bauzins aktuell: 5.681,71 p.m. (keine USt-Verrechnung)",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z"
+    "tenancyStatus": "vacant",
+    "tenancyText": "Die 5 Geschäftslokale waren zum Zeitpunkt der Befundaufnahme leerstehend",
+    "firstSeenAt": "2026-11-05T07:55:21.908Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-c7114705d8ba",
@@ -7157,14 +7573,20 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "riskTags": [],
+    "summary": "Top 1+2 位于底层，75.38㎡，三室带厨卫，含地下储藏室和走廊 WC，室内陈旧至中等。1900 年前老楼。依 1956、1978 年租约无限期出租，毛租金 €342.92/月，净约 €1.50/㎡。估值为成本法 €86,945（无限期租约扣约 40%）与收益法 €72,716 的均值。常规月费约 €314.50，另有一次性分摊至 2026/10。储备金仅约 €1,310，未来几年拟整栋翻修、地下室除湿等。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "大修资金不足",
+      "建筑审批未结"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c7114705d8bae8e7c1258ea7005b71a4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/54304ae7bf616f49c1258ea7005b71ab/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c8a305d7d16ee0cac1258ea7005b71a5",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-ef0f4bf4cb83",
@@ -7183,14 +7605,21 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "riskTags": [],
+    "summary": "Top 6+7 位于 1. OG，登记 78.98㎡，实际另含约 3㎡ 门厅和 6㎡ 浴室；浴室按图纸属 Top 8-10，估值为此扣 €4,652。两室一小间带厨卫，陈旧至中等，厨房地板有潮湿损坏。依 2009 年租约无限期出租，毛租金 €358.80/月，净约 €1.49/㎡。估值取成本法 €86,446 与收益法 €71,393 的均值。月费约 €329.50，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "与图纸有出入",
+      "潮湿受损",
+      "大修资金不足"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ef0f4bf4cb838df5c1258ea7005bad70!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/54304ae7bf616f49c1258ea7005b71ab/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1ee16e5bff29865ec1258ea7005bad71",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-cffd38f39013",
@@ -7209,14 +7638,21 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "riskTags": [],
+    "summary": "Top 8-10 位于 1. OG，登记 93.48㎡，但原约 6㎡ 浴室实际划在 Top 6+7 内，估值为此扣 €11,013。三室带厨卫和储藏间；一间燃气对流取暖，其余电热，陈旧至中等。租客称无限期出租，未见书面租约；毛租金 €411.94/月，净约 €1.37/㎡。估值取成本法 €96,809 与收益法 €75,291 的均值。常规月费约 €390，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "与图纸有出入",
+      "大修资金不足",
+      "建筑审批未结"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/cffd38f39013c86ec1258ea7005c8d18!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/54304ae7bf616f49c1258ea7005b71ab/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e55aa5649462eec9c1258ea7005c8d19",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-d2bc45ead56d",
@@ -7235,14 +7671,21 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "riskTags": [],
+    "summary": "Top 17+24 位于 2. OG，图纸面积 80.92㎡，另有露台 4.94㎡；门厅兼厨房、卫浴一体、三室（一间图纸标为储藏室），朝院子，状况一般。依 2009 年租约无限期出租，毛租金 €367.62/月，净约 €1.49/㎡。估值取成本法 €93,336（无限期租约扣约 40%）与收益法 €77,912 的均值。常规月费约 €337.60，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修；建筑审批尚未结案。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "与图纸有出入",
+      "大修资金不足",
+      "建筑审批未结"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d2bc45ead56ddbfcc1258ea7005cdde0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/54304ae7bf616f49c1258ea7005b71ab/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f2fe87cbb0d17834c1258ea7005cdde1",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-7d8c576f245b",
@@ -7261,14 +7704,20 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "riskTags": [],
+    "summary": "Lager 1 位于地下层，38.09㎡，单间，从街面经内部木梯进入，有洗涤排水设施和暖气片，堆有杂物，状况中等。现被 Top 11+22 的租客部分使用，没有租约；报告按无租约估值，同时因使用关系不明扣约 40%。估值为成本法 €24,211（地价 €400/㎡）与收益法 €24,590（假设租金 €2.50/㎡）的均值。常规月费约 €156.60，另有一次性分摊。楼内储备金仅约 €1,310，未来几年拟大修。",
+    "riskTags": [
+      "无合同占用",
+      "大修资金不足",
+      "建筑审批未结"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7d8c576f245b47e0c1258ea7005d3664!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/54304ae7bf616f49c1258ea7005b71ab/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4fc26db98830e2ffc1258ea7005d3665",
-    "tenancyStatus": "vacant",
-    "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "tenancyStatus": "rented",
+    "tenancyText": "",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report"
   },
   {
     "id": "wien-8a2fd882342b",
@@ -7287,14 +7736,19 @@
     "longitude": 16.3455689,
     "geocodeSource": "official",
     "ownershipType": "BLNr. 1, 1/1 Anteile \nan der Liegenschaft EZ 822, Grundbuch 01508 Oberdöbling, BG Döbling, mit den \nGrundstücksnummern 868/36, 868/104, mit der Adresse 1190 Wien,  \nLannerstraße 1\nBestandsverhältnis \n",
-    "summary": "BLNr. 1, 1/1 Anteile \nan der Liegenschaft EZ 822, Grundbuch 01508 Oberdöbling, BG Döbling, mit den \nGrundstücksnummern 868/36, 868/104, mit der Adresse 1190 Wien,  \nLannerstraße 1\nBestandsverhältnis \n",
-    "riskTags": [],
+    "summary": "整栋老别墅（1/1 产权），地块 809㎡，图纸居住面积约 511㎡，含两层地下、底层、楼上和阁楼，另有约 27㎡ 车库（两车位）。配室内泳池、按摩池、桑拿、电梯、报警监控、露台和花园，燃气中央供暖（未测试）。整体保养良好，装修很高档；现状较图纸有改动，报告建议全面检查电气。被执行人一方称自用、未出租。成本法：地价 €4,800/㎡，建造 €6,100/㎡ 折旧 23%，附属设施 €380,000。欠市政税费和水费 €15,954。",
+    "riskTags": [
+      "被执行人自住",
+      "欠市政费用",
+      "与图纸有出入"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8a2fd882342b0b5cc1258ea7003e86b8!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b0714c7f9d049e55c1258ea7003e86d1/$file/Gutachten%201190%20Wien%2C%20Lannerstra%C3%9Fe%2017.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2d13a22b80c70e19c1258ea7003e86b9",
     "tenancyStatus": "vacant",
     "tenancyText": "Maryam Panahi Tabrizi (Verpflichtete), das bewertungsgegenständliche Wohnhaus nicht vermietet ist und im Eigengebrauch steht.",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   },
   {
     "id": "wien-1c51b9a939f0",
@@ -7313,13 +7767,20 @@
     "longitude": 16.3892186,
     "geocodeSource": "official",
     "ownershipType": "Das Gebäude in Massivbauweise wurde als Zinshaus im Jahr 1900 mit einem zur Göschl-gasse gelegenen Straßentrakt (Kellergeschoss, 5 Hauptgeschosse, unausgebautes Dach-geschoss), einem Hoftrakt (Erdgesc",
-    "summary": "Das Gebäude in Massivbauweise wurde als Zinshaus im Jahr 1900 mit einem zur Göschl-gasse gelegenen Straßentrakt (Kellergeschoss, 5 Hauptgeschosse, unausgebautes Dach-geschoss), einem Hoftrakt (Erdgesc",
-    "riskTags": [],
+    "summary": "W 19 位于 2 楼，31.53㎡，门厅兼厨房、客厅和 WC，没有浴室；电热取暖，电路老旧，室内陈旧。1900 年老楼，有电梯。无书面租约，租客称 2006 年起居住，报告按口头无限期租约估值；称每月付 €200，推算净租约 €50（€1.59/㎡），明显低于市场；业主月费 €206.62。收益法估值，因 Top 33 露台修缮诉讼风险扣 2.5%，合 €1,522/㎡。储备金约 €12,717，可能需贷款或特别分摊。",
+    "riskTags": [
+      "无限期出租",
+      "旧租约低租金",
+      "无浴室",
+      "露台修缮诉讼",
+      "大修资金不足"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1c51b9a939f0b293c1258ea700453983!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b0df220b015c88dac1258ea700453987/$file/Gutachten%201030%20Wien%2C%20G%C3%B6schlgasse%205%20W%2019.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d4d3fb950a87e6e5c1258ea700453984",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "summarizedAt": "2026-11-07T12:22:18.222Z"
   }
 ]

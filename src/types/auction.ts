@@ -55,9 +55,11 @@ export interface Auction {
   tenancyStatus?: TenancyStatus
   /** The report's wording, when short and free of personal names. */
   tenancyText?: string
+  /** "report" when tenancy was read from the full Gutachten rather than the short report. */
+  tenancySource?: 'report'
   /** ISO timestamp of when the scraper first encountered this UNID. */
   firstSeenAt?: string
-  /** ISO timestamp of when Gemini generated the Chinese summary + riskTags. */
+  /** ISO timestamp of when the Chinese summary + riskTags were written (scripts/report-summaries.mjs). */
   summarizedAt?: string
 }
 

@@ -146,7 +146,7 @@ export function DetailPanel({ auction, onClose }: Props) {
                 <span className="text-xs font-semibold text-forest-700">专家报告摘要</span>
               </div>
               {auction.summarizedAt && (
-                <span className="text-[10px] text-warm-400 flex-shrink-0">AI 翻译·仅供参考</span>
+                <span className="text-[10px] text-warm-400 flex-shrink-0">AI 摘要·仅供参考</span>
               )}
             </div>
             <p className="text-xs text-warm-700 leading-relaxed whitespace-pre-line">{auction.summary}</p>

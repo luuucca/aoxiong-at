@@ -242,6 +242,8 @@ function upsert(existing, incoming) {
       const i = idx.get(key);
       // A failed lookup falls back to the district centre; don't let that move a known position.
       const keepPosition = rec.geocodeSource === 'approximate' && merged[i].geocodeSource === 'official';
+      // A status read from the full report outranks the keyword scan of the short report.
+      const keepReportTenancy = merged[i].tenancySource === 'report';
       merged[i] = {
         ...rec,
         ...(keepPosition && {
@@ -249,14 +251,19 @@ function upsert(existing, incoming) {
           longitude: merged[i].longitude,
           geocodeSource: merged[i].geocodeSource,
         }),
-        tenancyStatus: rec.tenancyStatus ?? merged[i].tenancyStatus,
-        tenancyText: rec.tenancyText ?? merged[i].tenancyText,
+        ...(keepReportTenancy ? {
+          tenancyStatus: merged[i].tenancyStatus,
+          tenancyText: merged[i].tenancyText,
+          tenancySource: 'report',
+        } : {
+          tenancyStatus: rec.tenancyStatus ?? merged[i].tenancyStatus,
+          tenancyText: rec.tenancyText ?? merged[i].tenancyText,
+        }),
         summary: merged[i].summary || rec.summary,
         riskTags: merged[i].riskTags?.length ? merged[i].riskTags : rec.riskTags,
         shortReportUrl: merged[i].shortReportUrl || rec.shortReportUrl,
-        // Preserve the Gemini-generated Chinese summary timestamp so the
-        // summarize step doesn't re-process (and re-spend quota on) a
-        // report it already translated. Paired with summary/riskTags above.
+        // Marks a record whose Chinese summary is done (scripts/report-summaries.mjs).
+        // Paired with summary/riskTags above.
         summarizedAt: merged[i].summarizedAt || rec.summarizedAt,
         // Preserve the original "first seen" stamp across re-runs.
         // Old records without it stay without it — the frontend treats

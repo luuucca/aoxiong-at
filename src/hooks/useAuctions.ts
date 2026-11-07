@@ -50,7 +50,7 @@ export function useAuctions(): UseAuctionsResult {
         setAuctions(data.filter((a) => {
           if (!(a.estimatedValue > 0 || a.minimumBid > 0)) return false
           // 剔除停车位、车库等非住宅标的
-          if (PARKING_KEYWORDS.test(a.summary ?? '')) return false
+          if (PARKING_KEYWORDS.test(a.ownershipType ?? '')) return false
           // 估值极低（< €15,000）基本是停车位或储藏室
           if (a.estimatedValue > 0 && a.estimatedValue < 15000) return false
           return true

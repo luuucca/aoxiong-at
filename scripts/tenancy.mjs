@@ -63,11 +63,11 @@ export function classifyTenancy(text) {
   // "keine Auskunft, ob das Mietverhältnis befristet ...": rented, but the report says the term is unclear.
   if (/\bob\b[^.]{0,60}befristet/i.test(text)) return 'rented';
 
-  const unlimited = /\bunbefristet\w*\s+(vermietet|Miet\w*)|auf unbestimmte Zeit|Mietvertrag\w*\s+unbefristet/i;
+  const unlimited = /\bunbefristet\w*\s+(vermietet|Miet\w*)|auf unbestimmte Zeit|Mietdauer:?\s+unbestimmte Zeit|Mietvertrag\w*\s+unbefristet/i;
   if (unlimited.test(text)) return 'unlimited';
 
   // "überwiegend (hauptsächlich befristet) vermietet": a mix, so some leases may be unbefristet.
-  if (/(überwiegend|hauptsächlich|teilweise)\s+befristet/i.test(text)) return 'rented';
+  if (/(überwiegend|hauptsächlich|teilweise)\s+(\([^)]*\)\s*)?befristet/i.test(text)) return 'rented';
 
   // "allfällige Befristungen" (plural) is generic wording about missing documents.
   const limited = /\bbefristet(e[nrms]?)?\b|Befristungsend/i;

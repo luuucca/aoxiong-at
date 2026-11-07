@@ -101,8 +101,8 @@ export function getCategoryLabel(cat: string): string {
   return CATEGORY_LABELS[primary] ?? CATEGORY_LABELS[cat] ?? primary
 }
 
-function inferTypeFromSummary(summary: string): string {
-  const s = summary.toLowerCase()
+function inferTypeFromOwnership(ownershipType: string): string {
+  const s = ownershipType.toLowerCase()
   if (/villa|herrschaftlich/.test(s)) return '别墅'
   if (/dachgeschoss/.test(s)) return '顶层公寓'
   if (/reihenhaus/.test(s)) return '联排住宅'
@@ -134,8 +134,8 @@ export function generateCnSummary(auction: Auction): string {
     : 0
   if (ratio > 0) parts.push(`起拍价为估值 ${ratio}%`)
 
-  if (auction.summary) {
-    const s = auction.summary.toLowerCase()
+  if (auction.ownershipType) {
+    const s = auction.ownershipType.toLowerCase()
     const hints: string[] = []
     if (/dachgeschoss/.test(s)) hints.push('顶层')
     if (/nicht fertig|unfertig|rohbau/.test(s)) hints.push('未竣工')
@@ -160,9 +160,9 @@ export function generateTitle(auction: Auction): string {
   // Handle compound categories like "Wohnungseigentumsobjekt, Sonstiges"
   const primaryCat = auction.category.split(',')[0].trim()
   let type = CATEGORY_LABELS[primaryCat] ?? CATEGORY_LABELS[auction.category] ?? primaryCat
-  // For any entry containing "Sonstiges", try to infer from summary
+  // For any entry containing "Sonstiges", try to infer from the German land-register text
   if (auction.category.includes('Sonstiges')) {
-    type = auction.summary ? inferTypeFromSummary(auction.summary) : '物业'
+    type = auction.ownershipType ? inferTypeFromOwnership(auction.ownershipType) : '物业'
   }
 
   const area = auction.area > 0 ? `${Math.round(auction.area)}㎡` : ''
