@@ -3,7 +3,7 @@ import { MapContainer, TileLayer, Marker, Tooltip, useMap, ZoomControl } from 'r
 import L from 'leaflet'
 import type { Auction } from '../types/auction'
 import { formatPriceLabel, formatCurrency, generateTitle, getPropertyMapColor } from '../utils/formatters'
-import { TransitLayer } from './TransitLayer'
+import { TransitLayer, useTransitData, textOn } from './TransitLayer'
 
 // U-Bahn lines + official colours, for the legend and toggle.
 const UBAHN_LINES: { ref: string; colour: string }[] = [
@@ -178,6 +178,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
   const [expandedClusters, setExpandedClusters] = useState<Set<string>>(new Set())
   const [showSubway, setShowSubway] = useState(true)
   const [showTram, setShowTram] = useState(false)
+  const transit = useTransitData(showSubway || showTram)
   const current = LAYERS[layer]
 
   // Group auctions by coordinate key
@@ -214,8 +215,8 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
         ))}
       </div>
 
-      {/* Transit toggle + U-Bahn legend */}
-      <div className="absolute bottom-3 left-3 z-[1000] rounded-lg overflow-hidden shadow-md border border-cream-200 bg-white/95 backdrop-blur-sm">
+      {/* Transit toggle + line legends */}
+      <div className="absolute bottom-3 left-3 z-[1000] max-w-[min(320px,calc(100%-72px))] rounded-lg overflow-hidden shadow-md border border-cream-200 bg-white/95 backdrop-blur-sm">
         <div className="flex">
           <button
             onClick={() => setShowSubway((v) => !v)}
@@ -240,6 +241,19 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
               <span key={l.ref} className="inline-flex items-center gap-1">
                 <span className="inline-block w-2.5 h-2.5 rounded-full" style={{ background: l.colour }} />
                 <span className="text-[10px] font-semibold text-warm-600">{l.ref}</span>
+              </span>
+            ))}
+          </div>
+        )}
+        {showTram && transit && (
+          <div className="flex flex-wrap gap-1 px-3 py-2 border-t border-cream-200">
+            {transit.tram.map((l) => (
+              <span
+                key={l.ref}
+                className="inline-flex items-center justify-center min-w-[22px] h-[18px] px-1 rounded text-[11px] font-bold tabular-nums"
+                style={{ backgroundColor: l.colour, color: textOn(l.colour) }}
+              >
+                {l.ref}
               </span>
             ))}
           </div>
@@ -271,7 +285,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
             initialFit={initialFit}
           />
 
-          <TransitLayer showSubway={showSubway} showTram={showTram} />
+          <TransitLayer data={transit} showSubway={showSubway} showTram={showTram} />
 
           {[...coordGroups.entries()].map(([coordKey, group]) => {
             const isExpanded = expandedClusters.has(coordKey)

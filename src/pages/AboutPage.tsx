@@ -121,8 +121,8 @@ export default function AboutPage() {
           transition={{ duration: 0.4, delay: 0.15, ease: [0.22, 1, 0.36, 1] }}
           className={`${cardBase} group cursor-pointer`}
         >
-          <div className="w-11 h-11 rounded-lg flex items-center justify-center flex-shrink-0 bg-gold-tint border border-gold-line">
-            <Phone size={18} strokeWidth={1.75} className="text-gold" />
+          <div className="w-11 h-11 rounded-lg flex items-center justify-center flex-shrink-0" style={{ backgroundColor: '#2F7BF6' }}>
+            <Phone size={22} strokeWidth={1.5} color="#FFFFFF" fill="#FFFFFF" />
           </div>
           <div className="flex-1 min-w-0">
             <p className={overline}>电话</p>
@@ -140,8 +140,8 @@ export default function AboutPage() {
           transition={{ duration: 0.4, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
           className={`${cardBase} group cursor-pointer`}
         >
-          <div className="w-11 h-11 rounded-lg flex items-center justify-center flex-shrink-0 bg-gold-tint border border-gold-line">
-            <Mail size={18} strokeWidth={1.75} className="text-gold" />
+          <div className="w-11 h-11 rounded-lg flex items-center justify-center flex-shrink-0" style={{ backgroundColor: '#FF9500' }}>
+            <Mail size={24} strokeWidth={1.75} color="#FF9500" fill="#FFFFFF" />
           </div>
           <div className="flex-1 min-w-0">
             <p className={overline}>邮件咨询</p>
