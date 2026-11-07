@@ -21,8 +21,7 @@ import {
   bidRatio,
   getRiskTagStyle,
   getCategoryLabel,
-  generateTitle,
-} from '../utils/formatters'
+  generateTitle, TENANCY_META } from '../utils/formatters'
 
 const GEOCODE_LABELS: Record<string, string> = {
   official: '官方地址服务（精确）',
@@ -127,6 +126,15 @@ export function DetailPanel({ auction, onClose }: Props) {
         <div className="text-xs text-warm-500 bg-cream-50 rounded px-2.5 py-1.5 border border-cream-200 mb-2.5">
           <span className="font-medium text-warm-600">产权类型：</span>
           {auction.ownershipType}
+        </div>
+
+        {/* Tenancy */}
+        <div className="text-xs text-warm-500 bg-cream-50 rounded px-2.5 py-1.5 border border-cream-200 mb-2.5">
+          <span className="font-medium text-warm-600">租赁状况：</span>
+          <span style={{ color: TENANCY_META[auction.tenancyStatus ?? 'unknown'].text }} className="font-medium">
+            {TENANCY_META[auction.tenancyStatus ?? 'unknown'].label}
+          </span>
+          {auction.tenancyText && <span className="block mt-1 text-warm-400">报告原文：{auction.tenancyText}</span>}
         </div>
 
         {/* Summary */}

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Search, SlidersHorizontal, X } from 'lucide-react'
-import type { FilterState, SortOption, AuctionCategory } from '../types/auction'
-import { getCategoryLabel } from '../utils/formatters'
+import type { FilterState, SortOption, AuctionCategory, TenancyStatus } from '../types/auction'
+import { getCategoryLabel, TENANCY_META } from '../utils/formatters'
 
 const CATEGORIES: AuctionCategory[] = [
   'Eigentumswohnung',
@@ -12,6 +12,8 @@ const CATEGORIES: AuctionCategory[] = [
   'gewerbliche Liegenschaft',
   'Sonstiges',
 ]
+
+const TENANCY_OPTIONS: TenancyStatus[] = ['vacant', 'limited', 'rented', 'unlimited', 'unknown']
 
 const SORT_OPTIONS: { value: SortOption; label: string }[] = [
   { value: 'added-desc', label: '最新添加' },
@@ -29,7 +31,7 @@ interface Props {
 }
 
 export function FilterBar({ filters, onChange, resultCount }: Props) {
-  const hasActiveFilter = filters.search !== '' || filters.category !== 'all'
+  const hasActiveFilter = filters.search !== '' || filters.category !== 'all' || filters.tenancy !== 'all'
 
   return (
     <div className="flex-shrink-0 bg-white border-b border-cream-200 px-4 py-2.5 lg:px-8">
@@ -81,10 +83,32 @@ export function FilterBar({ filters, onChange, resultCount }: Props) {
           />
         </div>
 
+        {/* Tenancy filter */}
+        <div className="relative">
+          <select
+            value={filters.tenancy}
+            onChange={(e) => onChange({ ...filters, tenancy: e.target.value })}
+            aria-label="租赁状况"
+            className="appearance-none pl-3 pr-8 py-1.5 text-sm bg-cream-50 border border-cream-300 rounded-md
+                       text-warm-700 focus:outline-none focus:border-forest-600 focus:ring-1
+                       focus:ring-forest-600 focus:ring-opacity-30 transition-colors cursor-pointer"
+          >
+            <option value="all">全部租赁状况</option>
+            <option value="not-unlimited">非无限期出租（已确认）</option>
+            {TENANCY_OPTIONS.map((status) => (
+              <option key={status} value={status}>{TENANCY_META[status].label}</option>
+            ))}
+          </select>
+          <SlidersHorizontal
+            size={13}
+            className="absolute right-2.5 top-1/2 -translate-y-1/2 text-warm-400 pointer-events-none"
+          />
+        </div>
+
         {/* Clear filters */}
         {hasActiveFilter && (
           <button
-            onClick={() => onChange({ ...filters, search: '', category: 'all' })}
+            onClick={() => onChange({ ...filters, search: '', category: 'all', tenancy: 'all' })}
             className="flex items-center gap-1 px-2.5 py-1.5 text-xs text-warm-500 hover:text-forest-700
                        border border-cream-300 rounded-md hover:border-forest-600 transition-colors"
           >

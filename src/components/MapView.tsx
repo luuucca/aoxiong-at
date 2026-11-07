@@ -141,10 +141,11 @@ interface Props {
 const LAYERS = {
   light: {
     label: '地图',
-    url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
-    attr: 'Tiles © Esri — Esri, HERE, Garmin, © OpenStreetMap contributors, and the GIS user community',
+    // Austria's official basemap: free, no API key, native detail down to z19.
+    url: 'https://mapsneu.wien.gv.at/basemap/bmapgrau/normal/google3857/{z}/{y}/{x}.png',
+    attr: 'Grundkarte: <a href="https://basemap.at">basemap.at</a>',
     sub: undefined,
-    maxNativeZoom: 16,
+    maxNativeZoom: 19,
   },
   osm: {
     label: '街道',
@@ -276,7 +277,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
             attribution={current.attr}
             subdomains={current.sub ?? 'abc'}
             maxNativeZoom={current.maxNativeZoom}
-            maxZoom={20}
+            maxZoom={current.maxNativeZoom}
           />
           <ZoomControl position="bottomright" />
 

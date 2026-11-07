@@ -12,6 +12,8 @@
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { geocodeAddress } from './geocode-auction.mjs';
+import { extractTenancyText, classifyTenancy, publicTenancyQuote } from './tenancy.mjs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import crypto from 'crypto';
@@ -30,58 +32,6 @@ const HEADERS = {
 };
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-
-// ── Geocoding ─────────────────────────────────────────────────────────────────
-
-const DISTRICT_COORDS = {
-  '1010': [48.2082, 16.3738], '1020': [48.2192, 16.3917],
-  '1030': [48.1985, 16.3924], '1040': [48.1940, 16.3714],
-  '1050': [48.1930, 16.3580], '1060': [48.1980, 16.3512],
-  '1070': [48.2022, 16.3528], '1080': [48.2110, 16.3490],
-  '1090': [48.2221, 16.3603], '1100': [48.1740, 16.3858],
-  '1110': [48.1756, 16.4208], '1120': [48.1835, 16.3285],
-  '1130': [48.1875, 16.3052], '1140': [48.1983, 16.2940],
-  '1150': [48.1984, 16.3295], '1160': [48.2120, 16.3201],
-  '1170': [48.2245, 16.3120], '1180': [48.2298, 16.3412],
-  '1190': [48.2524, 16.3548], '1200': [48.2330, 16.3790],
-  '1210': [48.2630, 16.3951], '1220': [48.2251, 16.4408],
-  '1230': [48.1505, 16.3189],
-};
-
-async function nominatimQuery(q) {
-  const url = `https://nominatim.openstreetmap.org/search?` +
-    `q=${encodeURIComponent(q + ', Wien, Austria')}&format=json&limit=1&countrycodes=at`;
-  const res = await fetch(url, {
-    headers: { ...HEADERS, 'Accept-Language': 'de' },
-    signal: AbortSignal.timeout(8000),
-  });
-  const data = await res.json();
-  return data.length > 0 ? data[0] : null;
-}
-
-async function geocodeAddress(streetAddress, plz) {
-  try {
-    // streetAddress already has "1190 Wien " stripped by the caller
-    let hit = await nominatimQuery(streetAddress);
-    // Fallback for corner properties: Vienna data uses BOTH "A, B" and
-    // "A / B" / "A/B" separators. Try each street individually.
-    if (!hit && /[\/,]/.test(streetAddress)) {
-      const parts = streetAddress.split(/\s*[\/,]\s*/).filter(Boolean);
-      for (const part of parts) {
-        await sleep(1100);
-        hit = await nominatimQuery(part);
-        if (hit) break;
-      }
-    }
-    if (hit) {
-      return { lat: parseFloat(hit.lat), lng: parseFloat(hit.lon), geocodeSource: 'official' };
-    }
-  } catch {
-    // Fall through to approximate
-  }
-  const coords = DISTRICT_COORDS[plz] || [48.2082, 16.3738];
-  return { lat: coords[0], lng: coords[1], geocodeSource: 'approximate' };
-}
 
 // ── Parsers ────────────────────────────────────────────────────────────────────
 
@@ -248,7 +198,7 @@ function parseDetailPage(html, entry) {
     : '';
 
   // Kurzgutachten (short report) — internal link (not PDF)
-  const kurzMatch = html.match(/Kurzgutachten[^<]*<\/[^>]+>\s*<[^>]+>\s*<a\s+href="(\/edikte\/ex\/[^"]+)"[^>]*>/i);
+  const kurzMatch = html.match(/Kurzgutachten:\s*<\/strong>\s*<\/span>\s*<p[^>]*>\s*<a\s+href="(\/edikte\/ex\/[^"]+)"/i);
   const shortReportUrl = kurzMatch ? `https://edikte.justiz.gv.at${kurzMatch[1]}` : '';
 
   // Ownership / Beschreibung
@@ -290,8 +240,17 @@ function upsert(existing, incoming) {
     const key = rec.id;
     if (idx.has(key)) {
       const i = idx.get(key);
+      // A failed lookup falls back to the district centre; don't let that move a known position.
+      const keepPosition = rec.geocodeSource === 'approximate' && merged[i].geocodeSource === 'official';
       merged[i] = {
         ...rec,
+        ...(keepPosition && {
+          latitude: merged[i].latitude,
+          longitude: merged[i].longitude,
+          geocodeSource: merged[i].geocodeSource,
+        }),
+        tenancyStatus: rec.tenancyStatus ?? merged[i].tenancyStatus,
+        tenancyText: rec.tenancyText ?? merged[i].tenancyText,
         summary: merged[i].summary || rec.summary,
         riskTags: merged[i].riskTags?.length ? merged[i].riskTags : rec.riskTags,
         shortReportUrl: merged[i].shortReportUrl || rec.shortReportUrl,
@@ -358,12 +317,28 @@ async function main() {
 
       const parsed = parseDetailPage(detailHtml, entry);
 
+      // Tenancy: the short report has the structured field; older cases only have the detail page.
+      // A failed fetch leaves these undefined so upsert keeps what we already know.
+      let tenancy = {};
+      try {
+        let reportHtml = detailHtml;
+        if (parsed.shortReportUrl) {
+          await sleep(1000);
+          const reportRes = await fetch(parsed.shortReportUrl, { headers: HEADERS, signal: AbortSignal.timeout(15000) });
+          if (!reportRes.ok) throw new Error(`HTTP ${reportRes.status}`);
+          reportHtml = await reportRes.text();
+        }
+        const text = extractTenancyText(reportHtml) || extractTenancyText(detailHtml);
+        tenancy = { tenancyStatus: classifyTenancy(text), tenancyText: publicTenancyQuote(text) };
+      } catch (err) {
+        console.warn(`\n  tenancy lookup failed: ${err.message}`);
+      }
+
       // Geocode
       const plz = entry.plz || parsed.address.match(/\b(1[0-2]\d0)\b/)?.[1] || '';
       // Extract street part for geocoding
       const streetForGeo = parsed.address.replace(/^\d{4}\s+Wien\s+/, '');
       const geo = await geocodeAddress(streetForGeo, plz);
-      await sleep(500); // delay after geocode API call
 
       const estimatedValue = parsed.estimatedValue;
       const area = parsed.area;
@@ -392,6 +367,7 @@ async function main() {
         detailUrl: entry.detailUrl,
         pdfUrl: parsed.pdfUrl,
         shortReportUrl: parsed.shortReportUrl,
+        ...tenancy,
       };
 
       records.push(record);

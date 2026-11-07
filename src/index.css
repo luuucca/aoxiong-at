@@ -291,3 +291,8 @@ body {
    Add a tiny shimmer for gold-on-dark wordmarks in the brand strip when
    they slide into the central viewport (visual cue) — DEFERRED for now.
    ────────────────────────────────────────────────────────────────────────── */
+
+/* basemap.at has no dark style, so the listing map darkens its gray tiles. */
+.map-tiles-dark {
+  filter: invert(1) brightness(0.85) contrast(0.9);
+}

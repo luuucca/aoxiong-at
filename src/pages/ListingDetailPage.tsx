@@ -164,7 +164,12 @@ function DetailMap({ street, plz, storedLat, storedLng, title, hasHouseNumber }:
         style={{ height: '100%', width: '100%', background: '#0e0e0e' }}
         attributionControl={false}
       >
-        <TileLayer url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png" attribution="" />
+        <TileLayer
+          url="https://mapsneu.wien.gv.at/basemap/bmapgrau/normal/google3857/{z}/{y}/{x}.png"
+          attribution='Grundkarte: <a href="https://basemap.at">basemap.at</a>'
+          className="map-tiles-dark"
+          maxZoom={19}
+        />
         <Marker position={[storedLat, storedLng]} icon={goldPinIcon}>
           <Popup className="custom-popup">
             <div style={{ color: '#141414', fontWeight: 600, fontSize: 12 }}>{title}</div>

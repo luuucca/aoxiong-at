@@ -17,6 +17,7 @@ export default function AuctionPage() {
   const [filters, setFilters] = useState<FilterState>({
     search: '',
     category: 'all',
+    tenancy: 'all',
     sortBy: 'date-asc' as SortOption,
   })
 
@@ -39,7 +40,13 @@ export default function AuctionPage() {
           a.district.includes(q)
         const matchCategory =
           filters.category === 'all' || a.category === filters.category
-        return matchSearch && matchCategory
+        const tenancy = a.tenancyStatus ?? 'unknown'
+        const matchTenancy =
+          filters.tenancy === 'all' ||
+          (filters.tenancy === 'not-unlimited'
+            ? tenancy === 'vacant' || tenancy === 'limited'
+            : tenancy === filters.tenancy)
+        return matchSearch && matchCategory && matchTenancy
       })
       .sort((a, b) => {
         switch (filters.sortBy) {

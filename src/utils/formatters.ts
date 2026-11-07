@@ -1,4 +1,4 @@
-import type { Auction } from '../types/auction'
+import type { Auction, TenancyStatus } from '../types/auction'
 
 export function formatCurrency(value: number): string {
   // Überbot / archival rows often have 0 for these fields — render an
@@ -72,6 +72,14 @@ export const RISK_TAG_STYLES: Record<string, { bg: string; text: string; border:
   法律负担复杂: { bg: '#FFF1F2', text: '#9F1239', border: '#FDA4AF' },
   分割产权: { bg: '#F0FDF4', text: '#14532D', border: '#86EFAC' },
   历史建筑: { bg: '#F0F9FF', text: '#0C4A6E', border: '#7DD3FC' },
+}
+
+export const TENANCY_META: Record<TenancyStatus, { label: string; bg: string; text: string; border: string }> = {
+  vacant: { label: '无租约（空置/自用）', bg: '#F0FDF4', text: '#14532D', border: '#86EFAC' },
+  limited: { label: '定期出租', bg: '#FFFBEB', text: '#92400E', border: '#FCD34D' },
+  rented: { label: '已出租·期限未注明', bg: '#EFF6FF', text: '#1E40AF', border: '#BFDBFE' },
+  unlimited: { label: '无限期出租', bg: '#FEF2F2', text: '#991B1B', border: '#FECACA' },
+  unknown: { label: '租赁情况未注明', bg: '#F9FAFB', text: '#374151', border: '#D1D5DB' },
 }
 
 export function getRiskTagStyle(tag: string): { bg: string; text: string; border: string } {

@@ -1,70 +1,57 @@
 /**
  * fix-auction-coords.mjs
- * Re-geocodes any auction in public/data/auctions.json that was
- * tagged geocodeSource: "approximate" because the original fetcher
- * only split multi-street addresses on commas. Real Vienna data
- * uses slashes ("Krausegasse 23/Mautner-Markhof-Gasse 62") — the
- * fix is to try the first slash-separated street.
+ * Re-geocodes every auction in public/data/auctions.json with the
+ * postcode-checked geocoder and reports what moved.
+ *
+ * Run: node scripts/fix-auction-coords.mjs
  */
 import fs from 'node:fs';
+import { geocodeAddress } from './geocode-auction.mjs';
 
 const FILE = 'public/data/auctions.json';
-const UA = 'aoxiong-website/1.0 (coords-fix)';
-const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
-async function nominatim(query) {
-  const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(query + ', Wien, Austria')}&format=json&limit=1&countrycodes=at`;
-  const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept-Language': 'de' } });
-  if (!r.ok) return null;
-  const data = await r.json();
-  return data[0] ? { lat: parseFloat(data[0].lat), lng: parseFloat(data[0].lon) } : null;
+function distanceKm(aLat, aLng, bLat, bLng) {
+  const toRad = (d) => (d * Math.PI) / 180;
+  const x = toRad(bLng - aLng) * Math.cos(toRad((aLat + bLat) / 2));
+  const y = toRad(bLat - aLat);
+  return Math.hypot(x, y) * 6371;
 }
 
-async function geocodeCorner(address) {
-  // Strip "1110 Wien " prefix; keep just the street portion
-  const stripped = address.replace(/^\d{4}\s+Wien\s+/i, '').trim();
-  // Split on / OR , (some entries use either); whitespace tolerant
-  const parts = stripped.split(/\s*[\/,]\s*/).filter(Boolean);
-  // Try each street individually until Nominatim returns a hit
-  for (const part of parts) {
-    const hit = await nominatim(part);
-    if (hit) return hit;
-    await sleep(1100); // respect Nominatim's 1 req/s policy
+const list = JSON.parse(fs.readFileSync(FILE, 'utf8'));
+const addresses = [...new Set(list.map((a) => a.address))];
+console.log(`${list.length} auctions, ${addresses.length} unique addresses`);
+
+const results = new Map();
+for (const [i, address] of addresses.entries()) {
+  const plz = address.match(/\b1[0-2]\d0\b/)?.[0] || '';
+  const street = address.replace(/^\d{4}\s+Wien\s+/i, '');
+  results.set(address, await geocodeAddress(street, plz));
+  if ((i + 1) % 25 === 0) console.log(`  ${i + 1}/${addresses.length}`);
+}
+
+const moved = new Map();
+for (const a of list) {
+  const geo = results.get(a.address);
+  // Keep a known position over a district centre if this lookup found nothing.
+  if (geo.geocodeSource === 'approximate' && a.geocodeSource === 'official') {
+    moved.set(a.address, { km: 0, from: a.geocodeSource, to: 'NOT FOUND, kept old', lat: a.latitude, lng: a.longitude });
+    continue;
   }
-  // Last-ditch: try the full stripped string
-  return await nominatim(stripped);
-}
-
-async function main() {
-  const list = JSON.parse(fs.readFileSync(FILE, 'utf8'));
-  const targets = list.filter(a => a.geocodeSource === 'approximate');
-  console.log(`Found ${targets.length} approximate-coord auctions to fix`);
-
-  let ok = 0, fail = 0;
-  for (let i = 0; i < targets.length; i++) {
-    const a = targets[i];
-    process.stdout.write(`[${i + 1}/${targets.length}] ${a.address.slice(0, 60)}... `);
-    try {
-      const hit = await geocodeCorner(a.address);
-      if (hit) {
-        a.latitude = hit.lat;
-        a.longitude = hit.lng;
-        a.geocodeSource = 'official';
-        console.log(`✓ (${hit.lat.toFixed(4)}, ${hit.lng.toFixed(4)})`);
-        ok++;
-      } else {
-        console.log('✗ still no hit, leaving approximate');
-        fail++;
-      }
-    } catch (e) {
-      console.log('✗', e.message);
-      fail++;
-    }
-    await sleep(1100);
+  const km = distanceKm(a.latitude, a.longitude, geo.lat, geo.lng);
+  if (km > 0.05 || a.geocodeSource !== geo.geocodeSource) {
+    moved.set(a.address, { km, from: a.geocodeSource, to: geo.geocodeSource, lat: geo.lat, lng: geo.lng });
   }
-
-  fs.writeFileSync(FILE, JSON.stringify(list, null, 2), 'utf8');
-  console.log(`\nFixed ${ok} / failed ${fail}. Wrote ${FILE}.`);
+  a.latitude = geo.lat;
+  a.longitude = geo.lng;
+  a.geocodeSource = geo.geocodeSource;
 }
 
-main().catch(e => { console.error(e); process.exit(1); });
+fs.writeFileSync(FILE, JSON.stringify(list, null, 2));
+
+const sorted = [...moved].sort((a, b) => b[1].km - a[1].km);
+console.log(`\n${sorted.length} addresses changed:`);
+for (const [address, m] of sorted) {
+  console.log(`${m.km.toFixed(2).padStart(6)} km  ${m.from} -> ${m.to}  ${m.lat.toFixed(5)},${m.lng.toFixed(5)}  ${address}`);
+}
+const stillApprox = list.filter((a) => a.geocodeSource === 'approximate').length;
+console.log(`\nStill approximate: ${stillApprox} of ${list.length} auctions`);

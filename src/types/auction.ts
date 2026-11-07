@@ -9,6 +9,9 @@ export type AuctionCategory =
 
 export type GeocodeSource = 'official' | 'manual' | 'approximate'
 
+/** From the court report's Bestandsverhältnisse. See scripts/tenancy.mjs. */
+export type TenancyStatus = 'vacant' | 'limited' | 'rented' | 'unlimited' | 'unknown'
+
 export type SortOption =
   | 'date-asc'
   | 'value-desc'
@@ -49,6 +52,9 @@ export interface Auction {
   detailUrl: string
   pdfUrl: string
   shortReportUrl: string
+  tenancyStatus?: TenancyStatus
+  /** The report's wording, when short and free of personal names. */
+  tenancyText?: string
   /** ISO timestamp of when the scraper first encountered this UNID. */
   firstSeenAt?: string
   /** ISO timestamp of when Gemini generated the Chinese summary + riskTags. */
@@ -58,5 +64,7 @@ export interface Auction {
 export interface FilterState {
   search: string
   category: string
+  /** A TenancyStatus, or 'all', or 'not-unlimited' (vacant + limited). */
+  tenancy: string
   sortBy: SortOption
 }

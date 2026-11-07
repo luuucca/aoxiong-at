@@ -19,8 +19,7 @@ import {
   getRiskTagStyle,
   getCategoryLabel,
   generateTitle,
-  generateCnSummary,
-} from '../utils/formatters'
+  generateCnSummary, TENANCY_META } from '../utils/formatters'
 
 interface Props {
   auction: Auction
@@ -177,6 +176,19 @@ export function AuctionCard({ auction, isSelected, onClick }: Props) {
           </div>
           <p className="text-xs text-warm-600 leading-relaxed">{generateCnSummary(auction)}</p>
         </div>
+
+        {/* Tenancy */}
+        {(() => {
+          const meta = TENANCY_META[auction.tenancyStatus ?? 'unknown']
+          return (
+            <span
+              className="inline-block text-xs px-2 py-0.5 rounded-full font-medium mb-2"
+              style={{ backgroundColor: meta.bg, color: meta.text, border: `1px solid ${meta.border}` }}
+            >
+              {meta.label}
+            </span>
+          )
+        })()}
 
         {/* Risk tags */}
         {(auction.riskTags ?? []).length > 0 && (
