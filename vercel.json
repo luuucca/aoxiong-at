@@ -1,6 +1,10 @@
 {
+  "redirects": [
+    { "source": "/listing/:id", "destination": "/listings/:id", "permanent": true }
+  ],
   "rewrites": [
     { "source": "/sitemap.xml", "destination": "/api/sitemap.xml" },
+    { "source": "/listings/:id", "destination": "/api/listing-page?id=:id" },
     { "source": "/((?!api|.*\\.).*)", "destination": "/index.html" }
   ]
 }

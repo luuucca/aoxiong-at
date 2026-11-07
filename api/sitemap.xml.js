@@ -75,10 +75,9 @@ export default async function handler(req, res) {
     )
   }
   for (const l of listings) {
-    const id = l.id.replace(/-/g, '')
     const lastEdit = (l.last_edited_time || '').split('T')[0] || now
     urls.push(
-      `  <url>\n    <loc>${SITE}/listing/${escapeXml(id)}</loc>\n    <lastmod>${lastEdit}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.7</priority>\n  </url>`
+      `  <url>\n    <loc>${SITE}/listings/${escapeXml(l.id)}</loc>\n    <lastmod>${lastEdit}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.7</priority>\n  </url>`
     )
   }
 

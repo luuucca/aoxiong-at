@@ -15,6 +15,8 @@ import QuizPage from './pages/QuizPage'
 import MortgagePage from './pages/MortgagePage'
 import BuyingGuidePage from './pages/BuyingGuidePage'
 import MarketPage from './pages/MarketPage'
+import NotFoundPage from './pages/NotFoundPage'
+import { useRouteCanonical } from './utils/seo'
 import ProcessGuidePage from './pages/guide/ProcessGuidePage'
 import TaxesGuidePage from './pages/guide/TaxesGuidePage'
 import LoanGuidePage from './pages/guide/LoanGuidePage'
@@ -22,6 +24,8 @@ import DoeblingGuidePage from './pages/guide/DoeblingGuidePage'
 import StudentsGuidePage from './pages/guide/StudentsGuidePage'
 
 export default function App() {
+  useRouteCanonical()
+
   return (
     <>
       <Routes>
@@ -47,6 +51,8 @@ export default function App() {
         <Route path="/buying-guide/doebling-19" element={<><NavBar /><DoeblingGuidePage /></>} />
         <Route path="/buying-guide/students"    element={<><NavBar /><StudentsGuidePage /></>} />
         <Route path="/market"        element={<><NavBar /><MarketPage /></>} />
+
+        <Route path="*"              element={<><NavBar /><NotFoundPage /></>} />
       </Routes>
 
       {/* Cookie consent — rendered outside Routes so it appears on every page */}
