@@ -1,7 +1,7 @@
-const NOTION_API = 'https://api.notion.com/v1'
+export const NOTION_API = 'https://api.notion.com/v1'
 const NOTION_VERSION = '2022-06-28'
 
-function notionHeaders() {
+export function notionHeaders() {
   return {
     Authorization: `Bearer ${process.env.NOTION_TOKEN}`,
     'Notion-Version': NOTION_VERSION,
@@ -61,7 +61,7 @@ function descToHtml(text) {
   return s
 }
 
-function normalize(page) {
+export function normalize(page) {
   const p = page.properties || {}
   const photos = getFiles(p.Photos)
   return {

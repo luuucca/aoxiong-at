@@ -10,6 +10,7 @@ import { MapContainer, TileLayer, Marker, Popup, Polyline, useMap } from 'react-
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { Lightbox } from '../components/ui/Lightbox'
+import { DEFAULT_TITLE } from '../utils/seo'
 import { MortgageCalculator } from '../components/ui/MortgageCalculator'
 import { DistrictIntro } from '../components/ui/DistrictIntro'
 
@@ -454,6 +455,13 @@ export default function ListingDetailPage() {
       })
       .catch(err => { setError(String(err)); setLoading(false) })
   }, [id])
+
+  // The server sets these on direct loads; this covers in-app navigation.
+  useEffect(() => {
+    if (!data) return
+    document.title = `${data.title} | 奥匈置业研究所`
+    return () => { document.title = DEFAULT_TITLE }
+  }, [data])
 
   if (loading) {
     return (
