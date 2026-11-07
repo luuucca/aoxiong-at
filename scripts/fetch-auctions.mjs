@@ -14,6 +14,7 @@
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { geocodeAddress } from './geocode-auction.mjs';
 import { extractTenancyText, classifyTenancy, publicTenancyQuote } from './tenancy.mjs';
+import { classifyPropertyType } from './property-type.mjs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import crypto from 'crypto';
@@ -259,6 +260,9 @@ function upsert(existing, incoming) {
           tenancyStatus: rec.tenancyStatus ?? merged[i].tenancyStatus,
           tenancyText: rec.tenancyText ?? merged[i].tenancyText,
         }),
+        // A type or note set by hand after reading the report is kept.
+        propertyType: merged[i].propertyType || rec.propertyType,
+        propertyNote: merged[i].propertyNote,
         summary: merged[i].summary || rec.summary,
         riskTags: merged[i].riskTags?.length ? merged[i].riskTags : rec.riskTags,
         shortReportUrl: merged[i].shortReportUrl || rec.shortReportUrl,
@@ -358,6 +362,7 @@ async function main() {
         district: plz,
         title: parsed.title || entry.titleFromList,
         category: normalizeCategory(parsed.categoryRaw),
+        propertyType: classifyPropertyType({ categoryRaw: parsed.categoryRaw, text: parsed.ownershipType }),
         estimatedValue,
         minimumBid: parsed.minimumBid,
         area,

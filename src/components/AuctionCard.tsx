@@ -17,28 +17,16 @@ import {
   formatPerSqm,
   bidRatio,
   getRiskTagStyle,
-  getCategoryLabel,
+  getPropertyColor,
+  propertyLabel,
   generateTitle,
-  generateCnSummary, TENANCY_META } from '../utils/formatters'
+  HIGHLIGHT_COLOR,
+  TENANCY_META } from '../utils/formatters'
 
 interface Props {
   auction: Auction
   isSelected: boolean
   onClick: () => void
-}
-
-const CATEGORY_COLORS: Record<string, string> = {
-  Eigentumswohnung: '#1D3A2A',
-  Wohnungseigentumsobjekt: '#2A5040',
-  Einfamilienhaus: '#3D6B52',
-  Mehrfamilienhaus: '#1A3A5C',
-  Mietshaus: '#4A3A1A',
-  'gewerbliche Liegenschaft': '#5B21B6',
-  Sonstiges: '#6E685F',
-}
-
-function getCategoryColor(cat: string): string {
-  return CATEGORY_COLORS[cat] ?? '#6E685F'
 }
 
 function DaysChip({ dateStr }: { dateStr: string }) {
@@ -81,7 +69,8 @@ function DaysChip({ dateStr }: { dateStr: string }) {
 export function AuctionCard({ auction, isSelected, onClick }: Props) {
   const ref = useRef<HTMLDivElement>(null)
   const ratio = bidRatio(auction)
-  const catColor = getCategoryColor(auction.category)
+  const catColor = getPropertyColor(auction)
+  const tenancy = TENANCY_META[auction.tenancyStatus ?? 'unknown']
 
   // Scroll into view when selected
   useEffect(() => {
@@ -114,9 +103,9 @@ export function AuctionCard({ auction, isSelected, onClick }: Props) {
             className="text-xs font-semibold px-2 py-0.5 rounded-full text-white flex-shrink-0"
             style={{ backgroundColor: catColor }}
           >
-            {getCategoryLabel(auction.category)}
+            {propertyLabel(auction)}
           </span>
-          <span className="text-xs text-warm-400 truncate font-mono">{auction.caseNumber}</span>
+          <span className="text-xs text-warm-500 truncate tabular-nums">{auction.caseNumber}</span>
         </div>
         <div className="flex items-center gap-1.5 flex-shrink-0">
           <DaysChip dateStr={auction.auctionDate} />
@@ -127,14 +116,14 @@ export function AuctionCard({ auction, isSelected, onClick }: Props) {
       {/* Main content */}
       <div className="px-4 pt-3 pb-3">
         {/* Title */}
-        <h3 className="font-serif font-semibold text-forest-700 text-sm leading-tight mb-1">
+        <h3 className="font-sans font-semibold text-forest-700 text-base leading-snug mb-1 tabular-nums">
           {generateTitle(auction)}
         </h3>
 
         {/* Address */}
         <div className="flex items-start gap-1.5 mb-3">
           <MapPin size={12} className="text-warm-400 mt-0.5 flex-shrink-0" />
-          <span className="text-xs text-warm-600 leading-tight">{auction.address}</span>
+          <span className="text-sm text-warm-600 leading-snug">{auction.address}</span>
         </div>
 
         {/* Key metrics grid */}
@@ -144,20 +133,20 @@ export function AuctionCard({ auction, isSelected, onClick }: Props) {
             label="起拍价"
             value={formatCurrency(auction.minimumBid)}
             highlight={true}
-            highlightColor={ratio <= 0.5 ? '#B8922A' : '#1D3A2A'}
+            highlightColor={ratio <= 0.5 ? HIGHLIGHT_COLOR : '#1D3A2A'}
           />
           <MetricCell
             label="起拍/估值"
             value={formatPercent(ratio)}
             highlight={ratio <= 0.5}
-            highlightColor="#B8922A"
+            highlightColor={HIGHLIGHT_COLOR}
           />
         </div>
 
         <div className="grid grid-cols-3 gap-2 mb-3">
           <MetricCell label="面积" value={formatArea(auction.area)} highlight={false} />
           <MetricCell label="单价" value={formatPerSqm(auction.pricePerSqm)} highlight={false} />
-          <MetricCell label="Vadium" value={formatCurrency(auction.deposit)} highlight={false} />
+          <MetricCell label="保证金" value={formatCurrency(auction.deposit)} highlight={false} />
         </div>
 
         {/* Auction date */}
@@ -168,49 +157,36 @@ export function AuctionCard({ auction, isSelected, onClick }: Props) {
           </span>
         </div>
 
-        {/* Summary */}
-        <div className="mb-3 bg-cream-50 rounded-lg px-3 py-2 border border-cream-200">
-          <div className="flex items-center gap-1 mb-1">
-            <FileText size={11} className="text-warm-400" />
-            <span className="text-xs font-medium text-warm-500">物业概况</span>
-          </div>
-          <p className="text-xs text-warm-600 leading-relaxed">{generateCnSummary(auction)}</p>
-        </div>
-
-        {/* Tenancy */}
-        {(() => {
-          const meta = TENANCY_META[auction.tenancyStatus ?? 'unknown']
-          return (
-            <span
-              className="inline-block text-xs px-2 py-0.5 rounded-full font-medium mb-2"
-              style={{ backgroundColor: meta.bg, color: meta.text, border: `1px solid ${meta.border}` }}
-            >
-              {meta.label}
-            </span>
-          )
-        })()}
-
-        {/* Risk tags */}
-        {(auction.riskTags ?? []).length > 0 && (
-          <div className="flex flex-wrap gap-1.5 mb-3">
-            {(auction.riskTags ?? []).map((tag) => {
-              const style = getRiskTagStyle(tag)
-              return (
-                <span
-                  key={tag}
-                  className="text-xs px-2 py-0.5 rounded-full font-medium"
-                  style={{
-                    backgroundColor: style.bg,
-                    color: style.text,
-                    border: `1px solid ${style.border}`,
-                  }}
-                >
-                  {tag}
-                </span>
-              )
-            })}
-          </div>
+        {/* Report summary */}
+        {auction.summarizedAt && (
+          <p className="text-sm text-warm-600 leading-6 mb-3 line-clamp-2 tabular-nums">{auction.summary}</p>
         )}
+
+        {/* Tenancy and risks */}
+        <div className="flex flex-wrap gap-1.5 mb-3">
+          <span
+            className="text-xs px-2 py-0.5 rounded-full font-medium"
+            style={{ backgroundColor: tenancy.bg, color: tenancy.text, border: `1px solid ${tenancy.border}` }}
+          >
+            {tenancy.label}
+          </span>
+          {(auction.riskTags ?? []).map((tag) => {
+            const style = getRiskTagStyle(tag)
+            return (
+              <span
+                key={tag}
+                className="text-xs px-2 py-0.5 rounded-full font-medium"
+                style={{
+                  backgroundColor: style.bg,
+                  color: style.text,
+                  border: `1px solid ${style.border}`,
+                }}
+              >
+                {tag}
+              </span>
+            )
+          })}
+        </div>
 
         {/* Action buttons */}
         <div className="flex items-center gap-2 pt-2 border-t border-cream-200">
@@ -246,7 +222,7 @@ function MetricCell({
   label,
   value,
   highlight,
-  highlightColor = '#B8922A',
+  highlightColor = HIGHLIGHT_COLOR,
 }: {
   label: string
   value: string
@@ -255,9 +231,9 @@ function MetricCell({
 }) {
   return (
     <div className="bg-cream-50 rounded-md px-2 py-1.5">
-      <div className="text-xs text-warm-400 leading-tight">{label}</div>
+      <div className="text-xs text-warm-500 leading-tight">{label}</div>
       <div
-        className="text-xs font-semibold leading-tight mt-0.5 truncate"
+        className="text-sm font-semibold leading-snug mt-0.5 truncate tabular-nums"
         style={{ color: highlight ? highlightColor : '#1D3A2A' }}
       >
         {value}

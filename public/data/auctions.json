@@ -21,7 +21,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/62af2c93a0d4c4e1c1258d1c00225860!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/47dee1d4eae3bbe3c1258d1c0022586c/$file/GA%201180%20Gersthofer%20Str%2010.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-a468679bdbbc",
@@ -45,7 +46,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a468679bdbbc73d1c1258d1c00225a5c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/47dee1d4eae3bbe3c1258d1c0022586c/$file/GA%201180%20Gersthofer%20Str%2010.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-9197ca527a59",
@@ -69,7 +71,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9197ca527a594d6bc1258db20041d0bc!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/59a286873265ce6ac1258db20041d0ca/$file/SVGA%2046%2024%20d.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-df4fd16b903e",
@@ -92,7 +95,8 @@
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/df4fd16b903e1cb3c1258da200331611!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/01fdb2dd68231642c1258da200331613/$file/GA%201180%20Gentzg%20144.pdf",
-    "shortReportUrl": ""
+    "shortReportUrl": "",
+    "propertyType": "其他"
   },
   {
     "id": "wien-c12ad42969c7",
@@ -115,7 +119,8 @@
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c12ad42969c75168c1258ddb0039eb38!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f841657b1f61e808c1258ddb0039eb3a/$file/Gutachten%201190%20Wien%2C%20Villenweg%2046.pdf",
-    "shortReportUrl": ""
+    "shortReportUrl": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-c1a13b6266a8",
@@ -139,7 +144,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c1a13b6266a8439dc1258dc0003f8bb8!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/047c2b33bf3efe8fc1258dc0003f8bc8/$file/GA%201110%20Wien%2C%20Krausegasse%2023_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-93f8142303a3",
@@ -163,7 +169,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/93f8142303a3d3c4c1258dd400500042!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cd8b96be1d11c1cec1258dd400500044/$file/Gutachten%201190%20Wien%2C%20Pfarrwiesengasse%2011.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-4a0be93350d3",
@@ -186,7 +193,8 @@
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4a0be93350d34d10c1258dbd00348e36!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0b96f175361cdb0ac1258dbd00348e38/$file/GA%201230%20Anton-Heger-Platz%202_Geschw%C3%A4rzt.pdf",
-    "shortReportUrl": ""
+    "shortReportUrl": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f65c75f0f159",
@@ -210,7 +218,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f65c75f0f159148fc1258dc600372e41!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/031bacde9766373cc1258dc600372e50/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-b9ce77e644cf",
@@ -234,7 +243,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b9ce77e644cf028bc1258dc6003790f2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/031bacde9766373cc1258dc600372e50/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-62f0dd869a00",
@@ -258,7 +268,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/62f0dd869a00ff82c1258dc60037c95d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/031bacde9766373cc1258dc600372e50/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-d90c2435e851",
@@ -282,7 +293,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d90c2435e851ac31c1258dc60037f964!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/031bacde9766373cc1258dc600372e50/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-8f29d399b174",
@@ -306,7 +318,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8f29d399b1743024c1258dbe004debf1!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5187758f7ece31b8c1258dbe004debf3/$file/GA%20Top%2016.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d2d360bb7c7d",
@@ -330,7 +343,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d2d360bb7c7d1ae5c1258dbe004df2c0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5187758f7ece31b8c1258dbe004debf3/$file/GA%20Top%2016.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-6e1976fc8411",
@@ -354,7 +368,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/6e1976fc84112912c1258ddb003eef48!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f5a3e1a735ec9236c1258ddb003eef4a/$file/Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-ca41d0947b2d",
@@ -378,7 +393,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ca41d0947b2d20e9c1258dc300306f82!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b46a2fb823e0c53fc1258dc300306f8c/$file/GA%201130%20Wien%2C%20Auhofstra%C3%9Fe%20205_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-14ac5863e550",
@@ -402,7 +418,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/14ac5863e550f93fc1258dd400473bf0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c3c7cfd95c45f929c1258dd400473bfa/$file/GA_Halbg27_W7_L8kom.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-631d3d502318",
@@ -426,7 +443,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/631d3d5023183e2bc1258dd400473da6!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c3c7cfd95c45f929c1258dd400473bfa/$file/GA_Halbg27_W7_L8kom.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-27a1760c697f",
@@ -450,7 +468,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/27a1760c697ff0a7c1258de2003f6211!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8e77d818aab5103ac1258de2003f6213/$file/260174_SV-GA.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "阁楼毛坯"
   },
   {
     "id": "wien-f233b3f6ad6f",
@@ -474,7 +493,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f233b3f6ad6f2ac0c1258dd8004975e2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a7c2094f705577ebc1258dd8004975f2/$file/SV%20035-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-622d75f3f978",
@@ -498,7 +518,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/622d75f3f978a283c1258dd90025aff2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8768876dc7e13190c1258dd90025aff4/$file/Gutachten%201170%20Wien%2C%20Gschwandnergasse%2033.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-f55554c99440",
@@ -522,7 +543,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f55554c99440c89ec1258dda00401fe4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/53c2ae56c7169787c1258dda00401fe6/$file/251162_SV-GA.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d34339340ab8",
@@ -546,7 +568,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d34339340ab869e4c1258de8004fed37!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/26638c74d0e2243bc1258dbf005da8dd/$file/GZ-24110-1140_Felbigergasse107A_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "其他"
   },
   {
     "id": "wien-c04c4a1dbf06",
@@ -570,7 +593,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c04c4a1dbf06ba0dc1258de10033b91c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/ead113aa69161b84c1258de10033b91e/$file/GA%201180%20Theresieng%2016_Geschw%C3%A4rzt.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-10eb24cdc4b2",
@@ -594,7 +618,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/10eb24cdc4b20f48c1258dd30032074a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b85fa7838e45077ec1258dd30032076b/$file/Eipeldauer%20Stra%C3%9Fe%2038_Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-c671e12ee773",
@@ -618,7 +643,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c671e12ee773dde4c1258de200268e0d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a999a591376f3fbac1258de200268e0f/$file/VW-GA_1220%20Wien%2C%20Wagramer%20Stra%C3%9Fe%2068_Ausfertigungsfassung.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "其他"
   },
   {
     "id": "wien-f74653c57e83",
@@ -642,7 +668,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f74653c57e83c2e4c1258de0003e1a06!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c7264293f6b359c7c1258de0003e1a09/$file/VW-GA_1120%20Wien%2C%20%20Pohlgasse%202-4%20%26%206%2C%20Meidlinger%20Hauptstra%C3%9Fe%2046_Ausfertigungsfassung.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-9843515131bb",
@@ -666,7 +693,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9843515131bb7322c1258de60032444f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6cba0baea04b5d78c1258de60032445d/$file/SV%20034-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-7b9d1464204e",
@@ -690,7 +718,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7b9d1464204e603ac1258dda00219ffc!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/17eefe3eca2c1bfac1258dda00219ffe/$file/Gutachten%201060%20Wien%2C%20Hofm%C3%BChlgasse%207a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-7d5fc2e261d9",
@@ -714,7 +743,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7d5fc2e261d9cb2ac1258dd800612378!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6756895d8b0d8f5bc1258dd800612380/$file/Gutachten%201030%20Wien%2C%20Drorygasse%2020.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-0aa7afb373eb",
@@ -738,7 +768,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0aa7afb373eb39d8c1258dd800612508!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6756895d8b0d8f5bc1258dd800612380/$file/Gutachten%201030%20Wien%2C%20Drorygasse%2020.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-041b121a0150",
@@ -762,7 +793,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/041b121a01508749c1258dd8005e4136!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b1016bbd5b81905fc1258dd8005e4138/$file/Gutachten%20Original%20W%2011%20(2025-12-22).pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-b06696747e0d",
@@ -786,7 +818,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b06696747e0ddb35c1258dd8005e4930!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f88a5250191dbb63c1258dd8005e4932/$file/Gutachten%20Original%20W%2012%20(2025-12-22).pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-3550dc7740ac",
@@ -810,7 +843,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/3550dc7740ac876bc1258dd8005e4f22!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2870694c0d7b50a5c1258dd8005e4f24/$file/Gutachten%20Original%20W%2016%20(2025-12-22).pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-39b260f94cd4",
@@ -834,7 +868,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/39b260f94cd49ddcc1258dda0022d534!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bb07360c445bb183c1258dda0022d556/$file/Hofwiesengasse%2019_Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-fcb3e6813887",
@@ -858,7 +893,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/fcb3e6813887546ac1258dcd0040dce7!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3910601841f9c1a8c1258dcd0040dcf5/$file/SV%20061-24%20Gutachten%20%C3%BCberarbeitet.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-88b170abd402",
@@ -882,7 +918,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/88b170abd4026623c1258df4003db375!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cdf5e1001a8bbb68c1258df4003db380/$file/GA%201120%20Wien%20Sch%C3%B6nbrunner%20Stra%C3%9Fe%20273_Ruckergasse%202_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-21c37d8447d6",
@@ -906,7 +943,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/21c37d8447d62acec1258df4003fe791!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f8cf6bad0853245bc1258df4003fe79c/$file/Gutachten01%20Oppelgasse%204.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-9c804d1d57cb",
@@ -930,7 +968,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9c804d1d57cbb258c1258de0002cbada!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/acdc29b027c992a9c1258de0002cbae8/$file/SV%20031-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-e08870041f97",
@@ -954,7 +993,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e08870041f9792f3c1258ddf003c685d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bc3c8ae7eaa7cc35c1258ddf003c6868/$file/GA%20Amerling.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-9acaeaed98f8",
@@ -978,7 +1018,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9acaeaed98f8b9b5c1258ddf003cae38!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bc3c8ae7eaa7cc35c1258ddf003c6868/$file/GA%20Amerling.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d849d17e06b1",
@@ -1002,7 +1043,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d849d17e06b19a49c1258ddf003ce45a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/54ebfa85f52d961cc1258ddf003ce45c/$file/Stellungnahme.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "阁楼毛坯"
   },
   {
     "id": "wien-bd593dfb4a4d",
@@ -1026,7 +1068,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/bd593dfb4a4da9bcc1258dda002a5abc!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/336272b44cbb1ff3c1258dda002a5ac1/$file/ggavw1010%20WienSingerstra%C3%9Fe30Top39_K2_mB-signed.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f44ad78a7817",
@@ -1050,7 +1093,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f44ad78a78173f6fc1258dee00262386!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2d82394000dce2c3c1258dee00262388/$file/GZ-25124-1210_Gro%C3%9Fbauerstra%C3%9Fe11_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-681c1cfc2213",
@@ -1074,7 +1118,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/681c1cfc2213034cc1258dee004b62bf!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f131cd50debdda8cc1258dee004b62cc/$file/GA_Lienfeldergasse%203_%20T4kom.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-8b2bb24cfffe",
@@ -1098,7 +1143,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8b2bb24cfffec3e7c1258dee0039a27b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cf61fab4eb7868fcc1258dee0039a288/$file/Gutachten_Otto-Bauer-Gasse%2019.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-eafd3e3a226b",
@@ -1122,7 +1168,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/eafd3e3a226ba561c1258de2003bb803!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6d06a480fd463d7ac1258de2003bb80c/$file/GA%201030%20Wien%2C%20Marokkanergasse%2021_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-eb4d03bde61e",
@@ -1146,7 +1193,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/eb4d03bde61ec5fac1258de2003bf2bd!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6d06a480fd463d7ac1258de2003bb80c/$file/GA%201030%20Wien%2C%20Marokkanergasse%2021_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-cebdbd7e3253",
@@ -1170,7 +1218,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/cebdbd7e32530df9c1258de2003c2920!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6d06a480fd463d7ac1258de2003bb80c/$file/GA%201030%20Wien%2C%20Marokkanergasse%2021_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-7bae26637858",
@@ -1194,7 +1243,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7bae266378584158c1258df10021fb0f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e69d67262c8db476c1258df10021fb11/$file/Gutachten%201190%20Wien%2C%20Bellevuestra%C3%9Fe%2020.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-d78acb96533d",
@@ -1218,7 +1268,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d78acb96533d3538c1258de90042942a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/abc7091066c42701c1258de90042942c/$file/gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-c089a7ed12ce",
@@ -1242,7 +1293,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c089a7ed12ce1651c1258df0003285c4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bc0d2e2b19de827bc1258df0003285c6/$file/Gutachten%20Edikte.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-27bea66f7e74",
@@ -1266,7 +1318,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/27bea66f7e74f97fc1258df500559f23!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/86bc4f744868d315c1258df500559f25/$file/Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-96f0544d7a11",
@@ -1290,7 +1343,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/96f0544d7a11c958c1258df4003de52a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c50b23e7570c6151c1258df4003de52c/$file/Gutachtenserga%CC%88nzung_2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-507ced1ad886",
@@ -1314,7 +1368,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/507ced1ad8860df4c1258df50045a024!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/affcde620520a7c5c1258df50045a026/$file/260181_SV-GA.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-278822ca51a8",
@@ -1338,7 +1393,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/278822ca51a85a3dc1258dee00243d30!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/870e9d73ddac1920c1258dee00243d32/$file/GZ-25067-1210_Kormorangasse9-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-8ac5cf1dfbc5",
@@ -1362,7 +1418,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8ac5cf1dfbc500c9c1258def002cb802!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/97b5bb32be7eb7fbc1258def002cb804/$file/GZ-25166-1210_Senderstra%C3%9Fe71-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "其他"
   },
   {
     "id": "wien-1ee4a58d3125",
@@ -1386,7 +1443,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1ee4a58d31258264c1258ded0048a392!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/88b1d37da971ce8cc1258ded0048a3a6/$file/GA%201230%20Otto-Mauer-G%2010.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "其他"
   },
   {
     "id": "wien-3723d5192156",
@@ -1410,7 +1468,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/3723d51921565796c1258de800335fae!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2df6f0d2a42b074cc1258de800335fc0/$file/B%C3%B6ckingstra%C3%9Fe%2013_Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "车位"
   },
   {
     "id": "wien-f9c993930c4e",
@@ -1434,7 +1493,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f9c993930c4e5963c1258df10035ecf2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8895c949e3f3b2f0c1258df10035ecf4/$file/Gutachten%20Parzelle%2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-f3039988a849",
@@ -1458,7 +1518,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f3039988a84965dfc1258df100336f13!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/13da10efcf54e869c1258df100336f15/$file/Gutachten%20%20Parzelle%2027.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-94edcaab1d42",
@@ -1482,7 +1543,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/94edcaab1d4258b3c1258df400329618!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0690c1d64ab0d785c1258df40032961a/$file/GZ-25111-1140_Fl%C3%B6tzersteig241_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "其他"
   },
   {
     "id": "wien-27d1516da2f7",
@@ -1506,7 +1568,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/27d1516da2f7fc28c1258df6002000c3!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/964f7ec211bb6030c1258df6002000c5/$file/260449_SV-GA.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-476871fc4cdf",
@@ -1530,7 +1593,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/476871fc4cdfe486c1258df600357f62!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4df369d472d863b1c1258df600357f64/$file/GA%201230%20Rielg%2022.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-84a4be521973",
@@ -1554,7 +1618,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/84a4be52197396e7c1258df70039ceff!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e51b0edd873fd30bc1258df70039cf0b/$file/GA%201050%20Wien%2C%20Gassergasse%2012%20v%2020251119%20GZ%2050%20E%2054_25f.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-078d63afcb1f",
@@ -1578,7 +1643,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/078d63afcb1f2e74c1258df70039d1d0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e51b0edd873fd30bc1258df70039cf0b/$file/GA%201050%20Wien%2C%20Gassergasse%2012%20v%2020251119%20GZ%2050%20E%2054_25f.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-dd1e1e7a3c38",
@@ -1602,7 +1668,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/dd1e1e7a3c382da5c1258df70039d3ce!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e51b0edd873fd30bc1258df70039cf0b/$file/GA%201050%20Wien%2C%20Gassergasse%2012%20v%2020251119%20GZ%2050%20E%2054_25f.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-117efe9190e4",
@@ -1626,7 +1693,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/117efe9190e40e0dc1258df8002e1e34!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a6eb7325a3d7a36bc1258df8002e1e44/$file/Langgutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-08827ba105e9",
@@ -1650,7 +1718,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/08827ba105e93822c1258dfc00229788!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5815474c03a2475cc1258dfc0022978a/$file/250522_SV-GA.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": ""
+    "firstSeenAt": "",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-93b38ae989cd",
@@ -1674,7 +1743,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/93b38ae989cd49c5c1258dfe0032fe0c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2bd15aedf8ba4e59c1258dfe0032fe13/$file/SV%20051-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-21T12:36:54.898Z"
+    "firstSeenAt": "2026-05-21T12:36:54.898Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f716eb835835",
@@ -1698,7 +1768,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f716eb83583538d8c1258dff003cc61b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e5f531a302cda271c1258dff003cc61d/$file/Langgutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-22T11:38:14.408Z"
+    "firstSeenAt": "2026-05-22T11:38:14.408Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-fc524feed93d",
@@ -1722,7 +1793,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/fc524feed93dc304c1258e04001f2b28!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c5d91117363df990c1258e04001f2b2a/$file/GA-Breitenfurter%20Stra%C3%9Fe%20121_Letztstand.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-27T12:47:31.689Z"
+    "firstSeenAt": "2026-05-27T12:47:31.689Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-0c9ef33f8226",
@@ -1746,7 +1818,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0c9ef33f82260330c1258e0300556716!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a58e72d1fd0f095bc1258e0300556718/$file/GA%2025E2426.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-27T12:47:31.689Z"
+    "firstSeenAt": "2026-05-27T12:47:31.689Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-f6867a5f73a3",
@@ -1770,7 +1843,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f6867a5f73a307a8c1258e06002f2da3!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/fe3a6bd61957728ac1258e06002f2da5/$file/GA_InzersorferStr82_2_1.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-29T16:09:44.344Z"
+    "firstSeenAt": "2026-05-29T16:09:44.344Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-eaa8d3fa3ed1",
@@ -1794,7 +1868,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/eaa8d3fa3ed1981ec1258e06002f68b9!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/fe3a6bd61957728ac1258e06002f2da5/$file/GA_InzersorferStr82_2_1.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-29T16:09:44.344Z"
+    "firstSeenAt": "2026-05-29T16:09:44.344Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-9832128b166c",
@@ -1818,7 +1893,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9832128b166ce886c1258e060031ed92!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1965c746b9ed9e6ec1258e060031ed94/$file/GA-Rotensterngasse%2021_Top%206.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-29T16:09:44.344Z"
+    "firstSeenAt": "2026-05-29T16:09:44.344Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-db50bc334a58",
@@ -1842,7 +1918,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/db50bc334a58b7c4c1258e06002b2776!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6e4f920929c204ffc1258e06002b2778/$file/GA%20Stammgasse.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-29T16:09:44.344Z"
+    "firstSeenAt": "2026-05-29T16:09:44.344Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d0a886e77608",
@@ -1866,7 +1943,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d0a886e7760801fdc1258e06003cc32b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0f3b44a600e0268ac1258e06003cc32d/$file/25%2005%2026%20Gutachten%20Sch%C3%BCtzengasse%2011_Hofhaus%20Top%209%20und%2010.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-29T16:09:44.344Z"
+    "firstSeenAt": "2026-05-29T16:09:44.344Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-3a15fc8ae537",
@@ -1890,7 +1968,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/3a15fc8ae5371258c1258e0800253cc2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cfbf74bfad1a8798c1258e0800253cca/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-31T10:06:02.131Z"
+    "firstSeenAt": "2026-05-31T10:06:02.131Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-c3f2b34aabeb",
@@ -1914,7 +1993,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c3f2b34aabeb3a5cc1258e08002562d6!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cfbf74bfad1a8798c1258e0800253cca/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-31T10:06:02.131Z"
+    "firstSeenAt": "2026-05-31T10:06:02.131Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-1c323021d407",
@@ -1938,7 +2018,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1c323021d407b36fc1258e0800258ee1!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cfbf74bfad1a8798c1258e0800253cca/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-31T10:06:02.131Z"
+    "firstSeenAt": "2026-05-31T10:06:02.131Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-681e4e241ed1",
@@ -1962,7 +2043,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/681e4e241ed1c1d8c1258e080025cd20!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cfbf74bfad1a8798c1258e0800253cca/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-31T10:06:02.131Z"
+    "firstSeenAt": "2026-05-31T10:06:02.131Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-1542426a3b4e",
@@ -1986,7 +2068,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1542426a3b4e2b56c1258e080026d87c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cfbf74bfad1a8798c1258e0800253cca/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-05-31T10:06:02.131Z"
+    "firstSeenAt": "2026-05-31T10:06:02.131Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-59c4d036f2c7",
@@ -2010,7 +2093,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/59c4d036f2c72377c1258e09004de899!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/26638c74d0e2243bc1258dbf005da8dd/$file/GZ-24110-1140_Felbigergasse107A_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-01T20:01:36.548Z"
+    "firstSeenAt": "2026-06-01T20:01:36.548Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-b4bbd1201795",
@@ -2034,7 +2118,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b4bbd120179598f9c1258e09003d6ffa!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/649efe12330daf6dc1258e09003d6ffc/$file/Gutachten%201060%20Wien%2C%20Eisvogelgasse%206%20Top%2010_WuG.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-01T20:01:36.548Z"
+    "firstSeenAt": "2026-06-01T20:01:36.548Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-16c514a91168",
@@ -2058,7 +2143,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/16c514a9116818d4c1258e09003f3f6f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5d50a2f0d68f0966c1258e09003f3f7a/$file/GA%20Stubenring%202-1.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-01T20:01:36.548Z"
+    "firstSeenAt": "2026-06-01T20:01:36.548Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-7c5c40d91230",
@@ -2082,7 +2168,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7c5c40d91230970cc1258e09003f74fb!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5d50a2f0d68f0966c1258e09003f3f7a/$file/GA%20Stubenring%202-1.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-01T20:01:36.548Z"
+    "firstSeenAt": "2026-06-01T20:01:36.548Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-e399b910ff06",
@@ -2106,7 +2193,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e399b910ff06978fc1258e09003fba6c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5d50a2f0d68f0966c1258e09003f3f7a/$file/GA%20Stubenring%202-1.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-01T20:01:36.548Z"
+    "firstSeenAt": "2026-06-01T20:01:36.548Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-4c44b0ac83d1",
@@ -2130,7 +2218,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4c44b0ac83d169d2c1258e100027ace6!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f4ab4d3d23c7e31cc1258e100027ace8/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-08T14:57:32.246Z"
+    "firstSeenAt": "2026-06-08T14:57:32.246Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-1bab5fe55574",
@@ -2154,7 +2243,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1bab5fe555745a49c1258e10002ccebe!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f4ab4d3d23c7e31cc1258e100027ace8/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-08T14:57:32.246Z"
+    "firstSeenAt": "2026-06-08T14:57:32.246Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-e74e93d9bb43",
@@ -2178,7 +2268,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e74e93d9bb436099c1258e10002f99ad!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f4ab4d3d23c7e31cc1258e100027ace8/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-08T14:57:32.246Z"
+    "firstSeenAt": "2026-06-08T14:57:32.246Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-ab6799c3752a",
@@ -2202,7 +2293,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ab6799c3752a2a13c1258e1000305191!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f4ab4d3d23c7e31cc1258e100027ace8/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-08T14:57:32.246Z"
+    "firstSeenAt": "2026-06-08T14:57:32.246Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-98fd139e7ca4",
@@ -2226,7 +2318,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/98fd139e7ca47bcfc1258e100030f158!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f4ab4d3d23c7e31cc1258e100027ace8/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-08T14:57:32.246Z"
+    "firstSeenAt": "2026-06-08T14:57:32.246Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-35c4360f4ada",
@@ -2250,7 +2343,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/35c4360f4ada8f7ec1258e10003178a2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f4ab4d3d23c7e31cc1258e100027ace8/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-08T14:57:32.246Z"
+    "firstSeenAt": "2026-06-08T14:57:32.246Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-0dfc9edc741c",
@@ -2274,7 +2368,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0dfc9edc741caaf9c1258e1000259608!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cd7a7d54fd5d28aec1258e1000259613/$file/GA%20Barnabitengasse%204.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-08T14:57:32.246Z"
+    "firstSeenAt": "2026-06-08T14:57:32.246Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-33f2fcc6f9b5",
@@ -2298,7 +2393,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/33f2fcc6f9b55e1cc1258e12002485f9!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d88d6c07319bf261c1258e1200248606/$file/Gutachten_Otto-Bauer-Gasse%2019.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-10T12:49:45.935Z"
+    "firstSeenAt": "2026-06-10T12:49:45.935Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-cc3910b763db",
@@ -2322,7 +2418,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/cc3910b763db0274c1258e12003986ef!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f3c37994c4c17f67c1258e12003986f1/$file/Gutachten%201190%20Wien%2C%20Hofzeile%2029.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-10T12:49:45.935Z"
+    "firstSeenAt": "2026-06-10T12:49:45.935Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-48a82cf89402",
@@ -2346,7 +2443,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/48a82cf89402d261c1258e1200348385!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/77d0dc554b93dbc8c1258e1200348387/$file/Gutachten%20Original%20(2025-11-05).pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-10T12:49:45.935Z"
+    "firstSeenAt": "2026-06-10T12:49:45.935Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-1d905cf8b9de",
@@ -2370,7 +2468,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1d905cf8b9de5530c1258e12003cbae7!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e2f601db4ab85feec1258e12003cbaea/$file/VW-GA_1120%20Wien%2C%20%20Pohlgasse%202-4%20%26%206%2C%20Meidlinger%20Hauptstra%C3%9Fe%2046_Ausfertigungsfassung.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-10T12:49:45.935Z"
+    "firstSeenAt": "2026-06-10T12:49:45.935Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-e8d61bf5ef18",
@@ -2394,7 +2493,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e8d61bf5ef18cb35c1258e13002534fb!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10f9f06284e3be95c1258e130025350b/$file/GA%201130%20Wien%2C%20Fasangartengase%2070E_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-11T15:04:51.147Z"
+    "firstSeenAt": "2026-06-11T15:04:51.147Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-1cb67efd0062",
@@ -2418,7 +2518,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1cb67efd00623cc3c1258e13002541a9!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10f9f06284e3be95c1258e130025350b/$file/GA%201130%20Wien%2C%20Fasangartengase%2070E_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-11T15:04:51.147Z"
+    "firstSeenAt": "2026-06-11T15:04:51.147Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-8e949435d593",
@@ -2442,7 +2543,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8e949435d593b2f7c1258e1a003545d5!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e3702fafc0ae9a28c1258e1a003545df/$file/SV%20002-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-1a32185c4ab5",
@@ -2466,7 +2568,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1a32185c4ab52847c1258e1a0030891f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00001fb602006c8bc1258e1a00308921/$file/GA-Bendlgasse%2031_30J%C3%A4n2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-dc2c089a0584",
@@ -2490,7 +2593,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/dc2c089a0584ba81c1258e1a00316c5f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00001fb602006c8bc1258e1a00308921/$file/GA-Bendlgasse%2031_30J%C3%A4n2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-5a5c884c4e39",
@@ -2514,7 +2618,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/5a5c884c4e392892c1258e1a003289b0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00001fb602006c8bc1258e1a00308921/$file/GA-Bendlgasse%2031_30J%C3%A4n2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-26a33206c23f",
@@ -2538,7 +2643,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/26a33206c23f19f6c1258e1a00334ee6!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00001fb602006c8bc1258e1a00308921/$file/GA-Bendlgasse%2031_30J%C3%A4n2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-c26546b6b5f6",
@@ -2562,7 +2668,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c26546b6b5f67567c1258e1a00341af7!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00001fb602006c8bc1258e1a00308921/$file/GA-Bendlgasse%2031_30J%C3%A4n2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-593a9bb93a8e",
@@ -2586,7 +2693,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/593a9bb93a8ed45cc1258e1a0034f869!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00001fb602006c8bc1258e1a00308921/$file/GA-Bendlgasse%2031_30J%C3%A4n2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-6b9f769627ac",
@@ -2610,7 +2718,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/6b9f769627ac9d5bc1258e1a00360601!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/00001fb602006c8bc1258e1a00308921/$file/GA-Bendlgasse%2031_30J%C3%A4n2026.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-19T06:29:36.700Z"
+    "firstSeenAt": "2026-06-19T06:29:36.700Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-375e653bf624",
@@ -2634,7 +2743,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/375e653bf624c6fbc1258e1e00416d1f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4fef9603533876bec1258e1e00416d30/$file/Gutachten%201190%20Wien%2C%20Rudolfinergasse%203A.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-23T05:13:08.693Z"
+    "firstSeenAt": "2026-06-23T05:13:08.693Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-acd2e1afc2f8",
@@ -2658,7 +2768,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/acd2e1afc2f8bb89c1258e20003e6dda!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/cf4071940780c0f2c1258e20003e6de4/$file/GA%201130%20Wien%2C%20Auhofstra%C3%9Fe%20205_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-25T05:13:58.526Z"
+    "firstSeenAt": "2026-06-25T05:13:58.526Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-60c438a442f3",
@@ -2682,7 +2793,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/60c438a442f3782cc1258e21003455ac!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/45d807f3aa01fb9bc1258e21003455ae/$file/260024_SV-GA.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-26T05:19:33.099Z"
+    "firstSeenAt": "2026-06-26T05:19:33.099Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-020239482d65",
@@ -2706,7 +2818,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/020239482d65a306c1258e250039913b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d00372e7cc5ac8b4c1258e250039913d/$file/Gutachten%201190%20Wien%2C%20Sieveringer%20Stra%C3%9Fe%20109.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-30T05:15:25.426Z"
+    "firstSeenAt": "2026-06-30T05:15:25.426Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-da65af29c00d",
@@ -2730,7 +2843,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/da65af29c00dc831c1258e25002692eb!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/29f10af1a65aff8ec1258e25002692ed/$file/GA-OHNE%20Anh_Fleschgasse.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-06-30T05:15:25.426Z"
+    "firstSeenAt": "2026-06-30T05:15:25.426Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-5976df9e7eeb",
@@ -2754,7 +2868,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/5976df9e7eeb6056c1258e26002456c6!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/15c14e5bd7725280c1258e26002456ca/$file/ggavw1060WienGumpendorferG%C3%BCrtel4_signed.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-01T05:50:05.085Z"
+    "firstSeenAt": "2026-07-01T05:50:05.085Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-c510ac0bbb62",
@@ -2778,7 +2893,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c510ac0bbb62b3e8c1258e2700246769!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/26638c74d0e2243bc1258dbf005da8dd/$file/GZ-24110-1140_Felbigergasse107A_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-02T05:07:07.860Z"
+    "firstSeenAt": "2026-07-02T05:07:07.860Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-212cfec12779",
@@ -2802,7 +2918,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/212cfec1277945bec1258e280036d67a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/abed4a0bdfd5f3dac1258e280036d67c/$file/GZ-26021-1150_Goldschlagstra%C3%9Fe75-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-03T04:52:57.720Z"
+    "firstSeenAt": "2026-07-03T04:52:57.720Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-46f78dc97a1e",
@@ -2826,7 +2943,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/46f78dc97a1e71a7c1258e29002b47d1!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3e2251972b941621c1258e29002b47d5/$file/Ausfertigungsfassung%20B%C3%BCro%20B%201%20Stg%20IIf.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-04T04:44:20.874Z"
+    "firstSeenAt": "2026-07-04T04:44:20.874Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-937c8e739b48",
@@ -2850,7 +2968,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/937c8e739b48bcacc1258e2b00426cb0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/27c83ccdd1324e80c1258e2b00426cb2/$file/SV%20028-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-06T05:21:49.182Z"
+    "firstSeenAt": "2026-07-06T05:21:49.182Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-4474ab4edced",
@@ -2874,7 +2993,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4474ab4edced4682c1258e2d0048c5eb!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a533930c741bd7dbc1258e2d0048c5f0/$file/gga_vw_1030WienErdbergstra%C3%9Fe108_Top%2030_FG_mB_signed.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-08T04:23:59.529Z"
+    "firstSeenAt": "2026-07-08T04:23:59.529Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-743567410a62",
@@ -2898,7 +3018,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/743567410a6280c9c1258e2d004d18bc!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/30f54e1f3de14dc1c1258e2d004d18bf/$file/Langgutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-08T04:23:59.529Z"
+    "firstSeenAt": "2026-07-08T04:23:59.529Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-b9ebcb1baf58",
@@ -2922,7 +3043,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b9ebcb1baf589a35c1258e2e003e9c85!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/683530c02785ba29c1258e2e003e9c87/$file/GZ-25034-1210_Opalgasse16_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-09T05:02:55.987Z"
+    "firstSeenAt": "2026-07-09T05:02:55.987Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-3b7e91d04184",
@@ -2946,7 +3068,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/3b7e91d04184c134c1258e2e0024e7bf!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/08f95ea184b34ac0c1258e2e0024e7c1/$file/GZ-25062-1210_Wei%C3%9Fenwolffgasse117-anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-09T05:02:55.987Z"
+    "firstSeenAt": "2026-07-09T05:02:55.987Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-113f806e32b0",
@@ -2970,7 +3093,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/113f806e32b0e3b0c1258e2f00288817!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1f16d3a2581c3901c1258e2f00288819/$file/GZ-25078-1210_Floridusgasse32-anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-10T05:02:52.414Z"
+    "firstSeenAt": "2026-07-10T05:02:52.414Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-ed26c6bb41a3",
@@ -2994,7 +3118,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ed26c6bb41a367cac1258e30002ee940!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1589027a449abb8ac1258e30002ee942/$file/Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-11T04:21:25.656Z"
+    "firstSeenAt": "2026-07-11T04:21:25.656Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-e9e00fa35c3b",
@@ -3018,7 +3143,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e9e00fa35c3b27d3c1258e30002ef134!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1589027a449abb8ac1258e30002ee942/$file/Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-11T04:21:25.656Z"
+    "firstSeenAt": "2026-07-11T04:21:25.656Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-411c967b35b3",
@@ -3042,7 +3168,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/411c967b35b38094c1258e30002efa4a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1589027a449abb8ac1258e30002ee942/$file/Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-11T04:21:25.656Z"
+    "firstSeenAt": "2026-07-11T04:21:25.656Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d51a814de69e",
@@ -3066,7 +3193,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d51a814de69e9c51c1258e30002d0507!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3ee00160304c3f6bc1258e30002d0509/$file/Gutachten.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-11T04:21:25.656Z"
+    "firstSeenAt": "2026-07-11T04:21:25.656Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-577310efe8d7",
@@ -3090,7 +3218,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/577310efe8d72be1c1258e34002adb77!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6a3d8ed70a1cc6c3c1258e34002adb82/$file/GA_17_Clerfaytg5_11E2813_25t_KOMPRIMIERT.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-15T04:13:46.709Z"
+    "firstSeenAt": "2026-07-15T04:13:46.709Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-a2b7f7c24bf5",
@@ -3114,7 +3243,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a2b7f7c24bf575d1c1258e34002b2acf!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6a3d8ed70a1cc6c3c1258e34002adb82/$file/GA_17_Clerfaytg5_11E2813_25t_KOMPRIMIERT.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-15T04:13:46.709Z"
+    "firstSeenAt": "2026-07-15T04:13:46.709Z",
+    "propertyType": "阁楼毛坯"
   },
   {
     "id": "wien-7b65418c2566",
@@ -3138,7 +3268,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7b65418c256644afc1258e34002b7e84!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6a3d8ed70a1cc6c3c1258e34002adb82/$file/GA_17_Clerfaytg5_11E2813_25t_KOMPRIMIERT.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-15T04:13:46.709Z"
+    "firstSeenAt": "2026-07-15T04:13:46.709Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-d0c106b227df",
@@ -3162,7 +3293,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d0c106b227dfc0a4c1258e360039c076!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bcb61bf71c7d1cc3c1258e360039c078/$file/Gutachten%201160%20Wien%2C%20Sandleitengasse%201.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-17T04:16:57.663Z"
+    "firstSeenAt": "2026-07-17T04:16:57.663Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-d95a748aa75d",
@@ -3186,7 +3318,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d95a748aa75d7571c1258e37003f8822!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0710b1894df02454c1258e37003f8828/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-18T04:09:14.055Z"
+    "firstSeenAt": "2026-07-18T04:09:14.055Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-52d470156a42",
@@ -3210,7 +3343,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/52d470156a42c102c1258e37003fb26b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0710b1894df02454c1258e37003f8828/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-18T04:09:14.055Z"
+    "firstSeenAt": "2026-07-18T04:09:14.055Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-194ae9fe3a5f",
@@ -3234,7 +3368,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/194ae9fe3a5fcdeec1258e37003fe571!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0710b1894df02454c1258e37003f8828/$file/GZ-26027-1150_Felberstra%C3%9Fe64_Huglgasse2-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-18T04:09:14.055Z"
+    "firstSeenAt": "2026-07-18T04:09:14.055Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-692049aa0b1d",
@@ -3258,7 +3393,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/692049aa0b1d6fc9c1258e370025ce7a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/978d8af02e42a3e9c1258e370025ce89/$file/Gutachten%20Wehrg-Wienzeile.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-18T04:09:14.055Z"
+    "firstSeenAt": "2026-07-18T04:09:14.055Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-25bf48a44fe8",
@@ -3282,7 +3418,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/25bf48a44fe88212c1258e3900505e92!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5501c329416e10b3c1258e3900505e94/$file/GZ-26044-1150_H%C3%BCtteldorferStra%C3%9Fe87-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-20T04:45:09.497Z"
+    "firstSeenAt": "2026-07-20T04:45:09.497Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-056bc57d9b82",
@@ -3306,7 +3443,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/056bc57d9b8256c4c1258e3900515cf9!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/ef349dc110fdd4f7c1258e3900515cfb/$file/GZ-26059-1150_Avedikstra%C3%9Fe5-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-20T04:45:09.497Z"
+    "firstSeenAt": "2026-07-20T04:45:09.497Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-5d624fc6122d",
@@ -3330,7 +3468,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/5d624fc6122d90bbc1258e390053593d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a1784a941e52a29bc1258e3900535947/$file/GZ-26030-1150_Schwendergasse7-13-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-20T04:45:09.497Z"
+    "firstSeenAt": "2026-07-20T04:45:09.497Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-ebe05e8d28e0",
@@ -3354,7 +3493,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ebe05e8d28e052b0c1258e39005387f1!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a1784a941e52a29bc1258e3900535947/$file/GZ-26030-1150_Schwendergasse7-13-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-20T04:45:09.497Z"
+    "firstSeenAt": "2026-07-20T04:45:09.497Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-50217d51d3ed",
@@ -3378,7 +3518,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/50217d51d3ed201bc1258e3a003d0eca!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e5a3b85840d36ec4c1258e3a003d0ecc/$file/Gutachten%201190%20Wien%2C%20Friedrich%20Kaiser%20Gasse%2035.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-21T04:24:10.841Z"
+    "firstSeenAt": "2026-07-21T04:24:10.841Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f1d979a0a613",
@@ -3402,7 +3543,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f1d979a0a613bfa4c1258e43004806ec!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0bfbaeed9adcd6f1c1258e43004806ee/$file/GA_Thaliastra%C3%9Fe%2021kom.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-07-30T04:14:36.782Z"
+    "firstSeenAt": "2026-07-30T04:14:36.782Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-8dff0a855098",
@@ -3426,7 +3568,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8dff0a8550989117c1258e480027ecf3!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d826a5dfd054f02ac1258e480027ecf7/$file/Gutachten%201030%2C%20Hetzgasse%2022%20Top%2020.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-04T04:21:46.713Z"
+    "firstSeenAt": "2026-08-04T04:21:46.713Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-44f95e5c9361",
@@ -3450,7 +3593,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/44f95e5c93616cfbc1258e4a003c2422!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7cbbe0ae3b8d8675c1258e4a003c2428/$file/GA%201050%20Wien%2C%20Spengergasse%2017%20v%2020260421%20GZ%2050%20E%2012_26f.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-06T04:23:17.790Z"
+    "firstSeenAt": "2026-08-06T04:23:17.790Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-b1fadb8e4ba8",
@@ -3474,7 +3618,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b1fadb8e4ba80541c1258e4a003bf06d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/735c0a65c2438a8bc1258e4a003bf07c/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-06T04:23:17.790Z"
+    "firstSeenAt": "2026-08-06T04:23:17.790Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-bef613385ea8",
@@ -3498,7 +3643,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/bef613385ea8d561c1258e4a003c29ff!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/735c0a65c2438a8bc1258e4a003bf07c/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-06T04:23:17.790Z"
+    "firstSeenAt": "2026-08-06T04:23:17.790Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-c65e0479c2f1",
@@ -3522,7 +3668,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c65e0479c2f1f0c9c1258e4a003c5ebe!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/735c0a65c2438a8bc1258e4a003bf07c/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-06T04:23:17.790Z"
+    "firstSeenAt": "2026-08-06T04:23:17.790Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-4bfc931bba6e",
@@ -3546,7 +3693,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4bfc931bba6e296bc1258e4a003c93c4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/735c0a65c2438a8bc1258e4a003bf07c/$file/GA%20Rappach%20Mautner.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-06T04:23:17.790Z"
+    "firstSeenAt": "2026-08-06T04:23:17.790Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-3ecb5a77d80a",
@@ -3570,7 +3718,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/3ecb5a77d80a7215c1258e3d003c0904!OpenDocument",
     "pdfUrl": "",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-07T03:58:21.641Z"
+    "firstSeenAt": "2026-08-07T03:58:21.641Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-3b81b178b5c3",
@@ -3594,7 +3743,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/3b81b178b5c35258c1258e52001fd845!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b622da77759d729ec1258e52001fd847/$file/SV%20038a-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-14T03:29:59.457Z"
+    "firstSeenAt": "2026-08-14T03:29:59.457Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-af0c329625ab",
@@ -3618,7 +3768,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/af0c329625abb833c1258e52002001cd!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/057226ebaefde270c1258e52002001cf/$file/SV%20038b-25%20Gutachten%20sign.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-14T03:29:59.457Z"
+    "firstSeenAt": "2026-08-14T03:29:59.457Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-67e328a40ac3",
@@ -3642,7 +3793,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/67e328a40ac3a60ac1258e550026d7b3!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/08b5347b95d9b024c1258e550026d7b5/$file/GZ-26078-1150_Viktoriagasse14B-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-17T02:24:52.531Z"
+    "firstSeenAt": "2026-08-17T02:24:52.531Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-456d8d156833",
@@ -3666,7 +3818,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/456d8d15683323a4c1258e560043af4b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6162678de982da9bc1258e560043af4d/$file/Gutachten%201190%20Wien%2C%20Pyrkergasse%2029.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-18T02:20:59.540Z"
+    "firstSeenAt": "2026-08-18T02:20:59.540Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-dd5a655097a3",
@@ -3690,7 +3843,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/dd5a655097a36c81c1258e560022557a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/737724a92cc96e81c1258e560022558a/$file/GA%201060%20Wien%2C%20Mollardgasse%2011.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-18T02:20:59.540Z"
+    "firstSeenAt": "2026-08-18T02:20:59.540Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-24deea8bf402",
@@ -3714,7 +3868,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/24deea8bf4020c9bc1258e560022990d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/737724a92cc96e81c1258e560022558a/$file/GA%201060%20Wien%2C%20Mollardgasse%2011.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-18T02:20:59.540Z"
+    "firstSeenAt": "2026-08-18T02:20:59.540Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-da79d27b7fca",
@@ -3738,7 +3893,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/da79d27b7fcaf357c1258e57002e6528!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f80804714f8c3e4bc1258e57002e652b/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-19T02:24:04.577Z"
+    "firstSeenAt": "2026-08-19T02:24:04.577Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-9a0e9f4c70e9",
@@ -3762,7 +3918,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9a0e9f4c70e93036c1258e57002f5d8a!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f80804714f8c3e4bc1258e57002e652b/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-19T02:24:04.577Z"
+    "firstSeenAt": "2026-08-19T02:24:04.577Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-1f3e175faf8d",
@@ -3786,7 +3943,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/1f3e175faf8da788c1258e57003070a0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f80804714f8c3e4bc1258e57002e652b/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-19T02:24:04.577Z"
+    "firstSeenAt": "2026-08-19T02:24:04.577Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-4276e005e20c",
@@ -3810,7 +3968,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4276e005e20caa1ec1258e5700313381!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f80804714f8c3e4bc1258e57002e652b/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-19T02:24:04.577Z"
+    "firstSeenAt": "2026-08-19T02:24:04.577Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-fa0b40c59611",
@@ -3834,7 +3993,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/fa0b40c596111176c1258e5700334dff!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f80804714f8c3e4bc1258e57002e652b/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-19T02:24:04.577Z"
+    "firstSeenAt": "2026-08-19T02:24:04.577Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-76e150cef2f6",
@@ -3858,7 +4018,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/76e150cef2f6f085c1258e5700342390!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f80804714f8c3e4bc1258e57002e652b/$file/Gutachten_1120_Wien_Darnautgasse_5_Top_1_PKW_10_14_15_16_18.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-19T02:24:04.577Z"
+    "firstSeenAt": "2026-08-19T02:24:04.577Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-dfd40183a15e",
@@ -3882,7 +4043,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/dfd40183a15e4014c1258e5800381b42!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2352cb4308dfd8d3c1258e5800381b44/$file/Gutachten%2025%20E%2045.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-20T02:23:04.293Z"
+    "firstSeenAt": "2026-08-20T02:23:04.293Z",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-b282af33f10d",
@@ -3906,7 +4068,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b282af33f10d89f0c1258e5d001d4b17!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e3d76f733772f22c1258e5d001d4b20/$file/GA_Schottenfeldg62_Stpl22_StII.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-25T02:23:28.017Z"
+    "firstSeenAt": "2026-08-25T02:23:28.017Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-2f1476862110",
@@ -3928,11 +4091,12 @@
     "summary": "BLNr. 12, 121/2182 Anteile (verbunden mit Wohnungseigentum an Lokal 6+7, \nMagazin 6+7, Keller 6+7) \nan der Liegenschaft EZ 1937, Grundbuch 01402 Hernals, BG Hernals, mit der \nGrundstücksnummer .1498, ",
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2f14768621108d42c1258e5d002f8783!OpenDocument",
-    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3a1b9665566284cbc1258e5d002f8785/$file/Gutachten%201170%20Wien%2C%20Hernalser%20Hauptstra%C3%9Fe%20149.pdf",
+    "pdfUrl": "",
     "shortReportUrl": "",
     "firstSeenAt": "2026-08-25T02:23:28.017Z",
     "tenancyStatus": "rented",
-    "tenancyText": ""
+    "tenancyText": "",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-02e66729d0a2",
@@ -3956,7 +4120,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/02e66729d0a2c0b9c1258e600027a0ce!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b025647be30e43e7c1258e600027a0d5/$file/Verkehrswertgutachten%20Herthergasse%2031%20(2026-07-8).pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-27T11:10:00.131Z"
+    "firstSeenAt": "2026-08-27T11:10:00.131Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-eae72ba530dc",
@@ -3980,7 +4145,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/eae72ba530dcf691c1258e5f0026bca0!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2c2c753d4faee425c1258e5f0026bcd3/$file/1040%20Wien%2C%20Mayerhofgasse%206_final.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-27T11:10:00.131Z"
+    "firstSeenAt": "2026-08-27T11:10:00.131Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-6b618bf0ca7e",
@@ -4004,7 +4170,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/6b618bf0ca7e5d71c1258e600046dcaf!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/01507f9beb107d57c1258e600046dcb1/$file/GA_1130%20Wien_Beckgasse%2014_ohneAnh_signed.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-08-28T12:42:29.162Z"
+    "firstSeenAt": "2026-08-28T12:42:29.162Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-ff5b15ea8826",
@@ -4025,8 +4192,7 @@
     "ownershipType": "",
     "summary": "整栋 1912 年出租楼，534.13㎡，地块 279㎡，13 套住宅；需翻修，各单元未入内查看。净租 €2,454/月（€4.63/㎡）：9 套定期至 2029-04-14（€5.70/㎡），3 套无限期（€2.77–3.25/㎡），Top 6 租约 2022 年到期，按空置假设。残值法按翻修后分售约 €4,296/㎡、翻修 €1,930/㎡，估值 €880,000（约 €1,410/㎡），前提是现租金可执行，租约未审查。",
     "riskTags": [
-      "定期出租",
-      "无限期出租",
+      "租约混合",
       "旧租约低租金",
       "需翻修",
       "估值含特别假设"
@@ -4038,7 +4204,8 @@
     "tenancyText": "Das Objekt ist überwiegend befristet vermietet.",
     "firstSeenAt": "2026-08-28T12:42:29.162Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-92ef04754ad1",
@@ -4062,7 +4229,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/92ef04754ad12304c1258e650034daf7!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a4bf7e9cceeb393cc1258e650034dafc/$file/ggavw1010%20Wien%20Walfischgasse%2010-9-11_mB-signed.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-02T05:41:10.624Z"
+    "firstSeenAt": "2026-09-02T05:41:10.624Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-8af6cc83d0bd",
@@ -4086,7 +4254,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8af6cc83d0bdff9bc1258e6600294c5d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e7103a8f940a9749c1258e6600294c61/$file/VW-GA_1220%20Wien%2C%20Klenaugasse%208_Ausfertigungsfassung.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-03T05:40:23.275Z"
+    "firstSeenAt": "2026-09-03T05:40:23.275Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-9f1b98bf131f",
@@ -4110,7 +4279,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9f1b98bf131faf00c1258e660036ff0e!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/13402c19a78a672cc1258e660036ff13/$file/GZ-25077-1210_Wildnergasse52_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-03T05:40:23.275Z"
+    "firstSeenAt": "2026-09-03T05:40:23.275Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-e7df4de4a359",
@@ -4129,15 +4299,18 @@
     "longitude": 16.415627,
     "geocodeSource": "official",
     "ownershipType": "",
-    "summary": "现有文件只有 4 页扫描件，是市政 MA 64 于 2026-02-16 发出的地块分割许可，不是估值报告。文件涉及 Quarzweg 9–11 一带、KG Donaufeld 的 EZ 837 和 957，未提到本标的门牌、面积、现状、租赁或估值，也看不出对应哪块地。内容为准许分出 1320/35、/36、/50、/73、/74 共 5 块地，须在送达后两年内完成土地册登记，否则失效。",
-    "riskTags": [],
+    "summary": "法院目前只附了一份市政地块分割许可（2026 年 2 月），不是估值报告，文件里看不出对应哪块地。面积、现状和估值都没有公开资料，出价前需向法院索取完整文件。",
+    "riskTags": [
+      "无估值报告"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e7df4de4a359d0f6c1258e67003e956c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bffe62727cd55e78c1258e67003e956d/$file/User_1_2026_09_03_07_53_04_581.pdf",
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "firstSeenAt": "2026-09-04T05:48:11.590Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "地皮"
   },
   {
     "id": "wien-4844d387e588",
@@ -4156,15 +4329,18 @@
     "longitude": 16.415627,
     "geocodeSource": "official",
     "ownershipType": "",
-    "summary": "现有文件只有 4 页扫描件，是市政 MA 64 于 2026-02-16 发出的地块分割许可，不是估值报告。文件涉及 Quarzweg 9–11 一带、KG Donaufeld 的 EZ 837 和 957，未提到本标的门牌、面积、现状、租赁或估值，也看不出对应哪块地。内容为准许分出 1320/35、/36、/50、/73、/74 共 5 块地，须在送达后两年内完成土地册登记，否则失效。",
-    "riskTags": [],
+    "summary": "法院目前只附了一份市政地块分割许可（2026 年 2 月），不是估值报告，文件里看不出对应哪块地。面积、现状和估值都没有公开资料，出价前需向法院索取完整文件。",
+    "riskTags": [
+      "无估值报告"
+    ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4844d387e588e78ac1258e67003ec068!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bffe62727cd55e78c1258e67003e956d/$file/User_1_2026_09_03_07_53_04_581.pdf",
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "firstSeenAt": "2026-09-04T05:48:11.590Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "地皮"
   },
   {
     "id": "wien-9db914f4207c",
@@ -4188,7 +4364,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9db914f4207c54fbc1258e6c00460413!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d7b2de04a9d23e4ac1258e6c00460415/$file/GZ-25079-1210_Pichelwangergasse5A_anonym.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-09T05:55:27.579Z"
+    "firstSeenAt": "2026-09-09T05:55:27.579Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-8f8bb71b2818",
@@ -4221,7 +4398,8 @@
     "tenancyText": "bestandsfrei und geräumt. Es liegen keine Miet- oder sonstiger Nutzungsverträge vor.",
     "firstSeenAt": "2026-09-09T05:55:27.579Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "阁楼毛坯"
   },
   {
     "id": "wien-19a397258aeb",
@@ -4245,7 +4423,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/19a397258aeb6943c1258e6d002b003e!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/932a8693ed1d3c42c1258e6d002b0050/$file/GZ-26084-1140_Karl-Bekehrty-Stra%C3%9Fe14-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-10T05:50:24.939Z"
+    "firstSeenAt": "2026-09-10T05:50:24.939Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-5ae068bb20da",
@@ -4269,7 +4448,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/5ae068bb20dabd7cc1258e5000258bbd!OpenDocument",
     "pdfUrl": "",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-11T05:50:23.456Z"
+    "firstSeenAt": "2026-09-11T05:50:23.456Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-36ed162ebc8c",
@@ -4293,7 +4473,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/36ed162ebc8c24b2c1258e5000259726!OpenDocument",
     "pdfUrl": "",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-11T05:50:23.456Z"
+    "firstSeenAt": "2026-09-11T05:50:23.456Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-e7b8e45eb446",
@@ -4317,7 +4498,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e7b8e45eb44696cdc1258e5000259bc2!OpenDocument",
     "pdfUrl": "",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-11T05:50:23.456Z"
+    "firstSeenAt": "2026-09-11T05:50:23.456Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-e576bb630d52",
@@ -4341,7 +4523,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/e576bb630d528d63c1258e6e00534e01!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b7842d5f7323efadc1258e6e00534e03/$file/GZ-25039-1150_Schwendergasse59_Jheringgasse37-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-11T05:50:23.456Z"
+    "firstSeenAt": "2026-09-11T05:50:23.456Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-a870bb3d3048",
@@ -4365,7 +4548,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a870bb3d30485385c1258e5d00465ff7!OpenDocument",
     "pdfUrl": "",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-00b96c3c2261",
@@ -4389,7 +4573,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/00b96c3c22614bc2c1258e5d004672d3!OpenDocument",
     "pdfUrl": "",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-cacdc07156a4",
@@ -4413,7 +4598,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/cacdc07156a4abfdc1258e5d00468008!OpenDocument",
     "pdfUrl": "",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-0743f996b600",
@@ -4445,7 +4631,9 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "firstSeenAt": "2026-09-15T06:04:09.455Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "地皮",
+    "propertyNote": "建筑权"
   },
   {
     "id": "wien-fac65ae4867a",
@@ -4477,7 +4665,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "keine",
     "firstSeenAt": "2026-09-15T06:04:09.455Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-09db7d58cd9b",
@@ -4501,7 +4690,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/09db7d58cd9bc931c1258e730052a395!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-c5b11b1138b6",
@@ -4525,7 +4715,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c5b11b1138b6e7a4c1258e730052306b!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d27879bbe446",
@@ -4549,7 +4740,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/d27879bbe446731fc1258e73005241b2!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-9fa191f742b5",
@@ -4573,7 +4765,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9fa191f742b5d98dc1258e7300524d75!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f7c7ae10d219",
@@ -4597,7 +4790,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f7c7ae10d219318ac1258e7300525953!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-4fe08928597c",
@@ -4621,7 +4815,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4fe08928597c7fbdc1258e730052639f!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-7ee7a62075fb",
@@ -4645,7 +4840,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/7ee7a62075fb4b7cc1258e7300526eb7!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-682d5c59f152",
@@ -4669,7 +4865,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/682d5c59f1524871c1258e7300527b69!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-bc4268f2fbce",
@@ -4693,7 +4890,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/bc4268f2fbce2246c1258e73005285ec!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-0e039d446933",
@@ -4717,7 +4915,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0e039d44693301f0c1258e730052926d!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-b495d5890e4e",
@@ -4741,7 +4940,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b495d5890e4e1ac1c1258e730052a061!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2de4810447a942c1258e730052306d/$file/Gutachten_.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-16T05:56:01.276Z"
+    "firstSeenAt": "2026-09-16T05:56:01.276Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-502fa325925f",
@@ -4762,7 +4962,6 @@
     "ownershipType": "siehe angeschlossenes Gutachten",
     "summary": "3楼，44.25㎡一居，大理石门厅，起居睡眠合一，两扇窗朝Beatrixgasse，淋浴卫生间加衣帽间。约1960年建，地上7层转角楼带电梯，楼体状况中上，本套状况很好。定期出租至2028年3月1日，净租€455.88/月（€10.30/㎡），运营费€165.43，报告称低于市场。收益法按到期后€15/㎡测算得约€252,000，可比价€5,700/㎡（已扣5%租约影响）验证。未提供能源证书，未核查建筑许可。",
     "riskTags": [
-      "定期出租",
       "低于市场租金",
       "无能源证书",
       "未核建筑许可"
@@ -4774,33 +4973,8 @@
     "tenancyText": "Die bewertungsgegenständliche Wohnung ist befristet vermietet.",
     "firstSeenAt": "2026-09-17T06:02:59.597Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
-  },
-  {
-    "id": "wien-b5aaf481f0c4",
-    "caseNumber": "25 E 20/26m",
-    "auctionDate": "2026-11-24",
-    "address": "1020 Wien Praterstraße 50 Stiege 1 Top 25",
-    "district": "1020",
-    "title": "Gerichtliche Versteigerungen",
-    "category": "Eigentumswohnung",
-    "estimatedValue": 259000,
-    "minimumBid": 180000,
-    "area": 63.26,
-    "pricePerSqm": 4094.21,
-    "deposit": 25900,
-    "latitude": 48.215506,
-    "longitude": 16.385784,
-    "geocodeSource": "official",
-    "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
-    "summary": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
-    "riskTags": [],
-    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b5aaf481f0c48956c1258e74004d71af!OpenDocument",
-    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/46000b7bfafc3146c1258e74004d71b1/$file/Gutachten%20Praterstra%C3%9Fe%2050.pdf",
-    "shortReportUrl": "",
-    "firstSeenAt": "2026-09-17T06:02:59.597Z",
-    "tenancyStatus": "unknown",
-    "tenancyText": ""
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-661c1f4712a6",
@@ -4829,7 +5003,9 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "firstSeenAt": "2026-09-22T06:03:43.766Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "办公商业",
+    "propertyNote": "打包五单元"
   },
   {
     "id": "wien-f2086633bf75",
@@ -4853,7 +5029,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/f2086633bf7589dcc1258e7b0026c585!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-de3a26681792",
@@ -4877,7 +5054,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/de3a266817928c24c1258e7b00270b54!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-129528f1a852",
@@ -4901,7 +5079,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/129528f1a852b4a0c1258e7b00274789!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-6869b45592e2",
@@ -4925,7 +5104,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/6869b45592e270e4c1258e7b0027a52e!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-b43cb34a4f81",
@@ -4949,7 +5129,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/b43cb34a4f813009c1258e7b00281ec4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-4e03b7e2287f",
@@ -4973,7 +5154,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4e03b7e2287f607ac1258e7b00288d7e!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-9130ecdf5283",
@@ -4997,7 +5179,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/9130ecdf528315a7c1258e7b0028c485!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-451134980a84",
@@ -5021,7 +5204,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/451134980a84d4a9c1258e7b0028ed48!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-ab6d4d769c99",
@@ -5043,11 +5227,12 @@
     "summary": "Die Wohnung weist gem. Nutzwertgutachten vom 26.11.2019 eine Wohnnutzfläche 86,68 m² und eine Balkonfläche von 3,08 m² auf.\nLt. Nutzwertgutachten ist der Wohnung kein Kellerabteil als WE-Zubehör zugeo",
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ab6d4d769c99a394c1258e7b004056fc!OpenDocument",
-    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6ef98902357d29a9c1258e7b00405706/$file/GA_1120%20Wien%2C%20Koflergasse%2019_2026_final.pdf",
+    "pdfUrl": "",
     "shortReportUrl": "",
     "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "tenancyStatus": "unlimited",
-    "tenancyText": ""
+    "tenancyText": "",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-27c97a01a921",
@@ -5066,9 +5251,8 @@
     "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer, 2 aneinander anschließende Haupträume, Abstellraum, Küchennische (kein eigener Raum), Badezimmer/WC",
-    "summary": "位于 Palais Bellegarde 庭院翼 Stiege 3 的 2.OG，朝内院，58.53㎡，前厅、两间相连主室、储藏室、厨房角、浴室及独立 WC。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1961 年，租客告知月租 €167.01（含税及运营费），净租金仅约 €0.67/㎡，市场约 €10/㎡。收益法：现租金资本化约 €2.6 万，加 20 年折现的市场租金差约 €12.1 万，取整估值 €14 万。",
+    "summary": "位于 Palais Bellegarde 庭院翼 3 号楼梯 的 2 楼，朝内院，58.53㎡，前厅、两间相连主室、储藏室、厨房角、浴室及独立 WC。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1961 年，租客告知月租 €167.01（含税及运营费），净租金仅约 €0.67/㎡，市场约 €10/㎡。收益法：现租金资本化约 €2.6 万，加 20 年折现的市场租金差约 €12.1 万，取整估值 €14 万。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "文物保护"
     ],
@@ -5078,7 +5262,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "firstSeenAt": "2026-09-24T06:05:45.347Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-27c0ae61e1fa",
@@ -5097,9 +5282,8 @@
     "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer; Küchennische, Badezimmer, Kabinett, 2  straßenseitig ausgerichtete Zimmer",
-    "summary": "位于 Stiege 4 的 3.OG，朝内院及街道，73.15㎡，厨房角、浴室、一小间及两间临街主室，WC 在走廊。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约由继承而来，未提供合同；租客告知月租 €210.30（含税及运营费），净租金约 €0.69/㎡，市场约 €10/㎡。收益法：现租金资本化约 €4.2 万，加 20 年折现的市场租金差约 €15.1 万，取整估值 €18.5 万。",
+    "summary": "位于 4 号楼梯 的 3 楼，朝内院及街道，73.15㎡，厨房角、浴室、一小间及两间临街主室，WC 在走廊。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约由继承而来，未提供合同；租客告知月租 €210.30（含税及运营费），净租金约 €0.69/㎡，市场约 €10/㎡。收益法：现租金资本化约 €4.2 万，加 20 年折现的市场租金差约 €15.1 万，取整估值 €18.5 万。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "文物保护"
     ],
@@ -5109,7 +5293,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "firstSeenAt": "2026-09-24T06:05:45.347Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-ee51dc338f5a",
@@ -5128,9 +5313,8 @@
     "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Vorzimmer, 2 Zimmer, 1 Kabinett, Küchennische, Bad, WC",
-    "summary": "位于 Stiege 5 的 2.OG，朝内院及 Große Mohrengasse，89.81㎡，前厅、两室、一小间、厨房角、浴室及 WC，厨房与浴区之间没有隔断。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1986 年 8 月，净租金 €187.50/月（约 €2.09/㎡），市场约 €10/㎡。收益法：现租金资本化约 €11.6 万，加 20 年折现的市场租金差约 €15.7 万，取整估值 €27.5 万。",
+    "summary": "位于 5 号楼梯 的 2 楼，朝内院及 Große Mohrengasse，89.81㎡，前厅、两室、一小间、厨房角、浴室及 WC，厨房与浴区之间没有隔断。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1986 年 8 月，净租金 €187.50/月（约 €2.09/㎡），市场约 €10/㎡。收益法：现租金资本化约 €11.6 万，加 20 年折现的市场租金差约 €15.7 万，取整估值 €27.5 万。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "文物保护"
     ],
@@ -5140,7 +5324,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Whg ist unbefristet vermietet. Beginn des Mietverhältnisses: 01.08.1986. Monatlicher Mietzins, lt. Auskunft Mieter: € 187,50 netto (exkl. BK).",
     "firstSeenAt": "2026-09-24T06:05:45.347Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-7f87a375ffb3",
@@ -5159,7 +5344,7 @@
     "longitude": 16.3738797,
     "geocodeSource": "official",
     "ownershipType": "Das Objekt W 6 St 1 liegt im 1. Stock und wird vom allgemeinen Gang über eine doppelflügelige Holztür mit zusätzlichem Kastenriegelschloss betreten. Die Wohnung ist überwiegend in Richtung Herminengas",
-    "summary": "W 6（114.10㎡）与 W 8（70.60㎡）已打通，合并估值，共 184.70㎡，位于 1871 年建筑的 1. Stock，主要朝西北；电梯不停此层。W 6 有厨房、两室和小阳台，W 8 有三室和浴室。房况很好，有空调，W 8 为地暖，据称两套管线互相独立。被执行人称自住。按 €14/㎡ 假设租金用收益法，因阳台、改造、打通和空调无许可文件扣 10%，估值约 €5,035/㎡，共 €93 万。楼基座有潮湿迹象。储藏间不在产权内。",
+    "summary": "W 6（114.10㎡）与 W 8（70.60㎡）已打通，合并估值，共 184.70㎡，位于 1871 年建筑的 1 楼，主要朝西北；电梯不停此层。W 6 有厨房、两室和小阳台，W 8 有三室和浴室。房况很好，有空调，W 8 为地暖，据称两套管线互相独立。被执行人称自住。按 €14/㎡ 假设租金用收益法，因阳台、改造、打通和空调无许可文件扣 10%，估值约 €5,035/㎡，共 €93 万。楼基座有潮湿迹象。储藏间不在产权内。",
     "riskTags": [
       "被执行人自住",
       "未获建筑许可",
@@ -5172,7 +5357,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist eigengenutzt",
     "firstSeenAt": "2026-09-24T06:05:45.347Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-434766334510",
@@ -5196,7 +5382,8 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/434766334510a017c1258e7d002f60e8!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/10009c8d04b57574c1258e7b0026c58b/$file/GZ-26071-1150_Arnsteingasse29-a.pdf",
     "shortReportUrl": "",
-    "firstSeenAt": "2026-09-26T06:04:53.485Z"
+    "firstSeenAt": "2026-09-26T06:04:53.485Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f4c3a6d68ea3",
@@ -5217,7 +5404,6 @@
     "ownershipType": "Sowohl lt. Bestandsplan vom 23.08.2006 als auch gem. Nutzwertgutachten vom 21.03.2007 verfügt die ggst. Wohnung C-Süd W 13 über eine Wohnnutzfläche von insgesamt 96,79 m² und Kellerräumlichkeiten im A",
     "summary": "C-Süd W 13，2004–2006 年建小区内的中庭联排屋，地下、底层、一楼三层，户内无电梯。住宅 96.79㎡ 加地下室 19.19㎡，共 115.98㎡，另有花园 16.02㎡、露台 9.94㎡、储藏 3.11㎡；状况整齐，装修部分过时。定期出租至 2026-11-30，现净租 €1,291.05/月，租客可提前解约，续约未获同意。估值为租期收益加到期后成本法，无市场调整。登记有住房补贴禁售，至 2026-06-15 未清 €23,430.91，报告假定由拍卖款清偿；另欠杂费 €859.53。",
     "riskTags": [
-      "定期出租",
       "补贴贷款欠款",
       "欠管理费"
     ],
@@ -5227,7 +5413,9 @@
     "tenancyStatus": "limited",
     "tenancyText": "bis 30.11.2026 befristeter Mietvertrag Nettomiete aktuell € 1.291,05 p.m.",
     "firstSeenAt": "2026-09-26T06:04:53.485Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "独栋住宅",
+    "propertyNote": "联排"
   },
   {
     "id": "wien-01ea1337f239",
@@ -5246,7 +5434,7 @@
     "longitude": 16.2617299,
     "geocodeSource": "official",
     "ownershipType": "Beim Bewertungsobjekt handelt es sich um ein Wohngebäude im 13. Wiener Gemeindebezirk.\nDas Wohnhaus besteht aus Kellergeschoss (Souterrain), Erdgeschoss (Hochparterre) und Dachgeschoss (Mansarde) und ",
-    "summary": "1913 年独栋，536㎡ 带花园，Souterrain 加两套住宅，共 260.22㎡（居住 176.22㎡），电暖。状况中等，地下室潮湿，部分管线不当。Hochparterre 被执行人自住；Mansarde 住户口头称有无限期租约，无合同，法院指示买受人可依 §1120 ABGB 终止。成本法：地价 €1,938/㎡，约 €149 万，因租约扣 2% 得 €146 万。卫浴及格局改动无批准文件，泳池无许可。HORA 显示滑坡风险高。",
+    "summary": "1913 年独栋，536㎡ 带花园，半地下层 加两套住宅，共 260.22㎡（居住 176.22㎡），电暖。状况中等，地下室潮湿，部分管线不当。高位底层 被执行人自住；阁楼层 住户口头称有无限期租约，无合同，法院指示买受人可依 §1120 ABGB 终止。成本法：地价 €1,938/㎡，约 €149 万，因租约扣 2% 得 €146 万。卫浴及格局改动无批准文件，泳池无许可。官方灾害地图显示滑坡风险高。",
     "riskTags": [
       "被执行人自住",
       "口头租约未证实",
@@ -5260,7 +5448,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "firstSeenAt": "2026-09-29T06:48:17.219Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-099b14c9e004",
@@ -5279,9 +5468,9 @@
     "longitude": 16.3291322,
     "geocodeSource": "official",
     "ownershipType": "Bei der bewertungsgegenständlichen Liegenschaft handelt es sich um ein klassisches Wiener Zinshaus der Gründerzeit, Eckhaus, unterkellert, Geschäfts- und Wohnflächen im Erdgeschoss, darüber zwei Vollg",
-    "summary": "约 1890 年建的 Gründerzeit 转角 Zinshaus，地下室、底层商铺和住宅、两层住宅及未改建阁楼，院内另有小屋，无电梯，分户燃气取暖；共 699㎡（住宅 531、商业 168）。约 94% 已出租，约 69% 为定期，两套共 43㎡ 空置；主租金 €5,000/月，含空置拟制 €540。状况中等，公共区需修缮，地窖、院屋和外墙下部潮湿；2025 年有外墙抹灰和缺玻璃的建筑令。估值由收益法 €1,330,000 与阁楼加建潜力 €810,000 构成；2021 年加建许可已过期，能否重批不确定。",
+    "summary": "约 1890 年建的 老式转角 出租楼，地下室、底层商铺和住宅、两层住宅及未改建阁楼，院内另有小屋，无电梯，分户燃气取暖；共 699㎡（住宅 531、商业 168）。约 94% 已出租，约 69% 为定期，两套共 43㎡ 空置；主租金 €5,000/月，含空置拟制 €540。状况中等，公共区需修缮，地窖、院屋和外墙下部潮湿；2025 年有外墙抹灰和缺玻璃的建筑令。估值由收益法 €1,330,000 与阁楼加建潜力 €810,000 构成；2021 年加建许可已过期，能否重批不确定。",
     "riskTags": [
-      "定期出租",
+      "租约混合",
       "潮湿受损",
       "需翻修",
       "建筑整改令",
@@ -5293,7 +5482,8 @@
     "tenancyStatus": "rented",
     "tenancyText": "",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-38af0caffd21",
@@ -5314,7 +5504,6 @@
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
     "summary": "Top 8，1 楼，50.77㎡（租约写 44.5㎡），一室一小室，朝 Palffygasse 与内院。约 1887 年转角楼，有电梯，楼况良好。房内状况一般，使用痕迹明显。1991 年起无限期出租，净租 €437/月（€8.61/㎡），鉴定按 €7.50/㎡ 收益法估值 €115,000（约 €2,262/㎡）。每月另摊翻修贷款 €200.94。管理方称优先抵押权程序在办，欠款额未告知。",
     "riskTags": [
-      "无限期出租",
       "翻修贷款分摊",
       "欠管理费"
     ],
@@ -5325,7 +5514,8 @@
     "tenancyText": "Die Top 8 ist auf unbestimmte Zeit vermietet.",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-beb7e0e4c5a9",
@@ -5346,7 +5536,6 @@
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
     "summary": "Top 9，1 楼，46.10㎡（租约写约 50㎡），一室一小室，朝 Palffygasse。约 1887 年转角楼，有电梯，楼况良好。房内状况一般；图纸上的天井窗已不存在。定期租至 2026-12-31，租约仅租客签字；净租 €438/月（€9.50/㎡），鉴定按 €7.50/㎡ 收益法估值 €104,000（约 €2,262/㎡）。每月另摊翻修贷款 €173.36。管理方称优先抵押权程序在办，欠款额未告知。",
     "riskTags": [
-      "定期出租",
       "与图纸有出入",
       "翻修贷款分摊",
       "欠管理费"
@@ -5358,7 +5547,8 @@
     "tenancyText": "Die Top 9 ist befristet bis zum 31. Dezember 2026 vermietet.",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-056cd1016331",
@@ -5379,7 +5569,6 @@
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
     "summary": "Top 12，1 楼，28.51㎡，卫浴一体加厨房起居室，附走廊 WC。不足 30㎡，无法升到 A 类；卫浴无供暖且与图纸不符。2026-02 起租 3 年，租约双方未签；因不足 5 年，鉴定按无限期处理。净租 €251.83/月，按 €5.50/㎡ 收益法估值 €47,000（约 €1,647/㎡）。每月另摊翻修贷款 €90.62。管理方称优先抵押权程序在办，欠款额未告知。",
     "riskTags": [
-      "无限期出租",
       "与图纸有出入",
       "翻修贷款分摊",
       "欠管理费"
@@ -5390,7 +5579,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-91584a90d888",
@@ -5411,7 +5601,6 @@
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
     "summary": "Top 13，1 楼，59.03㎡（租约写约 65㎡），两室，可对流；状况一般，浴室无对外排风。定期租至 2028-10-31，净租 €453/月（€7.68/㎡）。两段收益法：租期内 €5.50/㎡，到期后按翻修后 €8.50/㎡，扣翻修费 €14,758，估值 €132,000（约 €2,240/㎡）。每月另摊翻修贷款 €212.76。管理方称优先抵押权程序在办，欠款额未告知。",
     "riskTags": [
-      "定期出租",
       "需翻修",
       "翻修贷款分摊",
       "欠管理费"
@@ -5423,7 +5612,8 @@
     "tenancyText": "Die Top 13 ist befristet bis zum 31. Oktober 2028 vermietet.",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-1d09d2c405ba",
@@ -5444,7 +5634,6 @@
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
     "summary": "Top 19，2 楼，37.83㎡（租约写约 40㎡），一室，附走廊 WC；状况一般。实际加建卫浴并改隔墙，与图纸不符。定期租至 2026-12-31，净租 €201.93/月（€5.34/㎡）。两段收益法：到期后按翻修后 €8.50/㎡，扣翻修费 €9,458，估值 €87,000（约 €2,300/㎡）。每月另摊翻修贷款 €114.26。管理方称优先抵押权程序在办，欠款额未告知。",
     "riskTags": [
-      "定期出租",
       "与图纸有出入",
       "需翻修",
       "翻修贷款分摊",
@@ -5457,7 +5646,8 @@
     "tenancyText": "Die Top 19 ist befristet bis zum 31. Dezember 2026 vermietet.",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-e32c3b71f0f0",
@@ -5478,7 +5668,6 @@
     "ownershipType": "Die Liegenschaft liegt in einer Eckparzelle und ist straßenseitig in Richtung Hernalser Hauptstraße gegen Norden bzw. in Richtung Palffygasse gegen Osten ausgerichtet. Das Niveau ist nahezu eben und d",
     "summary": "Top 17/18，2 楼，67.97㎡（租约写约 70㎡），一室两小室。状况一般，墙顶有疑似旧水渍和裂缝。定期 3 年但止于 2027-10-30，不足 3 年，有效性属法律问题。净租 €478/月，租期内按 €5.50/㎡，到期后按 €8.50/㎡，扣翻修费 €33,985，估值 €138,000（约 €2,031/㎡）。每月另摊翻修贷款 €240.34。",
     "riskTags": [
-      "定期出租",
       "潮湿受损",
       "需翻修",
       "翻修贷款分摊",
@@ -5490,7 +5679,8 @@
     "tenancyStatus": "limited",
     "tenancyText": "",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f321a884ba88",
@@ -5516,7 +5706,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b8b56f8934b89731c1258e810024b206",
     "tenancyStatus": "vacant",
     "tenancyText": "keines bekannt; nach Rücksprache mit Gericht bestandfreie Bewertung",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-a9f8edc74277",
@@ -5537,7 +5728,6 @@
     "ownershipType": "KG 01301 Altmannsdorf, EZ 1514, GST 283/90 und 238/98, € 19.000,00 € 9.500,00\n1120 Wien, Thorvaldsengasse 34 und 40 und div. (Verkehrswert)\nIdentadressen, BLNr 408, 4/8741 Anteile, verbunden mit\nWE an",
     "summary": "小区地下车库 249 号车位，在地下一层，面积 11.04㎡，紧贴墙面，上方有斜向吊顶，净高约 166–216 cm；车库状况良好。以口头无限期租约出租约两年，租金 €75/月，解约期等具体约定不明；据租客称，租金不付给被执行人，而是付给其亲属。估值用收益法：扣杂费和增值税后净租 €43.96/月，判定低于市场，资本化率 1%，算得 €18,514，取整 €19,000。不含地价。",
     "riskTags": [
-      "无限期出租",
       "口头租约",
       "净高受限"
     ],
@@ -5547,7 +5737,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "mündlicher, unbefristeter Mietvertrag, pauschaler Mietzins € 75,-/pm",
     "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-a1c86fb76cd0",
@@ -5568,7 +5759,6 @@
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde zu Beginn des 20.Jahrhunderts errichtet, ein Wiederaufbau nach Kriegsschäden erfolgte um das Jahr 1950. Das Gebäude besteht aus einem Kellergeschoss (So",
     "summary": "Top 8，高位底层，69.78㎡，两室一小室，层高约 3.5 米，两室朝南临 Penzinger Straße。状况一般，带家具（不计入估值），厨房门扇缺失。楼约 1900 年建、1950 年前后重建，无电梯。定期租至 2027-12-14，月租 €916.51（含运营费和增值税）。比较法均价约 €3,445/㎡，因底层临街扣约 10%，按 €3,100/㎡ 估值 €216,000。月费 €271.76，维修基金约 €52,000。",
     "riskTags": [
-      "定期出租",
       "无电梯"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a1c86fb76cd03101c1258e8200265914!OpenDocument",
@@ -5577,7 +5767,8 @@
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
     "firstSeenAt": "2026-10-01T07:11:07.435Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d2a427b10a77",
@@ -5608,7 +5799,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "firstSeenAt": "2026-10-01T07:11:07.435Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-388a932c7d97",
@@ -5634,7 +5826,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a7da67248dc238f1c1258e830023edf1",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-b7567c2446ff",
@@ -5660,7 +5853,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/22c2e61b122e72d6c1258e82002bf763",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-27c4b982b964",
@@ -5692,7 +5886,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "firstSeenAt": "2026-10-02T06:58:38.443Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-797ba782fa9a",
@@ -5711,9 +5906,8 @@
     "longitude": 16.2541591,
     "geocodeSource": "official",
     "ownershipType": "Die ggst. Mittelliegenschaft EZ 173 besteht aus dem GST 100/2, in in leichter Hanglage gelegen, polygonal (Fahnengrundstück) ausgestaltet und verfügt lt. Grundbuch über eine Grundstücksfläche von insg",
-    "summary": "2楼（无电梯），W16与W17于1989年合并，现状面积117.32㎡加两阳台，三房、厨房、两浴室及独立WC，有多个穿堂房。约1965年建，状况尚可但陈旧，有小损伤。2005年起出租，2007年转无限期，净租€834.46/月（€6.67/㎡），报告认为偏低。土地€3,020/㎡，收益法后扣5%合规费用，约€2,015/㎡。登记仍为两单元，Loggia封闭与图纸不符。管理方称欠费共€10,323.68。",
+    "summary": "2楼（无电梯），W16与W17于1989年合并，现状面积117.32㎡加两阳台，三房、厨房、两浴室及独立WC，有多个穿堂房。约1965年建，状况尚可但陈旧，有小损伤。2005年起出租，2007年转无限期，净租€834.46/月（€6.67/㎡），报告认为偏低。土地€3,020/㎡，收益法后扣5%合规费用，约€2,015/㎡。登记仍为两单元，凉廊封闭与图纸不符。管理方称欠费共€10,323.68。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "欠管理费",
       "与图纸有出入",
@@ -5725,7 +5919,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "seit 17.02.2005 vermietet, seit 24.02.2007 unbefristet vermietet",
     "firstSeenAt": "2026-10-02T06:58:38.443Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-bd1711ec8b31",
@@ -5748,7 +5943,7 @@
     "riskTags": [
       "被执行人自住",
       "欠管理费",
-      "维修积压"
+      "维修欠账"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/bd1711ec8b31e50ac1258e83003eda12!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/bb70f5f75a3a1d14c1258e83003eda23/$file/GA%20K%C3%A4rntner%20Stra%C3%9Fe%2022.pdf",
@@ -5756,7 +5951,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "nicht vermietet, Eigennutzung angenommen; kein Mietvertrag bekannt; Bewertung unter Annahme der Bestandsfreiheit",
     "firstSeenAt": "2026-10-02T06:58:38.443Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-10897f26a23a",
@@ -5775,10 +5971,9 @@
     "longitude": 16.385784,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
-    "summary": "约 1965 年建七层院内楼 Stiege 1 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
+    "summary": "约 1965 年建七层院内楼 1 号楼梯 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
     "riskTags": [
-      "无限期出租",
-      "旧租约低租金",
+      "低租金",
       "面积与租约不符"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/10897f26a23a1821c1258e84002b3fec!OpenDocument",
@@ -5787,7 +5982,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-10-03T06:23:24.205Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-ba46c3bf46ba",
@@ -5806,10 +6002,10 @@
     "longitude": 16.3527509,
     "geocodeSource": "official",
     "ownershipType": "Eigentumswohnung im Altbau im gebrauchten, jedoch gepflegten Zustand mit überwiegend funktionaler, einfacher Ausstattungsqualität. Durch die Lage im Hochparterre\nwirkt die Wohnung eher dunkel. Badezim",
-    "summary": "1869 年老楼 Hochparterre 一居，30.79㎡，主室带爬梯上下的夹层，有小厨房、浴室和独立 WC，朝内院，偏暗，用不上电梯。房况旧但整洁，设备简单，未见重大损坏。勘查时看似无人常住、家具齐全，未见租约迹象，但报告称不能排除。成本法约 €16.4 万，已扣楼栋贷款分摊约 €570；浴室未获建筑许可，再扣 2.5%，估值 €16 万，可比价约 €5,220/㎡。业主会议记录称，下方他户储藏间在本户干燥工程后持续潮湿。",
+    "summary": "1869 年老楼 高位底层 一居，30.79㎡，主室带爬梯上下的夹层，有小厨房、浴室和独立 WC，朝内院，偏暗，用不上电梯。房况旧但整洁，设备简单，未见重大损坏。勘查时看似无人常住、家具齐全，未见租约迹象，但报告称不能排除。成本法约 €16.4 万，已扣楼栋贷款分摊约 €570；浴室未获建筑许可，再扣 2.5%，估值 €16 万，可比价约 €5,220/㎡。业主会议记录称，下方他户储藏间在本户干燥工程后持续潮湿。",
     "riskTags": [
       "未获建筑许可",
-      "楼栋贷款分摊",
+      "翻修贷款分摊",
       "潮湿受损"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ba46c3bf46babd76c1258e88002346d7!OpenDocument",
@@ -5818,7 +6014,8 @@
     "tenancyStatus": "unknown",
     "tenancyText": "nicht offensichtlich",
     "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-c51ec0c7c315",
@@ -5839,10 +6036,10 @@
     "ownershipType": "Die Liegenschaft hat einen annähernd rechteckigen Grundriss. Von der Erzherzog-Karl-\nStraße aus ist das Niveau der Liegenschaft über eine Böschung zu erreichen, das allgemeine\nNiveau befindet sich run",
     "summary": "标的是至 2120 年底的建筑权，不是房屋。地块 1,366㎡，多为草地树木，只有一个木棚，地面低于 Erzherzog-Karl-Straße 约 3 米，由 Masurenweg 进入，街道噪音大。权利人须自费建住宅，年建筑权租金现为 €114,583.34（保底），可建面积超 2,004㎡ 还要加收。估值用剩余法：假设 45 套共 2,350㎡、23 个车位，售价 €5,400/㎡，建造含拆除 €905 万。分割或并入邻地开发须土地方同意，目前未获。买受人须承担市政欠款 €3,472.11。",
     "riskTags": [
-      "高额建筑权租金",
+      "建筑权年租金",
       "须自费开发",
-      "欠市政款项",
-      "交通噪音"
+      "欠市政费用",
+      "临街噪音"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/c51ec0c7c3155b1dc1258e87003253a1!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/9603078db628b553c1258e87003253a9/$file/SV%20079-24%20Gutachten%20sign%2030-09-2025.pdf",
@@ -5850,7 +6047,9 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "地皮",
+    "propertyNote": "建筑权"
   },
   {
     "id": "wien-a6d0db886724",
@@ -5871,9 +6070,7 @@
     "ownershipType": "Die bewertungsgegenständlichen 84/1539 Anteile B-LNR 32 sind verbunden mit dem Wohnungseigentum an Geschäftslokal 3/4. \nEs befindet sich im EG des Wohnhauses St.Veit-Gasse 37 direkt an der Straßenfron",
     "summary": "底层临街商铺，68.71㎡，配2个地下储藏间，约1999年建，楼况较好、本铺保养良好。现为理发店，定期出租至2027年8月31日，净租€13/㎡（约€893/月），报告称市场约€17/㎡。月费€386.63。按4.5%收益法约€232,500，扣押金及投资返还后€229,000；管理方称本铺欠费€37,525.05，报告另列扣除后价值€191,500。费用按面积分摊已入登记。配套车位另行估价。",
     "riskTags": [
-      "定期出租",
-      "欠管理费",
-      "费用按面积分摊"
+      "欠管理费"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/a6d0db8867244d38c1258e870027d115!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/074e2bcd6536edc7c1258e870027d11a/$file/GA.pdf",
@@ -5881,7 +6078,8 @@
     "tenancyStatus": "limited",
     "tenancyText": "",
     "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-6391b05d5add",
@@ -5907,7 +6105,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8f77a98b6e86f4abc1258e870027e013",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-51e61423a631",
@@ -5933,7 +6132,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d0660faf26e6e03ec1258e8700287526",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-597bf634a486",
@@ -5959,7 +6159,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/04fef911b727027fc1258e8700287df5",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-ee9ee4a1d7a8",
@@ -5985,7 +6186,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/acb97842c3090abec1258e8700288555",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-27595523e2a2",
@@ -6011,7 +6213,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db653ecbd8679af6c1258e8700289741",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-8ee2a7cbe19d",
@@ -6037,7 +6240,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2b09d2a8f09b8ec1258e870028a834",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-10593dc2b24d",
@@ -6063,7 +6267,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2ed304dced4a0518c1258e870028af47",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-4e0364c60604",
@@ -6089,7 +6294,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c096d6a174c36e05c1258e870028b776",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-172eaaad47bc",
@@ -6115,7 +6321,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/aeca81f4f9c235a0c1258e870028beb2",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-e31d430b671a",
@@ -6141,7 +6348,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f79b9653552f0eb3c1258e870028c52e",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-2f08d581aa1b",
@@ -6167,7 +6375,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/89c1fd94293e85ecc1258e870028cc1b",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyType": "车位"
   },
   {
     "id": "wien-2bf32279e9c2",
@@ -6201,7 +6410,8 @@
     "tenancyText": "Augenscheinlich war das Geschäftslokal in Eigennutzung.",
     "firstSeenAt": "2026-10-08T07:18:38.363Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-005301023b33",
@@ -6233,7 +6443,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei",
     "firstSeenAt": "2026-10-08T07:18:38.363Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "地皮"
   },
   {
     "id": "wien-7886ac694fad",
@@ -6252,9 +6463,8 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "底层大单元448.05㎡，按未入登记的新分割含住宅226.63㎡、车间110.08㎡、办公30.37㎡、后楼80.97㎡。约1900年建，无电梯，状况中等有磨损。车间与办公无限期出租，净租€1,652.82/月；住宅被执行人自用；后楼据称无租约，只能经未完工屋面进入。Sachwert €551,165与收益法€553,171取均值，土地€800/㎡，建筑因过时格局扣25%、登记待更新扣10%。住宅改建未见完工申报。",
+    "summary": "底层大单元448.05㎡，按未入登记的新分割含住宅226.63㎡、车间110.08㎡、办公30.37㎡、后楼80.97㎡。约1900年建，无电梯，状况中等有磨损。车间与办公无限期出租，净租€1,652.82/月；住宅被执行人自用；后楼据称无租约，只能经未完工屋面进入。成本法 €551,165与收益法€553,171取均值，土地€800/㎡，建筑因过时格局扣25%、登记待更新扣10%。住宅改建未见完工申报。",
     "riskTags": [
-      "无限期出租",
       "被执行人自住",
       "登记待更新",
       "需维修",
@@ -6267,7 +6477,9 @@
     "tenancyText": "Das Wohnungseigentumsobjekt Geschäftslokal 1-4 ist in Teilbereichen (Werkstatt und Büro) gemäß Mietvertrag vom 01.05.2024 unbefristet vermietet.",
     "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "办公商业",
+    "propertyNote": "商住混合"
   },
   {
     "id": "wien-0754d1097bb1",
@@ -6286,9 +6498,8 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "1楼，现状面积53.56㎡（登记42.88㎡），门厅、WC、浴室、厨厅加2房，另配3.2㎡储藏间（待新分割入登记）。约1900年建，无电梯。报告称本套处于未完工毛坯状态，地暖仅预留，同时载明2026年2月签约无限期出租，净租€412.41/月（€7.70/㎡）。Sachwert €99,103与收益法€91,737取均值，土地€1,000/㎡，建筑部分因未完工扣30%、登记待更新扣10%。月费约€243。",
+    "summary": "1楼，现状面积53.56㎡（登记42.88㎡），门厅、WC、浴室、厨厅加2房，另配3.2㎡储藏间（待新分割入登记）。约1900年建，无电梯。报告称本套处于未完工毛坯状态，地暖仅预留，同时载明2026年2月签约无限期出租，净租€412.41/月（€7.70/㎡）。成本法 €99,103与收益法€91,737取均值，土地€1,000/㎡，建筑部分因未完工扣30%、登记待更新扣10%。月费约€243。",
     "riskTags": [
-      "无限期出租",
       "未完工毛坯",
       "与登记面积不符",
       "登记待更新"
@@ -6299,7 +6510,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-10-09T07:22:26.794Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-4dbffc37dbf7",
@@ -6318,9 +6530,8 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "1楼，现状面积107.43㎡（登记109.83㎡），门厅、浴室WC、厨厅、储物间、走廊加3房，三房朝街、厨厅朝院。约1900年建，无电梯，本套状况中等，燃气壁炉供暖，塑钢窗。2024年6月签约无限期出租，净租€769.30/月（€7.16/㎡），押金€1,650。Sachwert €214,318与收益法€214,119取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€346.02。",
+    "summary": "1楼，现状面积107.43㎡（登记109.83㎡），门厅、浴室WC、厨厅、储物间、走廊加3房，三房朝街、厨厅朝院。约1900年建，无电梯，本套状况中等，燃气壁炉供暖，塑钢窗。2024年6月签约无限期出租，净租€769.30/月（€7.16/㎡），押金€1,650。成本法 €214,318与收益法€214,119取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€346.02。",
     "riskTags": [
-      "无限期出租",
       "登记待更新"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4dbffc37dbf761eec1258e8a003679cc!OpenDocument",
@@ -6329,7 +6540,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-10-09T07:22:26.794Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-2451a33595fb",
@@ -6348,9 +6560,8 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "2楼，现状面积56.77㎡（登记56.74㎡），门厅、独立WC、浴室、厨厅加2房，两房朝街、厨厅朝院。约1900年建，无电梯，本套状况中等，燃气壁炉供暖。2024年9月签约无限期出租，净租€448.96/月（€7.91/㎡），押金€1,269。Sachwert €113,253与收益法€122,957取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€226.61。楼内计划做地下室修缮及增压设备。",
+    "summary": "2楼，现状面积56.77㎡（登记56.74㎡），门厅、独立WC、浴室、厨厅加2房，两房朝街、厨厅朝院。约1900年建，无电梯，本套状况中等，燃气壁炉供暖。2024年9月签约无限期出租，净租€448.96/月（€7.91/㎡），押金€1,269。成本法 €113,253与收益法€122,957取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€226.61。楼内计划做地下室修缮及增压设备。",
     "riskTags": [
-      "无限期出租",
       "登记待更新"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2451a33595fbe0bac1258e8a00369e55!OpenDocument",
@@ -6359,7 +6570,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-10-09T07:22:26.794Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-32bbf52d55ee",
@@ -6378,9 +6590,8 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "3楼，现状面积81.48㎡（登记82.87㎡），门厅、浴室WC、内廊、客厅厨房加2房，红外电暖。约1900年建，无电梯，本套状况中等；阳台门无防坠护栏，外墙水损已修但墙面抹灰缺失。2024年9月签约无限期出租，净租€492.82/月（€6.05/㎡）。Sachwert €154,442与收益法€149,109取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€251.23。",
+    "summary": "3楼，现状面积81.48㎡（登记82.87㎡），门厅、浴室WC、内廊、客厅厨房加2房，红外电暖。约1900年建，无电梯，本套状况中等；阳台门无防坠护栏，外墙水损已修但墙面抹灰缺失。2024年9月签约无限期出租，净租€492.82/月（€6.05/㎡）。成本法 €154,442与收益法€149,109取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费€251.23。",
     "riskTags": [
-      "无限期出租",
       "登记待更新",
       "水损痕迹",
       "阳台门无护栏"
@@ -6391,7 +6602,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-10-09T07:22:26.794Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-1f94f8d10bf1",
@@ -6410,9 +6622,8 @@
     "longitude": 16.3121383,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 14. Wiener Gemeindebezirk wurde um das Jahr 1900 errichtet und besteht aus einem Erdgeschoss, straßenseitig aus vier Obergeschossen und einem Dachgeschoss, hofseitig aus einem Obergesc",
-    "summary": "4楼加阁楼复式，现状面积83.90㎡，登记仅68.46㎡。4楼为厨厅、1房、卫浴及两储物间，阁楼为1房加Galerie，另有阳台、露台及可上人屋面。阁楼加建于1999至2008年，无电梯，本套状况中等。定期出租至2031年7月31日，净租€811.82/月（€9.68/㎡）。Sachwert €215,891与收益法€215,998取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费约€346。",
+    "summary": "4楼加阁楼复式，现状面积83.90㎡，登记仅68.46㎡。4楼为厨厅、1房、卫浴及两储物间，阁楼为1房加夹层，另有阳台、露台及可上人屋面。阁楼加建于1999至2008年，无电梯，本套状况中等。定期出租至2031年7月31日，净租€811.82/月（€9.68/㎡）。成本法 €215,891与收益法€215,998取均值，土地€1,000/㎡，建筑部分因登记待更新扣10%。月费约€346。",
     "riskTags": [
-      "定期出租",
       "与登记面积不符",
       "登记待更新"
     ],
@@ -6422,7 +6633,8 @@
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
     "firstSeenAt": "2026-10-09T07:22:26.794Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f72b49a7235a",
@@ -6441,7 +6653,7 @@
     "longitude": 16.3523186,
     "geocodeSource": "official",
     "ownershipType": "B lfd. Nr. 8, 48/1830 Anteil – verbunden mit Wohnungseigentum an W top 9 – an \nder Liegenschaft EZ 407, Grundbuch 01009 Mariahilf, BG Innere Stadt Wien, mit \nden Grundstücksnummern 800/2, 800/3, mit d",
-    "summary": "1楼，53.37㎡，约1883年建，带电梯，门厅、淋浴浴室、独立WC、厨房及房间，木窗，据称燃气壁炉供暖。楼与本套状况均属中等，报告建议全面检查电气。据被执行人家属称未出租、由被执行人自用，按无租约估值。Sachwert：土地€2,000/㎡加折旧后建筑价，因小户型好地段需求加价20%，得€236,000。月费€187.47。所称地下室未列入分割文件，报告不保证归属。",
+    "summary": "1楼，53.37㎡，约1883年建，带电梯，门厅、淋浴浴室、独立WC、厨房及房间，木窗，据称燃气壁炉供暖。楼与本套状况均属中等，报告建议全面检查电气。据被执行人家属称未出租、由被执行人自用，按无租约估值。成本法：土地€2,000/㎡加折旧后建筑价，因小户型好地段需求加价20%，得€236,000。月费€187.47。所称地下室未列入分割文件，报告不保证归属。",
     "riskTags": [
       "被执行人自住",
       "地下室归属不明",
@@ -6453,7 +6665,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "firstSeenAt": "2026-10-09T07:22:26.794Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-f05fad6f6b3b",
@@ -6472,9 +6685,8 @@
     "longitude": 16.2754399,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnhausanlage im 14. Wiener Gemeindebezirk in der Griesingergasse 26 wurde um das Jahr 1990 errichtet (Benützungsbewilligung aus 1993) und besteht aus zwei Wohnblöcken (Haus 1 und Haus 2). Haus 1",
-    "summary": "约 1990 年建的 Haus 2 的 2.OG，139.05㎡，另有阳台 8.31㎡、储藏间 2.52㎡，客厅加三室，Fernwärme 供暖。房况良好，客厅地板局部起翘。一名转租租客住其中约 13㎡ 的一间，2012 年租约无限期，净月租 €250，报告称之为“主张的租约”。可比价约 €5,220/㎡，扣瑕疵 5%，估值 €69 万为不计该租约；计入并折价 20% 后为 €49.9 万。月费约 €488，车库、水损、金属屋顶待修。",
+    "summary": "约 1990 年建的 Haus 2 的 2 楼，139.05㎡，另有阳台 8.31㎡、储藏间 2.52㎡，客厅加三室，区域供暖 供暖。房况良好，客厅地板局部起翘。一名转租租客住其中约 13㎡ 的一间，2012 年租约无限期，净月租 €250，报告称之为“主张的租约”。可比价约 €5,220/㎡，扣瑕疵 5%，估值 €69 万为不计该租约；计入并折价 20% 后为 €49.9 万。月费约 €488，车库、水损、金属屋顶待修。",
     "riskTags": [
-      "无限期出租",
       "部分转租",
       "屋顶车库待修"
     ],
@@ -6485,7 +6697,8 @@
     "tenancyText": "wird eine Nettomiete (Untermiete) in der Höhe von € 250,- pro Monat bezahlt. Das Mietverhältnis wurde auf unbestimmte Zeit vereinbart.",
     "firstSeenAt": "2026-10-10T06:59:48.448Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-2bfdd8f94eca",
@@ -6504,11 +6717,11 @@
     "longitude": 16.4016324,
     "geocodeSource": "official",
     "ownershipType": "Auf der bewertungsgegenständlichen Liegenschaft befindet sich ein unterkellertes, eingeschossiges Gebäude mit nicht ausgebautem Dachgeschoss, das ursprünglich um das Jahr 1979 errichtet wurde. \nDie Li",
-    "summary": "独栋屋，约1979年建，主层71.01㎡（三房、厨厅、浴室、WC）加地下层64.92㎡（含车库），合计135.93㎡，阁楼未装修且未保温，带露台花园，地块533㎡。电蓄热炉加固体燃料炉，报告指无现代供暖。在场方称2022年起空置。估值以土地为主，€1,060/㎡，建筑折旧后约€5.3万，再扣过时设施10%与市场10%。现状楼梯、门洞与批准图纸不符。目前有Bausperre。",
+    "summary": "独栋屋，约1979年建，主层71.01㎡（三房、厨厅、浴室、WC）加地下层64.92㎡（含车库），合计135.93㎡，阁楼未装修且未保温，带露台花园，地块533㎡。电蓄热炉加固体燃料炉，报告指无现代供暖。在场方称2022年起空置。估值以土地为主，€1,060/㎡，建筑折旧后约€5.3万，再扣过时设施10%与市场10%。现状楼梯、门洞与批准图纸不符。目前有建筑禁令。",
     "riskTags": [
       "与图纸有出入",
       "建筑禁令",
-      "部分需维修"
+      "需维修"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/2bfdd8f94eca02dfc1258e8e0034a00c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/39c613a46875546ac1258e8e0034a00e/$file/GA_Langsulzgasse16kom.pdf",
@@ -6516,7 +6729,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist laut Aussage der anwesenden Partei seit dem Jahr 2022 leerstehend.",
     "firstSeenAt": "2026-10-13T07:40:59.251Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-419898296293",
@@ -6535,7 +6749,7 @@
     "longitude": 16.3417757,
     "geocodeSource": "official",
     "ownershipType": "Die Liegenschaft ist bereits seit mehreren Jahren leerstehend.\nDie Liegenschaft befindet sich insgesamt in einem schlechten Bau- und Erhaltungszustand. Sanierungsbedarf ist durchgehend gegeben. Sämtli",
-    "summary": "整栋约1888年建的Gründerzeit楼，共19个单元（18套住宅加1个约58㎡仓库），合计828.96㎡，多年空置，无租金收入。整体状况差，鸽粪与动物尸体污染严重，部分楼层及后楼未能查验，已开始的翻修未完工且不计价值。新房可比价€5,395.60/㎡，扣10%风险后约€4,860/㎡，再扣住宅翻修€2,000/㎡及公共部分€30万。不在保护区，未提供能源证书。管理方文件提及未结欠款，金额在扫描件中。",
+    "summary": "整栋约1888年建的老式楼，共19个单元（18套住宅加1个约58㎡仓库），合计828.96㎡，多年空置，无租金收入。整体状况差，鸽粪与动物尸体污染严重，部分楼层及后楼未能查验，已开始的翻修未完工且不计价值。新房可比价€5,395.60/㎡，扣10%风险后约€4,860/㎡，再扣住宅翻修€2,000/㎡及公共部分€30万。不在保护区，未提供能源证书。管理方文件提及未结欠款，金额在扫描件中。",
     "riskTags": [
       "需翻修",
       "未完整查验",
@@ -6548,7 +6762,9 @@
     "tenancyStatus": "vacant",
     "tenancyText": "leerstehend",
     "firstSeenAt": "2026-10-15T05:51:03.770Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "出租楼",
+    "propertyNote": "整栋空置"
   },
   {
     "id": "wien-9bf93d478b13",
@@ -6567,9 +6783,8 @@
     "longitude": 16.3298736,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
-    "summary": "Stg 1 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
+    "summary": "1 号楼梯 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
     "riskTags": [
-      "无限期出租",
       "租约效力存疑",
       "低租金无指数",
       "需翻修",
@@ -6582,7 +6797,8 @@
     "tenancyText": "",
     "firstSeenAt": "2026-10-15T05:51:03.770Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "店铺"
   },
   {
     "id": "wien-2ad3a54564a1",
@@ -6603,8 +6819,7 @@
     "ownershipType": "50/751-Anteile mit denen Wohnungseigentum an Wohnung top 1, Einlagerungsraum 1,\nAußenpodest, Garten 1 untrennbar verbunden ist. Das Objekt hat eine Nutzfläche von\n47,39m² und weist einen durchschnittl",
     "summary": "Top 1，底层公寓带花园，使用面积 47.39㎡，经院内外部台阶进入；建筑年代不详（档案最早见 1903 年扩建图），无电梯。定期出租至 2027-12-31，合同为总包毛租 €300/月，现场看似作仓库用、未见床铺。图纸上的一间房实际划给 Top 3，与建筑许可不符；未见明显损坏，但杂物多、查看受限。估值用租期加转租收益法：合同期净租按 €98.82/月，到期后按 €372.96/月，扣合规修复 €35,000（报告估 €23,000–47,000）及购置附加费 8.6%。至 2026-03-01 欠管理费 €1,711.50。",
     "riskTags": [
-      "定期出租",
-      "旧租约低租金",
+      "低租金",
       "与图纸有出入",
       "需翻修",
       "欠管理费"
@@ -6615,7 +6830,8 @@
     "tenancyStatus": "limited",
     "tenancyText": "Die Wohnung top 1 ist befristet vermietet.",
     "firstSeenAt": "2026-10-16T05:48:10.788Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-a791409b23c9",
@@ -6647,7 +6863,9 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Das Geschäftslokal top 2 ist nach derzeitigem Wissensstand des gefertigten Sachverständigen leerstehend bzw. eigengenutzt.",
     "firstSeenAt": "2026-10-16T05:48:10.788Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "店铺",
+    "propertyNote": "餐饮"
   },
   {
     "id": "wien-229427549290",
@@ -6678,7 +6896,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "firstSeenAt": "2026-10-16T05:48:10.788Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-a30de1a846ec",
@@ -6710,7 +6929,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Die Wohnung ist bestandfrei.",
     "firstSeenAt": "2026-10-16T05:48:10.788Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d610825c8d67",
@@ -6741,7 +6961,9 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "firstSeenAt": "2026-10-16T05:48:10.788Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "出租楼",
+    "propertyNote": "整栋三户"
   },
   {
     "id": "wien-47248b0b2fe7",
@@ -6764,7 +6986,7 @@
     "riskTags": [
       "未完工毛坯",
       "欠管理费",
-      "噪音较大",
+      "临街噪音",
       "未办完工申报",
       "车位费待核实"
     ],
@@ -6774,7 +6996,9 @@
     "tenancyStatus": "vacant",
     "tenancyText": "augenscheinlich keine",
     "firstSeenAt": "2026-10-17T05:33:56.638Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "阁楼毛坯",
+    "propertyNote": "未完工"
   },
   {
     "id": "wien-046228e7fae9",
@@ -6795,7 +7019,6 @@
     "ownershipType": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
     "summary": "底层办公室 Top 5-8（191.53㎡）与储藏室 Top R1（9.66㎡）合并估值，共 201.19㎡，1887 年建筑，房况一般，现作社会超市。两份租约均无限期，始于 1989 年，净主租金 €716.15 和 €43.30/月（约 €3.74、€4.48/㎡）；Top 5-8 的租约写明约 241.76㎡，与产权单位不一致。现状与图纸不符、需重新核定份额，收益法后扣 5%，约 €1,592/㎡。业主间有 §27 WEG 诉讼。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "与图纸有出入",
       "未获建筑许可"
@@ -6806,7 +7029,9 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "firstSeenAt": "2026-10-17T05:33:56.638Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "办公商业",
+    "propertyNote": "办公"
   },
   {
     "id": "wien-ebaad1f0173b",
@@ -6827,7 +7052,6 @@
     "ownershipType": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
     "summary": "底层单位，被公共走廊隔成 Top 2（两室）和 Top 3（含三间办公室），现作跳蚤市场和办公。登记为带露台住宅，批准用途却是办公，现场未见露台。面积有 120.85㎡（估值采用）、123.41㎡、126.95㎡ 三种，走廊 WC 及部分走廊归属不明。2000 年 5 月起租，期限不定，净主租金 €142.05/月（约 €1.18/㎡），估值中净收益为负。收益法后因无建筑许可等扣 5%，约 €753/㎡。一间办公室有潮湿痕迹。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "未获建筑许可",
       "与图纸有出入",
@@ -6840,7 +7064,9 @@
     "tenancyText": "Mietdauer unbestimmte Zeit",
     "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "summarizedAt": "2026-11-07T12:23:58.108Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "办公商业",
+    "propertyNote": "办公"
   },
   {
     "id": "wien-421577b6f425",
@@ -6859,9 +7085,8 @@
     "longitude": 16.3632586,
     "geocodeSource": "official",
     "ownershipType": "Objekte in Mehrparteienhaus aus Bj. 1887 in 1090 Wien,\nPramergasse 12 / Müllnergasse 27; Eckparzelle mit\nKeller, Erdgeschoss, Mezzanin und drei Obergeschossen\nsowie nachträglich ausgebautem Dachgescho",
-    "summary": "位于 1887 年建筑的 Mezzanin，92.25㎡，前厅、厨房、浴室、两室、一小间及 WC。房况良好，厨房、浴室和 WC 由现租客翻新。出租中，1977 年 3 月起租，期限不定，净主租金 €260.66/月（约 €2.83/㎡），含运营费及税 €494.57。现靠租客自装的电暖设备供暖，原燃气壁挂炉的散热器未接通。现状与批准图纸不符，收益法后扣 2.5%，约 €1,629/㎡。业主间有 §27 WEG 诉讼。",
+    "summary": "位于 1887 年建筑的 夹层，92.25㎡，前厅、厨房、浴室、两室、一小间及 WC。房况良好，厨房、浴室和 WC 由现租客翻新。出租中，1977 年 3 月起租，期限不定，净主租金 €260.66/月（约 €2.83/㎡），含运营费及税 €494.57。现靠租客自装的电暖设备供暖，原燃气壁挂炉的散热器未接通。现状与批准图纸不符，收益法后扣 2.5%，约 €1,629/㎡。业主间有 §27 WEG 诉讼。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "与图纸有出入",
       "未获建筑许可"
@@ -6872,7 +7097,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Am Tag der Befundaufnahme war die Wohnung Top 11 bewohnt. Die Wohnung ist seit 1977 auf unbestimmte Zeit vermietet.",
     "firstSeenAt": "2026-10-17T05:33:56.638Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-a051ec405dd1",
@@ -6893,7 +7119,6 @@
     "ownershipType": "Mehrparteienhaus in 1070 Wien, Siebensterngasse 16A;\nBj. 1870, weitgehend historisch erhalten; Keller, EG, 1. – 4. Stock, DG nachträglich ausgebaut; Haus in durchschnittlichem Erhaltungszustand, Perso",
     "summary": "约 1870 年建老楼的 2 楼，1996–2000 年加建阁楼，电梯停半层，楼况中等。W 7 面积 96.72㎡，两室一小间、厨房内设洗浴、WC、临街阳台，可对流通风，燃气壁挂炉，状况中等，部分使用痕迹重，大致符合图纸，地下储藏不明。自 1982 年无限期出租，现租客 2005 年经判决承接，主租金净 €215.69/月（€2.23/㎡）。收益法算得 €224,218，扣贷款余额 €5,038，估值约 €2,266/㎡。楼内 2023 年贷款 €67,000 修楼板，本套月摊 €55.36；维修基金仅 €2,878，可能修地窖拱顶。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "翻修贷款分摊"
     ],
@@ -6904,7 +7129,8 @@
     "tenancyText": "Das Objekt ist auf unbestimmte Zeit vermietet.",
     "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-3372c32d278e",
@@ -6933,7 +7159,8 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "firstSeenAt": "2026-10-19T06:03:58.763Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-a669654f8743",
@@ -6967,7 +7194,8 @@
     "tenancyText": "Gemäß der mietvertraglichen Erkenntnisse sind davon 17 Objekte zu Wohnzwecken, 1 Objekt zu Geschäftszwecken vermietet.",
     "firstSeenAt": "2026-10-20T05:57:30.763Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-4f88750cdf6d",
@@ -6986,7 +7214,7 @@
     "longitude": 16.3324571,
     "geocodeSource": "official",
     "ownershipType": "Das Mehrfamilienwohnhaus im 15. Wiener Gemeindebezirk wurde in den 1970er-Jahren errichtet und besteht aus einem Kellergeschoss (Eingangsebene), einem Erdgeschoss, vier Obergeschossen und einem Dachge",
-    "summary": "Top 24 位于 3. OG，65.76㎡，另有封闭凉廊 5.48㎡ 和地下储藏室 1.46㎡；门厅、卫浴一体、厨房和两室，朝东临街，区域供暖，状况一般，有家具但不计入估值。1970 年代建，有电梯，楼况与楼龄相符。被执行人称无租约。按可比价 €3,670/㎡（凉廊按 40% 计）估值，未发现明显缺陷；估值日为 2024 年 10 月。月费 €439.48（含取暖和热水）；储备金约 €42,556，暂无大修计划。",
+    "summary": "Top 24 位于 3 楼，65.76㎡，另有封闭凉廊 5.48㎡ 和地下储藏室 1.46㎡；门厅、卫浴一体、厨房和两室，朝东临街，区域供暖，状况一般，有家具但不计入估值。1970 年代建，有电梯，楼况与楼龄相符。被执行人称无租约。按可比价 €3,670/㎡（凉廊按 40% 计）估值，未发现明显缺陷；估值日为 2024 年 10 月。月费 €439.48（含取暖和热水）；储备金约 €42,556，暂无大修计划。",
     "riskTags": [],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/4f88750cdf6df8b4c1258e96005b86f4!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8a38dd6a5a70cb23c1258e96005b86f6/$file/GZ-24143-1150_Kranzgasse25-27_anonym.pdf",
@@ -6994,7 +7222,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "firstSeenAt": "2026-10-21T05:58:16.385Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-2ee136dda971",
@@ -7013,9 +7242,8 @@
     "longitude": 16.3403144,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus aus Bj. 1891 in 1070 Wien, Seideng. 38;\nKeller, EG, Mezzain, 1. bis 3. Sock und nachträglicher\nmehrgeschoßiger Dachbodenausbau; grs. guter Zustand.\n---\nleicht erhöhte verkehrsbedingte",
-    "summary": "约 1891 年建老楼的 2 楼，后加建多层阁楼，有电梯，整体状况好。W 14 面积 60.61㎡，两室、厨房、浴室、独立 WC，朝内院，燃气壁挂炉，状况简朴中等，大致符合图纸。1972 年起无限期出租，现主租金净 €93.03/月（€1.53/㎡）。收益法算得 €89,573，扣翻修贷款分摊余额 €4,501，估值 €85,000。楼内正治理上升潮湿，燃气管待查，公共区电气待修；本套摊贷款共 €4,603.12。Nutzwert 更正其余业主已同意，尚缺本套。",
+    "summary": "约 1891 年建老楼的 2 楼，后加建多层阁楼，有电梯，整体状况好。W 14 面积 60.61㎡，两室、厨房、浴室、独立 WC，朝内院，燃气壁挂炉，状况简朴中等，大致符合图纸。1972 年起无限期出租，现主租金净 €93.03/月（€1.53/㎡）。收益法算得 €89,573，扣翻修贷款分摊余额 €4,501，估值 €85,000。楼内正治理上升潮湿，燃气管待查，公共区电气待修；本套摊贷款共 €4,603.12。份额更正其余业主已同意，尚缺本套。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "翻修贷款分摊",
       "潮湿受损"
@@ -7027,7 +7255,8 @@
     "tenancyText": "Das Objekt ist derzeit unbefristet vermietet.",
     "firstSeenAt": "2026-10-23T05:59:13.039Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-8e37df13c5f5",
@@ -7046,10 +7275,9 @@
     "longitude": 16.3191825,
     "geocodeSource": "official",
     "ownershipType": "Zinshaus in sanierungsbedürftigem Zustand",
-    "summary": "整栋 Zinshaus，617㎡ 转角地块，两栋建于 1860、1898 年，无电梯，估算 1,013㎡，状况差。过半单元空置；已租的多为无限期低租约（净租金约 €1.42–3.21/㎡），一套定期至 2028 年 5 月，两套无资料。被执行人未提供任何文件，报告明确警告。估值 €210 万＝收益部分约 €50 万＋空置单元约 €80 万（已扣翻修）＋阁楼扩建约 €79 万（约 580㎡）。需承接欠费约 €3 万。",
+    "summary": "整栋 出租楼，617㎡ 转角地块，两栋建于 1860、1898 年，无电梯，估算 1,013㎡，状况差。过半单元空置；已租的多为无限期低租约（净租金约 €1.42–3.21/㎡），一套定期至 2028 年 5 月，两套无资料。被执行人未提供任何文件，报告明确警告。估值 €210 万＝收益部分约 €50 万＋空置单元约 €80 万（已扣翻修）＋阁楼扩建约 €79 万（约 580㎡）。需承接欠费约 €3 万。",
     "riskTags": [
-      "无限期出租",
-      "定期出租",
+      "租约混合",
       "旧租约低租金",
       "需翻修",
       "承接欠缴税费"
@@ -7060,7 +7288,8 @@
     "tenancyStatus": "rented",
     "tenancyText": "",
     "firstSeenAt": "2026-10-29T07:01:16.473Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "出租楼"
   },
   {
     "id": "wien-2cdaf73f4de2",
@@ -7086,7 +7315,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3d2466ddb6c54809c1258e9e002cee24",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z",
+    "propertyType": "办公商业"
   },
   {
     "id": "wien-6632268cf7be",
@@ -7107,7 +7337,6 @@
     "ownershipType": "Die bewertungsgegenständliche Liegenschaft befindet sich im 17. Wiener Gemeindebezirk „Hernals“ per Adresse Hernalser Hauptstraße 35 ident Palffygasse 23. Die bewertungsgegenständliche Liegenschaft wi",
     "summary": "四个产权单元（1000/4166 份额）合并估值，共 693.15㎡（地下 167.61㎡），实为 10 套服务式公寓及储藏空间，格局与产权文件不同。整体出租至 2033 年底，固定净租 €15,000/月，指数调整后约 €16,768，但未确认已调整，无押金。收益法按 €24/㎡、地下 €10/㎡、6% 估值，因需重新分摊份额并变更用途扣 2.5%，再减欠款 €4,273。月费约 €3,944，含两笔翻修贷款；业主共同体有优先抵押权。",
     "riskTags": [
-      "定期出租",
       "翻修贷款分摊",
       "欠管理费",
       "需重新分摊份额",
@@ -7116,10 +7345,12 @@
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/6632268cf7be09cbc1258e9e0045f34c!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/364150fe6020e1edc1258e9e0045f34e/$file/GA_HernalserHauptstr35_11E2455_25w_KOM.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3512b7b8f5d00981c1258e9e0045f34d",
-    "tenancyStatus": "rented",
+    "tenancyStatus": "limited",
     "tenancyText": "",
     "firstSeenAt": "2026-10-29T07:01:16.473Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "tenancySource": "report",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-efe9fdc10059",
@@ -7148,7 +7379,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:07:26.792Z"
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-0a4a9907b1f6",
@@ -7169,7 +7401,6 @@
     "ownershipType": "Teil Top 6: Hauptraum lt. Plan  in zwei kleine Kabinette getrennt, offener Küchenbereich mit Duschnische im Vorraum \t \nTop 7: getrennte Küche; Kabinett (hofseitig); Hauptraum (straßenseitig); \"Duschni",
     "summary": "底层 Top 6/7 两户合并，77.59㎡，无限期出租（旧租约），净租金仅 €179.12/月（约 €2.31/㎡），且两户可独立进出。房况需翻修，评估扣减约 €1,500/㎡，并因租约按15年折现（系数0.665）。租金几乎被维修费用抵消，短期难以收回自用或转售。楼内另有翻修贷款分摊。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "需翻修",
       "翻修贷款分摊"
@@ -7180,7 +7411,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet ; Nettoertrag mtl. € 179,12 zuz. BK /Lift € 152,11",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:07:26.792Z"
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-036fd19ea36d",
@@ -7210,7 +7442,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:07:26.792Z"
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d574b8bf3c76",
@@ -7231,7 +7464,6 @@
     "ownershipType": "Hauptraum straßenseitig; Gang-Küche; Kabinett hofseitig\n\"Dusche in der KÜ/Gang-WC\"",
     "summary": "二楼 Top 14，46.12㎡，无限期出租（旧租约），净租金仅 €102.85/月（约 €2.23/㎡）。格局为临街主室、走廊式厨房、朝院小间，淋浴在厨房内，厕所在公共走廊。房况需翻修，评估扣减约 €1,500/㎡，并因租约按15年折现。楼内翻修贷款需分摊。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "需翻修",
       "走廊公厕"
@@ -7242,7 +7474,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet; Nettoertrag mtl. € 102,85",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:07:26.792Z"
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-0870d936427b",
@@ -7273,7 +7506,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:07:26.792Z"
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-422d02b2289c",
@@ -7303,7 +7537,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:07:26.792Z"
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-ca132eeb7bf0",
@@ -7334,7 +7569,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "keine , Eigennutzung durch Verpflichteten",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:07:26.792Z"
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-dd92906e3021",
@@ -7366,7 +7602,8 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "阁楼毛坯"
   },
   {
     "id": "wien-35cc9e39963c",
@@ -7385,9 +7622,8 @@
     "longitude": 16.3423851,
     "geocodeSource": "official",
     "ownershipType": "55/1252 Anteile, BLNr 38, verbunden mit WE an W Top 5a.\nNutzfläche laut Nutzwertgutachten 66,69 m².\nWohnung im Hochparterre, sowohl straßenseitig in Richtung Laudongasse als auch hofseitig ausgerichte",
-    "summary": "Top 5a 位于 Hochparterre，66.69㎡，门厅、厨房、卫浴和三室，临街也朝院。1886/87 年老楼，后建阁楼，楼况良好至很好；有电梯但本层不停。1986 年起无限期出租，净租金 €148.73/月（约 €2.23/㎡）。租客称入住时没有浴室，浴室、暖气和厨房由其安装。现状与建筑许可图纸不符。收益法估值，地价 €2,930/㎡，合 €2,369/㎡。押金情况不明；储备金约 €61,500，未获翻修信息。",
+    "summary": "Top 5a 位于 高位底层，66.69㎡，门厅、厨房、卫浴和三室，临街也朝院。1886/87 年老楼，后建阁楼，楼况良好至很好；有电梯但本层不停。1986 年起无限期出租，净租金 €148.73/月（约 €2.23/㎡）。租客称入住时没有浴室，浴室、暖气和厨房由其安装。现状与建筑许可图纸不符。收益法估值，地价 €2,930/㎡，合 €2,369/㎡。押金情况不明；储备金约 €61,500，未获翻修信息。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "与图纸有出入"
     ],
@@ -7397,7 +7633,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Wohnung ist seit 1986 unbefristet vermietet",
     "firstSeenAt": "2026-10-30T07:04:05.511Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-9c2eb47fc89b",
@@ -7423,7 +7660,8 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z"
+    "firstSeenAt": "2026-10-31T06:58:28.863Z",
+    "propertyType": "其他"
   },
   {
     "id": "wien-7bf84356a0b5",
@@ -7444,7 +7682,6 @@
     "ownershipType": "Die Wohnung besteht aus einem Vorraum, einer Küchennische, einem Sanitärbereich (Bad mit WC), einem Richtung Straßenseite orientierten Hauptraum und einem Kabinett (hofseitig).",
     "summary": "Top 20，底层，45.77㎡，一室一小室，厨房角，朝街与内院，燃气供暖，无专属储物间。已翻新，地板磨损；约 1888 年楼。定期转租至 2027-05-31，毛租 €750/月，另收水电气 €150。比较法 €4,250/㎡，底层扣 5% 得 €185,000；因租约到期执行和租金有法律风险，收益法扣 15% 后估值 €165,000（约 €3,605/㎡）。计划修外立面、内院、楼梯间潮湿、烟道和下水。",
     "riskTags": [
-      "定期出租",
       "转租合约",
       "租约法律风险",
       "楼梯间潮湿"
@@ -7455,7 +7692,8 @@
     "tenancyStatus": "limited",
     "tenancyText": "",
     "firstSeenAt": "2026-10-31T06:58:28.863Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-c02c3f07d6cf",
@@ -7476,7 +7714,6 @@
     "ownershipType": "Wohnungseigentumsobjekt an Tankstelle in 1070 Wien, Seidengasse 12 ident mit Zieglergasse 27;\n---\nsiebengeschoßige Wohnhausanlage aus Bj 1966 mit ausgebautem Dachgeschoss, bestehend aus drei Stiegen d",
     "summary": "1966 年住宅楼底层的加油站与轮胎仓库 Top 1a，已打通，合并估值，共 922.04㎡，状况简单实用。2022 年 3 月起无限期整体出租，可转租，净主租金 €1,200，指数调整后约 €1,365/月（约 €1.48/㎡），但提供的租约双方均未签字。收益法约 €41.3 万，因垃圾房归属、实际面积和强制车位不清扣 15%，再扣押金，估值约 €34.1 万。两单元月费合计约 €2,536。经营涉及危险品，污染未排除但无迹象。",
     "riskTags": [
-      "无限期出租",
       "租约未签字",
       "面积权属不清",
       "污染未排除"
@@ -7488,7 +7725,9 @@
     "tenancyText": "Die Tankstelle inkl. der Top 1a St I ist seit dem März 2022 auf unbestimmte Zeit vermietet.",
     "firstSeenAt": "2026-10-31T06:58:28.863Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "办公商业",
+    "propertyNote": "加油站"
   },
   {
     "id": "wien-8f24b4baeb6a",
@@ -7512,7 +7751,7 @@
       "被执行人自住",
       "轻微霉斑",
       "电气不达标",
-      "临街噪音大"
+      "临街噪音"
     ],
     "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/8f24b4baeb6a3b45c1258ea500483560!OpenDocument",
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8940f56ca05b4c9cc1258ea500483564/$file/Gutachten_Murmanngasse.pdf",
@@ -7520,7 +7759,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Die Einheit wird eigengenutzt. Über etwaige Bestands- und Nutzungsrechte liegen keine Informationen vor.",
     "firstSeenAt": "2026-11-05T07:55:21.908Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-ec9044b23245",
@@ -7554,7 +7794,9 @@
     "tenancyText": "Die 5 Geschäftslokale waren zum Zeitpunkt der Befundaufnahme leerstehend",
     "firstSeenAt": "2026-11-05T07:55:21.908Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "地皮",
+    "propertyNote": "建筑权"
   },
   {
     "id": "wien-c7114705d8ba",
@@ -7575,7 +7817,6 @@
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
     "summary": "Top 1+2 位于底层，75.38㎡，三室带厨卫，含地下储藏室和走廊 WC，室内陈旧至中等。1900 年前老楼。依 1956、1978 年租约无限期出租，毛租金 €342.92/月，净约 €1.50/㎡。估值为成本法 €86,945（无限期租约扣约 40%）与收益法 €72,716 的均值。常规月费约 €314.50，另有一次性分摊至 2026/10。储备金仅约 €1,310，未来几年拟整栋翻修、地下室除湿等。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "大修资金不足",
       "建筑审批未结"
@@ -7586,7 +7827,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-11-07T07:04:14.786Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-ef0f4bf4cb83",
@@ -7605,9 +7847,8 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Top 6+7 位于 1. OG，登记 78.98㎡，实际另含约 3㎡ 门厅和 6㎡ 浴室；浴室按图纸属 Top 8-10，估值为此扣 €4,652。两室一小间带厨卫，陈旧至中等，厨房地板有潮湿损坏。依 2009 年租约无限期出租，毛租金 €358.80/月，净约 €1.49/㎡。估值取成本法 €86,446 与收益法 €71,393 的均值。月费约 €329.50，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修。",
+    "summary": "Top 6+7 位于 1 楼，登记 78.98㎡，实际另含约 3㎡ 门厅和 6㎡ 浴室；浴室按图纸属 Top 8-10，估值为此扣 €4,652。两室一小间带厨卫，陈旧至中等，厨房地板有潮湿损坏。依 2009 年租约无限期出租，毛租金 €358.80/月，净约 €1.49/㎡。估值取成本法 €86,446 与收益法 €71,393 的均值。月费约 €329.50，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "与图纸有出入",
       "潮湿受损",
@@ -7619,7 +7860,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-11-07T07:04:14.786Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-cffd38f39013",
@@ -7638,9 +7880,8 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Top 8-10 位于 1. OG，登记 93.48㎡，但原约 6㎡ 浴室实际划在 Top 6+7 内，估值为此扣 €11,013。三室带厨卫和储藏间；一间燃气对流取暖，其余电热，陈旧至中等。租客称无限期出租，未见书面租约；毛租金 €411.94/月，净约 €1.37/㎡。估值取成本法 €96,809 与收益法 €75,291 的均值。常规月费约 €390，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修。",
+    "summary": "Top 8-10 位于 1 楼，登记 93.48㎡，但原约 6㎡ 浴室实际划在 Top 6+7 内，估值为此扣 €11,013。三室带厨卫和储藏间；一间燃气对流取暖，其余电热，陈旧至中等。租客称无限期出租，未见书面租约；毛租金 €411.94/月，净约 €1.37/㎡。估值取成本法 €96,809 与收益法 €75,291 的均值。常规月费约 €390，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "与图纸有出入",
       "大修资金不足",
@@ -7652,7 +7893,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-11-07T07:04:14.786Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-d2bc45ead56d",
@@ -7671,9 +7913,8 @@
     "longitude": 16.3310821,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnhaus im 15. Wiener Gemeindebezirk wurde vor dem Jahr 1900 errichtet und besteht aus einem Kellergeschoss, einem Erdgeschoss, drei Obergeschossen und einem Dachgeschoss. Der Dachgeschossausbau ",
-    "summary": "Top 17+24 位于 2. OG，图纸面积 80.92㎡，另有露台 4.94㎡；门厅兼厨房、卫浴一体、三室（一间图纸标为储藏室），朝院子，状况一般。依 2009 年租约无限期出租，毛租金 €367.62/月，净约 €1.49/㎡。估值取成本法 €93,336（无限期租约扣约 40%）与收益法 €77,912 的均值。常规月费约 €337.60，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修；建筑审批尚未结案。",
+    "summary": "Top 17+24 位于 2 楼，图纸面积 80.92㎡，另有露台 4.94㎡；门厅兼厨房、卫浴一体、三室（一间图纸标为储藏室），朝院子，状况一般。依 2009 年租约无限期出租，毛租金 €367.62/月，净约 €1.49/㎡。估值取成本法 €93,336（无限期租约扣约 40%）与收益法 €77,912 的均值。常规月费约 €337.60，另有一次性分摊至 2026/10。储备金仅约 €1,310，拟大修；建筑审批尚未结案。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "与图纸有出入",
       "大修资金不足",
@@ -7685,7 +7926,8 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "firstSeenAt": "2026-11-07T07:04:14.786Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   },
   {
     "id": "wien-7d8c576f245b",
@@ -7717,7 +7959,9 @@
     "tenancyText": "",
     "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "tenancySource": "report"
+    "tenancySource": "report",
+    "propertyType": "其他",
+    "propertyNote": "储藏室"
   },
   {
     "id": "wien-8a2fd882342b",
@@ -7748,7 +7992,8 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Maryam Panahi Tabrizi (Verpflichtete), das bewertungsgegenständliche Wohnhaus nicht vermietet ist und im Eigengebrauch steht.",
     "firstSeenAt": "2026-11-07T07:04:14.786Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "独栋住宅"
   },
   {
     "id": "wien-1c51b9a939f0",
@@ -7769,7 +8014,6 @@
     "ownershipType": "Das Gebäude in Massivbauweise wurde als Zinshaus im Jahr 1900 mit einem zur Göschl-gasse gelegenen Straßentrakt (Kellergeschoss, 5 Hauptgeschosse, unausgebautes Dach-geschoss), einem Hoftrakt (Erdgesc",
     "summary": "W 19 位于 2 楼，31.53㎡，门厅兼厨房、客厅和 WC，没有浴室；电热取暖，电路老旧，室内陈旧。1900 年老楼，有电梯。无书面租约，租客称 2006 年起居住，报告按口头无限期租约估值；称每月付 €200，推算净租约 €50（€1.59/㎡），明显低于市场；业主月费 €206.62。收益法估值，因 Top 33 露台修缮诉讼风险扣 2.5%，合 €1,522/㎡。储备金约 €12,717，可能需贷款或特别分摊。",
     "riskTags": [
-      "无限期出租",
       "旧租约低租金",
       "无浴室",
       "露台修缮诉讼",
@@ -7781,6 +8025,7 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "firstSeenAt": "2026-11-07T07:04:14.786Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "propertyType": "公寓"
   }
 ]

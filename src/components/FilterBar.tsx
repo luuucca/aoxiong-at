@@ -1,17 +1,7 @@
 import React from 'react'
 import { Search, SlidersHorizontal, X } from 'lucide-react'
-import type { FilterState, SortOption, AuctionCategory, TenancyStatus } from '../types/auction'
-import { getCategoryLabel, TENANCY_META } from '../utils/formatters'
-
-const CATEGORIES: AuctionCategory[] = [
-  'Eigentumswohnung',
-  'Wohnungseigentumsobjekt',
-  'Einfamilienhaus',
-  'Mehrfamilienhaus',
-  'Mietshaus',
-  'gewerbliche Liegenschaft',
-  'Sonstiges',
-]
+import type { FilterState, SortOption, TenancyStatus } from '../types/auction'
+import { PROPERTY_TYPES, TENANCY_META } from '../utils/formatters'
 
 const TENANCY_OPTIONS: TenancyStatus[] = ['vacant', 'limited', 'rented', 'unlimited', 'unknown']
 
@@ -70,10 +60,10 @@ export function FilterBar({ filters, onChange, resultCount }: Props) {
                        text-warm-700 focus:outline-none focus:border-forest-600 focus:ring-1
                        focus:ring-forest-600 focus:ring-opacity-30 transition-colors cursor-pointer"
           >
-            <option value="all">全部类别</option>
-            {CATEGORIES.map((cat) => (
-              <option key={cat} value={cat}>
-                {getCategoryLabel(cat)} · {cat}
+            <option value="all">全部类型</option>
+            {PROPERTY_TYPES.map((type) => (
+              <option key={type} value={type}>
+                {type}
               </option>
             ))}
           </select>

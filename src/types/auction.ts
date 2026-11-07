@@ -7,6 +7,9 @@ export type AuctionCategory =
   | 'gewerbliche Liegenschaft'
   | 'Sonstiges'
 
+/** What is actually being sold. See scripts/property-type.mjs. */
+export type PropertyType = '公寓' | '独栋住宅' | '出租楼' | '店铺' | '办公商业' | '地皮' | '阁楼毛坯' | '车位' | '其他'
+
 export type GeocodeSource = 'official' | 'manual' | 'approximate'
 
 /** From the court report's Bestandsverhältnisse. See scripts/tenancy.mjs. */
@@ -57,6 +60,9 @@ export interface Auction {
   tenancyText?: string
   /** "report" when tenancy was read from the full Gutachten rather than the short report. */
   tenancySource?: 'report'
+  propertyType?: PropertyType
+  /** Refines the type, e.g. 建筑权 for a building right rather than owned land. */
+  propertyNote?: string
   /** ISO timestamp of when the scraper first encountered this UNID. */
   firstSeenAt?: string
   /** ISO timestamp of when the Chinese summary + riskTags were written (scripts/report-summaries.mjs). */

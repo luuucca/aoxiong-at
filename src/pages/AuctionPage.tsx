@@ -21,6 +21,11 @@ export default function AuctionPage() {
     sortBy: 'date-asc' as SortOption,
   })
 
+  const liveCount = useMemo(() => {
+    const today = new Date().toISOString().slice(0, 10)
+    return auctions.filter((a) => !a.auctionDate || a.auctionDate >= today).length
+  }, [auctions])
+
   const filteredAuctions = useMemo(() => {
     const q = filters.search.toLowerCase()
     // Today as YYYY-MM-DD for direct comparison against auctionDate.
@@ -36,10 +41,11 @@ export default function AuctionPage() {
           a.address.toLowerCase().includes(q) ||
           a.caseNumber.toLowerCase().includes(q) ||
           a.category.toLowerCase().includes(q) ||
+          (a.propertyType ?? '').includes(q) ||
           a.title.toLowerCase().includes(q) ||
           a.district.includes(q)
         const matchCategory =
-          filters.category === 'all' || a.category === filters.category
+          filters.category === 'all' || (a.propertyType ?? '其他') === filters.category
         const tenancy = a.tenancyStatus ?? 'unknown'
         const matchTenancy =
           filters.tenancy === 'all' ||
@@ -119,8 +125,8 @@ export default function AuctionPage() {
 
   return (
     <div className="flex flex-col bg-cream-100" style={{ height: '100vh', paddingTop: 64 }}>
-      <Header lastModified={lastModified} auctionCount={auctions.length} refresh={refresh} onRefresh={triggerScrape} onReloadData={reloadData} />
-      <StatsCards auctions={auctions} filteredCount={filteredAuctions.length} />
+      <Header lastModified={lastModified} auctionCount={liveCount} refresh={refresh} onRefresh={triggerScrape} onReloadData={reloadData} />
+      <StatsCards liveCount={liveCount} filteredCount={filteredAuctions.length} />
       <FilterBar filters={filters} onChange={setFilters} resultCount={filteredAuctions.length} />
 
       {/* Mobile: tab switcher */}
@@ -156,11 +162,11 @@ export default function AuctionPage() {
       </div>
 
       {/* Desktop: fixed height split view */}
-      <div className="hidden md:flex flex-1 overflow-hidden">
+      <div className="hidden md:flex flex-1 min-h-0 overflow-clip">
         <div className="w-3/5 overflow-hidden border-r border-cream-200">
           <MapView auctions={filteredAuctions} selectedId={selectedId} onSelect={handleSelect} />
         </div>
-        <div className="flex-1 flex flex-col overflow-hidden bg-cream-100">
+        <div className="flex-1 min-h-0 flex flex-col overflow-clip bg-cream-100">
           {selectedAuction && <DetailPanel auction={selectedAuction} onClose={() => setSelectedId('')} />}
           <AuctionList auctions={filteredAuctions} selectedId={selectedId} onSelect={handleSelect} />
         </div>

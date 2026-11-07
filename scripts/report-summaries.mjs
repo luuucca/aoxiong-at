@@ -30,6 +30,10 @@ const CHARS_PER_EXTRA_UNIT = 4000
 const MAX_CHARS = 40000
 const TOPICS = /Bestand|Miet|vermietet|leerstehend|Zustand|Baujahr|Errichtung|Mängel|Schäden|Feuchtigkeit|Sanierung|Renovierung|Servitut|Dienstbarkeit|Wohnrecht|Fruchtgenuss|Belastung|Denkmal|Schutzzone|Rückstand|Rücklage|Baubewilligung|Konsens|Kontamination|Altlast|Zusammenfassung|Verkehrswert|Betriebskosten|Hausverwaltung/gi
 
+// The tenancy badge already says these, so a tag repeating them is noise.
+const TENANCY_TAGS = /^(定期出租|无限期出租|已出租|无租约|空置)$/
+const UNTRANSLATED = /Sachwert|Hochparterre|Souterrain|Mezzanin|Fernwärme|Bausperre|Mansarde|Zinshaus|\d\.\s?OG/
+
 const today = () => new Date().toISOString().slice(0, 10)
 const keyOf = (url) => createHash('sha1').update(url).digest('hex').slice(0, 10)
 const squeeze = (text) => text.replace(/[ \t]+/g, ' ').replace(/\n\s*\n+/g, '\n').trim()
@@ -112,6 +116,9 @@ function problemsWith(result, reportText) {
   if (!/\p{Script=Han}/u.test(summary ?? '')) problems.push('summary is not Chinese')
   // Reports name owners and tenants; the dashboard is public.
   if (/先生|女士|\b(Frau|Herrn?|Dr\.|Mag\.|Ing\.|DI)\s/.test(summary ?? '')) problems.push('summary names a person')
+  if (UNTRANSLATED.test(summary ?? '')) problems.push('summary has untranslated German terms')
+  if (riskTags?.some?.((t) => TENANCY_TAGS.test(t))) problems.push('a tag repeats the tenancy status')
+  if (new Set(riskTags).size !== riskTags?.length) problems.push('duplicate tags')
   if (!Array.isArray(riskTags) || riskTags.length > 6 || riskTags.some((t) => typeof t !== 'string' || !t || t.length > 10)) problems.push('bad riskTags')
   if (tenancy) {
     if (!comparable(reportText).includes(comparable(tenancy.quote ?? '_'))) problems.push('tenancy quote not found in report')
@@ -144,6 +151,8 @@ function apply(workDir, resultsPath) {
     record.summary = result.summary.trim()
     record.riskTags = result.riskTags
     record.summarizedAt = now
+    if (result.propertyType) record.propertyType = result.propertyType
+    if (result.propertyNote) record.propertyNote = result.propertyNote
     applied++
     // The report only fills gaps: it never overrules the court's short report.
     if (result.tenancy && ['unknown', 'rented'].includes(record.tenancyStatus) && result.tenancy.status !== record.tenancyStatus) {

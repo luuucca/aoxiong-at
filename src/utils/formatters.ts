@@ -1,4 +1,4 @@
-import type { Auction, TenancyStatus } from '../types/auction'
+import type { Auction, PropertyType, TenancyStatus } from '../types/auction'
 
 export function formatCurrency(value: number): string {
   // Überbot / archival rows often have 0 for these fields — render an
@@ -8,6 +8,12 @@ export function formatCurrency(value: number): string {
     const mio = value / 1_000_000
     return `€ ${mio % 1 === 0 ? mio.toFixed(0) : mio.toFixed(2).replace('.', ',')} Mio.`
   }
+  return `€ ${value.toLocaleString('de-AT')}`
+}
+
+/** Every digit, for the detail panel where amounts are compared side by side. */
+export function formatFullCurrency(value: number): string {
+  if (!value || value <= 0) return '—'
   return `€ ${value.toLocaleString('de-AT')}`
 }
 
@@ -45,7 +51,7 @@ export function formatPerSqm(value: number): string {
 
 export function formatPercent(value: number): string {
   if (!isFinite(value) || value <= 0) return '—'
-  return `${(value * 100).toFixed(1)} %`
+  return `${Number((value * 100).toFixed(1))}%`
 }
 
 export function bidRatio(auction: Auction): number {
@@ -86,70 +92,37 @@ export function getRiskTagStyle(tag: string): { bg: string; text: string; border
   return RISK_TAG_STYLES[tag] ?? { bg: '#F3F4F6', text: '#374151', border: '#D1D5DB' }
 }
 
-export const CATEGORY_LABELS: Record<string, string> = {
-  Eigentumswohnung: '公寓',
-  Wohnungseigentumsobjekt: '公寓',
-  Einfamilienhaus: '独栋住宅',
-  Mehrfamilienhaus: '多户住宅',
-  Mietshaus: '出租楼',
-  'gewerbliche Liegenschaft': '商业物业',
-  Sonstiges: '其他',
+/** Darker than the brand gold so highlighted amounts stay readable on cream. */
+export const HIGHLIGHT_COLOR = '#8A6A12'
+
+export const PROPERTY_TYPES: Exclude<PropertyType, '车位'>[] = ['公寓', '独栋住宅', '出租楼', '店铺', '办公商业', '地皮', '阁楼毛坯', '其他']
+
+const PROPERTY_COLORS: Record<PropertyType, { card: string; bg: string; text: string; border: string }> = {
+  公寓: { card: '#1D3A2A', bg: '#1A4A7A', text: '#A8D4FF', border: '#5B9BD5' },
+  独栋住宅: { card: '#3D6B52', bg: '#1D3A2A', text: '#7EC8A0', border: '#3D8A60' },
+  出租楼: { card: '#7A4A00', bg: '#5C3A00', text: '#FFD080', border: '#C87800' },
+  店铺: { card: '#5B21B6', bg: '#4A1A6A', text: '#D4A8FF', border: '#8A5BBD' },
+  办公商业: { card: '#1A3A5C', bg: '#0F4C5C', text: '#9FE3F0', border: '#3AA0B5' },
+  地皮: { card: '#6B5A12', bg: '#4F4A12', text: '#E8E08A', border: '#A89C2E' },
+  阁楼毛坯: { card: '#57524A', bg: '#4A4A4A', text: '#D4D4D4', border: '#888888' },
+  车位: { card: '#57524A', bg: '#4A4A4A', text: '#D4D4D4', border: '#888888' },
+  其他: { card: '#57524A', bg: '#4A4A4A', text: '#D4D4D4', border: '#888888' },
 }
 
-export function getCategoryLabel(cat: string): string {
-  const primary = cat.split(',')[0].trim()
-  return CATEGORY_LABELS[primary] ?? CATEGORY_LABELS[cat] ?? primary
+export function propertyType(auction: Auction): PropertyType {
+  return auction.propertyType ?? '其他'
 }
 
-function inferTypeFromOwnership(ownershipType: string): string {
-  const s = ownershipType.toLowerCase()
-  if (/villa|herrschaftlich/.test(s)) return '别墅'
-  if (/dachgeschoss/.test(s)) return '顶层公寓'
-  if (/reihenhaus/.test(s)) return '联排住宅'
-  if (/wohnhaus|wohngebäude|wohnungen|mehrere wohnungen/.test(s)) return '住宅楼'
-  if (/bürogebäude|büro/.test(s)) return '办公楼'
-  if (/hotel|pension/.test(s)) return '酒店'
-  if (/geschäftslokal|geschäftshaus|geschäft/.test(s)) return '商铺'
-  if (/gewerbe|gewerblich/.test(s)) return '商业物业'
-  if (/lager|lagerhalle/.test(s)) return '仓库'
-  if (/grundstück|baugrund|liegenschaft/.test(s)) return '地皮'
-  return '其他'
+export function propertyLabel(auction: Auction): string {
+  return auction.propertyNote ? `${propertyType(auction)}·${auction.propertyNote}` : propertyType(auction)
 }
 
-export function generateCnSummary(auction: Auction): string {
-  const parts: string[] = []
+export function getPropertyColor(auction: Auction): string {
+  return PROPERTY_COLORS[propertyType(auction)].card
+}
 
-  const catLabel = getCategoryLabel(auction.category)
-  const areaStr = auction.area > 0 ? `${Math.round(auction.area)} ㎡` : ''
-  const psmStr = auction.pricePerSqm > 0
-    ? `均价 €${Math.round(auction.pricePerSqm).toLocaleString('de-AT')}/㎡`
-    : ''
-
-  if (areaStr && psmStr) parts.push(`${catLabel} · ${areaStr} · ${psmStr}`)
-  else if (areaStr) parts.push(`${catLabel} · ${areaStr}`)
-  else parts.push(catLabel)
-
-  const ratio = auction.estimatedValue > 0
-    ? Math.round((auction.minimumBid / auction.estimatedValue) * 100)
-    : 0
-  if (ratio > 0) parts.push(`起拍价为估值 ${ratio}%`)
-
-  if (auction.ownershipType) {
-    const s = auction.ownershipType.toLowerCase()
-    const hints: string[] = []
-    if (/dachgeschoss/.test(s)) hints.push('顶层')
-    if (/nicht fertig|unfertig|rohbau/.test(s)) hints.push('未竣工')
-    if (/garten|terrasse|loggia/.test(s)) hints.push('带花园/露台')
-    if (/renovier|saniert/.test(s)) hints.push('已翻新')
-    if (/leer|unvermiet/.test(s)) hints.push('空置')
-    if (/vermietet/.test(s)) hints.push('已出租')
-    if (/garage|stellplatz/.test(s)) hints.push('含车位')
-    if (/villa|herrschaftlich/.test(s)) hints.push('别墅')
-    if (/denkmal|historisch/.test(s)) hints.push('历史建筑')
-    if (hints.length) parts.push(hints.join('·'))
-  }
-
-  return parts.join('　|　')
+export function getPropertyMapColor(auction: Auction): { bg: string; text: string; border: string } {
+  return PROPERTY_COLORS[propertyType(auction)]
 }
 
 export function generateTitle(auction: Auction): string {
@@ -157,13 +130,7 @@ export function generateTitle(auction: Auction): string {
   const match = auction.address.match(/^1(\d)(\d)0\s/)
   const district = match ? `${parseInt(match[1] + match[2])}区` : ''
 
-  // Handle compound categories like "Wohnungseigentumsobjekt, Sonstiges"
-  const primaryCat = auction.category.split(',')[0].trim()
-  let type = CATEGORY_LABELS[primaryCat] ?? CATEGORY_LABELS[auction.category] ?? primaryCat
-  // For any entry containing "Sonstiges", try to infer from the German land-register text
-  if (auction.category.includes('Sonstiges')) {
-    type = auction.ownershipType ? inferTypeFromOwnership(auction.ownershipType) : '物业'
-  }
+  const type = propertyLabel(auction)
 
   const area = auction.area > 0 ? `${Math.round(auction.area)}㎡` : ''
 

@@ -1,13 +1,12 @@
 import React from 'react'
 import { Building2 } from 'lucide-react'
-import type { Auction } from '../types/auction'
 
 interface Props {
-  auctions: Auction[]
+  liveCount: number
   filteredCount: number
 }
 
-export function StatsCards({ auctions, filteredCount }: Props) {
+export function StatsCards({ liveCount, filteredCount }: Props) {
   return (
     <div className="flex-shrink-0 bg-cream-100 border-b border-cream-300 px-4 py-2.5 lg:px-8">
       <div className="flex items-center gap-3">
@@ -16,11 +15,11 @@ export function StatsCards({ auctions, filteredCount }: Props) {
           <Building2 size={16} />
         </div>
         <div className="flex items-baseline gap-2">
-          <span className="text-base font-semibold font-serif" style={{ color: '#1D3A2A' }}>
+          <span className="text-base font-semibold tabular-nums" style={{ color: '#1D3A2A' }}>
             {filteredCount}
           </span>
-          <span className="text-xs text-warm-500">有效拍卖</span>
-          <span className="text-xs text-warm-400">/ 共 {auctions.length} 条</span>
+          <span className="text-xs text-warm-500">套符合条件</span>
+          <span className="text-xs text-warm-500">/ 共 {liveCount} 套在拍</span>
         </div>
       </div>
     </div>

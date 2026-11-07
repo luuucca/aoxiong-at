@@ -2,7 +2,7 @@ import React, { useEffect, useRef, Component, useState, useMemo } from 'react'
 import { MapContainer, TileLayer, Marker, Tooltip, useMap, ZoomControl } from 'react-leaflet'
 import L from 'leaflet'
 import type { Auction } from '../types/auction'
-import { formatPriceLabel, formatCurrency, generateTitle } from '../utils/formatters'
+import { formatPriceLabel, formatCurrency, generateTitle, getPropertyMapColor } from '../utils/formatters'
 import { TransitLayer } from './TransitLayer'
 
 // U-Bahn lines + official colours, for the legend and toggle.
@@ -14,23 +14,7 @@ const UBAHN_LINES: { ref: string; colour: string }[] = [
   { ref: 'U6', colour: '#9D6830' },
 ]
 
-const CATEGORY_COLORS: Record<string, { bg: string; text: string; border: string }> = {
-  Eigentumswohnung:         { bg: '#1A4A7A', text: '#A8D4FF', border: '#5B9BD5' },
-  Wohnungseigentumsobjekt:  { bg: '#1A4A7A', text: '#A8D4FF', border: '#5B9BD5' },
-  Einfamilienhaus:          { bg: '#1D3A2A', text: '#7EC8A0', border: '#3D8A60' },
-  Mehrfamilienhaus:         { bg: '#2A4A3A', text: '#A8E6C8', border: '#4DAA80' },
-  Mietshaus:                { bg: '#5C3A00', text: '#FFD080', border: '#C87800' },
-  'gewerbliche Liegenschaft':{ bg: '#4A1A6A', text: '#D4A8FF', border: '#8A5BBD' },
-  Sonstiges:                { bg: '#4A4A4A', text: '#D4D4D4', border: '#888888' },
-}
-
-function getCategoryColor(category: string) {
-  const primary = category.split(',')[0].trim()
-  return CATEGORY_COLORS[primary] ?? CATEGORY_COLORS['Sonstiges']
-}
-
-function createPriceIcon(label: string, isSelected: boolean, isPast: boolean, category: string): L.DivIcon {
-  const cat = getCategoryColor(category)
+function createPriceIcon(label: string, isSelected: boolean, isPast: boolean, cat: { bg: string; text: string; border: string }): L.DivIcon {
   const bg = isSelected ? '#B8922A' : isPast ? '#6E685F' : cat.bg
   const textColor = isSelected ? '#FFFFFF' : isPast ? '#C8C4BC' : cat.text
   const border = isSelected ? '#D4A843' : isPast ? '#9A9590' : cat.border
@@ -312,7 +296,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
               const isSelected = auction.id === selectedId
               const isPast = auction.auctionDate < today
               const label = formatPriceLabel(auction.minimumBid)
-              const icon = createPriceIcon(label, isSelected, isPast, auction.category)
+              const icon = createPriceIcon(label, isSelected, isPast, getPropertyMapColor(auction))
               const [lat, lng] = isCluster
                 ? spreadPositions(auction.latitude, auction.longitude, group.length, idx)
                 : [auction.latitude, auction.longitude]
@@ -342,7 +326,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
 function MapTooltip({ auction }: { auction: Auction }) {
   return (
     <div className="p-3 min-w-[220px] max-w-[280px]">
-      <div className="text-xs font-semibold text-forest-700 font-serif leading-tight mb-1">
+      <div className="text-sm font-semibold text-forest-700 leading-snug mb-1 tabular-nums">
         {generateTitle(auction)}
       </div>
       <div className="text-xs text-warm-600 mb-2 leading-tight">{auction.address}</div>
