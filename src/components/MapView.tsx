@@ -2,17 +2,7 @@ import React, { useEffect, useRef, Component, useState, useMemo } from 'react'
 import { MapContainer, TileLayer, Marker, Tooltip, Popup, useMap, ZoomControl } from 'react-leaflet'
 import L from 'leaflet'
 import type { Auction } from '../types/auction'
-import {
-  formatPriceLabel,
-  formatCurrency,
-  formatFullCurrency,
-  formatDate,
-  formatPercent,
-  bidRatio,
-  generateTitle,
-  getPropertyMapColor,
-  HIGHLIGHT_COLOR,
-} from '../utils/formatters'
+import { formatPriceLabel, formatCurrency, generateTitle, getPropertyMapColor } from '../utils/formatters'
 import { TransitLayer, useTransitData, textOn } from './TransitLayer'
 
 // U-Bahn lines + official colours, for the legend and toggle.
@@ -293,7 +283,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
                   icon={createPriceIcon(groupLabel(group), isSelected, isPast, colour)}
                   zIndexOffset={isSelected ? 2000 : 500}
                 >
-                  <Popup minWidth={260} maxWidth={320} autoPanPadding={[24, 24]}>
+                  <Popup maxWidth={320} autoPanPaddingTopLeft={[24, 60]} autoPanPaddingBottomRight={[24, 24]}>
                     <GroupList group={group} selectedId={selectedId} onSelect={onSelect} />
                   </Popup>
                 </Marker>
@@ -328,7 +318,7 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
   )
 }
 
-/** Every auction at one address, cheapest first; picking one opens its card. */
+/** Every auction at one address, cheapest first, in the same format as a single pin's tooltip. */
 function GroupList({
   group,
   selectedId,
@@ -339,44 +329,24 @@ function GroupList({
   onSelect: (id: string) => void
 }) {
   const rows = [...group].sort((a, b) => a.minimumBid - b.minimumBid)
-  const oneDate = new Set(group.map((a) => a.auctionDate)).size === 1
   return (
-    <div className="py-2">
-      <div className="px-3 pb-2 border-b border-cream-200">
-        <div className="text-sm font-semibold text-forest-700 leading-snug">{group[0].address}</div>
-        <div className="text-xs text-warm-500 mt-0.5">
-          同一地址 {group.length} 套{oneDate ? ` · 拍卖日期 ${formatDate(group[0].auctionDate)}` : ''}
-        </div>
+    <div className="w-[280px] max-w-[calc(100vw-48px)]">
+      <div className="pl-3 pr-8 pt-3 pb-2 border-b border-cream-200">
+        <div className="text-sm font-semibold text-forest-700 leading-snug">同一地址 {group.length} 套</div>
+        <div className="text-xs text-warm-600 leading-tight mt-1">{group[0].address}</div>
       </div>
-      <ul className="max-h-[172px] md:max-h-[260px] overflow-y-auto">
+      <ul className="max-h-[200px] md:max-h-[300px] overflow-y-auto">
         {rows.map((a) => {
-          const ratio = bidRatio(a)
           const active = a.id === selectedId
           return (
-            <li key={a.id}>
+            <li key={a.id} className="border-b border-cream-200 last:border-b-0">
               <button
                 type="button"
                 // Picking the open one again keeps it open rather than toggling it shut.
                 onClick={() => { if (!active) onSelect(a.id) }}
-                className={`w-full text-left px-3 py-2 flex items-center justify-between gap-3 transition-colors ${
-                  active ? 'bg-gold-500/15' : 'hover:bg-cream-50'
-                }`}
+                className={`w-full text-left p-3 transition-colors ${active ? 'bg-gold-500/15' : 'hover:bg-cream-50'}`}
               >
-                <span className="min-w-0">
-                  <span className="block text-sm font-semibold text-forest-700 tabular-nums">
-                    {formatFullCurrency(a.minimumBid)}
-                  </span>
-                  <span className="block text-xs text-warm-500 tabular-nums truncate">
-                    {generateTitle(a)}
-                    {!oneDate && ` · ${formatDate(a.auctionDate)}`}
-                  </span>
-                </span>
-                <span
-                  className="text-xs font-semibold tabular-nums flex-shrink-0"
-                  style={{ color: ratio > 0 && ratio <= 0.5 ? HIGHLIGHT_COLOR : '#7A7065' }}
-                >
-                  {ratio > 0 ? `起拍/估值 ${formatPercent(ratio)}` : ''}
-                </span>
+                <AuctionSummary auction={a} />
               </button>
             </li>
           )
@@ -389,23 +359,32 @@ function GroupList({
 function MapTooltip({ auction }: { auction: Auction }) {
   return (
     <div className="p-3 min-w-[220px] max-w-[280px]">
+      <AuctionSummary auction={auction} showAddress />
+    </div>
+  )
+}
+
+/** Title, prices, date and case number: one auction on the map. */
+function AuctionSummary({ auction, showAddress = false }: { auction: Auction; showAddress?: boolean }) {
+  return (
+    <>
       <div className="text-sm font-semibold text-forest-700 leading-snug mb-1 tabular-nums">
         {generateTitle(auction)}
       </div>
-      <div className="text-xs text-warm-600 mb-2 leading-tight">{auction.address}</div>
+      {showAddress && <div className="text-xs text-warm-600 mb-2 leading-tight">{auction.address}</div>}
       <div className="grid grid-cols-2 gap-x-3 gap-y-1 text-xs">
         <div>
           <span className="text-warm-400">起拍价</span>
-          <div className="font-semibold text-gold-600">{formatCurrency(auction.minimumBid)}</div>
+          <div className="font-semibold text-gold-600 tabular-nums">{formatCurrency(auction.minimumBid)}</div>
         </div>
         <div>
           <span className="text-warm-400">估值</span>
-          <div className="font-semibold text-warm-700">{formatCurrency(auction.estimatedValue)}</div>
+          <div className="font-semibold text-warm-700 tabular-nums">{formatCurrency(auction.estimatedValue)}</div>
         </div>
       </div>
-      <div className="mt-1.5 text-xs text-warm-400">
+      <div className="mt-1.5 text-xs text-warm-400 tabular-nums">
         📅 {auction.auctionDate} · 案号 {auction.caseNumber}
       </div>
-    </div>
+    </>
   )
 }
