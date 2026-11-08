@@ -12,6 +12,7 @@ const SORT_OPTIONS: { value: SortOption; label: string }[] = [
   { value: 'sqm-value-desc', label: '每平米估价最高' },
   { value: 'bid-asc', label: '起拍价最低' },
   { value: 'bid-ratio-asc', label: '起拍/估值比例最低' },
+  { value: 'metro-asc', label: '离地铁最近' },
 ]
 
 interface Props {

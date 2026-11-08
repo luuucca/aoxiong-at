@@ -136,3 +136,19 @@ export function generateTitle(auction: Auction): string {
 
   return [district, type, area].filter(Boolean).join(' ')
 }
+
+/** Wiener Linien U-Bahn colours, as drawn on the map. */
+export const SUBWAY_COLORS: Record<string, string> = {
+  U1: '#E3000F',
+  U2: '#A862A4',
+  U3: '#EF7C00',
+  U4: '#319F49',
+  U5: '#008F95',
+  U6: '#9D6830',
+}
+
+/** "步行 450 m · 6 分钟", or "直线约 450 m" when no walking route was found. */
+export function formatStationDistance(s: NonNullable<Auction['nearestStation']>): string {
+  const d = s.meters >= 1000 ? `${(s.meters / 1000).toFixed(1).replace('.', ',')} km` : `${s.meters} m`
+  return s.walk ? `步行 ${d} · ${s.minutes} 分钟` : `直线约 ${d}`
+}

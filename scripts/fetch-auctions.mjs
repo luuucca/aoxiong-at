@@ -15,6 +15,7 @@ import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { geocodeAddress } from './geocode-auction.mjs';
 import { extractTenancyText, classifyTenancy, publicTenancyQuote } from './tenancy.mjs';
 import { classifyPropertyType } from './property-type.mjs';
+import { addNearestStations } from './nearest-station.mjs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import crypto from 'crypto';
@@ -263,6 +264,8 @@ function upsert(existing, incoming) {
         // A type or note set by hand after reading the report is kept.
         propertyType: merged[i].propertyType || rec.propertyType,
         propertyNote: merged[i].propertyNote,
+        // Recomputed by addNearestStations() only when the position changes.
+        nearestStation: merged[i].nearestStation,
         summary: merged[i].summary || rec.summary,
         riskTags: merged[i].riskTags?.length ? merged[i].riskTags : rec.riskTags,
         shortReportUrl: merged[i].shortReportUrl || rec.shortReportUrl,
@@ -393,6 +396,9 @@ async function main() {
   console.log(`\n[3/3] 合并写入 auctions.json...`);
   const { merged, added, updated } = upsert(existing, records);
   console.log(`  新增: ${added}, 更新: ${updated}, 总计: ${merged.length}`);
+
+  // Walking distance to the nearest U-Bahn station, for new or moved records.
+  await addNearestStations(merged);
 
   writeFileSync(OUTPUT_PATH, JSON.stringify(merged, null, 2), 'utf8');
   console.log(`  ✅ 写入完成: ${OUTPUT_PATH}`);

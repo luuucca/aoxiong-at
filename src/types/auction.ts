@@ -22,6 +22,7 @@ export type SortOption =
   | 'bid-asc'
   | 'bid-ratio-asc'
   | 'added-desc'
+  | 'metro-asc'
 
 export interface Auction {
   id: string
@@ -67,6 +68,17 @@ export interface Auction {
   firstSeenAt?: string
   /** ISO timestamp of when the Chinese summary + riskTags were written (scripts/report-summaries.mjs). */
   summarizedAt?: string
+  /** Nearest U-Bahn station by walking route (scripts/nearest-station.mjs). */
+  nearestStation?: NearestStation
+}
+
+export interface NearestStation {
+  name: string
+  lines: string[]
+  /** Walking distance, or straight-line distance when walk is false. */
+  meters: number
+  minutes?: number
+  walk: boolean
 }
 
 export interface FilterState {

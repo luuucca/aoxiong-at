@@ -6,7 +6,6 @@ import { StatsCards } from '../components/StatsCards'
 import { FilterBar } from '../components/FilterBar'
 import { MapView } from '../components/MapView'
 import { AuctionList } from '../components/AuctionList'
-import { DetailPanel } from '../components/DetailPanel'
 import type { FilterState, SortOption } from '../types/auction'
 import { bidRatio } from '../utils/formatters'
 
@@ -71,12 +70,12 @@ export default function AuctionPage() {
           case 'sqm-value-desc': return b.pricePerSqm - a.pricePerSqm
           case 'bid-asc':        return a.minimumBid - b.minimumBid
           case 'bid-ratio-asc':  return bidRatio(a) - bidRatio(b)
+          case 'metro-asc':
+            return (a.nearestStation?.meters ?? Infinity) - (b.nearestStation?.meters ?? Infinity)
           default:               return 0
         }
       })
   }, [auctions, filters])
-
-  const selectedAuction = auctions.find((a) => a.id === selectedId) ?? null
 
   function handleSelect(id: string) {
     setSelectedId((prev) => (prev === id ? '' : id))
@@ -155,7 +154,6 @@ export default function AuctionPage() {
 
         {mobileTab === 'list' && (
           <div className="flex-1 overflow-y-auto">
-            {selectedAuction && <DetailPanel auction={selectedAuction} onClose={() => setSelectedId('')} />}
             <AuctionList auctions={filteredAuctions} selectedId={selectedId} onSelect={handleSelect} />
           </div>
         )}
@@ -167,7 +165,6 @@ export default function AuctionPage() {
           <MapView auctions={filteredAuctions} selectedId={selectedId} onSelect={handleSelect} />
         </div>
         <div className="flex-1 min-h-0 flex flex-col overflow-clip bg-cream-100">
-          {selectedAuction && <DetailPanel auction={selectedAuction} onClose={() => setSelectedId('')} />}
           <AuctionList auctions={filteredAuctions} selectedId={selectedId} onSelect={handleSelect} />
         </div>
       </div>

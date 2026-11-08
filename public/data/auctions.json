@@ -4096,7 +4096,20 @@
     "firstSeenAt": "2026-08-25T02:23:28.017Z",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "propertyType": "店铺"
+    "propertyType": "店铺",
+    "nearestStation": {
+      "name": "Ottakring",
+      "lines": [
+        "U3"
+      ],
+      "meters": 1530,
+      "minutes": 20,
+      "walk": true,
+      "at": [
+        48.2221,
+        16.3191
+      ]
+    }
   },
   {
     "id": "wien-02e66729d0a2",
@@ -4205,7 +4218,20 @@
     "tenancyText": "Das Objekt ist überwiegend befristet vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-08-28T12:42:29.162Z"
+    "firstSeenAt": "2026-08-28T12:42:29.162Z",
+    "nearestStation": {
+      "name": "Simmering",
+      "lines": [
+        "U3"
+      ],
+      "meters": 660,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.17321,
+        16.42397
+      ]
+    }
   },
   {
     "id": "wien-92ef04754ad1",
@@ -4310,7 +4336,20 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z"
+    "firstSeenAt": "2026-09-04T05:48:11.590Z",
+    "nearestStation": {
+      "name": "Floridsdorf",
+      "lines": [
+        "U6"
+      ],
+      "meters": 1440,
+      "minutes": 19,
+      "walk": true,
+      "at": [
+        48.25629,
+        16.41563
+      ]
+    }
   },
   {
     "id": "wien-4844d387e588",
@@ -4340,7 +4379,20 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z"
+    "firstSeenAt": "2026-09-04T05:48:11.590Z",
+    "nearestStation": {
+      "name": "Floridsdorf",
+      "lines": [
+        "U6"
+      ],
+      "meters": 1440,
+      "minutes": 19,
+      "walk": true,
+      "at": [
+        48.25629,
+        16.41563
+      ]
+    }
   },
   {
     "id": "wien-9db914f4207c",
@@ -4399,7 +4451,20 @@
     "tenancyText": "bestandsfrei und geräumt. Es liegen keine Miet- oder sonstiger Nutzungsverträge vor.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-09T05:55:27.579Z"
+    "firstSeenAt": "2026-09-09T05:55:27.579Z",
+    "nearestStation": {
+      "name": "Nestroyplatz",
+      "lines": [
+        "U1"
+      ],
+      "meters": 840,
+      "minutes": 11,
+      "walk": true,
+      "at": [
+        48.21203,
+        16.39158
+      ]
+    }
   },
   {
     "id": "wien-19a397258aeb",
@@ -4633,7 +4698,20 @@
     "tenancyText": "",
     "propertyNote": "建筑权",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "nearestStation": {
+      "name": "Kagran",
+      "lines": [
+        "U1"
+      ],
+      "meters": 1290,
+      "minutes": 17,
+      "walk": true,
+      "at": [
+        48.23534,
+        16.44069
+      ]
+    }
   },
   {
     "id": "wien-fac65ae4867a",
@@ -4666,7 +4744,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "keine",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "nearestStation": {
+      "name": "Simmering",
+      "lines": [
+        "U3"
+      ],
+      "meters": 3000,
+      "minutes": 40,
+      "walk": true,
+      "at": [
+        48.15932,
+        16.45289
+      ]
+    }
   },
   {
     "id": "wien-09db7d58cd9b",
@@ -4974,7 +5065,20 @@
     "tenancyText": "Die bewertungsgegenständliche Wohnung ist befristet vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-17T06:02:59.597Z"
+    "firstSeenAt": "2026-09-17T06:02:59.597Z",
+    "nearestStation": {
+      "name": "Stadtpark",
+      "lines": [
+        "U4"
+      ],
+      "meters": 400,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.2021,
+        16.38264
+      ]
+    }
   },
   {
     "id": "wien-661c1f4712a6",
@@ -5005,7 +5109,20 @@
     "tenancyText": "",
     "propertyNote": "打包五单元",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-22T06:03:43.766Z"
+    "firstSeenAt": "2026-09-22T06:03:43.766Z",
+    "nearestStation": {
+      "name": "Burggasse-Stadthalle",
+      "lines": [
+        "U6"
+      ],
+      "meters": 810,
+      "minutes": 11,
+      "walk": true,
+      "at": [
+        48.20503,
+        16.32785
+      ]
+    }
   },
   {
     "id": "wien-f2086633bf75",
@@ -5232,7 +5349,21 @@
     "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "propertyType": "公寓"
+    "propertyType": "公寓",
+    "nearestStation": {
+      "name": "Längenfeldgasse",
+      "lines": [
+        "U4",
+        "U6"
+      ],
+      "meters": 910,
+      "minutes": 12,
+      "walk": true,
+      "at": [
+        48.18063,
+        16.34214
+      ]
+    }
   },
   {
     "id": "wien-27c97a01a921",
@@ -5263,7 +5394,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "nearestStation": {
+      "name": "Nestroyplatz",
+      "lines": [
+        "U1"
+      ],
+      "meters": 380,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.21381,
+        16.3818
+      ]
+    }
   },
   {
     "id": "wien-27c0ae61e1fa",
@@ -5294,7 +5438,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "nearestStation": {
+      "name": "Nestroyplatz",
+      "lines": [
+        "U1"
+      ],
+      "meters": 380,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.21381,
+        16.3818
+      ]
+    }
   },
   {
     "id": "wien-ee51dc338f5a",
@@ -5325,7 +5482,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Whg ist unbefristet vermietet. Beginn des Mietverhältnisses: 01.08.1986. Monatlicher Mietzins, lt. Auskunft Mieter: € 187,50 netto (exkl. BK).",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "nearestStation": {
+      "name": "Nestroyplatz",
+      "lines": [
+        "U1"
+      ],
+      "meters": 380,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.21381,
+        16.3818
+      ]
+    }
   },
   {
     "id": "wien-7f87a375ffb3",
@@ -5358,7 +5528,21 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist eigengenutzt",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 660,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21797,
+        16.37388
+      ]
+    }
   },
   {
     "id": "wien-434766334510",
@@ -5415,7 +5599,20 @@
     "tenancyText": "bis 30.11.2026 befristeter Mietvertrag Nettomiete aktuell € 1.291,05 p.m.",
     "propertyNote": "联排",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-26T06:04:53.485Z"
+    "firstSeenAt": "2026-09-26T06:04:53.485Z",
+    "nearestStation": {
+      "name": "Tscherttegasse",
+      "lines": [
+        "U6"
+      ],
+      "meters": 310,
+      "minutes": 4,
+      "walk": true,
+      "at": [
+        48.16439,
+        16.32541
+      ]
+    }
   },
   {
     "id": "wien-01ea1337f239",
@@ -5449,7 +5646,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-29T06:48:17.219Z"
+    "firstSeenAt": "2026-09-29T06:48:17.219Z",
+    "nearestStation": {
+      "name": "Ober St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 2050,
+      "minutes": 27,
+      "walk": true,
+      "at": [
+        48.18143,
+        16.26173
+      ]
+    }
   },
   {
     "id": "wien-099b14c9e004",
@@ -5483,7 +5693,20 @@
     "tenancyStatus": "rented",
     "tenancyText": "Die Liegenschaft ist überwiegend (hauptsächlich befristet) vermietet und unterliegt dem Mietrechtsgesetz.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Bahnhof Meidling",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.17711,
+        16.32913
+      ]
+    }
   },
   {
     "id": "wien-38af0caffd21",
@@ -5515,7 +5738,20 @@
     "tenancyText": "Die Top 8 ist auf unbestimmte Zeit vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21694,
+        16.33694
+      ]
+    }
   },
   {
     "id": "wien-beb7e0e4c5a9",
@@ -5548,7 +5784,20 @@
     "tenancyText": "Die Top 9 ist befristet bis zum 31. Dezember 2026 vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21694,
+        16.33694
+      ]
+    }
   },
   {
     "id": "wien-056cd1016331",
@@ -5580,7 +5829,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21694,
+        16.33694
+      ]
+    }
   },
   {
     "id": "wien-91584a90d888",
@@ -5613,7 +5875,20 @@
     "tenancyText": "Die Top 13 ist befristet bis zum 31. Oktober 2028 vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21694,
+        16.33694
+      ]
+    }
   },
   {
     "id": "wien-1d09d2c405ba",
@@ -5647,7 +5922,20 @@
     "tenancyText": "Die Top 19 ist befristet bis zum 31. Dezember 2026 vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21694,
+        16.33694
+      ]
+    }
   },
   {
     "id": "wien-e32c3b71f0f0",
@@ -5680,7 +5968,20 @@
     "tenancyStatus": "limited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21694,
+        16.33694
+      ]
+    }
   },
   {
     "id": "wien-f321a884ba88",
@@ -5707,7 +6008,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b8b56f8934b89731c1258e810024b206",
     "tenancyStatus": "vacant",
     "tenancyText": "keines bekannt; nach Rücksprache mit Gericht bestandfreie Bewertung",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Tscherttegasse",
+      "lines": [
+        "U6"
+      ],
+      "meters": 290,
+      "minutes": 4,
+      "walk": true,
+      "at": [
+        48.16424,
+        16.32575
+      ]
+    }
   },
   {
     "id": "wien-a9f8edc74277",
@@ -5738,7 +6052,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "mündlicher, unbefristeter Mietvertrag, pauschaler Mietzins € 75,-/pm",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "nearestStation": {
+      "name": "Tscherttegasse",
+      "lines": [
+        "U6"
+      ],
+      "meters": 290,
+      "minutes": 4,
+      "walk": true,
+      "at": [
+        48.16424,
+        16.32575
+      ]
+    }
   },
   {
     "id": "wien-a1c86fb76cd0",
@@ -5768,7 +6095,20 @@
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "nearestStation": {
+      "name": "Braunschweiggasse",
+      "lines": [
+        "U4"
+      ],
+      "meters": 320,
+      "minutes": 4,
+      "walk": true,
+      "at": [
+        48.19061,
+        16.29728
+      ]
+    }
   },
   {
     "id": "wien-d2a427b10a77",
@@ -5800,7 +6140,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 710,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.19109,
+        16.32943
+      ]
+    }
   },
   {
     "id": "wien-388a932c7d97",
@@ -5827,7 +6180,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a7da67248dc238f1c1258e830023edf1",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 710,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.19109,
+        16.32943
+      ]
+    }
   },
   {
     "id": "wien-b7567c2446ff",
@@ -5854,7 +6220,21 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/22c2e61b122e72d6c1258e82002bf763",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z",
+    "nearestStation": {
+      "name": "Schwedenplatz",
+      "lines": [
+        "U1",
+        "U4"
+      ],
+      "meters": 130,
+      "minutes": 2,
+      "walk": true,
+      "at": [
+        48.21106,
+        16.37803
+      ]
+    }
   },
   {
     "id": "wien-27c4b982b964",
@@ -5887,7 +6267,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z",
+    "nearestStation": {
+      "name": "Braunschweiggasse",
+      "lines": [
+        "U4"
+      ],
+      "meters": 420,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18714,
+        16.29833
+      ]
+    }
   },
   {
     "id": "wien-797ba782fa9a",
@@ -5920,7 +6313,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "seit 17.02.2005 vermietet, seit 24.02.2007 unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z",
+    "nearestStation": {
+      "name": "Hütteldorf",
+      "lines": [
+        "U4"
+      ],
+      "meters": 820,
+      "minutes": 11,
+      "walk": true,
+      "at": [
+        48.19786,
+        16.25416
+      ]
+    }
   },
   {
     "id": "wien-bd1711ec8b31",
@@ -5952,7 +6358,21 @@
     "tenancyStatus": "vacant",
     "tenancyText": "nicht vermietet, Eigennutzung angenommen; kein Mietvertrag bekannt; Bewertung unter Annahme der Bestandsfreiheit",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z",
+    "nearestStation": {
+      "name": "Stephansplatz",
+      "lines": [
+        "U1",
+        "U3"
+      ],
+      "meters": 310,
+      "minutes": 4,
+      "walk": true,
+      "at": [
+        48.20587,
+        16.37088
+      ]
+    }
   },
   {
     "id": "wien-10897f26a23a",
@@ -5983,7 +6403,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-03T06:23:24.205Z"
+    "firstSeenAt": "2026-10-03T06:23:24.205Z",
+    "nearestStation": {
+      "name": "Nestroyplatz",
+      "lines": [
+        "U1"
+      ],
+      "meters": 50,
+      "minutes": 1,
+      "walk": true,
+      "at": [
+        48.21551,
+        16.38578
+      ]
+    }
   },
   {
     "id": "wien-ba46c3bf46ba",
@@ -6015,7 +6448,20 @@
     "tenancyStatus": "unknown",
     "tenancyText": "nicht offensichtlich",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Neubaugasse",
+      "lines": [
+        "U3"
+      ],
+      "meters": 520,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.19656,
+        16.35275
+      ]
+    }
   },
   {
     "id": "wien-c51ec0c7c315",
@@ -6049,7 +6495,20 @@
     "tenancyText": "",
     "propertyNote": "建筑权",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Kagran",
+      "lines": [
+        "U1"
+      ],
+      "meters": 1310,
+      "minutes": 18,
+      "walk": true,
+      "at": [
+        48.23516,
+        16.44108
+      ]
+    }
   },
   {
     "id": "wien-a6d0db886724",
@@ -6079,7 +6538,20 @@
     "tenancyStatus": "limited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-6391b05d5add",
@@ -6106,7 +6578,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8f77a98b6e86f4abc1258e870027e013",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-51e61423a631",
@@ -6133,7 +6618,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d0660faf26e6e03ec1258e8700287526",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-597bf634a486",
@@ -6160,7 +6658,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/04fef911b727027fc1258e8700287df5",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-ee9ee4a1d7a8",
@@ -6187,7 +6698,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/acb97842c3090abec1258e8700288555",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-27595523e2a2",
@@ -6214,7 +6738,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db653ecbd8679af6c1258e8700289741",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-8ee2a7cbe19d",
@@ -6241,7 +6778,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2b09d2a8f09b8ec1258e870028a834",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-10593dc2b24d",
@@ -6268,7 +6818,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2ed304dced4a0518c1258e870028af47",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-4e0364c60604",
@@ -6295,7 +6858,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c096d6a174c36e05c1258e870028b776",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-172eaaad47bc",
@@ -6322,7 +6898,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/aeca81f4f9c235a0c1258e870028beb2",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-e31d430b671a",
@@ -6349,7 +6938,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f79b9653552f0eb3c1258e870028c52e",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-2f08d581aa1b",
@@ -6376,7 +6978,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/89c1fd94293e85ecc1258e870028cc1b",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "nearestStation": {
+      "name": "Unter St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.18783,
+        16.28501
+      ]
+    }
   },
   {
     "id": "wien-2bf32279e9c2",
@@ -6411,7 +7026,20 @@
     "tenancyText": "Augenscheinlich war das Geschäftslokal in Eigennutzung.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z"
+    "firstSeenAt": "2026-10-08T07:18:38.363Z",
+    "nearestStation": {
+      "name": "Währinger Straße-Volksoper",
+      "lines": [
+        "U6"
+      ],
+      "meters": 230,
+      "minutes": 3,
+      "walk": true,
+      "at": [
+        48.22456,
+        16.34777
+      ]
+    }
   },
   {
     "id": "wien-005301023b33",
@@ -6444,7 +7072,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z"
+    "firstSeenAt": "2026-10-08T07:18:38.363Z",
+    "nearestStation": {
+      "name": "Hietzing",
+      "lines": [
+        "U4"
+      ],
+      "meters": 2920,
+      "minutes": 39,
+      "walk": true,
+      "at": [
+        48.16763,
+        16.29048
+      ]
+    }
   },
   {
     "id": "wien-7886ac694fad",
@@ -6479,7 +7120,20 @@
     "tenancySource": "report",
     "propertyNote": "商住混合",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "nearestStation": {
+      "name": "Hütteldorfer Straße",
+      "lines": [
+        "U3"
+      ],
+      "meters": 350,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.20218,
+        16.31214
+      ]
+    }
   },
   {
     "id": "wien-0754d1097bb1",
@@ -6511,7 +7165,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "nearestStation": {
+      "name": "Hütteldorfer Straße",
+      "lines": [
+        "U3"
+      ],
+      "meters": 350,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.20218,
+        16.31214
+      ]
+    }
   },
   {
     "id": "wien-4dbffc37dbf7",
@@ -6541,7 +7208,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "nearestStation": {
+      "name": "Hütteldorfer Straße",
+      "lines": [
+        "U3"
+      ],
+      "meters": 350,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.20218,
+        16.31214
+      ]
+    }
   },
   {
     "id": "wien-2451a33595fb",
@@ -6571,7 +7251,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "nearestStation": {
+      "name": "Hütteldorfer Straße",
+      "lines": [
+        "U3"
+      ],
+      "meters": 350,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.20218,
+        16.31214
+      ]
+    }
   },
   {
     "id": "wien-32bbf52d55ee",
@@ -6603,7 +7296,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "nearestStation": {
+      "name": "Hütteldorfer Straße",
+      "lines": [
+        "U3"
+      ],
+      "meters": 350,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.20218,
+        16.31214
+      ]
+    }
   },
   {
     "id": "wien-1f94f8d10bf1",
@@ -6634,7 +7340,20 @@
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "nearestStation": {
+      "name": "Hütteldorfer Straße",
+      "lines": [
+        "U3"
+      ],
+      "meters": 350,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.20218,
+        16.31214
+      ]
+    }
   },
   {
     "id": "wien-f72b49a7235a",
@@ -6666,7 +7385,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z",
+    "nearestStation": {
+      "name": "Pilgramgasse",
+      "lines": [
+        "U4"
+      ],
+      "meters": 500,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.19323,
+        16.35232
+      ]
+    }
   },
   {
     "id": "wien-f05fad6f6b3b",
@@ -6698,7 +7430,20 @@
     "tenancyText": "wird eine Nettomiete (Untermiete) in der Höhe von € 250,- pro Monat bezahlt. Das Mietverhältnis wurde auf unbestimmte Zeit vereinbart.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-10T06:59:48.448Z"
+    "firstSeenAt": "2026-10-10T06:59:48.448Z",
+    "nearestStation": {
+      "name": "Ober St. Veit",
+      "lines": [
+        "U4"
+      ],
+      "meters": 1780,
+      "minutes": 24,
+      "walk": true,
+      "at": [
+        48.20472,
+        16.27544
+      ]
+    }
   },
   {
     "id": "wien-2bfdd8f94eca",
@@ -6730,7 +7475,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist laut Aussage der anwesenden Partei seit dem Jahr 2022 leerstehend.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-13T07:40:59.251Z"
+    "firstSeenAt": "2026-10-13T07:40:59.251Z",
+    "nearestStation": {
+      "name": "Altes Landgut",
+      "lines": [
+        "U1"
+      ],
+      "meters": 1860,
+      "minutes": 25,
+      "walk": true,
+      "at": [
+        48.1569,
+        16.40163
+      ]
+    }
   },
   {
     "id": "wien-419898296293",
@@ -6764,7 +7522,21 @@
     "tenancyText": "leerstehend",
     "propertyNote": "整栋空置",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z"
+    "firstSeenAt": "2026-10-15T05:51:03.770Z",
+    "nearestStation": {
+      "name": "Längenfeldgasse",
+      "lines": [
+        "U4",
+        "U6"
+      ],
+      "meters": 840,
+      "minutes": 11,
+      "walk": true,
+      "at": [
+        48.18143,
+        16.34178
+      ]
+    }
   },
   {
     "id": "wien-9bf93d478b13",
@@ -6798,7 +7570,20 @@
     "tenancyText": "",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z"
+    "firstSeenAt": "2026-10-15T05:51:03.770Z",
+    "nearestStation": {
+      "name": "Niederhofstraße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 160,
+      "minutes": 2,
+      "walk": true,
+      "at": [
+        48.18096,
+        16.32984
+      ]
+    }
   },
   {
     "id": "wien-2ad3a54564a1",
@@ -6831,7 +7616,20 @@
     "tenancyStatus": "limited",
     "tenancyText": "Die Wohnung top 1 ist befristet vermietet.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "nearestStation": {
+      "name": "Am Schöpfwerk",
+      "lines": [
+        "U6"
+      ],
+      "meters": 2180,
+      "minutes": 29,
+      "walk": true,
+      "at": [
+        48.16848,
+        16.30191
+      ]
+    }
   },
   {
     "id": "wien-a791409b23c9",
@@ -6865,7 +7663,20 @@
     "tenancyText": "Das Geschäftslokal top 2 ist nach derzeitigem Wissensstand des gefertigten Sachverständigen leerstehend bzw. eigengenutzt.",
     "propertyNote": "餐饮",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "nearestStation": {
+      "name": "Am Schöpfwerk",
+      "lines": [
+        "U6"
+      ],
+      "meters": 2180,
+      "minutes": 29,
+      "walk": true,
+      "at": [
+        48.16848,
+        16.30191
+      ]
+    }
   },
   {
     "id": "wien-229427549290",
@@ -6897,7 +7708,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "nearestStation": {
+      "name": "Am Schöpfwerk",
+      "lines": [
+        "U6"
+      ],
+      "meters": 2180,
+      "minutes": 29,
+      "walk": true,
+      "at": [
+        48.16848,
+        16.30191
+      ]
+    }
   },
   {
     "id": "wien-a30de1a846ec",
@@ -6930,7 +7754,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Die Wohnung ist bestandfrei.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "nearestStation": {
+      "name": "Margaretengürtel",
+      "lines": [
+        "U4"
+      ],
+      "meters": 160,
+      "minutes": 2,
+      "walk": true,
+      "at": [
+        48.18822,
+        16.34488
+      ]
+    }
   },
   {
     "id": "wien-d610825c8d67",
@@ -6963,7 +7800,20 @@
     "tenancyText": "",
     "propertyNote": "整栋三户",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 1460,
+      "minutes": 20,
+      "walk": true,
+      "at": [
+        48.21843,
+        16.32454
+      ]
+    }
   },
   {
     "id": "wien-47248b0b2fe7",
@@ -6998,7 +7848,20 @@
     "tenancyText": "augenscheinlich keine",
     "propertyNote": "未完工",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 160,
+      "minutes": 2,
+      "walk": true,
+      "at": [
+        48.21799,
+        16.3429
+      ]
+    }
   },
   {
     "id": "wien-046228e7fae9",
@@ -7031,7 +7894,20 @@
     "tenancyText": "",
     "propertyNote": "办公",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "nearestStation": {
+      "name": "Roßauer Lände",
+      "lines": [
+        "U4"
+      ],
+      "meters": 440,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.22206,
+        16.36326
+      ]
+    }
   },
   {
     "id": "wien-ebaad1f0173b",
@@ -7066,7 +7942,20 @@
     "tenancySource": "report",
     "propertyNote": "办公",
     "summarizedAt": "2026-11-07T12:23:58.108Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "nearestStation": {
+      "name": "Roßauer Lände",
+      "lines": [
+        "U4"
+      ],
+      "meters": 440,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.22206,
+        16.36326
+      ]
+    }
   },
   {
     "id": "wien-421577b6f425",
@@ -7098,7 +7987,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Am Tag der Befundaufnahme war die Wohnung Top 11 bewohnt. Die Wohnung ist seit 1977 auf unbestimmte Zeit vermietet.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "nearestStation": {
+      "name": "Roßauer Lände",
+      "lines": [
+        "U4"
+      ],
+      "meters": 440,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.22206,
+        16.36326
+      ]
+    }
   },
   {
     "id": "wien-a051ec405dd1",
@@ -7130,7 +8032,21 @@
     "tenancyText": "Das Objekt ist auf unbestimmte Zeit vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "nearestStation": {
+      "name": "Volkstheater",
+      "lines": [
+        "U2",
+        "U3"
+      ],
+      "meters": 450,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.20263,
+        16.35519
+      ]
+    }
   },
   {
     "id": "wien-3372c32d278e",
@@ -7160,7 +8076,20 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-19T06:03:58.763Z"
+    "firstSeenAt": "2026-10-19T06:03:58.763Z",
+    "nearestStation": {
+      "name": "Josefstädter Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 750,
+      "minutes": 10,
+      "walk": true,
+      "at": [
+        48.21351,
+        16.33168
+      ]
+    }
   },
   {
     "id": "wien-a669654f8743",
@@ -7195,7 +8124,20 @@
     "tenancyText": "Gemäß der mietvertraglichen Erkenntnisse sind davon 17 Objekte zu Wohnzwecken, 1 Objekt zu Geschäftszwecken vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-20T05:57:30.763Z"
+    "firstSeenAt": "2026-10-20T05:57:30.763Z",
+    "nearestStation": {
+      "name": "Reumannplatz",
+      "lines": [
+        "U1"
+      ],
+      "meters": 890,
+      "minutes": 12,
+      "walk": true,
+      "at": [
+        48.17314,
+        16.38929
+      ]
+    }
   },
   {
     "id": "wien-4f88750cdf6d",
@@ -7223,7 +8165,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-21T05:58:16.385Z"
+    "firstSeenAt": "2026-10-21T05:58:16.385Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 560,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.19102,
+        16.33246
+      ]
+    }
   },
   {
     "id": "wien-2ee136dda971",
@@ -7256,7 +8211,20 @@
     "tenancyText": "Das Objekt ist derzeit unbefristet vermietet.",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-23T05:59:13.039Z"
+    "firstSeenAt": "2026-10-23T05:59:13.039Z",
+    "nearestStation": {
+      "name": "Burggasse-Stadthalle",
+      "lines": [
+        "U6"
+      ],
+      "meters": 520,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.20056,
+        16.34031
+      ]
+    }
   },
   {
     "id": "wien-8e37df13c5f5",
@@ -7289,7 +8257,20 @@
     "tenancyStatus": "rented",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z",
+    "nearestStation": {
+      "name": "Ottakring",
+      "lines": [
+        "U3"
+      ],
+      "meters": 750,
+      "minutes": 10,
+      "walk": true,
+      "at": [
+        48.21207,
+        16.31918
+      ]
+    }
   },
   {
     "id": "wien-2cdaf73f4de2",
@@ -7316,7 +8297,20 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3d2466ddb6c54809c1258e9e002cee24",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z",
+    "nearestStation": {
+      "name": "Ottakring",
+      "lines": [
+        "U3"
+      ],
+      "meters": 1130,
+      "minutes": 15,
+      "walk": true,
+      "at": [
+        48.21777,
+        16.30661
+      ]
+    }
   },
   {
     "id": "wien-6632268cf7be",
@@ -7350,7 +8344,20 @@
     "tenancyText": "",
     "tenancySource": "report",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z",
+    "nearestStation": {
+      "name": "Alser Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.21694,
+        16.33694
+      ]
+    }
   },
   {
     "id": "wien-efe9fdc10059",
@@ -7380,7 +8387,21 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 700,
+      "minutes": 8,
+      "walk": true,
+      "at": [
+        48.22028,
+        16.37372
+      ]
+    }
   },
   {
     "id": "wien-0a4a9907b1f6",
@@ -7412,7 +8433,21 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet ; Nettoertrag mtl. € 179,12 zuz. BK /Lift € 152,11",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 700,
+      "minutes": 8,
+      "walk": true,
+      "at": [
+        48.22028,
+        16.37372
+      ]
+    }
   },
   {
     "id": "wien-036fd19ea36d",
@@ -7443,7 +8478,21 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 700,
+      "minutes": 8,
+      "walk": true,
+      "at": [
+        48.22028,
+        16.37372
+      ]
+    }
   },
   {
     "id": "wien-d574b8bf3c76",
@@ -7475,7 +8524,21 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet; Nettoertrag mtl. € 102,85",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 700,
+      "minutes": 8,
+      "walk": true,
+      "at": [
+        48.22028,
+        16.37372
+      ]
+    }
   },
   {
     "id": "wien-0870d936427b",
@@ -7507,7 +8570,21 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 700,
+      "minutes": 8,
+      "walk": true,
+      "at": [
+        48.22028,
+        16.37372
+      ]
+    }
   },
   {
     "id": "wien-422d02b2289c",
@@ -7538,7 +8615,21 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 700,
+      "minutes": 8,
+      "walk": true,
+      "at": [
+        48.22028,
+        16.37372
+      ]
+    }
   },
   {
     "id": "wien-ca132eeb7bf0",
@@ -7570,7 +8661,21 @@
     "tenancyStatus": "vacant",
     "tenancyText": "keine , Eigennutzung durch Verpflichteten",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Schottenring",
+      "lines": [
+        "U2",
+        "U4"
+      ],
+      "meters": 700,
+      "minutes": 8,
+      "walk": true,
+      "at": [
+        48.22028,
+        16.37372
+      ]
+    }
   },
   {
     "id": "wien-dd92906e3021",
@@ -7603,7 +8708,20 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Josefstädter Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 800,
+      "minutes": 11,
+      "walk": true,
+      "at": [
+        48.21068,
+        16.33076
+      ]
+    }
   },
   {
     "id": "wien-35cc9e39963c",
@@ -7634,7 +8752,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Wohnung ist seit 1986 unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z",
+    "nearestStation": {
+      "name": "Josefstädter Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 420,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.2133,
+        16.34239
+      ]
+    }
   },
   {
     "id": "wien-9c2eb47fc89b",
@@ -7661,7 +8792,20 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z"
+    "firstSeenAt": "2026-10-31T06:58:28.863Z",
+    "nearestStation": {
+      "name": "Taborstraße",
+      "lines": [
+        "U2"
+      ],
+      "meters": 690,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.22231,
+        16.37503
+      ]
+    }
   },
   {
     "id": "wien-7bf84356a0b5",
@@ -7693,7 +8837,20 @@
     "tenancyStatus": "limited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z"
+    "firstSeenAt": "2026-10-31T06:58:28.863Z",
+    "nearestStation": {
+      "name": "Jägerstraße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 350,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.23507,
+        16.37264
+      ]
+    }
   },
   {
     "id": "wien-c02c3f07d6cf",
@@ -7727,7 +8884,20 @@
     "tenancySource": "report",
     "propertyNote": "加油站",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z"
+    "firstSeenAt": "2026-10-31T06:58:28.863Z",
+    "nearestStation": {
+      "name": "Zieglergasse",
+      "lines": [
+        "U3"
+      ],
+      "meters": 440,
+      "minutes": 6,
+      "walk": true,
+      "at": [
+        48.20046,
+        16.34453
+      ]
+    }
   },
   {
     "id": "wien-8f24b4baeb6a",
@@ -7760,7 +8930,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Die Einheit wird eigengenutzt. Über etwaige Bestands- und Nutzungsrechte liegen keine Informationen vor.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z"
+    "firstSeenAt": "2026-11-05T07:55:21.908Z",
+    "nearestStation": {
+      "name": "Aspernstraße",
+      "lines": [
+        "U2"
+      ],
+      "meters": 400,
+      "minutes": 5,
+      "walk": true,
+      "at": [
+        48.22136,
+        16.47866
+      ]
+    }
   },
   {
     "id": "wien-ec9044b23245",
@@ -7796,7 +8979,20 @@
     "tenancySource": "report",
     "propertyNote": "建筑权",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z"
+    "firstSeenAt": "2026-11-05T07:55:21.908Z",
+    "nearestStation": {
+      "name": "Stadlau",
+      "lines": [
+        "U2"
+      ],
+      "meters": 1020,
+      "minutes": 14,
+      "walk": true,
+      "at": [
+        48.2279,
+        16.45482
+      ]
+    }
   },
   {
     "id": "wien-c7114705d8ba",
@@ -7828,7 +9024,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 660,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.19063,
+        16.33108
+      ]
+    }
   },
   {
     "id": "wien-ef0f4bf4cb83",
@@ -7861,7 +9070,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 660,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.19063,
+        16.33108
+      ]
+    }
   },
   {
     "id": "wien-cffd38f39013",
@@ -7894,7 +9116,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 660,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.19063,
+        16.33108
+      ]
+    }
   },
   {
     "id": "wien-d2bc45ead56d",
@@ -7927,7 +9162,20 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 660,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.19063,
+        16.33108
+      ]
+    }
   },
   {
     "id": "wien-7d8c576f245b",
@@ -7961,7 +9209,20 @@
     "tenancySource": "report",
     "propertyNote": "储藏室",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "nearestStation": {
+      "name": "Gumpendorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 660,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.19063,
+        16.33108
+      ]
+    }
   },
   {
     "id": "wien-8a2fd882342b",
@@ -7993,7 +9254,20 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Maryam Panahi Tabrizi (Verpflichtete), das bewertungsgegenständliche Wohnhaus nicht vermietet ist und im Eigengebrauch steht.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "nearestStation": {
+      "name": "Nußdorfer Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 1000,
+      "minutes": 13,
+      "walk": true,
+      "at": [
+        48.23573,
+        16.34557
+      ]
+    }
   },
   {
     "id": "wien-1c51b9a939f0",
@@ -8026,6 +9300,19 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z",
+    "nearestStation": {
+      "name": "Rochusgasse",
+      "lines": [
+        "U3"
+      ],
+      "meters": 1480,
+      "minutes": 20,
+      "walk": true,
+      "at": [
+        48.19212,
+        16.38922
+      ]
+    }
   }
 ]
