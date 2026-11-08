@@ -1,8 +1,18 @@
 import React, { useEffect, useRef, Component, useState, useMemo } from 'react'
-import { MapContainer, TileLayer, Marker, Tooltip, useMap, ZoomControl } from 'react-leaflet'
+import { MapContainer, TileLayer, Marker, Tooltip, Popup, useMap, ZoomControl } from 'react-leaflet'
 import L from 'leaflet'
 import type { Auction } from '../types/auction'
-import { formatPriceLabel, formatCurrency, generateTitle, getPropertyMapColor } from '../utils/formatters'
+import {
+  formatPriceLabel,
+  formatCurrency,
+  formatFullCurrency,
+  formatDate,
+  formatPercent,
+  bidRatio,
+  generateTitle,
+  getPropertyMapColor,
+  HIGHLIGHT_COLOR,
+} from '../utils/formatters'
 import { TransitLayer, useTransitData, textOn } from './TransitLayer'
 
 // U-Bahn lines + official colours, for the legend and toggle.
@@ -20,12 +30,14 @@ function createPriceIcon(label: string, isSelected: boolean, isPast: boolean, ca
   const border = isSelected ? '#D4A843' : isPast ? '#9A9590' : cat.border
   const opacity = isPast ? '0.7' : '1'
   const scale = isSelected ? 'scale(1.15)' : 'scale(1)'
+  // The icon box is a point at the auction's position; the label is centred above
+  // it so the arrow tip marks the address whatever the label's width.
   const zIndex = isSelected ? 9999 : 1000
 
   return L.divIcon({
     className: '',
     html: `
-      <div style="transform:${scale};transition:transform 0.2s ease;z-index:${zIndex};position:relative;opacity:${opacity};display:inline-block">
+      <div style="position:absolute;left:0;bottom:0;transform:translateX(-50%) ${scale};transform-origin:50% 100%;transition:transform 0.2s ease;z-index:${zIndex};opacity:${opacity};cursor:pointer">
         <div style="
           background:${bg};color:${textColor};border:1.5px solid ${border};border-radius:5px;
           padding:3px 9px;font-size:11px;font-weight:700;white-space:nowrap;
@@ -38,9 +50,9 @@ function createPriceIcon(label: string, isSelected: boolean, isPast: boolean, ca
           border-top:5px solid ${bg};margin:0 auto;position:relative;top:-1px;
         "></div>
       </div>`,
-    iconSize: [70, 36],
-    iconAnchor: [35, 36],
-    popupAnchor: [0, -38],
+    iconSize: [0, 0],
+    iconAnchor: [0, 0],
+    popupAnchor: [0, -32],
   })
 }
 
@@ -148,26 +160,10 @@ const LAYERS = {
 }
 type LayerKey = keyof typeof LAYERS
 
-// Spread positions in a small fan when multiple auctions share the same coords
-function spreadPositions(lat: number, lng: number, count: number, index: number): [number, number] {
-  if (count === 1) return [lat, lng]
-  const angle = (2 * Math.PI * index) / count - Math.PI / 2
-  const radius = 0.0004
-  return [lat + radius * Math.cos(angle), lng + radius * Math.sin(angle)]
-}
-
-function createClusterIcon(count: number): L.DivIcon {
-  return L.divIcon({
-    className: '',
-    html: `<div style="
-      background:#B8922A;color:#fff;border:2px solid #fff;border-radius:50%;
-      width:32px;height:32px;display:flex;align-items:center;justify-content:center;
-      font-size:13px;font-weight:700;font-family:Inter,system-ui,sans-serif;
-      box-shadow:0 2px 8px rgba(0,0,0,0.4);cursor:pointer;
-    ">${count}</div>`,
-    iconSize: [32, 32],
-    iconAnchor: [16, 16],
-  })
+/** Several auctions at one address share one pin at the real position. */
+function groupLabel(group: Auction[]): string {
+  const min = Math.min(...group.map((a) => a.minimumBid).filter((v) => v > 0))
+  return isFinite(min) ? `${group.length} 套 · ${formatPriceLabel(min)} 起` : `${group.length} 套`
 }
 
 export function MapView({ auctions, selectedId, onSelect }: Props) {
@@ -175,7 +171,6 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
   const today = new Date().toISOString().split('T')[0]
   const validAuctions = auctions.filter(validCoord)
   const [layer, setLayer] = useState<LayerKey>('light')
-  const [expandedClusters, setExpandedClusters] = useState<Set<string>>(new Set())
   const [showSubway, setShowSubway] = useState(true)
   const [showTram, setShowTram] = useState(false)
   const transit = useTransitData(showSubway || showTram)
@@ -191,10 +186,6 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
     }
     return groups
   }, [validAuctions])
-
-  function toggleCluster(key: string) {
-    setExpandedClusters(prev => prev.has(key) ? new Set() : new Set([key]))
-  }
 
   return (
     <div className="relative w-full h-full">
@@ -288,51 +279,109 @@ export function MapView({ auctions, selectedId, onSelect }: Props) {
           <TransitLayer data={transit} showSubway={showSubway} showTram={showTram} />
 
           {[...coordGroups.entries()].map(([coordKey, group]) => {
-            const isExpanded = expandedClusters.has(coordKey)
-            const isCluster = group.length > 1
-
-            // Collapsed cluster: show count badge
-            if (isCluster && !isExpanded) {
-              const [lat, lng] = coordKey.split(',').map(Number)
+            if (group.length > 1) {
+              const isSelected = group.some((a) => a.id === selectedId)
+              const isPast = group.every((a) => a.auctionDate < today)
+              const types = new Set(group.map((a) => getPropertyMapColor(a).bg))
+              const colour = types.size === 1
+                ? getPropertyMapColor(group[0])
+                : { bg: '#1D3A2A', text: '#FFFFFF', border: '#1D3A2A' }
               return (
                 <Marker
                   key={coordKey}
-                  position={[lat, lng]}
-                  icon={createClusterIcon(group.length)}
-                  zIndexOffset={1500}
-                  eventHandlers={{ click: () => toggleCluster(coordKey) }}
-                />
+                  position={[group[0].latitude, group[0].longitude]}
+                  icon={createPriceIcon(groupLabel(group), isSelected, isPast, colour)}
+                  zIndexOffset={isSelected ? 2000 : 500}
+                >
+                  <Popup minWidth={260} maxWidth={320} autoPanPadding={[24, 24]}>
+                    <GroupList group={group} selectedId={selectedId} onSelect={onSelect} />
+                  </Popup>
+                </Marker>
               )
             }
 
-            // Single or expanded: show individual markers
-            return group.map((auction, idx) => {
-              const isSelected = auction.id === selectedId
-              const isPast = auction.auctionDate < today
-              const label = formatPriceLabel(auction.minimumBid)
-              const icon = createPriceIcon(label, isSelected, isPast, getPropertyMapColor(auction))
-              const [lat, lng] = isCluster
-                ? spreadPositions(auction.latitude, auction.longitude, group.length, idx)
-                : [auction.latitude, auction.longitude]
-
-              return (
-                <Marker
-                  key={auction.id}
-                  position={[lat, lng]}
-                  icon={icon}
-                  zIndexOffset={isSelected ? 2000 : 0}
-                  eventHandlers={{ click: () => onSelect(auction.id) }}
+            const auction = group[0]
+            const isSelected = auction.id === selectedId
+            return (
+              <Marker
+                key={auction.id}
+                position={[auction.latitude, auction.longitude]}
+                icon={createPriceIcon(
+                  formatPriceLabel(auction.minimumBid),
+                  isSelected,
+                  auction.auctionDate < today,
+                  getPropertyMapColor(auction),
+                )}
+                zIndexOffset={isSelected ? 2000 : 0}
+                eventHandlers={{ click: () => onSelect(auction.id) }}
               >
-                <Tooltip direction="top" offset={[0, -40]} opacity={1} className="leaflet-custom-tooltip">
+                <Tooltip direction="top" offset={[0, -32]} opacity={1} className="leaflet-custom-tooltip">
                   <MapTooltip auction={auction} />
                 </Tooltip>
               </Marker>
             )
-            })
           })}
         </MapContainer>
       </MapErrorBoundary>
 
+    </div>
+  )
+}
+
+/** Every auction at one address, cheapest first; picking one opens its card. */
+function GroupList({
+  group,
+  selectedId,
+  onSelect,
+}: {
+  group: Auction[]
+  selectedId: string
+  onSelect: (id: string) => void
+}) {
+  const rows = [...group].sort((a, b) => a.minimumBid - b.minimumBid)
+  const oneDate = new Set(group.map((a) => a.auctionDate)).size === 1
+  return (
+    <div className="py-2">
+      <div className="px-3 pb-2 border-b border-cream-200">
+        <div className="text-sm font-semibold text-forest-700 leading-snug">{group[0].address}</div>
+        <div className="text-xs text-warm-500 mt-0.5">
+          同一地址 {group.length} 套{oneDate ? ` · 拍卖日期 ${formatDate(group[0].auctionDate)}` : ''}
+        </div>
+      </div>
+      <ul className="max-h-[172px] md:max-h-[260px] overflow-y-auto">
+        {rows.map((a) => {
+          const ratio = bidRatio(a)
+          const active = a.id === selectedId
+          return (
+            <li key={a.id}>
+              <button
+                type="button"
+                // Picking the open one again keeps it open rather than toggling it shut.
+                onClick={() => { if (!active) onSelect(a.id) }}
+                className={`w-full text-left px-3 py-2 flex items-center justify-between gap-3 transition-colors ${
+                  active ? 'bg-gold-500/15' : 'hover:bg-cream-50'
+                }`}
+              >
+                <span className="min-w-0">
+                  <span className="block text-sm font-semibold text-forest-700 tabular-nums">
+                    {formatFullCurrency(a.minimumBid)}
+                  </span>
+                  <span className="block text-xs text-warm-500 tabular-nums truncate">
+                    {generateTitle(a)}
+                    {!oneDate && ` · ${formatDate(a.auctionDate)}`}
+                  </span>
+                </span>
+                <span
+                  className="text-xs font-semibold tabular-nums flex-shrink-0"
+                  style={{ color: ratio > 0 && ratio <= 0.5 ? HIGHLIGHT_COLOR : '#7A7065' }}
+                >
+                  {ratio > 0 ? `起拍/估值 ${formatPercent(ratio)}` : ''}
+                </span>
+              </button>
+            </li>
+          )
+        })}
+      </ul>
     </div>
   )
 }
