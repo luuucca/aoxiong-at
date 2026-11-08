@@ -4181,6 +4181,7 @@
     "district": "1110",
     "title": "Gerichtliche Versteigerungen",
     "category": "Mietshaus",
+    "propertyType": "出租楼",
     "estimatedValue": 880000,
     "minimumBid": 440000,
     "area": 534,
@@ -4202,10 +4203,9 @@
     "shortReportUrl": "",
     "tenancyStatus": "rented",
     "tenancyText": "Das Objekt ist überwiegend befristet vermietet.",
-    "firstSeenAt": "2026-08-28T12:42:29.162Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "出租楼"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-08-28T12:42:29.162Z"
   },
   {
     "id": "wien-92ef04754ad1",
@@ -4290,6 +4290,7 @@
     "district": "1210",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "地皮",
     "estimatedValue": 0,
     "minimumBid": 255000,
     "area": 0,
@@ -4308,9 +4309,8 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "地皮"
+    "firstSeenAt": "2026-09-04T05:48:11.590Z"
   },
   {
     "id": "wien-4844d387e588",
@@ -4320,6 +4320,7 @@
     "district": "1210",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "地皮",
     "estimatedValue": 0,
     "minimumBid": 292000,
     "area": 0,
@@ -4338,9 +4339,8 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "地皮"
+    "firstSeenAt": "2026-09-04T05:48:11.590Z"
   },
   {
     "id": "wien-9db914f4207c",
@@ -4375,6 +4375,7 @@
     "district": "1030",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "阁楼毛坯",
     "estimatedValue": 1755000,
     "minimumBid": 877500,
     "area": 797,
@@ -4396,10 +4397,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/ceb62c9a847b3abfc1258e6c00294078",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei und geräumt. Es liegen keine Miet- oder sonstiger Nutzungsverträge vor.",
-    "firstSeenAt": "2026-09-09T05:55:27.579Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "阁楼毛坯"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-09T05:55:27.579Z"
   },
   {
     "id": "wien-19a397258aeb",
@@ -4609,6 +4609,7 @@
     "district": "1220",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "地皮",
     "estimatedValue": 946500,
     "minimumBid": 473250,
     "area": 0,
@@ -4630,10 +4631,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/884fb24741d1370fc1258e7200294455",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z",
+    "propertyNote": "建筑权",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "地皮",
-    "propertyNote": "建筑权"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z"
   },
   {
     "id": "wien-fac65ae4867a",
@@ -4643,6 +4643,7 @@
     "district": "1110",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 240000,
     "minimumBid": 120000,
     "area": 83,
@@ -4664,9 +4665,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/25c1f05ddc2e6a27c1258e720042ef27",
     "tenancyStatus": "vacant",
     "tenancyText": "keine",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-09-15T06:04:09.455Z"
   },
   {
     "id": "wien-09db7d58cd9b",
@@ -4951,6 +4951,7 @@
     "district": "1030",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 252000,
     "minimumBid": 126000,
     "area": 0,
@@ -4971,10 +4972,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c980971b6a75682bc1258e74002c0425",
     "tenancyStatus": "limited",
     "tenancyText": "Die bewertungsgegenständliche Wohnung ist befristet vermietet.",
-    "firstSeenAt": "2026-09-17T06:02:59.597Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-17T06:02:59.597Z"
   },
   {
     "id": "wien-661c1f4712a6",
@@ -4984,6 +4984,7 @@
     "district": "1160",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "办公商业",
     "estimatedValue": 373000,
     "minimumBid": 186500,
     "area": 0,
@@ -5002,10 +5003,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6c184c86cb0408f9c1258e790048d3cb",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-22T06:03:43.766Z",
+    "propertyNote": "打包五单元",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "办公商业",
-    "propertyNote": "打包五单元"
+    "firstSeenAt": "2026-09-22T06:03:43.766Z"
   },
   {
     "id": "wien-f2086633bf75",
@@ -5242,6 +5242,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 140000,
     "minimumBid": 140000,
     "area": 58.53,
@@ -5261,9 +5262,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/72b36e5c3c2f37c2c1258e7b0039d139",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-27c0ae61e1fa",
@@ -5273,6 +5273,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 185000,
     "minimumBid": 185000,
     "area": 73.15,
@@ -5292,9 +5293,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/32048cc3e88bd1a1c1258e7b0039d936",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-ee51dc338f5a",
@@ -5304,6 +5304,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 275000,
     "minimumBid": 275000,
     "area": 89.81,
@@ -5323,9 +5324,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/971bb8cb96c3916fc1258e7b0039dff4",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Whg ist unbefristet vermietet. Beginn des Mietverhältnisses: 01.08.1986. Monatlicher Mietzins, lt. Auskunft Mieter: € 187,50 netto (exkl. BK).",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-7f87a375ffb3",
@@ -5335,6 +5335,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 930000,
     "minimumBid": 465000,
     "area": 184.7,
@@ -5356,9 +5357,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a6f4eeec28d753efc1258e7b0043f206",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist eigengenutzt",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-434766334510",
@@ -5393,6 +5393,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "独栋住宅",
     "estimatedValue": 493000,
     "minimumBid": 493000,
     "area": 115.98,
@@ -5412,10 +5413,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8c346c4f813b1343c1258e7d002edcaa",
     "tenancyStatus": "limited",
     "tenancyText": "bis 30.11.2026 befristeter Mietvertrag Nettomiete aktuell € 1.291,05 p.m.",
-    "firstSeenAt": "2026-09-26T06:04:53.485Z",
+    "propertyNote": "联排",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "独栋住宅",
-    "propertyNote": "联排"
+    "firstSeenAt": "2026-09-26T06:04:53.485Z"
   },
   {
     "id": "wien-01ea1337f239",
@@ -5425,6 +5425,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Einfamilienhaus",
+    "propertyType": "独栋住宅",
     "estimatedValue": 1460000,
     "minimumBid": 730000,
     "area": 260.22,
@@ -5447,9 +5448,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/74c666275c4e2cb7c1258e80002dce2a",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-29T06:48:17.219Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "独栋住宅"
+    "firstSeenAt": "2026-09-29T06:48:17.219Z"
   },
   {
     "id": "wien-099b14c9e004",
@@ -5459,6 +5459,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Mietshaus",
+    "propertyType": "出租楼",
     "estimatedValue": 2090000,
     "minimumBid": 1045000,
     "area": 699,
@@ -5480,10 +5481,9 @@
     "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2d9eb7268ba8a662c1258e810029e554/$file/Lang.pdf",
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b2b370bc05ad6cddc1258e810029e553",
     "tenancyStatus": "rented",
-    "tenancyText": "",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
+    "tenancyText": "Die Liegenschaft ist überwiegend (hauptsächlich befristet) vermietet und unterliegt dem Mietrechtsgesetz.",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "出租楼"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-38af0caffd21",
@@ -5493,6 +5493,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 115000,
     "minimumBid": 57500,
     "area": 50.77,
@@ -5512,10 +5513,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d633108b5fa23785c1258e81003f387a",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Top 8 ist auf unbestimmte Zeit vermietet.",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-beb7e0e4c5a9",
@@ -5525,6 +5525,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 104000,
     "minimumBid": 52000,
     "area": 46.1,
@@ -5545,10 +5546,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1e574efdf0f95581c1258e81003f276a",
     "tenancyStatus": "limited",
     "tenancyText": "Die Top 9 ist befristet bis zum 31. Dezember 2026 vermietet.",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-056cd1016331",
@@ -5558,6 +5558,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 47000,
     "minimumBid": 23500,
     "area": 28.51,
@@ -5578,9 +5579,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/78d2af428cbe7498c1258e81003f1521",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-91584a90d888",
@@ -5590,6 +5590,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 132000,
     "minimumBid": 66000,
     "area": 59.03,
@@ -5610,10 +5611,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/76b7990c925e1983c1258e81003ee79f",
     "tenancyStatus": "limited",
     "tenancyText": "Die Top 13 ist befristet bis zum 31. Oktober 2028 vermietet.",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-1d09d2c405ba",
@@ -5623,6 +5623,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 87000,
     "minimumBid": 43500,
     "area": 37.83,
@@ -5644,10 +5645,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2ad33e3a68ad3559c1258e81003ecef9",
     "tenancyStatus": "limited",
     "tenancyText": "Die Top 19 ist befristet bis zum 31. Dezember 2026 vermietet.",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-e32c3b71f0f0",
@@ -5657,6 +5657,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 138000,
     "minimumBid": 69000,
     "area": 67.97,
@@ -5678,9 +5679,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/11b9f4fcb63ae3f0c1258e81003ea5be",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-f321a884ba88",
@@ -5690,6 +5690,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 20000,
     "minimumBid": 10000,
     "area": 11.04,
@@ -5706,8 +5707,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b8b56f8934b89731c1258e810024b206",
     "tenancyStatus": "vacant",
     "tenancyText": "keines bekannt; nach Rücksprache mit Gericht bestandfreie Bewertung",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-a9f8edc74277",
@@ -5717,6 +5717,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 19000,
     "minimumBid": 9500,
     "area": 11.04,
@@ -5736,9 +5737,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5a7996b2a73d4ce0c1258e8100274585",
     "tenancyStatus": "unlimited",
     "tenancyText": "mündlicher, unbefristeter Mietvertrag, pauschaler Mietzins € 75,-/pm",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-a1c86fb76cd0",
@@ -5748,6 +5748,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 216000,
     "minimumBid": 108000,
     "area": 69.78,
@@ -5766,9 +5767,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a34e11f4c1b4d873c1258e8200265915",
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-d2a427b10a77",
@@ -5778,6 +5778,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "店铺",
     "estimatedValue": 50300,
     "minimumBid": 25150,
     "area": 57,
@@ -5798,9 +5799,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/668afba949df1c4fc1258e830023cac1",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "店铺"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-388a932c7d97",
@@ -5810,6 +5810,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 6500,
     "minimumBid": 3250,
     "area": 18,
@@ -5826,8 +5827,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a7da67248dc238f1c1258e830023edf1",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-b7567c2446ff",
@@ -5837,6 +5837,7 @@
     "district": "1010",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 1153000,
     "minimumBid": 576500,
     "area": 144,
@@ -5853,8 +5854,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/22c2e61b122e72d6c1258e82002bf763",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-27c4b982b964",
@@ -5864,6 +5864,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 315000,
     "minimumBid": 157500,
     "area": 63.04,
@@ -5885,9 +5886,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f1829119864957dfc1258e83002dfa97",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z"
   },
   {
     "id": "wien-797ba782fa9a",
@@ -5897,6 +5897,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 252000,
     "minimumBid": 202000,
     "area": 117.32,
@@ -5918,9 +5919,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/43439093c7457f70c1258e83002d790f",
     "tenancyStatus": "unlimited",
     "tenancyText": "seit 17.02.2005 vermietet, seit 24.02.2007 unbefristet vermietet",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z"
   },
   {
     "id": "wien-bd1711ec8b31",
@@ -5930,6 +5930,7 @@
     "district": "1010",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 2317000,
     "minimumBid": 1158500,
     "area": 128,
@@ -5950,9 +5951,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e352458dd5c85bfec1258e83003eda13",
     "tenancyStatus": "vacant",
     "tenancyText": "nicht vermietet, Eigennutzung angenommen; kein Mietvertrag bekannt; Bewertung unter Annahme der Bestandsfreiheit",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-02T06:58:38.443Z"
   },
   {
     "id": "wien-10897f26a23a",
@@ -5962,6 +5962,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 259000,
     "minimumBid": 180000,
     "area": 63.26,
@@ -5981,9 +5982,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db111dccd13f4c0cc1258e84002b3fed",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-03T06:23:24.205Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-03T06:23:24.205Z"
   },
   {
     "id": "wien-ba46c3bf46ba",
@@ -5993,6 +5993,7 @@
     "district": "1060",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 160000,
     "minimumBid": 80000,
     "area": 30.79,
@@ -6013,9 +6014,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1c0dbc8b1e0245c1c1258e88002346d8",
     "tenancyStatus": "unknown",
     "tenancyText": "nicht offensichtlich",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-c51ec0c7c315",
@@ -6025,6 +6025,7 @@
     "district": "1220",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "地皮",
     "estimatedValue": 1498800,
     "minimumBid": 749400,
     "area": 0,
@@ -6046,10 +6047,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b48eed54e2d12256c1258e87003253a3",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
+    "propertyNote": "建筑权",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "地皮",
-    "propertyNote": "建筑权"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-a6d0db886724",
@@ -6059,6 +6059,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "店铺",
     "estimatedValue": 229000,
     "minimumBid": 114500,
     "area": 68.71,
@@ -6077,9 +6078,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1c07b1ac86da3d8ac1258e870027d116",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "店铺"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-6391b05d5add",
@@ -6089,6 +6089,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 21600,
     "minimumBid": 10800,
     "area": 0,
@@ -6105,8 +6106,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8f77a98b6e86f4abc1258e870027e013",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-51e61423a631",
@@ -6116,6 +6116,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 22200,
     "minimumBid": 11100,
     "area": 0,
@@ -6132,8 +6133,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d0660faf26e6e03ec1258e8700287526",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-597bf634a486",
@@ -6143,6 +6143,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 23000,
     "minimumBid": 11500,
     "area": 0,
@@ -6159,8 +6160,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/04fef911b727027fc1258e8700287df5",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-ee9ee4a1d7a8",
@@ -6170,6 +6170,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 22200,
     "minimumBid": 11100,
     "area": 0,
@@ -6186,8 +6187,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/acb97842c3090abec1258e8700288555",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-27595523e2a2",
@@ -6197,6 +6197,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 21600,
     "minimumBid": 10800,
     "area": 0,
@@ -6213,8 +6214,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db653ecbd8679af6c1258e8700289741",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-8ee2a7cbe19d",
@@ -6224,6 +6224,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 22200,
     "minimumBid": 11100,
     "area": 0,
@@ -6240,8 +6241,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2b09d2a8f09b8ec1258e870028a834",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-10593dc2b24d",
@@ -6251,6 +6251,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 21600,
     "minimumBid": 10800,
     "area": 0,
@@ -6267,8 +6268,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2ed304dced4a0518c1258e870028af47",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-4e0364c60604",
@@ -6278,6 +6278,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 22200,
     "minimumBid": 11100,
     "area": 0,
@@ -6294,8 +6295,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c096d6a174c36e05c1258e870028b776",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-172eaaad47bc",
@@ -6305,6 +6305,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 21600,
     "minimumBid": 10800,
     "area": 0,
@@ -6321,8 +6322,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/aeca81f4f9c235a0c1258e870028beb2",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-e31d430b671a",
@@ -6332,6 +6332,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 22200,
     "minimumBid": 11100,
     "area": 0,
@@ -6348,8 +6349,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f79b9653552f0eb3c1258e870028c52e",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-2f08d581aa1b",
@@ -6359,6 +6359,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "车位",
     "estimatedValue": 21600,
     "minimumBid": 10800,
     "area": 0,
@@ -6375,8 +6376,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/89c1fd94293e85ecc1258e870028cc1b",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
-    "propertyType": "车位"
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-2bf32279e9c2",
@@ -6386,6 +6386,7 @@
     "district": "1180",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "店铺",
     "estimatedValue": 191000,
     "minimumBid": 95500,
     "area": 82.44,
@@ -6408,10 +6409,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/58dac1bfc9d70f02c1258e8900255ef3",
     "tenancyStatus": "vacant",
     "tenancyText": "Augenscheinlich war das Geschäftslokal in Eigennutzung.",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "店铺"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-08T07:18:38.363Z"
   },
   {
     "id": "wien-005301023b33",
@@ -6421,6 +6421,7 @@
     "district": "1130",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "地皮",
     "estimatedValue": 1607000,
     "minimumBid": 1285600,
     "area": 0,
@@ -6442,9 +6443,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/13ba6987afce70cfc1258e89002d9473",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "地皮"
+    "firstSeenAt": "2026-10-08T07:18:38.363Z"
   },
   {
     "id": "wien-7886ac694fad",
@@ -6454,6 +6454,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "办公商业",
     "estimatedValue": 552000,
     "minimumBid": 276000,
     "area": 448.05,
@@ -6475,11 +6476,10 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/219126bf77dc93aac1258e8a00362979",
     "tenancyStatus": "unlimited",
     "tenancyText": "Das Wohnungseigentumsobjekt Geschäftslokal 1-4 ist in Teilbereichen (Werkstatt und Büro) gemäß Mietvertrag vom 01.05.2024 unbefristet vermietet.",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "办公商业",
-    "propertyNote": "商住混合"
+    "propertyNote": "商住混合",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-0754d1097bb1",
@@ -6489,6 +6489,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 95000,
     "minimumBid": 47500,
     "area": 53.56,
@@ -6509,9 +6510,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8cb063c1f1134d7fc1258e8a00364fc4",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-4dbffc37dbf7",
@@ -6521,6 +6521,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 214000,
     "minimumBid": 107000,
     "area": 107.43,
@@ -6539,9 +6540,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/08153021b7a918c2c1258e8a003679cd",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-2451a33595fb",
@@ -6551,6 +6551,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 118000,
     "minimumBid": 59000,
     "area": 56.77,
@@ -6569,9 +6570,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a3ffb85319f964ecc1258e8a00369e56",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-32bbf52d55ee",
@@ -6581,6 +6581,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 152000,
     "minimumBid": 76000,
     "area": 81.48,
@@ -6601,9 +6602,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/efeb45ec52cad125c1258e8a0036cbe3",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-1f94f8d10bf1",
@@ -6613,6 +6613,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 216000,
     "minimumBid": 108000,
     "area": 83.9,
@@ -6632,9 +6633,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/56f330b49391a617c1258e8a0036f374",
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-f72b49a7235a",
@@ -6644,6 +6644,7 @@
     "district": "1060",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 236000,
     "minimumBid": 118000,
     "area": 53.37,
@@ -6664,9 +6665,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db778e1d647d378fc1258e8a0028c1d3",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-f05fad6f6b3b",
@@ -6676,6 +6676,7 @@
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 690000,
     "minimumBid": 345000,
     "area": 139.05,
@@ -6695,10 +6696,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0c0f2006c7d1d661c1258e8b002a71e5",
     "tenancyStatus": "unlimited",
     "tenancyText": "wird eine Nettomiete (Untermiete) in der Höhe von € 250,- pro Monat bezahlt. Das Mietverhältnis wurde auf unbestimmte Zeit vereinbart.",
-    "firstSeenAt": "2026-10-10T06:59:48.448Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-10T06:59:48.448Z"
   },
   {
     "id": "wien-2bfdd8f94eca",
@@ -6708,6 +6708,7 @@
     "district": "1100",
     "title": "Gerichtliche Versteigerungen",
     "category": "Einfamilienhaus",
+    "propertyType": "独栋住宅",
     "estimatedValue": 544000,
     "minimumBid": 544000,
     "area": 135.93,
@@ -6728,9 +6729,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2157e0ee6e4051c1c1258e8e0034a00d",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist laut Aussage der anwesenden Partei seit dem Jahr 2022 leerstehend.",
-    "firstSeenAt": "2026-10-13T07:40:59.251Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "独栋住宅"
+    "firstSeenAt": "2026-10-13T07:40:59.251Z"
   },
   {
     "id": "wien-419898296293",
@@ -6740,6 +6740,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Mehrfamilienhaus",
+    "propertyType": "出租楼",
     "estimatedValue": 2050000,
     "minimumBid": 1025000,
     "area": 828.96,
@@ -6761,10 +6762,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a74d0ea91658d182c1258e9000458fdd",
     "tenancyStatus": "vacant",
     "tenancyText": "leerstehend",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z",
+    "propertyNote": "整栋空置",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "出租楼",
-    "propertyNote": "整栋空置"
+    "firstSeenAt": "2026-10-15T05:51:03.770Z"
   },
   {
     "id": "wien-9bf93d478b13",
@@ -6774,13 +6774,14 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "店铺",
     "estimatedValue": 817000,
     "minimumBid": 408500,
     "area": 1666.72,
     "pricePerSqm": 490.18,
     "deposit": 81700,
-    "latitude": 48.1807949,
-    "longitude": 16.3298736,
+    "latitude": 48.1809561,
+    "longitude": 16.3298405,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
     "summary": "1 号楼梯 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
@@ -6795,10 +6796,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5fabc55b40732091c1258e90002c787f",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "店铺"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-15T05:51:03.770Z"
   },
   {
     "id": "wien-2ad3a54564a1",
@@ -6808,6 +6808,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 84000,
     "minimumBid": 42000,
     "area": 47.39,
@@ -6829,9 +6830,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dad74d753996da1dc1258e910022d69b",
     "tenancyStatus": "limited",
     "tenancyText": "Die Wohnung top 1 ist befristet vermietet.",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-a791409b23c9",
@@ -6841,6 +6841,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "店铺",
     "estimatedValue": 220000,
     "minimumBid": 110000,
     "area": 269.18,
@@ -6862,10 +6863,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/daad57c302fb8618c1258e910023500d",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Geschäftslokal top 2 ist nach derzeitigem Wissensstand des gefertigten Sachverständigen leerstehend bzw. eigengenutzt.",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "propertyNote": "餐饮",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "店铺",
-    "propertyNote": "餐饮"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-229427549290",
@@ -6875,6 +6875,7 @@
     "district": "1120",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 130000,
     "minimumBid": 65000,
     "area": 56.37,
@@ -6895,9 +6896,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/66583337094655dac1258e910023d4fd",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-a30de1a846ec",
@@ -6907,6 +6907,7 @@
     "district": "1050",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "公寓",
     "estimatedValue": 410000,
     "minimumBid": 205000,
     "area": 93.78,
@@ -6928,9 +6929,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/790b7e709ba2a826c1258e91002e92e4",
     "tenancyStatus": "vacant",
     "tenancyText": "Die Wohnung ist bestandfrei.",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-d610825c8d67",
@@ -6940,6 +6940,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Mehrfamilienhaus",
+    "propertyType": "出租楼",
     "estimatedValue": 1800000,
     "minimumBid": 900000,
     "area": 273,
@@ -6960,10 +6961,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d8098bc47591fde4c1258e910025056b",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
+    "propertyNote": "整栋三户",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "出租楼",
-    "propertyNote": "整栋三户"
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-47248b0b2fe7",
@@ -6973,6 +6973,7 @@
     "district": "1090",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "阁楼毛坯",
     "estimatedValue": 978000,
     "minimumBid": 489000,
     "area": 357.57,
@@ -6995,10 +6996,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4d8ccad6e2bb0230c1258e920031db0c",
     "tenancyStatus": "vacant",
     "tenancyText": "augenscheinlich keine",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "propertyNote": "未完工",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "阁楼毛坯",
-    "propertyNote": "未完工"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-046228e7fae9",
@@ -7008,6 +7008,7 @@
     "district": "1090",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "办公商业",
     "estimatedValue": 320000,
     "minimumBid": 160000,
     "area": 201.85,
@@ -7028,10 +7029,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/98e35586ef314fd7c1258e9200326672",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
+    "propertyNote": "办公",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "办公商业",
-    "propertyNote": "办公"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-ebaad1f0173b",
@@ -7041,6 +7041,7 @@
     "district": "1090",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "办公商业",
     "estimatedValue": 91000,
     "minimumBid": 45500,
     "area": 120.85,
@@ -7062,11 +7063,10 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/99c5c563984e45fac1258e920032ae77",
     "tenancyStatus": "unlimited",
     "tenancyText": "Mietdauer unbestimmte Zeit",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
-    "summarizedAt": "2026-11-07T12:23:58.108Z",
     "tenancySource": "report",
-    "propertyType": "办公商业",
-    "propertyNote": "办公"
+    "propertyNote": "办公",
+    "summarizedAt": "2026-11-07T12:23:58.108Z",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-421577b6f425",
@@ -7076,6 +7076,7 @@
     "district": "1090",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 150000,
     "minimumBid": 75000,
     "area": 92.25,
@@ -7096,9 +7097,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6291dc672cc39f76c1258e920032fcec",
     "tenancyStatus": "unlimited",
     "tenancyText": "Am Tag der Befundaufnahme war die Wohnung Top 11 bewohnt. Die Wohnung ist seit 1977 auf unbestimmte Zeit vermietet.",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-a051ec405dd1",
@@ -7108,6 +7108,7 @@
     "district": "1070",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 219000,
     "minimumBid": 109500,
     "area": 96.72,
@@ -7127,10 +7128,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f6cd5270a44a6cc3c1258e920030e36e",
     "tenancyStatus": "unlimited",
     "tenancyText": "Das Objekt ist auf unbestimmte Zeit vermietet.",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-3372c32d278e",
@@ -7140,6 +7140,7 @@
     "district": "1160",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 220000,
     "minimumBid": 110000,
     "area": 60.98,
@@ -7158,9 +7159,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b7a8907470caa4ebc1258e95001e055c",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-19T06:03:58.763Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-19T06:03:58.763Z"
   },
   {
     "id": "wien-a669654f8743",
@@ -7170,6 +7170,7 @@
     "district": "1100",
     "title": "Gerichtliche Versteigerungen",
     "category": "Mietshaus",
+    "propertyType": "出租楼",
     "estimatedValue": 1890000,
     "minimumBid": 945000,
     "area": 1119.8,
@@ -7192,10 +7193,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/37a273de10d5b408c1258e95003e5287",
     "tenancyStatus": "rented",
     "tenancyText": "Gemäß der mietvertraglichen Erkenntnisse sind davon 17 Objekte zu Wohnzwecken, 1 Objekt zu Geschäftszwecken vermietet.",
-    "firstSeenAt": "2026-10-20T05:57:30.763Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "出租楼"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-20T05:57:30.763Z"
   },
   {
     "id": "wien-4f88750cdf6d",
@@ -7205,6 +7205,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 249000,
     "minimumBid": 184260,
     "area": 65.76,
@@ -7221,9 +7222,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0811f200a5e3e260c1258e96005b86f5",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-21T05:58:16.385Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-21T05:58:16.385Z"
   },
   {
     "id": "wien-2ee136dda971",
@@ -7233,6 +7233,7 @@
     "district": "1070",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 85000,
     "minimumBid": 63750,
     "area": 60.61,
@@ -7253,10 +7254,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c549f4253d11cb06c1258e98003dc8ac",
     "tenancyStatus": "unlimited",
     "tenancyText": "Das Objekt ist derzeit unbefristet vermietet.",
-    "firstSeenAt": "2026-10-23T05:59:13.039Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-23T05:59:13.039Z"
   },
   {
     "id": "wien-8e37df13c5f5",
@@ -7266,6 +7266,7 @@
     "district": "1160",
     "title": "Gerichtliche Versteigerungen",
     "category": "Mietshaus",
+    "propertyType": "出租楼",
     "estimatedValue": 2100000,
     "minimumBid": 1050000,
     "area": 0,
@@ -7287,9 +7288,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/49074938d85a8424c1258e9e0043be42",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "出租楼"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z"
   },
   {
     "id": "wien-2cdaf73f4de2",
@@ -7299,6 +7299,7 @@
     "district": "1160",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "办公商业",
     "estimatedValue": 3980000,
     "minimumBid": 1990000,
     "area": 2054,
@@ -7315,8 +7316,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3d2466ddb6c54809c1258e9e002cee24",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z",
-    "propertyType": "办公商业"
+    "firstSeenAt": "2026-10-29T07:01:16.473Z"
   },
   {
     "id": "wien-6632268cf7be",
@@ -7326,6 +7326,7 @@
     "district": "1170",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 2230000,
     "minimumBid": 223000,
     "area": 0,
@@ -7347,10 +7348,9 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3512b7b8f5d00981c1258e9e0045f34d",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "公寓"
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-29T07:01:16.473Z"
   },
   {
     "id": "wien-efe9fdc10059",
@@ -7360,6 +7360,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 210000,
     "minimumBid": 105000,
     "area": 41.85,
@@ -7378,9 +7379,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8578d45224512f63c1258e9f00344114",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-0a4a9907b1f6",
@@ -7390,6 +7390,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 180000,
     "minimumBid": 90000,
     "area": 77.59,
@@ -7410,9 +7411,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/819dc6d811ce8241c1258e9f00344378",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet ; Nettoertrag mtl. € 179,12 zuz. BK /Lift € 152,11",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-036fd19ea36d",
@@ -7422,6 +7422,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 335000,
     "minimumBid": 167500,
     "area": 78,
@@ -7441,9 +7442,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/71bca1cf73734797c1258e9f0034453d",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-d574b8bf3c76",
@@ -7453,6 +7453,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 125000,
     "minimumBid": 62500,
     "area": 46.12,
@@ -7473,9 +7474,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e18abc5cddd57c7c1258e9f00344752",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet; Nettoertrag mtl. € 102,85",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-0870d936427b",
@@ -7485,6 +7485,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 155000,
     "minimumBid": 77500,
     "area": 38.77,
@@ -7505,9 +7506,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dff6183df7086f4dc1258e9f0034494c",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-422d02b2289c",
@@ -7517,6 +7517,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 410000,
     "minimumBid": 205000,
     "area": 90.48,
@@ -7536,9 +7537,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/fc7c85e90a1bc84ac1258e9f00344b34",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-ca132eeb7bf0",
@@ -7548,6 +7548,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 1060000,
     "minimumBid": 530000,
     "area": 201.52,
@@ -7568,9 +7569,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b0eefbd0e6039878c1258e9f00344cef",
     "tenancyStatus": "vacant",
     "tenancyText": "keine , Eigennutzung durch Verpflichteten",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-dd92906e3021",
@@ -7580,13 +7580,14 @@
     "district": "1160",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "阁楼毛坯",
     "estimatedValue": 135000,
     "minimumBid": 67500,
     "area": 221.52,
     "pricePerSqm": 609.43,
     "deposit": 13500,
-    "latitude": 48.2105549,
-    "longitude": 16.3306764,
+    "latitude": 48.2106756,
+    "longitude": 16.3307587,
     "geocodeSource": "official",
     "ownershipType": "Lager mit Rohdachboden",
     "summary": "实为 23/845 份额：地下 Lager 11.18㎡（现作婴儿车和单车间）、未改建阁楼 258.19㎡及 3 个储物间；221.52㎡ 是规划面积。改建许可已于 2024-10-11 失效，需重新报建并加电梯。屋架部分受损。残值法（售价 €6,000/㎡、造价 €3,700/㎡）估值 €135,000（约 €523/㎡ 阁楼）。2021 年购入价 €237,000，合同含开工和完工期限。土地册有 §27 WEG 诉讼注记。",
@@ -7601,9 +7602,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/29a50ae4c78c392fc1258e9f0047c2fe",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "阁楼毛坯"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-35cc9e39963c",
@@ -7613,6 +7613,7 @@
     "district": "1080",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 158000,
     "minimumBid": 79000,
     "area": 66.69,
@@ -7632,9 +7633,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7cfa1632bbb139eec1258e9f004ad6e0",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Wohnung ist seit 1986 unbefristet vermietet",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-9c2eb47fc89b",
@@ -7644,6 +7644,7 @@
     "district": "1020",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "其他",
     "estimatedValue": 0,
     "minimumBid": 0,
     "area": 0,
@@ -7660,8 +7661,7 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z",
-    "propertyType": "其他"
+    "firstSeenAt": "2026-10-31T06:58:28.863Z"
   },
   {
     "id": "wien-7bf84356a0b5",
@@ -7671,6 +7671,7 @@
     "district": "1200",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
     "estimatedValue": 165000,
     "minimumBid": 132000,
     "area": 45.77,
@@ -7691,9 +7692,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/eb3e889e28e249d7c1258ea000495d60",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-10-31T06:58:28.863Z"
   },
   {
     "id": "wien-c02c3f07d6cf",
@@ -7703,6 +7703,7 @@
     "district": "1070",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "办公商业",
     "estimatedValue": 341000,
     "minimumBid": 272800,
     "area": 922.04,
@@ -7723,11 +7724,10 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c32c0b3a8666a829c1258ea0004c79db",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Tankstelle inkl. der Top 1a St I ist seit dem März 2022 auf unbestimmte Zeit vermietet.",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "办公商业",
-    "propertyNote": "加油站"
+    "propertyNote": "加油站",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-31T06:58:28.863Z"
   },
   {
     "id": "wien-8f24b4baeb6a",
@@ -7737,6 +7737,7 @@
     "district": "1220",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 240000,
     "minimumBid": 120000,
     "area": 79.72,
@@ -7758,9 +7759,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a97bb11ebf560450c1258ea500483561",
     "tenancyStatus": "vacant",
     "tenancyText": "Die Einheit wird eigengenutzt. Über etwaige Bestands- und Nutzungsrechte liegen keine Informationen vor.",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-11-05T07:55:21.908Z"
   },
   {
     "id": "wien-ec9044b23245",
@@ -7770,6 +7770,7 @@
     "district": "1220",
     "title": "Gerichtliche Versteigerungen",
     "category": "Sonstiges",
+    "propertyType": "地皮",
     "estimatedValue": 1910000,
     "minimumBid": 955000,
     "area": 465.53,
@@ -7792,11 +7793,10 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7966e999339b68ccc1258ea5004baf10",
     "tenancyStatus": "vacant",
     "tenancyText": "Die 5 Geschäftslokale waren zum Zeitpunkt der Befundaufnahme leerstehend",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "地皮",
-    "propertyNote": "建筑权"
+    "propertyNote": "建筑权",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-05T07:55:21.908Z"
   },
   {
     "id": "wien-c7114705d8ba",
@@ -7806,6 +7806,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 79800,
     "minimumBid": 39900,
     "area": 75.38,
@@ -7826,9 +7827,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c8a305d7d16ee0cac1258ea7005b71a5",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-ef0f4bf4cb83",
@@ -7838,6 +7838,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 78900,
     "minimumBid": 39450,
     "area": 78.98,
@@ -7859,9 +7860,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1ee16e5bff29865ec1258ea7005bad71",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-cffd38f39013",
@@ -7871,6 +7871,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 86100,
     "minimumBid": 43050,
     "area": 93.48,
@@ -7892,9 +7893,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e55aa5649462eec9c1258ea7005c8d19",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-d2bc45ead56d",
@@ -7904,6 +7904,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 85600,
     "minimumBid": 42800,
     "area": 80.92,
@@ -7925,9 +7926,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f2fe87cbb0d17834c1258ea7005cdde1",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-7d8c576f245b",
@@ -7937,6 +7937,7 @@
     "district": "1150",
     "title": "Gerichtliche Versteigerungen",
     "category": "Wohnungseigentumsobjekt",
+    "propertyType": "其他",
     "estimatedValue": 24400,
     "minimumBid": 12200,
     "area": 38.09,
@@ -7957,11 +7958,10 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4fc26db98830e2ffc1258ea7005d3665",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
     "tenancySource": "report",
-    "propertyType": "其他",
-    "propertyNote": "储藏室"
+    "propertyNote": "储藏室",
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-8a2fd882342b",
@@ -7971,6 +7971,7 @@
     "district": "1190",
     "title": "Gerichtliche Versteigerungen",
     "category": "Einfamilienhaus",
+    "propertyType": "独栋住宅",
     "estimatedValue": 6834000,
     "minimumBid": 3417000,
     "area": 0,
@@ -7991,9 +7992,8 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2d13a22b80c70e19c1258ea7003e86b9",
     "tenancyStatus": "vacant",
     "tenancyText": "Maryam Panahi Tabrizi (Verpflichtete), das bewertungsgegenständliche Wohnhaus nicht vermietet ist und im Eigengebrauch steht.",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "独栋住宅"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-1c51b9a939f0",
@@ -8003,6 +8003,7 @@
     "district": "1030",
     "title": "Gerichtliche Versteigerungen",
     "category": "Eigentumswohnung",
+    "propertyType": "公寓",
     "estimatedValue": 48000,
     "minimumBid": 24000,
     "area": 32,
@@ -8024,8 +8025,7 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d4d3fb950a87e6e5c1258ea700453984",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "propertyType": "公寓"
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   }
 ]
