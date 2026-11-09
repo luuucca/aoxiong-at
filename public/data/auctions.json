@@ -4217,8 +4217,6 @@
     "tenancyStatus": "rented",
     "tenancyText": "Das Objekt ist überwiegend befristet vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-08-28T12:42:29.162Z",
     "nearestStation": {
       "name": "Simmering",
       "lines": [
@@ -4231,7 +4229,9 @@
         48.17321,
         16.42397
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-08-28T12:42:29.162Z"
   },
   {
     "id": "wien-92ef04754ad1",
@@ -4335,8 +4335,6 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z",
     "nearestStation": {
       "name": "Floridsdorf",
       "lines": [
@@ -4349,7 +4347,9 @@
         48.25629,
         16.41563
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-04T05:48:11.590Z"
   },
   {
     "id": "wien-4844d387e588",
@@ -4378,8 +4378,6 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-04T05:48:11.590Z",
     "nearestStation": {
       "name": "Floridsdorf",
       "lines": [
@@ -4392,7 +4390,9 @@
         48.25629,
         16.41563
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-04T05:48:11.590Z"
   },
   {
     "id": "wien-9db914f4207c",
@@ -4450,8 +4450,6 @@
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei und geräumt. Es liegen keine Miet- oder sonstiger Nutzungsverträge vor.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-09T05:55:27.579Z",
     "nearestStation": {
       "name": "Nestroyplatz",
       "lines": [
@@ -4464,7 +4462,9 @@
         48.21203,
         16.39158
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-09T05:55:27.579Z"
   },
   {
     "id": "wien-19a397258aeb",
@@ -4697,8 +4697,6 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "propertyNote": "建筑权",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z",
     "nearestStation": {
       "name": "Kagran",
       "lines": [
@@ -4711,7 +4709,9 @@
         48.23534,
         16.44069
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-15T06:04:09.455Z"
   },
   {
     "id": "wien-fac65ae4867a",
@@ -4743,8 +4743,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/25c1f05ddc2e6a27c1258e720042ef27",
     "tenancyStatus": "vacant",
     "tenancyText": "keine",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-15T06:04:09.455Z",
     "nearestStation": {
       "name": "Simmering",
       "lines": [
@@ -4757,7 +4755,9 @@
         48.15932,
         16.45289
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-15T06:04:09.455Z"
   },
   {
     "id": "wien-09db7d58cd9b",
@@ -5064,8 +5064,6 @@
     "tenancyStatus": "limited",
     "tenancyText": "Die bewertungsgegenständliche Wohnung ist befristet vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-17T06:02:59.597Z",
     "nearestStation": {
       "name": "Stadtpark",
       "lines": [
@@ -5078,7 +5076,9 @@
         48.2021,
         16.38264
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-17T06:02:59.597Z"
   },
   {
     "id": "wien-661c1f4712a6",
@@ -5108,8 +5108,6 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "propertyNote": "打包五单元",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-22T06:03:43.766Z",
     "nearestStation": {
       "name": "Burggasse-Stadthalle",
       "lines": [
@@ -5122,7 +5120,9 @@
         48.20503,
         16.32785
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-22T06:03:43.766Z"
   },
   {
     "id": "wien-f2086633bf75",
@@ -5379,8 +5379,8 @@
     "area": 58.53,
     "pricePerSqm": 2391.94,
     "deposit": 14000,
-    "latitude": 48.2138079,
-    "longitude": 16.3818038,
+    "latitude": 48.2137757,
+    "longitude": 16.3817904,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer, 2 aneinander anschließende Haupträume, Abstellraum, Küchennische (kein eigener Raum), Badezimmer/WC",
     "summary": "位于 Palais Bellegarde 庭院翼 3 号楼梯 的 2 楼，朝内院，58.53㎡，前厅、两间相连主室、储藏室、厨房角、浴室及独立 WC。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1961 年，租客告知月租 €167.01（含税及运营费），净租金仅约 €0.67/㎡，市场约 €10/㎡。收益法：现租金资本化约 €2.6 万，加 20 年折现的市场租金差约 €12.1 万，取整估值 €14 万。",
@@ -5393,8 +5393,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/72b36e5c3c2f37c2c1258e7b0039d139",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "nearestStation": {
       "name": "Nestroyplatz",
       "lines": [
@@ -5404,10 +5402,12 @@
       "minutes": 5,
       "walk": true,
       "at": [
-        48.21381,
-        16.3818
+        48.21378,
+        16.38179
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-27c0ae61e1fa",
@@ -5423,8 +5423,8 @@
     "area": 73.15,
     "pricePerSqm": 2529.05,
     "deposit": 18500,
-    "latitude": 48.2138079,
-    "longitude": 16.3818038,
+    "latitude": 48.2137757,
+    "longitude": 16.3817904,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer; Küchennische, Badezimmer, Kabinett, 2  straßenseitig ausgerichtete Zimmer",
     "summary": "位于 4 号楼梯 的 3 楼，朝内院及街道，73.15㎡，厨房角、浴室、一小间及两间临街主室，WC 在走廊。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约由继承而来，未提供合同；租客告知月租 €210.30（含税及运营费），净租金约 €0.69/㎡，市场约 €10/㎡。收益法：现租金资本化约 €4.2 万，加 20 年折现的市场租金差约 €15.1 万，取整估值 €18.5 万。",
@@ -5437,8 +5437,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/32048cc3e88bd1a1c1258e7b0039d936",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "nearestStation": {
       "name": "Nestroyplatz",
       "lines": [
@@ -5448,10 +5446,12 @@
       "minutes": 5,
       "walk": true,
       "at": [
-        48.21381,
-        16.3818
+        48.21378,
+        16.38179
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-ee51dc338f5a",
@@ -5467,8 +5467,8 @@
     "area": 89.81,
     "pricePerSqm": 3062.02,
     "deposit": 27500,
-    "latitude": 48.2138079,
-    "longitude": 16.3818038,
+    "latitude": 48.2137757,
+    "longitude": 16.3817904,
     "geocodeSource": "official",
     "ownershipType": "Vorzimmer, 2 Zimmer, 1 Kabinett, Küchennische, Bad, WC",
     "summary": "位于 5 号楼梯 的 2 楼，朝内院及 Große Mohrengasse，89.81㎡，前厅、两室、一小间、厨房角、浴室及 WC，厨房与浴区之间没有隔断。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1986 年 8 月，净租金 €187.50/月（约 €2.09/㎡），市场约 €10/㎡。收益法：现租金资本化约 €11.6 万，加 20 年折现的市场租金差约 €15.7 万，取整估值 €27.5 万。",
@@ -5481,8 +5481,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/971bb8cb96c3916fc1258e7b0039dff4",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Whg ist unbefristet vermietet. Beginn des Mietverhältnisses: 01.08.1986. Monatlicher Mietzins, lt. Auskunft Mieter: € 187,50 netto (exkl. BK).",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "nearestStation": {
       "name": "Nestroyplatz",
       "lines": [
@@ -5492,10 +5490,12 @@
       "minutes": 5,
       "walk": true,
       "at": [
-        48.21381,
-        16.3818
+        48.21378,
+        16.38179
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-7f87a375ffb3",
@@ -5527,8 +5527,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a6f4eeec28d753efc1258e7b0043f206",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist eigengenutzt",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-24T06:05:45.347Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -5542,7 +5540,9 @@
         48.21797,
         16.37388
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-24T06:05:45.347Z"
   },
   {
     "id": "wien-434766334510",
@@ -5598,8 +5598,6 @@
     "tenancyStatus": "limited",
     "tenancyText": "bis 30.11.2026 befristeter Mietvertrag Nettomiete aktuell € 1.291,05 p.m.",
     "propertyNote": "联排",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-26T06:04:53.485Z",
     "nearestStation": {
       "name": "Tscherttegasse",
       "lines": [
@@ -5612,7 +5610,9 @@
         48.16439,
         16.32541
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-26T06:04:53.485Z"
   },
   {
     "id": "wien-01ea1337f239",
@@ -5645,8 +5645,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/74c666275c4e2cb7c1258e80002dce2a",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-29T06:48:17.219Z",
     "nearestStation": {
       "name": "Ober St. Veit",
       "lines": [
@@ -5659,7 +5657,9 @@
         48.18143,
         16.26173
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-29T06:48:17.219Z"
   },
   {
     "id": "wien-099b14c9e004",
@@ -5675,8 +5675,8 @@
     "area": 699,
     "pricePerSqm": 2989.99,
     "deposit": 209000,
-    "latitude": 48.1771116,
-    "longitude": 16.3291322,
+    "latitude": 48.1771083,
+    "longitude": 16.3291979,
     "geocodeSource": "official",
     "ownershipType": "Bei der bewertungsgegenständlichen Liegenschaft handelt es sich um ein klassisches Wiener Zinshaus der Gründerzeit, Eckhaus, unterkellert, Geschäfts- und Wohnflächen im Erdgeschoss, darüber zwei Vollg",
     "summary": "约 1890 年建的 老式转角 出租楼，地下室、底层商铺和住宅、两层住宅及未改建阁楼，院内另有小屋，无电梯，分户燃气取暖；共 699㎡（住宅 531、商业 168）。约 94% 已出租，约 69% 为定期，两套共 43㎡ 空置；主租金 €5,000/月，含空置拟制 €540。状况中等，公共区需修缮，地窖、院屋和外墙下部潮湿；2025 年有外墙抹灰和缺玻璃的建筑令。估值由收益法 €1,330,000 与阁楼加建潜力 €810,000 构成；2021 年加建许可已过期，能否重批不确定。",
@@ -5692,8 +5692,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b2b370bc05ad6cddc1258e810029e553",
     "tenancyStatus": "rented",
     "tenancyText": "Die Liegenschaft ist überwiegend (hauptsächlich befristet) vermietet und unterliegt dem Mietrechtsgesetz.",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Bahnhof Meidling",
       "lines": [
@@ -5704,9 +5702,11 @@
       "walk": true,
       "at": [
         48.17711,
-        16.32913
+        16.3292
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-38af0caffd21",
@@ -5737,8 +5737,6 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Top 8 ist auf unbestimmte Zeit vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -5751,7 +5749,9 @@
         48.21694,
         16.33694
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-beb7e0e4c5a9",
@@ -5783,8 +5783,6 @@
     "tenancyStatus": "limited",
     "tenancyText": "Die Top 9 ist befristet bis zum 31. Dezember 2026 vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -5797,7 +5795,9 @@
         48.21694,
         16.33694
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-056cd1016331",
@@ -5828,8 +5828,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/78d2af428cbe7498c1258e81003f1521",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -5842,7 +5840,9 @@
         48.21694,
         16.33694
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-91584a90d888",
@@ -5874,8 +5874,6 @@
     "tenancyStatus": "limited",
     "tenancyText": "Die Top 13 ist befristet bis zum 31. Oktober 2028 vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -5888,7 +5886,9 @@
         48.21694,
         16.33694
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-1d09d2c405ba",
@@ -5921,8 +5921,6 @@
     "tenancyStatus": "limited",
     "tenancyText": "Die Top 19 ist befristet bis zum 31. Dezember 2026 vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -5935,7 +5933,9 @@
         48.21694,
         16.33694
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-e32c3b71f0f0",
@@ -5967,8 +5967,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/11b9f4fcb63ae3f0c1258e81003ea5be",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -5981,7 +5979,9 @@
         48.21694,
         16.33694
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-f321a884ba88",
@@ -6008,7 +6008,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b8b56f8934b89731c1258e810024b206",
     "tenancyStatus": "vacant",
     "tenancyText": "keines bekannt; nach Rücksprache mit Gericht bestandfreie Bewertung",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Tscherttegasse",
       "lines": [
@@ -6021,7 +6020,8 @@
         48.16424,
         16.32575
       ]
-    }
+    },
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-a9f8edc74277",
@@ -6051,8 +6051,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5a7996b2a73d4ce0c1258e8100274585",
     "tenancyStatus": "unlimited",
     "tenancyText": "mündlicher, unbefristeter Mietvertrag, pauschaler Mietzins € 75,-/pm",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-09-30T06:37:19.830Z",
     "nearestStation": {
       "name": "Tscherttegasse",
       "lines": [
@@ -6065,7 +6063,9 @@
         48.16424,
         16.32575
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-09-30T06:37:19.830Z"
   },
   {
     "id": "wien-a1c86fb76cd0",
@@ -6094,8 +6094,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a34e11f4c1b4d873c1258e8200265915",
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
     "nearestStation": {
       "name": "Braunschweiggasse",
       "lines": [
@@ -6108,7 +6106,9 @@
         48.19061,
         16.29728
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-d2a427b10a77",
@@ -6139,8 +6139,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/668afba949df1c4fc1258e830023cac1",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -6153,7 +6151,9 @@
         48.19109,
         16.32943
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-388a932c7d97",
@@ -6180,7 +6180,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a7da67248dc238f1c1258e830023edf1",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -6193,7 +6192,8 @@
         48.19109,
         16.32943
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-b7567c2446ff",
@@ -6220,7 +6220,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/22c2e61b122e72d6c1258e82002bf763",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-01T07:11:07.435Z",
     "nearestStation": {
       "name": "Schwedenplatz",
       "lines": [
@@ -6234,7 +6233,8 @@
         48.21106,
         16.37803
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-01T07:11:07.435Z"
   },
   {
     "id": "wien-27c4b982b964",
@@ -6266,8 +6266,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f1829119864957dfc1258e83002dfa97",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z",
     "nearestStation": {
       "name": "Braunschweiggasse",
       "lines": [
@@ -6280,7 +6278,9 @@
         48.18714,
         16.29833
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-02T06:58:38.443Z"
   },
   {
     "id": "wien-797ba782fa9a",
@@ -6312,8 +6312,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/43439093c7457f70c1258e83002d790f",
     "tenancyStatus": "unlimited",
     "tenancyText": "seit 17.02.2005 vermietet, seit 24.02.2007 unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z",
     "nearestStation": {
       "name": "Hütteldorf",
       "lines": [
@@ -6326,7 +6324,9 @@
         48.19786,
         16.25416
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-02T06:58:38.443Z"
   },
   {
     "id": "wien-bd1711ec8b31",
@@ -6357,8 +6357,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e352458dd5c85bfec1258e83003eda13",
     "tenancyStatus": "vacant",
     "tenancyText": "nicht vermietet, Eigennutzung angenommen; kein Mietvertrag bekannt; Bewertung unter Annahme der Bestandsfreiheit",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-02T06:58:38.443Z",
     "nearestStation": {
       "name": "Stephansplatz",
       "lines": [
@@ -6372,7 +6370,9 @@
         48.20587,
         16.37088
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-02T06:58:38.443Z"
   },
   {
     "id": "wien-10897f26a23a",
@@ -6388,8 +6388,8 @@
     "area": 63.26,
     "pricePerSqm": 4094.21,
     "deposit": 25900,
-    "latitude": 48.215506,
-    "longitude": 16.385784,
+    "latitude": 48.2169475,
+    "longitude": 16.3885452,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
     "summary": "约 1965 年建七层院内楼 1 号楼梯 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
@@ -6402,21 +6402,21 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db111dccd13f4c0cc1258e84002b3fed",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-03T06:23:24.205Z",
     "nearestStation": {
       "name": "Nestroyplatz",
       "lines": [
         "U1"
       ],
-      "meters": 50,
-      "minutes": 1,
+      "meters": 330,
+      "minutes": 4,
       "walk": true,
       "at": [
-        48.21551,
-        16.38578
+        48.21695,
+        16.38855
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-03T06:23:24.205Z"
   },
   {
     "id": "wien-ba46c3bf46ba",
@@ -6447,8 +6447,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1c0dbc8b1e0245c1c1258e88002346d8",
     "tenancyStatus": "unknown",
     "tenancyText": "nicht offensichtlich",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Neubaugasse",
       "lines": [
@@ -6461,7 +6459,9 @@
         48.19656,
         16.35275
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-c51ec0c7c315",
@@ -6494,8 +6494,6 @@
     "tenancyStatus": "unknown",
     "tenancyText": "",
     "propertyNote": "建筑权",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Kagran",
       "lines": [
@@ -6508,7 +6506,9 @@
         48.23516,
         16.44108
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-a6d0db886724",
@@ -6537,8 +6537,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1c07b1ac86da3d8ac1258e870027d116",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6551,7 +6549,9 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-6391b05d5add",
@@ -6578,7 +6578,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8f77a98b6e86f4abc1258e870027e013",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6591,7 +6590,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-51e61423a631",
@@ -6618,7 +6618,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d0660faf26e6e03ec1258e8700287526",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6631,7 +6630,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-597bf634a486",
@@ -6658,7 +6658,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/04fef911b727027fc1258e8700287df5",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6671,7 +6670,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-ee9ee4a1d7a8",
@@ -6698,7 +6698,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/acb97842c3090abec1258e8700288555",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6711,7 +6710,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-27595523e2a2",
@@ -6738,7 +6738,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db653ecbd8679af6c1258e8700289741",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6751,7 +6750,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-8ee2a7cbe19d",
@@ -6778,7 +6778,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e2b09d2a8f09b8ec1258e870028a834",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6791,7 +6790,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-10593dc2b24d",
@@ -6818,7 +6818,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2ed304dced4a0518c1258e870028af47",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6831,7 +6830,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-4e0364c60604",
@@ -6858,7 +6858,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c096d6a174c36e05c1258e870028b776",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6871,7 +6870,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-172eaaad47bc",
@@ -6898,7 +6898,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/aeca81f4f9c235a0c1258e870028beb2",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6911,7 +6910,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-e31d430b671a",
@@ -6938,7 +6938,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f79b9653552f0eb3c1258e870028c52e",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6951,7 +6950,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-2f08d581aa1b",
@@ -6978,7 +6978,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/89c1fd94293e85ecc1258e870028cc1b",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-06T07:31:22.661Z",
     "nearestStation": {
       "name": "Unter St. Veit",
       "lines": [
@@ -6991,7 +6990,8 @@
         48.18783,
         16.28501
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-06T07:31:22.661Z"
   },
   {
     "id": "wien-2bf32279e9c2",
@@ -7025,8 +7025,6 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Augenscheinlich war das Geschäftslokal in Eigennutzung.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z",
     "nearestStation": {
       "name": "Währinger Straße-Volksoper",
       "lines": [
@@ -7039,7 +7037,9 @@
         48.22456,
         16.34777
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-08T07:18:38.363Z"
   },
   {
     "id": "wien-005301023b33",
@@ -7071,8 +7071,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/13ba6987afce70cfc1258e89002d9473",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-08T07:18:38.363Z",
     "nearestStation": {
       "name": "Hietzing",
       "lines": [
@@ -7085,7 +7083,9 @@
         48.16763,
         16.29048
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-08T07:18:38.363Z"
   },
   {
     "id": "wien-7886ac694fad",
@@ -7119,8 +7119,6 @@
     "tenancyText": "Das Wohnungseigentumsobjekt Geschäftslokal 1-4 ist in Teilbereichen (Werkstatt und Büro) gemäß Mietvertrag vom 01.05.2024 unbefristet vermietet.",
     "tenancySource": "report",
     "propertyNote": "商住混合",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "nearestStation": {
       "name": "Hütteldorfer Straße",
       "lines": [
@@ -7133,7 +7131,9 @@
         48.20218,
         16.31214
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-0754d1097bb1",
@@ -7164,8 +7164,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8cb063c1f1134d7fc1258e8a00364fc4",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "nearestStation": {
       "name": "Hütteldorfer Straße",
       "lines": [
@@ -7178,7 +7176,9 @@
         48.20218,
         16.31214
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-4dbffc37dbf7",
@@ -7207,8 +7207,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/08153021b7a918c2c1258e8a003679cd",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "nearestStation": {
       "name": "Hütteldorfer Straße",
       "lines": [
@@ -7221,7 +7219,9 @@
         48.20218,
         16.31214
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-2451a33595fb",
@@ -7250,8 +7250,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a3ffb85319f964ecc1258e8a00369e56",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "nearestStation": {
       "name": "Hütteldorfer Straße",
       "lines": [
@@ -7264,7 +7262,9 @@
         48.20218,
         16.31214
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-32bbf52d55ee",
@@ -7295,8 +7295,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/efeb45ec52cad125c1258e8a0036cbe3",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "nearestStation": {
       "name": "Hütteldorfer Straße",
       "lines": [
@@ -7309,7 +7307,9 @@
         48.20218,
         16.31214
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-1f94f8d10bf1",
@@ -7339,8 +7339,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/56f330b49391a617c1258e8a0036f374",
     "tenancyStatus": "limited",
     "tenancyText": "befristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "nearestStation": {
       "name": "Hütteldorfer Straße",
       "lines": [
@@ -7353,7 +7351,9 @@
         48.20218,
         16.31214
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-f72b49a7235a",
@@ -7384,8 +7384,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/db778e1d647d378fc1258e8a0028c1d3",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-09T07:22:26.794Z",
     "nearestStation": {
       "name": "Pilgramgasse",
       "lines": [
@@ -7398,7 +7396,9 @@
         48.19323,
         16.35232
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-09T07:22:26.794Z"
   },
   {
     "id": "wien-f05fad6f6b3b",
@@ -7429,8 +7429,6 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "wird eine Nettomiete (Untermiete) in der Höhe von € 250,- pro Monat bezahlt. Das Mietverhältnis wurde auf unbestimmte Zeit vereinbart.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-10T06:59:48.448Z",
     "nearestStation": {
       "name": "Ober St. Veit",
       "lines": [
@@ -7443,7 +7441,9 @@
         48.20472,
         16.27544
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-10T06:59:48.448Z"
   },
   {
     "id": "wien-2bfdd8f94eca",
@@ -7474,8 +7474,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2157e0ee6e4051c1c1258e8e0034a00d",
     "tenancyStatus": "vacant",
     "tenancyText": "Das Objekt ist laut Aussage der anwesenden Partei seit dem Jahr 2022 leerstehend.",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-13T07:40:59.251Z",
     "nearestStation": {
       "name": "Altes Landgut",
       "lines": [
@@ -7488,7 +7486,9 @@
         48.1569,
         16.40163
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-13T07:40:59.251Z"
   },
   {
     "id": "wien-419898296293",
@@ -7521,8 +7521,6 @@
     "tenancyStatus": "vacant",
     "tenancyText": "leerstehend",
     "propertyNote": "整栋空置",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z",
     "nearestStation": {
       "name": "Längenfeldgasse",
       "lines": [
@@ -7536,7 +7534,9 @@
         48.18143,
         16.34178
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-15T05:51:03.770Z"
   },
   {
     "id": "wien-9bf93d478b13",
@@ -7552,8 +7552,8 @@
     "area": 1666.72,
     "pricePerSqm": 490.18,
     "deposit": 81700,
-    "latitude": 48.1809561,
-    "longitude": 16.3298405,
+    "latitude": 48.1808207,
+    "longitude": 16.3298393,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
     "summary": "1 号楼梯 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
@@ -7569,21 +7569,21 @@
     "tenancyStatus": "rented",
     "tenancyText": "",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-15T05:51:03.770Z",
     "nearestStation": {
       "name": "Niederhofstraße",
       "lines": [
         "U6"
       ],
-      "meters": 160,
+      "meters": 130,
       "minutes": 2,
       "walk": true,
       "at": [
-        48.18096,
+        48.18082,
         16.32984
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-15T05:51:03.770Z"
   },
   {
     "id": "wien-2ad3a54564a1",
@@ -7615,8 +7615,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dad74d753996da1dc1258e910022d69b",
     "tenancyStatus": "limited",
     "tenancyText": "Die Wohnung top 1 ist befristet vermietet.",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "nearestStation": {
       "name": "Am Schöpfwerk",
       "lines": [
@@ -7629,7 +7627,9 @@
         48.16848,
         16.30191
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-a791409b23c9",
@@ -7662,8 +7662,6 @@
     "tenancyStatus": "vacant",
     "tenancyText": "Das Geschäftslokal top 2 ist nach derzeitigem Wissensstand des gefertigten Sachverständigen leerstehend bzw. eigengenutzt.",
     "propertyNote": "餐饮",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "nearestStation": {
       "name": "Am Schöpfwerk",
       "lines": [
@@ -7676,7 +7674,9 @@
         48.16848,
         16.30191
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-229427549290",
@@ -7707,8 +7707,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/66583337094655dac1258e910023d4fd",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "nearestStation": {
       "name": "Am Schöpfwerk",
       "lines": [
@@ -7721,7 +7719,9 @@
         48.16848,
         16.30191
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-a30de1a846ec",
@@ -7753,8 +7753,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/790b7e709ba2a826c1258e91002e92e4",
     "tenancyStatus": "vacant",
     "tenancyText": "Die Wohnung ist bestandfrei.",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "nearestStation": {
       "name": "Margaretengürtel",
       "lines": [
@@ -7767,7 +7765,9 @@
         48.18822,
         16.34488
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-d610825c8d67",
@@ -7799,8 +7799,6 @@
     "tenancyStatus": "vacant",
     "tenancyText": "",
     "propertyNote": "整栋三户",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-16T05:48:10.788Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -7813,7 +7811,9 @@
         48.21843,
         16.32454
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-16T05:48:10.788Z"
   },
   {
     "id": "wien-47248b0b2fe7",
@@ -7847,8 +7847,6 @@
     "tenancyStatus": "vacant",
     "tenancyText": "augenscheinlich keine",
     "propertyNote": "未完工",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -7861,7 +7859,9 @@
         48.21799,
         16.3429
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-046228e7fae9",
@@ -7893,8 +7893,6 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "",
     "propertyNote": "办公",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "nearestStation": {
       "name": "Roßauer Lände",
       "lines": [
@@ -7907,7 +7905,9 @@
         48.22206,
         16.36326
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-ebaad1f0173b",
@@ -7941,8 +7941,6 @@
     "tenancyText": "Mietdauer unbestimmte Zeit",
     "tenancySource": "report",
     "propertyNote": "办公",
-    "summarizedAt": "2026-11-07T12:23:58.108Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "nearestStation": {
       "name": "Roßauer Lände",
       "lines": [
@@ -7955,7 +7953,9 @@
         48.22206,
         16.36326
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:23:58.108Z",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-421577b6f425",
@@ -7986,8 +7986,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6291dc672cc39f76c1258e920032fcec",
     "tenancyStatus": "unlimited",
     "tenancyText": "Am Tag der Befundaufnahme war die Wohnung Top 11 bewohnt. Die Wohnung ist seit 1977 auf unbestimmte Zeit vermietet.",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "nearestStation": {
       "name": "Roßauer Lände",
       "lines": [
@@ -8000,7 +7998,9 @@
         48.22206,
         16.36326
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-a051ec405dd1",
@@ -8016,8 +8016,8 @@
     "area": 96.72,
     "pricePerSqm": 2264.27,
     "deposit": 21900,
-    "latitude": 48.2026283,
-    "longitude": 16.3551892,
+    "latitude": 48.202595,
+    "longitude": 16.3550757,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus in 1070 Wien, Siebensterngasse 16A;\nBj. 1870, weitgehend historisch erhalten; Keller, EG, 1. – 4. Stock, DG nachträglich ausgebaut; Haus in durchschnittlichem Erhaltungszustand, Perso",
     "summary": "约 1870 年建老楼的 2 楼，1996–2000 年加建阁楼，电梯停半层，楼况中等。W 7 面积 96.72㎡，两室一小间、厨房内设洗浴、WC、临街阳台，可对流通风，燃气壁挂炉，状况中等，部分使用痕迹重，大致符合图纸，地下储藏不明。自 1982 年无限期出租，现租客 2005 年经判决承接，主租金净 €215.69/月（€2.23/㎡）。收益法算得 €224,218，扣贷款余额 €5,038，估值约 €2,266/㎡。楼内 2023 年贷款 €67,000 修楼板，本套月摊 €55.36；维修基金仅 €2,878，可能修地窖拱顶。",
@@ -8031,22 +8031,22 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Das Objekt ist auf unbestimmte Zeit vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-17T05:33:56.638Z",
     "nearestStation": {
       "name": "Volkstheater",
       "lines": [
         "U2",
         "U3"
       ],
-      "meters": 450,
+      "meters": 460,
       "minutes": 6,
       "walk": true,
       "at": [
-        48.20263,
-        16.35519
+        48.2026,
+        16.35508
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-17T05:33:56.638Z"
   },
   {
     "id": "wien-3372c32d278e",
@@ -8075,8 +8075,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b7a8907470caa4ebc1258e95001e055c",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-19T06:03:58.763Z",
     "nearestStation": {
       "name": "Josefstädter Straße",
       "lines": [
@@ -8089,7 +8087,9 @@
         48.21351,
         16.33168
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-19T06:03:58.763Z"
   },
   {
     "id": "wien-a669654f8743",
@@ -8123,8 +8123,6 @@
     "tenancyStatus": "rented",
     "tenancyText": "Gemäß der mietvertraglichen Erkenntnisse sind davon 17 Objekte zu Wohnzwecken, 1 Objekt zu Geschäftszwecken vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-20T05:57:30.763Z",
     "nearestStation": {
       "name": "Reumannplatz",
       "lines": [
@@ -8137,7 +8135,9 @@
         48.17314,
         16.38929
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-20T05:57:30.763Z"
   },
   {
     "id": "wien-4f88750cdf6d",
@@ -8164,8 +8164,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0811f200a5e3e260c1258e96005b86f5",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-21T05:58:16.385Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -8178,7 +8176,9 @@
         48.19102,
         16.33246
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-21T05:58:16.385Z"
   },
   {
     "id": "wien-2ee136dda971",
@@ -8210,8 +8210,6 @@
     "tenancyStatus": "unlimited",
     "tenancyText": "Das Objekt ist derzeit unbefristet vermietet.",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-23T05:59:13.039Z",
     "nearestStation": {
       "name": "Burggasse-Stadthalle",
       "lines": [
@@ -8224,7 +8222,9 @@
         48.20056,
         16.34031
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-23T05:59:13.039Z"
   },
   {
     "id": "wien-8e37df13c5f5",
@@ -8256,8 +8256,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/49074938d85a8424c1258e9e0043be42",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z",
     "nearestStation": {
       "name": "Ottakring",
       "lines": [
@@ -8270,7 +8268,9 @@
         48.21207,
         16.31918
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-29T07:01:16.473Z"
   },
   {
     "id": "wien-2cdaf73f4de2",
@@ -8297,7 +8297,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/3d2466ddb6c54809c1258e9e002cee24",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z",
     "nearestStation": {
       "name": "Ottakring",
       "lines": [
@@ -8310,7 +8309,8 @@
         48.21777,
         16.30661
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-29T07:01:16.473Z"
   },
   {
     "id": "wien-6632268cf7be",
@@ -8343,8 +8343,6 @@
     "tenancyStatus": "limited",
     "tenancyText": "",
     "tenancySource": "report",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-29T07:01:16.473Z",
     "nearestStation": {
       "name": "Alser Straße",
       "lines": [
@@ -8357,7 +8355,9 @@
         48.21694,
         16.33694
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-29T07:01:16.473Z"
   },
   {
     "id": "wien-efe9fdc10059",
@@ -8386,8 +8386,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/8578d45224512f63c1258e9f00344114",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -8401,7 +8399,9 @@
         48.22028,
         16.37372
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-0a4a9907b1f6",
@@ -8432,8 +8432,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/819dc6d811ce8241c1258e9f00344378",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet ; Nettoertrag mtl. € 179,12 zuz. BK /Lift € 152,11",
-    "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -8447,7 +8445,9 @@
         48.22028,
         16.37372
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-036fd19ea36d",
@@ -8477,8 +8477,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/71bca1cf73734797c1258e9f0034453d",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -8492,7 +8490,9 @@
         48.22028,
         16.37372
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-d574b8bf3c76",
@@ -8523,8 +8523,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0e18abc5cddd57c7c1258e9f00344752",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet; Nettoertrag mtl. € 102,85",
-    "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -8538,7 +8536,9 @@
         48.22028,
         16.37372
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-0870d936427b",
@@ -8569,8 +8569,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dff6183df7086f4dc1258e9f0034494c",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -8584,7 +8582,9 @@
         48.22028,
         16.37372
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-422d02b2289c",
@@ -8614,8 +8614,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/fc7c85e90a1bc84ac1258e9f00344b34",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -8629,7 +8627,9 @@
         48.22028,
         16.37372
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-ca132eeb7bf0",
@@ -8660,8 +8660,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b0eefbd0e6039878c1258e9f00344cef",
     "tenancyStatus": "vacant",
     "tenancyText": "keine , Eigennutzung durch Verpflichteten",
-    "summarizedAt": "2026-11-07T12:07:26.792Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Schottenring",
       "lines": [
@@ -8675,7 +8673,9 @@
         48.22028,
         16.37372
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:07:26.792Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-dd92906e3021",
@@ -8691,8 +8691,8 @@
     "area": 221.52,
     "pricePerSqm": 609.43,
     "deposit": 13500,
-    "latitude": 48.2106756,
-    "longitude": 16.3307587,
+    "latitude": 48.2105549,
+    "longitude": 16.3306764,
     "geocodeSource": "official",
     "ownershipType": "Lager mit Rohdachboden",
     "summary": "实为 23/845 份额：地下 Lager 11.18㎡（现作婴儿车和单车间）、未改建阁楼 258.19㎡及 3 个储物间；221.52㎡ 是规划面积。改建许可已于 2024-10-11 失效，需重新报建并加电梯。屋架部分受损。残值法（售价 €6,000/㎡、造价 €3,700/㎡）估值 €135,000（约 €523/㎡ 阁楼）。2021 年购入价 €237,000，合同含开工和完工期限。土地册有 §27 WEG 诉讼注记。",
@@ -8707,21 +8707,21 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/29a50ae4c78c392fc1258e9f0047c2fe",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Josefstädter Straße",
       "lines": [
         "U6"
       ],
-      "meters": 800,
+      "meters": 810,
       "minutes": 11,
       "walk": true,
       "at": [
-        48.21068,
-        16.33076
+        48.21055,
+        16.33068
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-35cc9e39963c",
@@ -8751,8 +8751,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/7cfa1632bbb139eec1258e9f004ad6e0",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Wohnung ist seit 1986 unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-30T07:04:05.511Z",
     "nearestStation": {
       "name": "Josefstädter Straße",
       "lines": [
@@ -8765,7 +8763,9 @@
         48.2133,
         16.34239
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-30T07:04:05.511Z"
   },
   {
     "id": "wien-9c2eb47fc89b",
@@ -8792,7 +8792,6 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z",
     "nearestStation": {
       "name": "Taborstraße",
       "lines": [
@@ -8805,7 +8804,8 @@
         48.22231,
         16.37503
       ]
-    }
+    },
+    "firstSeenAt": "2026-10-31T06:58:28.863Z"
   },
   {
     "id": "wien-7bf84356a0b5",
@@ -8836,8 +8836,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/eb3e889e28e249d7c1258ea000495d60",
     "tenancyStatus": "limited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z",
     "nearestStation": {
       "name": "Jägerstraße",
       "lines": [
@@ -8850,7 +8848,9 @@
         48.23507,
         16.37264
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-31T06:58:28.863Z"
   },
   {
     "id": "wien-c02c3f07d6cf",
@@ -8866,8 +8866,8 @@
     "area": 922.04,
     "pricePerSqm": 369.83,
     "deposit": 34100,
-    "latitude": 48.2004616,
-    "longitude": 16.3445256,
+    "latitude": 48.2004657,
+    "longitude": 16.3446478,
     "geocodeSource": "official",
     "ownershipType": "Wohnungseigentumsobjekt an Tankstelle in 1070 Wien, Seidengasse 12 ident mit Zieglergasse 27;\n---\nsiebengeschoßige Wohnhausanlage aus Bj 1966 mit ausgebautem Dachgeschoss, bestehend aus drei Stiegen d",
     "summary": "1966 年住宅楼底层的加油站与轮胎仓库 Top 1a，已打通，合并估值，共 922.04㎡，状况简单实用。2022 年 3 月起无限期整体出租，可转租，净主租金 €1,200，指数调整后约 €1,365/月（约 €1.48/㎡），但提供的租约双方均未签字。收益法约 €41.3 万，因垃圾房归属、实际面积和强制车位不清扣 15%，再扣押金，估值约 €34.1 万。两单元月费合计约 €2,536。经营涉及危险品，污染未排除但无迹象。",
@@ -8883,21 +8883,21 @@
     "tenancyText": "Die Tankstelle inkl. der Top 1a St I ist seit dem März 2022 auf unbestimmte Zeit vermietet.",
     "tenancySource": "report",
     "propertyNote": "加油站",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-10-31T06:58:28.863Z",
     "nearestStation": {
       "name": "Zieglergasse",
       "lines": [
         "U3"
       ],
-      "meters": 440,
+      "meters": 430,
       "minutes": 6,
       "walk": true,
       "at": [
-        48.20046,
-        16.34453
+        48.20047,
+        16.34465
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-10-31T06:58:28.863Z"
   },
   {
     "id": "wien-8f24b4baeb6a",
@@ -8929,8 +8929,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a97bb11ebf560450c1258ea500483561",
     "tenancyStatus": "vacant",
     "tenancyText": "Die Einheit wird eigengenutzt. Über etwaige Bestands- und Nutzungsrechte liegen keine Informationen vor.",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z",
     "nearestStation": {
       "name": "Aspernstraße",
       "lines": [
@@ -8943,7 +8941,9 @@
         48.22136,
         16.47866
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-05T07:55:21.908Z"
   },
   {
     "id": "wien-ec9044b23245",
@@ -8978,8 +8978,6 @@
     "tenancyText": "Die 5 Geschäftslokale waren zum Zeitpunkt der Befundaufnahme leerstehend",
     "tenancySource": "report",
     "propertyNote": "建筑权",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-05T07:55:21.908Z",
     "nearestStation": {
       "name": "Stadlau",
       "lines": [
@@ -8992,7 +8990,9 @@
         48.2279,
         16.45482
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-05T07:55:21.908Z"
   },
   {
     "id": "wien-c7114705d8ba",
@@ -9023,8 +9023,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/c8a305d7d16ee0cac1258ea7005b71a5",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -9037,7 +9035,9 @@
         48.19063,
         16.33108
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-ef0f4bf4cb83",
@@ -9069,8 +9069,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/1ee16e5bff29865ec1258ea7005bad71",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -9083,7 +9081,9 @@
         48.19063,
         16.33108
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-cffd38f39013",
@@ -9115,8 +9115,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e55aa5649462eec9c1258ea7005c8d19",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -9129,7 +9127,9 @@
         48.19063,
         16.33108
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-d2bc45ead56d",
@@ -9161,8 +9161,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f2fe87cbb0d17834c1258ea7005cdde1",
     "tenancyStatus": "unlimited",
     "tenancyText": "unbefristet vermietet",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -9175,7 +9173,9 @@
         48.19063,
         16.33108
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-7d8c576f245b",
@@ -9208,8 +9208,6 @@
     "tenancyText": "",
     "tenancySource": "report",
     "propertyNote": "储藏室",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "nearestStation": {
       "name": "Gumpendorfer Straße",
       "lines": [
@@ -9222,7 +9220,9 @@
         48.19063,
         16.33108
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-8a2fd882342b",
@@ -9253,8 +9253,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/2d13a22b80c70e19c1258ea7003e86b9",
     "tenancyStatus": "vacant",
     "tenancyText": "Maryam Panahi Tabrizi (Verpflichtete), das bewertungsgegenständliche Wohnhaus nicht vermietet ist und im Eigengebrauch steht.",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "nearestStation": {
       "name": "Nußdorfer Straße",
       "lines": [
@@ -9267,7 +9265,9 @@
         48.23573,
         16.34557
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   },
   {
     "id": "wien-1c51b9a939f0",
@@ -9299,8 +9299,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d4d3fb950a87e6e5c1258ea700453984",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "summarizedAt": "2026-11-07T12:22:18.222Z",
-    "firstSeenAt": "2026-11-07T07:04:14.786Z",
     "nearestStation": {
       "name": "Rochusgasse",
       "lines": [
@@ -9313,6 +9311,8 @@
         48.19212,
         16.38922
       ]
-    }
+    },
+    "summarizedAt": "2026-11-07T12:22:18.222Z",
+    "firstSeenAt": "2026-11-07T07:04:14.786Z"
   }
 ]
