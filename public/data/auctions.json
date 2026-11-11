@@ -5379,8 +5379,8 @@
     "area": 58.53,
     "pricePerSqm": 2391.94,
     "deposit": 14000,
-    "latitude": 48.2137757,
-    "longitude": 16.3817904,
+    "latitude": 48.2138079,
+    "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer, 2 aneinander anschließende Haupträume, Abstellraum, Küchennische (kein eigener Raum), Badezimmer/WC",
     "summary": "位于 Palais Bellegarde 庭院翼 3 号楼梯 的 2 楼，朝内院，58.53㎡，前厅、两间相连主室、储藏室、厨房角、浴室及独立 WC。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1961 年，租客告知月租 €167.01（含税及运营费），净租金仅约 €0.67/㎡，市场约 €10/㎡。收益法：现租金资本化约 €2.6 万，加 20 年折现的市场租金差约 €12.1 万，取整估值 €14 万。",
@@ -5402,8 +5402,8 @@
       "minutes": 5,
       "walk": true,
       "at": [
-        48.21378,
-        16.38179
+        48.21381,
+        16.3818
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -5423,8 +5423,8 @@
     "area": 73.15,
     "pricePerSqm": 2529.05,
     "deposit": 18500,
-    "latitude": 48.2137757,
-    "longitude": 16.3817904,
+    "latitude": 48.2138079,
+    "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Die Wohnung besteht aus Vorzimmer; Küchennische, Badezimmer, Kabinett, 2  straßenseitig ausgerichtete Zimmer",
     "summary": "位于 4 号楼梯 的 3 楼，朝内院及街道，73.15㎡，厨房角、浴室、一小间及两间临街主室，WC 在走廊。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约由继承而来，未提供合同；租客告知月租 €210.30（含税及运营费），净租金约 €0.69/㎡，市场约 €10/㎡。收益法：现租金资本化约 €4.2 万，加 20 年折现的市场租金差约 €15.1 万，取整估值 €18.5 万。",
@@ -5446,8 +5446,8 @@
       "minutes": 5,
       "walk": true,
       "at": [
-        48.21378,
-        16.38179
+        48.21381,
+        16.3818
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -5675,8 +5675,8 @@
     "area": 699,
     "pricePerSqm": 2989.99,
     "deposit": 209000,
-    "latitude": 48.1770975,
-    "longitude": 16.3292481,
+    "latitude": 48.1771116,
+    "longitude": 16.3291322,
     "geocodeSource": "official",
     "ownershipType": "Bei der bewertungsgegenständlichen Liegenschaft handelt es sich um ein klassisches Wiener Zinshaus der Gründerzeit, Eckhaus, unterkellert, Geschäfts- und Wohnflächen im Erdgeschoss, darüber zwei Vollg",
     "summary": "约 1890 年建的 老式转角 出租楼，地下室、底层商铺和住宅、两层住宅及未改建阁楼，院内另有小屋，无电梯，分户燃气取暖；共 699㎡（住宅 531、商业 168）。约 94% 已出租，约 69% 为定期，两套共 43㎡ 空置；主租金 €5,000/月，含空置拟制 €540。状况中等，公共区需修缮，地窖、院屋和外墙下部潮湿；2025 年有外墙抹灰和缺玻璃的建筑令。估值由收益法 €1,330,000 与阁楼加建潜力 €810,000 构成；2021 年加建许可已过期，能否重批不确定。",
@@ -5701,8 +5701,8 @@
       "minutes": 7,
       "walk": true,
       "at": [
-        48.1771,
-        16.32925
+        48.17711,
+        16.32913
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -6388,8 +6388,8 @@
     "area": 63.26,
     "pricePerSqm": 4094.21,
     "deposit": 25900,
-    "latitude": 48.215506,
-    "longitude": 16.385784,
+    "latitude": 48.2169475,
+    "longitude": 16.3885452,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
     "summary": "约 1965 年建七层院内楼 1 号楼梯 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
@@ -6407,12 +6407,12 @@
       "lines": [
         "U1"
       ],
-      "meters": 50,
-      "minutes": 1,
+      "meters": 330,
+      "minutes": 4,
       "walk": true,
       "at": [
-        48.21551,
-        16.38578
+        48.21695,
+        16.38855
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7090,7 +7090,7 @@
   {
     "id": "wien-7886ac694fad",
     "caseNumber": "24 E 19/26d",
-    "auctionDate": "2026-11-11",
+    "auctionDate": "2026-11-24",
     "address": "1140 Wien Schanzstraße 51",
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
@@ -7138,7 +7138,7 @@
   {
     "id": "wien-0754d1097bb1",
     "caseNumber": "24 E 19/26d",
-    "auctionDate": "2026-11-11",
+    "auctionDate": "2026-11-24",
     "address": "1140 Wien Schanzstraße 51",
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
@@ -7183,7 +7183,7 @@
   {
     "id": "wien-4dbffc37dbf7",
     "caseNumber": "24 E 19/26d",
-    "auctionDate": "2026-11-11",
+    "auctionDate": "2026-11-24",
     "address": "1140 Wien Schanzstraße 51",
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
@@ -7226,7 +7226,7 @@
   {
     "id": "wien-2451a33595fb",
     "caseNumber": "24 E 19/26d",
-    "auctionDate": "2026-11-11",
+    "auctionDate": "2026-11-24",
     "address": "1140 Wien Schanzstraße 51",
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
@@ -7269,7 +7269,7 @@
   {
     "id": "wien-32bbf52d55ee",
     "caseNumber": "24 E 19/26d",
-    "auctionDate": "2026-11-11",
+    "auctionDate": "2026-11-24",
     "address": "1140 Wien Schanzstraße 51",
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
@@ -7314,7 +7314,7 @@
   {
     "id": "wien-1f94f8d10bf1",
     "caseNumber": "24 E 19/26d",
-    "auctionDate": "2026-11-11",
+    "auctionDate": "2026-11-24",
     "address": "1140 Wien Schanzstraße 51",
     "district": "1140",
     "title": "Gerichtliche Versteigerungen",
@@ -7552,8 +7552,8 @@
     "area": 1666.72,
     "pricePerSqm": 490.18,
     "deposit": 81700,
-    "latitude": 48.1807949,
-    "longitude": 16.3298736,
+    "latitude": 48.1809561,
+    "longitude": 16.3298405,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
     "summary": "1 号楼梯 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
@@ -7574,12 +7574,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 130,
+      "meters": 160,
       "minutes": 2,
       "walk": true,
       "at": [
-        48.18079,
-        16.32987
+        48.18096,
+        16.32984
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7599,8 +7599,8 @@
     "area": 47.39,
     "pricePerSqm": 1772.53,
     "deposit": 8400,
-    "latitude": 48.1684773,
-    "longitude": 16.3018561,
+    "latitude": 48.1684788,
+    "longitude": 16.3019073,
     "geocodeSource": "official",
     "ownershipType": "50/751-Anteile mit denen Wohnungseigentum an Wohnung top 1, Einlagerungsraum 1,\nAußenpodest, Garten 1 untrennbar verbunden ist. Das Objekt hat eine Nutzfläche von\n47,39m² und weist einen durchschnittl",
     "summary": "Top 1，底层公寓带花园，使用面积 47.39㎡，经院内外部台阶进入；建筑年代不详（档案最早见 1903 年扩建图），无电梯。定期出租至 2027-12-31，合同为总包毛租 €300/月，现场看似作仓库用、未见床铺。图纸上的一间房实际划给 Top 3，与建筑许可不符；未见明显损坏，但杂物多、查看受限。估值用租期加转租收益法：合同期净租按 €98.82/月，到期后按 €372.96/月，扣合规修复 €35,000（报告估 €23,000–47,000）及购置附加费 8.6%。至 2026-03-01 欠管理费 €1,711.50。",
@@ -7620,12 +7620,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 2190,
+      "meters": 2180,
       "minutes": 29,
       "walk": true,
       "at": [
         48.16848,
-        16.30186
+        16.30191
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7645,8 +7645,8 @@
     "area": 269.18,
     "pricePerSqm": 817.3,
     "deposit": 22000,
-    "latitude": 48.1684773,
-    "longitude": 16.3018561,
+    "latitude": 48.1684788,
+    "longitude": 16.3019073,
     "geocodeSource": "official",
     "ownershipType": "235/751 Anteile (BLNr 18), mit denen Wohnungseigentum an Geschäftslokal top 2, Einlage -\nrungsraum 2, Windfang, Garten 2 untrennbar verbunden ist. Das Geschäftslokal hat eine\nNutzfläche von 269,18m², ",
     "summary": "Top 2，底层餐饮商铺，带地下拱顶储藏、客座花园和部分居住区，使用面积 269.18㎡，空置或自用。严重脏污，墙顶开裂、掉灰、发霉，拱顶窖因潮湿长菌，局部破败，不能立即使用；有砌墙隔断和用途改动，与建筑许可不符。估值用收益法，按翻修后拟制租金：底层 204.90㎡ 按 €11.45/㎡、地下 66.30㎡ 按 €2.86/㎡，年毛租 €30,418，再扣合规修复加核心翻修 €246,177.50。至 2026-03-01 欠管理费 €13,170.91。",
@@ -7667,12 +7667,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 2190,
+      "meters": 2180,
       "minutes": 29,
       "walk": true,
       "at": [
         48.16848,
-        16.30186
+        16.30191
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7692,8 +7692,8 @@
     "area": 56.37,
     "pricePerSqm": 2306.19,
     "deposit": 13000,
-    "latitude": 48.1684773,
-    "longitude": 16.3018561,
+    "latitude": 48.1684788,
+    "longitude": 16.3019073,
     "geocodeSource": "official",
     "ownershipType": "53/751 Anteile (BLNr 19) mit denen Wohnungseigentum Wohnung top 3, Einlagerungsraum 3,\nLichthof untrennbar verbunden ist. Eine sofortige Benützung ist aufgrund fehlender\n(technischer) Einrichtungen (K",
     "summary": "Top 3，公寓带采光井，使用面积 56.37㎡，经院子和公共楼梯进入，无电梯，空置或自用。没有厨房、浴室设施不全，不能立即入住；地板起翘、掉灰、部分严重脏污。比图纸多一间原属 Top 1 的房间，与建筑许可不符。估值用可比价法：调整后约 €2,428/㎡，合 €136,891，扣合规修复相关 €6,500。报告依当事方说明假定楼体抗震所需钢框架已安装，质量未经技术查验。至 2026-03-01 欠管理费 €1,499.37。",
@@ -7712,12 +7712,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 2190,
+      "meters": 2180,
       "minutes": 29,
       "walk": true,
       "at": [
         48.16848,
-        16.30186
+        16.30191
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8691,8 +8691,8 @@
     "area": 221.52,
     "pricePerSqm": 609.43,
     "deposit": 13500,
-    "latitude": 48.2106756,
-    "longitude": 16.3307587,
+    "latitude": 48.2105549,
+    "longitude": 16.3306764,
     "geocodeSource": "official",
     "ownershipType": "Lager mit Rohdachboden",
     "summary": "实为 23/845 份额：地下 Lager 11.18㎡（现作婴儿车和单车间）、未改建阁楼 258.19㎡及 3 个储物间；221.52㎡ 是规划面积。改建许可已于 2024-10-11 失效，需重新报建并加电梯。屋架部分受损。残值法（售价 €6,000/㎡、造价 €3,700/㎡）估值 €135,000（约 €523/㎡ 阁楼）。2021 年购入价 €237,000，合同含开工和完工期限。土地册有 §27 WEG 诉讼注记。",
@@ -8712,12 +8712,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 800,
+      "meters": 810,
       "minutes": 11,
       "walk": true,
       "at": [
-        48.21068,
-        16.33076
+        48.21055,
+        16.33068
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -9340,7 +9340,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/dec733be60bf8715c1258eaa002ba71b",
     "tenancyStatus": "vacant",
     "tenancyText": "leerstehend",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9353,7 +9352,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-02814a5680fe",
@@ -9380,7 +9380,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/a4001490e3aff1cac1258eaa002bd4da",
     "tenancyStatus": "limited",
     "tenancyText": "vermietet befristet",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9393,7 +9392,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-a17be016404d",
@@ -9420,7 +9420,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/39e2964cd79f9e74c1258eaa002c4a11",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandsfrei",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9433,7 +9432,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-c1365e0c1e3d",
@@ -9460,7 +9460,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/05d14cc1db01b650c1258eaa002c63f7",
     "tenancyStatus": "vacant",
     "tenancyText": "bestandfrei",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9473,7 +9472,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-f5e1613397dc",
@@ -9500,7 +9500,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/68cea79c9e6c7be3c1258eaa002c87df",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9513,7 +9512,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-b6504bd7cff1",
@@ -9540,7 +9540,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6f62f0a541509916c1258eaa002ca270",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9553,7 +9552,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-e89ed37085ac",
@@ -9580,7 +9580,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/402407962a902447c1258eaa002cc30f",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9593,7 +9592,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-a08b49782249",
@@ -9620,7 +9620,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/f6afcb317ca81c20c1258eaa002e87c2",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9633,7 +9632,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-899f3e66412f",
@@ -9660,7 +9660,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6db71cf6790b52a1c1258eaa002ee74e",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9673,7 +9672,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-f17b4feb9649",
@@ -9700,7 +9700,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/4a7398b99cb5ecc8c1258eaa002f14b5",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9713,7 +9712,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-c3239f47e79e",
@@ -9740,7 +9740,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6dbab3668238bc20c1258eaa0030ce00",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9753,7 +9752,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-3f0e9a6682c4",
@@ -9780,7 +9780,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/12a90685b889c86ac1258eaa0030fc7d",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Heiligenstadt",
       "lines": [
@@ -9793,7 +9792,8 @@
         48.26585,
         16.32313
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-f82c017b3f88",
@@ -9820,7 +9820,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/e838ed6e26a29ebec1258eaa005b3e48",
     "tenancyStatus": "rented",
     "tenancyText": "Die Wohnungen sind vermietet.",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Schweglerstraße",
       "lines": [
@@ -9833,7 +9832,8 @@
         48.19967,
         16.33195
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
   },
   {
     "id": "wien-a8d67da3d107",
@@ -9860,7 +9860,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/902f2937b1549b66c1258eaa00287fa4",
     "tenancyStatus": "vacant",
     "tenancyText": "keine",
-    "firstSeenAt": "2026-11-10T08:19:50.811Z",
     "nearestStation": {
       "name": "Ober St. Veit",
       "lines": [
@@ -9872,6 +9871,47 @@
       "at": [
         48.18327,
         16.26133
+      ]
+    },
+    "firstSeenAt": "2026-11-10T08:19:50.811Z"
+  },
+  {
+    "id": "wien-0f76c8724de6",
+    "caseNumber": "24 E 20/26d",
+    "auctionDate": "2027-01-28",
+    "address": "1200 Wien Meldemannstraße 6-10",
+    "district": "1200",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Eigentumswohnung",
+    "propertyType": "公寓",
+    "estimatedValue": 76500,
+    "minimumBid": 61200,
+    "area": 81.07,
+    "pricePerSqm": 943.63,
+    "deposit": 7650,
+    "latitude": 48.2407719,
+    "longitude": 16.3769148,
+    "geocodeSource": "official",
+    "ownershipType": "Die Wohnung befindet sich auf der Stiege 2, im 3. OG und ist straßen- und hofseitig orientiert,: sie besteht aus  \n•\tVorzimmer, \n•\tWC,\n•\tBadezimmer,\n•\tWohnraum (hofseitig mit Balkon),\n•\tzwei weitere, ",
+    "summary": "Die Wohnung befindet sich auf der Stiege 2, im 3. OG und ist straßen- und hofseitig orientiert,: sie besteht aus  \n•\tVorzimmer, \n•\tWC,\n•\tBadezimmer,\n•\tWohnraum (hofseitig mit Balkon),\n•\tzwei weitere, ",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0f76c8724de6573ec1258eab00597f9f!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0bc096382791336cc1258eab00597fa1/$file/Gutachten.pdf",
+    "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b0da07d13f13dfc2c1258eab00597fa0",
+    "tenancyStatus": "unlimited",
+    "tenancyText": "",
+    "firstSeenAt": "2026-11-11T07:46:33.799Z",
+    "nearestStation": {
+      "name": "Dresdner Straße",
+      "lines": [
+        "U6"
+      ],
+      "meters": 510,
+      "minutes": 7,
+      "walk": true,
+      "at": [
+        48.24077,
+        16.37691
       ]
     }
   }
