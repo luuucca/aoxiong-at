@@ -5467,8 +5467,8 @@
     "area": 89.81,
     "pricePerSqm": 3062.02,
     "deposit": 27500,
-    "latitude": 48.2137757,
-    "longitude": 16.3817904,
+    "latitude": 48.2138079,
+    "longitude": 16.3818038,
     "geocodeSource": "official",
     "ownershipType": "Vorzimmer, 2 Zimmer, 1 Kabinett, Küchennische, Bad, WC",
     "summary": "位于 5 号楼梯 的 2 楼，朝内院及 Große Mohrengasse，89.81㎡，前厅、两室、一小间、厨房角、浴室及 WC，厨房与浴区之间没有隔断。整栋受文物保护，房况与楼龄相符、属中等。无限期出租，租约始于 1986 年 8 月，净租金 €187.50/月（约 €2.09/㎡），市场约 €10/㎡。收益法：现租金资本化约 €11.6 万，加 20 年折现的市场租金差约 €15.7 万，取整估值 €27.5 万。",
@@ -5490,8 +5490,8 @@
       "minutes": 5,
       "walk": true,
       "at": [
-        48.21378,
-        16.38179
+        48.21381,
+        16.3818
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -5675,8 +5675,8 @@
     "area": 699,
     "pricePerSqm": 2989.99,
     "deposit": 209000,
-    "latitude": 48.1771116,
-    "longitude": 16.3291322,
+    "latitude": 48.1770975,
+    "longitude": 16.3292481,
     "geocodeSource": "official",
     "ownershipType": "Bei der bewertungsgegenständlichen Liegenschaft handelt es sich um ein klassisches Wiener Zinshaus der Gründerzeit, Eckhaus, unterkellert, Geschäfts- und Wohnflächen im Erdgeschoss, darüber zwei Vollg",
     "summary": "约 1890 年建的 老式转角 出租楼，地下室、底层商铺和住宅、两层住宅及未改建阁楼，院内另有小屋，无电梯，分户燃气取暖；共 699㎡（住宅 531、商业 168）。约 94% 已出租，约 69% 为定期，两套共 43㎡ 空置；主租金 €5,000/月，含空置拟制 €540。状况中等，公共区需修缮，地窖、院屋和外墙下部潮湿；2025 年有外墙抹灰和缺玻璃的建筑令。估值由收益法 €1,330,000 与阁楼加建潜力 €810,000 构成；2021 年加建许可已过期，能否重批不确定。",
@@ -5701,8 +5701,8 @@
       "minutes": 7,
       "walk": true,
       "at": [
-        48.17711,
-        16.32913
+        48.1771,
+        16.32925
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -6388,8 +6388,8 @@
     "area": 63.26,
     "pricePerSqm": 4094.21,
     "deposit": 25900,
-    "latitude": 48.2169475,
-    "longitude": 16.3885452,
+    "latitude": 48.215506,
+    "longitude": 16.385784,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
     "summary": "约 1965 年建七层院内楼 1 号楼梯 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
@@ -6407,12 +6407,12 @@
       "lines": [
         "U1"
       ],
-      "meters": 330,
-      "minutes": 4,
+      "meters": 50,
+      "minutes": 1,
       "walk": true,
       "at": [
-        48.21695,
-        16.38855
+        48.21551,
+        16.38578
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7552,8 +7552,8 @@
     "area": 1666.72,
     "pricePerSqm": 490.18,
     "deposit": 81700,
-    "latitude": 48.1809561,
-    "longitude": 16.3298405,
+    "latitude": 48.1807949,
+    "longitude": 16.3298736,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
     "summary": "1 号楼梯 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
@@ -7574,12 +7574,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 160,
+      "meters": 130,
       "minutes": 2,
       "walk": true,
       "at": [
-        48.18096,
-        16.32984
+        48.18079,
+        16.32987
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8691,8 +8691,8 @@
     "area": 221.52,
     "pricePerSqm": 609.43,
     "deposit": 13500,
-    "latitude": 48.2105549,
-    "longitude": 16.3306764,
+    "latitude": 48.2106756,
+    "longitude": 16.3307587,
     "geocodeSource": "official",
     "ownershipType": "Lager mit Rohdachboden",
     "summary": "实为 23/845 份额：地下 Lager 11.18㎡（现作婴儿车和单车间）、未改建阁楼 258.19㎡及 3 个储物间；221.52㎡ 是规划面积。改建许可已于 2024-10-11 失效，需重新报建并加电梯。屋架部分受损。残值法（售价 €6,000/㎡、造价 €3,700/㎡）估值 €135,000（约 €523/㎡ 阁楼）。2021 年购入价 €237,000，合同含开工和完工期限。土地册有 §27 WEG 诉讼注记。",
@@ -8712,12 +8712,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 810,
+      "meters": 800,
       "minutes": 11,
       "walk": true,
       "at": [
-        48.21055,
-        16.33068
+        48.21068,
+        16.33076
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8866,8 +8866,8 @@
     "area": 922.04,
     "pricePerSqm": 369.83,
     "deposit": 34100,
-    "latitude": 48.2004657,
-    "longitude": 16.3446478,
+    "latitude": 48.2004616,
+    "longitude": 16.3445256,
     "geocodeSource": "official",
     "ownershipType": "Wohnungseigentumsobjekt an Tankstelle in 1070 Wien, Seidengasse 12 ident mit Zieglergasse 27;\n---\nsiebengeschoßige Wohnhausanlage aus Bj 1966 mit ausgebautem Dachgeschoss, bestehend aus drei Stiegen d",
     "summary": "1966 年住宅楼底层的加油站与轮胎仓库 Top 1a，已打通，合并估值，共 922.04㎡，状况简单实用。2022 年 3 月起无限期整体出租，可转租，净主租金 €1,200，指数调整后约 €1,365/月（约 €1.48/㎡），但提供的租约双方均未签字。收益法约 €41.3 万，因垃圾房归属、实际面积和强制车位不清扣 15%，再扣押金，估值约 €34.1 万。两单元月费合计约 €2,536。经营涉及危险品，污染未排除但无迹象。",
@@ -8888,12 +8888,12 @@
       "lines": [
         "U3"
       ],
-      "meters": 430,
+      "meters": 440,
       "minutes": 6,
       "walk": true,
       "at": [
-        48.20047,
-        16.34465
+        48.20046,
+        16.34453
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -9329,8 +9329,8 @@
     "area": 98.56,
     "pricePerSqm": 8979.3,
     "deposit": 88500,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "ohne Zubehör",
     "summary": "ohne Zubehör",
@@ -9345,12 +9345,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9369,8 +9369,8 @@
     "area": 241.49,
     "pricePerSqm": 8116.28,
     "deposit": 196000,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "Wohnung Top 1.06 befindet sich im 2. und 3. OG bestehend aus:\nVorraum, 3 Zimmer, 3 Bad u WC, Schrankraum, Wirtschaftsraum, Wohnzimmer, Wohnküche, Terrassenflächen",
     "summary": "Wohnung Top 1.06 befindet sich im 2. und 3. OG bestehend aus:\nVorraum, 3 Zimmer, 3 Bad u WC, Schrankraum, Wirtschaftsraum, Wohnzimmer, Wohnküche, Terrassenflächen",
@@ -9385,12 +9385,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9409,8 +9409,8 @@
     "area": 214.82,
     "pricePerSqm": 8053.25,
     "deposit": 173000,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "Wohnung befindet sich im EG, bestehend aus Vorraum, 4 Zimmer, 3 Bäder, Saune, WC, Abstellraum, Galerie und Wohnküche, Terrasse und Garten",
     "summary": "Wohnung befindet sich im EG, bestehend aus Vorraum, 4 Zimmer, 3 Bäder, Saune, WC, Abstellraum, Galerie und Wohnküche, Terrasse und Garten",
@@ -9425,12 +9425,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9449,8 +9449,8 @@
     "area": 91.62,
     "pricePerSqm": 8960.93,
     "deposit": 82100,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "Wohnung im 2. OG, bestehend aus Vorraum, Abstellraum, 2 Bäder mit WC, 2 Zimmer, Wohnküche, Terrassenflächen",
     "summary": "Wohnung im 2. OG, bestehend aus Vorraum, Abstellraum, 2 Bäder mit WC, 2 Zimmer, Wohnküche, Terrassenflächen",
@@ -9465,12 +9465,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9489,8 +9489,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3150,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "KFZ Stellplatz",
     "summary": "KFZ Stellplatz",
@@ -9505,12 +9505,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9529,8 +9529,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9545,12 +9545,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9569,8 +9569,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9585,12 +9585,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9609,8 +9609,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9625,12 +9625,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9649,8 +9649,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9665,12 +9665,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9689,8 +9689,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3150,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9705,12 +9705,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9729,8 +9729,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9745,12 +9745,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9769,8 +9769,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3150,
-    "latitude": 48.2658476,
-    "longitude": 16.3231294,
+    "latitude": 48.2565432,
+    "longitude": 16.3404303,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9785,12 +9785,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4820,
-      "minutes": 64,
+      "meters": 2600,
+      "minutes": 35,
       "walk": true,
       "at": [
-        48.26585,
-        16.32313
+        48.25654,
+        16.34043
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9900,7 +9900,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/b0da07d13f13dfc2c1258eab00597fa0",
     "tenancyStatus": "unlimited",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-11T07:46:33.799Z",
     "nearestStation": {
       "name": "Dresdner Straße",
       "lines": [
@@ -9912,6 +9911,129 @@
       "at": [
         48.24077,
         16.37691
+      ]
+    },
+    "firstSeenAt": "2026-11-11T07:46:33.799Z"
+  },
+  {
+    "id": "wien-95aaa252298c",
+    "caseNumber": "13 E 13/24g",
+    "auctionDate": "2026-12-17",
+    "address": "1100 Wien Inzersdorfer Straße 44",
+    "district": "1100",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Sonstiges",
+    "propertyType": "其他",
+    "estimatedValue": 0,
+    "minimumBid": 0,
+    "area": 0,
+    "pricePerSqm": 0,
+    "deposit": 0,
+    "latitude": 48.1722643,
+    "longitude": 16.3679788,
+    "geocodeSource": "official",
+    "ownershipType": "",
+    "summary": "",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/95aaa252298cc57cc1258e75002a2c50!OpenDocument",
+    "pdfUrl": "",
+    "shortReportUrl": "",
+    "tenancyStatus": "unknown",
+    "tenancyText": "",
+    "firstSeenAt": "2026-11-12T08:15:31.132Z",
+    "nearestStation": {
+      "name": "Reumannplatz",
+      "lines": [
+        "U1"
+      ],
+      "meters": 1060,
+      "minutes": 14,
+      "walk": true,
+      "at": [
+        48.17226,
+        16.36798
+      ]
+    }
+  },
+  {
+    "id": "wien-0dca898bee1b",
+    "caseNumber": "35 E 10/26t",
+    "auctionDate": "2026-12-16",
+    "address": "1190 Wien Heiligenstädter  Straße 54",
+    "district": "1190",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
+    "estimatedValue": 326000,
+    "minimumBid": 163000,
+    "area": 110,
+    "pricePerSqm": 2963.64,
+    "deposit": 32600,
+    "latitude": 48.2404393,
+    "longitude": 16.3603904,
+    "geocodeSource": "official",
+    "ownershipType": "BLNr. 87, 117/4251 Anteile - verbunden mit Wohnungseigentum an W 18 \nBLNr. 88, 68/4251 Anteile - verbunden mit Wohnungseigentum an W 17\nHinzuweisen ist, dass in der Natur die Wohnung W 18 (BLNr. 87) u",
+    "summary": "BLNr. 87, 117/4251 Anteile - verbunden mit Wohnungseigentum an W 18 \nBLNr. 88, 68/4251 Anteile - verbunden mit Wohnungseigentum an W 17\nHinzuweisen ist, dass in der Natur die Wohnung W 18 (BLNr. 87) u",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/0dca898bee1bedbfc1258eac0038bc7b!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6b859e564fd6b5b3c1258eac0038bc87/$file/Gutachten%201190%20Wien%2C%20Heiligenst%C3%A4dter%20Stra%C3%9Fe%2054.pdf",
+    "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/ffcd5f7909f1b00ac1258eac0038bc7c",
+    "tenancyStatus": "rented",
+    "tenancyText": "",
+    "firstSeenAt": "2026-11-12T08:15:31.132Z",
+    "nearestStation": {
+      "name": "Spittelau",
+      "lines": [
+        "U4",
+        "U6"
+      ],
+      "meters": 680,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.24044,
+        16.36039
+      ]
+    }
+  },
+  {
+    "id": "wien-ca76c388796e",
+    "caseNumber": "35 E 10/26t",
+    "auctionDate": "2026-12-16",
+    "address": "1190 Wien Heiligenstädter  Straße 54",
+    "district": "1190",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
+    "estimatedValue": 386000,
+    "minimumBid": 193000,
+    "area": 125.5,
+    "pricePerSqm": 3075.7,
+    "deposit": 38600,
+    "latitude": 48.2404393,
+    "longitude": 16.3603904,
+    "geocodeSource": "official",
+    "ownershipType": "BLNr. 90, 204/4251 Anteile - verbunden mit Wohnungseigentum an W 29 \nan der Liegenschaft EZ 722, Grundbuch 01503 Heiligenstadt, BG Döbling, mit \nder Grundstücksnummer 982/20, mit der Adresse 1190 Wien",
+    "summary": "BLNr. 90, 204/4251 Anteile - verbunden mit Wohnungseigentum an W 29 \nan der Liegenschaft EZ 722, Grundbuch 01503 Heiligenstadt, BG Döbling, mit \nder Grundstücksnummer 982/20, mit der Adresse 1190 Wien",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ca76c388796e1741c1258eac0038f423!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/6b859e564fd6b5b3c1258eac0038bc87/$file/Gutachten%201190%20Wien%2C%20Heiligenst%C3%A4dter%20Stra%C3%9Fe%2054.pdf",
+    "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d6fd5fcbf02f27bbc1258eac0038f424",
+    "tenancyStatus": "rented",
+    "tenancyText": "",
+    "firstSeenAt": "2026-11-12T08:15:31.132Z",
+    "nearestStation": {
+      "name": "Spittelau",
+      "lines": [
+        "U4",
+        "U6"
+      ],
+      "meters": 680,
+      "minutes": 9,
+      "walk": true,
+      "at": [
+        48.24044,
+        16.36039
       ]
     }
   }
