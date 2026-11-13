@@ -6388,8 +6388,8 @@
     "area": 63.26,
     "pricePerSqm": 4094.21,
     "deposit": 25900,
-    "latitude": 48.215506,
-    "longitude": 16.385784,
+    "latitude": 48.2169475,
+    "longitude": 16.3885452,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
     "summary": "约 1965 年建七层院内楼 1 号楼梯 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
@@ -6407,12 +6407,12 @@
       "lines": [
         "U1"
       ],
-      "meters": 50,
-      "minutes": 1,
+      "meters": 330,
+      "minutes": 4,
       "walk": true,
       "at": [
-        48.21551,
-        16.38578
+        48.21695,
+        16.38855
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7552,8 +7552,8 @@
     "area": 1666.72,
     "pricePerSqm": 490.18,
     "deposit": 81700,
-    "latitude": 48.1807949,
-    "longitude": 16.3298736,
+    "latitude": 48.1808207,
+    "longitude": 16.3298393,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
     "summary": "1 号楼梯 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
@@ -7578,8 +7578,8 @@
       "minutes": 2,
       "walk": true,
       "at": [
-        48.18079,
-        16.32987
+        48.18082,
+        16.32984
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7599,8 +7599,8 @@
     "area": 47.39,
     "pricePerSqm": 1772.53,
     "deposit": 8400,
-    "latitude": 48.1684788,
-    "longitude": 16.3019073,
+    "latitude": 48.1684773,
+    "longitude": 16.3018561,
     "geocodeSource": "official",
     "ownershipType": "50/751-Anteile mit denen Wohnungseigentum an Wohnung top 1, Einlagerungsraum 1,\nAußenpodest, Garten 1 untrennbar verbunden ist. Das Objekt hat eine Nutzfläche von\n47,39m² und weist einen durchschnittl",
     "summary": "Top 1，底层公寓带花园，使用面积 47.39㎡，经院内外部台阶进入；建筑年代不详（档案最早见 1903 年扩建图），无电梯。定期出租至 2027-12-31，合同为总包毛租 €300/月，现场看似作仓库用、未见床铺。图纸上的一间房实际划给 Top 3，与建筑许可不符；未见明显损坏，但杂物多、查看受限。估值用租期加转租收益法：合同期净租按 €98.82/月，到期后按 €372.96/月，扣合规修复 €35,000（报告估 €23,000–47,000）及购置附加费 8.6%。至 2026-03-01 欠管理费 €1,711.50。",
@@ -7620,12 +7620,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 2180,
+      "meters": 2190,
       "minutes": 29,
       "walk": true,
       "at": [
         48.16848,
-        16.30191
+        16.30186
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7645,8 +7645,8 @@
     "area": 269.18,
     "pricePerSqm": 817.3,
     "deposit": 22000,
-    "latitude": 48.1684788,
-    "longitude": 16.3019073,
+    "latitude": 48.1684773,
+    "longitude": 16.3018561,
     "geocodeSource": "official",
     "ownershipType": "235/751 Anteile (BLNr 18), mit denen Wohnungseigentum an Geschäftslokal top 2, Einlage -\nrungsraum 2, Windfang, Garten 2 untrennbar verbunden ist. Das Geschäftslokal hat eine\nNutzfläche von 269,18m², ",
     "summary": "Top 2，底层餐饮商铺，带地下拱顶储藏、客座花园和部分居住区，使用面积 269.18㎡，空置或自用。严重脏污，墙顶开裂、掉灰、发霉，拱顶窖因潮湿长菌，局部破败，不能立即使用；有砌墙隔断和用途改动，与建筑许可不符。估值用收益法，按翻修后拟制租金：底层 204.90㎡ 按 €11.45/㎡、地下 66.30㎡ 按 €2.86/㎡，年毛租 €30,418，再扣合规修复加核心翻修 €246,177.50。至 2026-03-01 欠管理费 €13,170.91。",
@@ -7667,12 +7667,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 2180,
+      "meters": 2190,
       "minutes": 29,
       "walk": true,
       "at": [
         48.16848,
-        16.30191
+        16.30186
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -7692,8 +7692,8 @@
     "area": 56.37,
     "pricePerSqm": 2306.19,
     "deposit": 13000,
-    "latitude": 48.1684788,
-    "longitude": 16.3019073,
+    "latitude": 48.1684773,
+    "longitude": 16.3018561,
     "geocodeSource": "official",
     "ownershipType": "53/751 Anteile (BLNr 19) mit denen Wohnungseigentum Wohnung top 3, Einlagerungsraum 3,\nLichthof untrennbar verbunden ist. Eine sofortige Benützung ist aufgrund fehlender\n(technischer) Einrichtungen (K",
     "summary": "Top 3，公寓带采光井，使用面积 56.37㎡，经院子和公共楼梯进入，无电梯，空置或自用。没有厨房、浴室设施不全，不能立即入住；地板起翘、掉灰、部分严重脏污。比图纸多一间原属 Top 1 的房间，与建筑许可不符。估值用可比价法：调整后约 €2,428/㎡，合 €136,891，扣合规修复相关 €6,500。报告依当事方说明假定楼体抗震所需钢框架已安装，质量未经技术查验。至 2026-03-01 欠管理费 €1,499.37。",
@@ -7712,12 +7712,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 2180,
+      "meters": 2190,
       "minutes": 29,
       "walk": true,
       "at": [
         48.16848,
-        16.30191
+        16.30186
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8016,8 +8016,8 @@
     "area": 96.72,
     "pricePerSqm": 2264.27,
     "deposit": 21900,
-    "latitude": 48.202595,
-    "longitude": 16.3550757,
+    "latitude": 48.2026283,
+    "longitude": 16.3551892,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus in 1070 Wien, Siebensterngasse 16A;\nBj. 1870, weitgehend historisch erhalten; Keller, EG, 1. – 4. Stock, DG nachträglich ausgebaut; Haus in durchschnittlichem Erhaltungszustand, Perso",
     "summary": "约 1870 年建老楼的 2 楼，1996–2000 年加建阁楼，电梯停半层，楼况中等。W 7 面积 96.72㎡，两室一小间、厨房内设洗浴、WC、临街阳台，可对流通风，燃气壁挂炉，状况中等，部分使用痕迹重，大致符合图纸，地下储藏不明。自 1982 年无限期出租，现租客 2005 年经判决承接，主租金净 €215.69/月（€2.23/㎡）。收益法算得 €224,218，扣贷款余额 €5,038，估值约 €2,266/㎡。楼内 2023 年贷款 €67,000 修楼板，本套月摊 €55.36；维修基金仅 €2,878，可能修地窖拱顶。",
@@ -8037,12 +8037,12 @@
         "U2",
         "U3"
       ],
-      "meters": 460,
+      "meters": 450,
       "minutes": 6,
       "walk": true,
       "at": [
-        48.2026,
-        16.35508
+        48.20263,
+        16.35519
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8691,8 +8691,8 @@
     "area": 221.52,
     "pricePerSqm": 609.43,
     "deposit": 13500,
-    "latitude": 48.2106756,
-    "longitude": 16.3307587,
+    "latitude": 48.2105549,
+    "longitude": 16.3306764,
     "geocodeSource": "official",
     "ownershipType": "Lager mit Rohdachboden",
     "summary": "实为 23/845 份额：地下 Lager 11.18㎡（现作婴儿车和单车间）、未改建阁楼 258.19㎡及 3 个储物间；221.52㎡ 是规划面积。改建许可已于 2024-10-11 失效，需重新报建并加电梯。屋架部分受损。残值法（售价 €6,000/㎡、造价 €3,700/㎡）估值 €135,000（约 €523/㎡ 阁楼）。2021 年购入价 €237,000，合同含开工和完工期限。土地册有 §27 WEG 诉讼注记。",
@@ -8712,12 +8712,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 800,
+      "meters": 810,
       "minutes": 11,
       "walk": true,
       "at": [
-        48.21068,
-        16.33076
+        48.21055,
+        16.33068
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -9940,7 +9940,6 @@
     "shortReportUrl": "",
     "tenancyStatus": "unknown",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-12T08:15:31.132Z",
     "nearestStation": {
       "name": "Reumannplatz",
       "lines": [
@@ -9953,7 +9952,8 @@
         48.17226,
         16.36798
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-12T08:15:31.132Z"
   },
   {
     "id": "wien-0dca898bee1b",
@@ -9980,7 +9980,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/ffcd5f7909f1b00ac1258eac0038bc7c",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-12T08:15:31.132Z",
     "nearestStation": {
       "name": "Spittelau",
       "lines": [
@@ -9994,7 +9993,8 @@
         48.24044,
         16.36039
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-12T08:15:31.132Z"
   },
   {
     "id": "wien-ca76c388796e",
@@ -10021,7 +10021,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d6fd5fcbf02f27bbc1258eac0038f424",
     "tenancyStatus": "rented",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-12T08:15:31.132Z",
     "nearestStation": {
       "name": "Spittelau",
       "lines": [
@@ -10035,6 +10034,7 @@
         48.24044,
         16.36039
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-12T08:15:31.132Z"
   }
 ]
