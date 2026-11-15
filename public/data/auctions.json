@@ -6388,8 +6388,8 @@
     "area": 63.26,
     "pricePerSqm": 4094.21,
     "deposit": 25900,
-    "latitude": 48.215506,
-    "longitude": 16.385784,
+    "latitude": 48.2169475,
+    "longitude": 16.3885452,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
     "summary": "约 1965 年建七层院内楼 1 号楼梯 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
@@ -6407,12 +6407,12 @@
       "lines": [
         "U1"
       ],
-      "meters": 50,
-      "minutes": 1,
+      "meters": 330,
+      "minutes": 4,
       "walk": true,
       "at": [
-        48.21551,
-        16.38578
+        48.21695,
+        16.38855
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8016,8 +8016,8 @@
     "area": 96.72,
     "pricePerSqm": 2264.27,
     "deposit": 21900,
-    "latitude": 48.2026283,
-    "longitude": 16.3551892,
+    "latitude": 48.202595,
+    "longitude": 16.3550757,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus in 1070 Wien, Siebensterngasse 16A;\nBj. 1870, weitgehend historisch erhalten; Keller, EG, 1. – 4. Stock, DG nachträglich ausgebaut; Haus in durchschnittlichem Erhaltungszustand, Perso",
     "summary": "约 1870 年建老楼的 2 楼，1996–2000 年加建阁楼，电梯停半层，楼况中等。W 7 面积 96.72㎡，两室一小间、厨房内设洗浴、WC、临街阳台，可对流通风，燃气壁挂炉，状况中等，部分使用痕迹重，大致符合图纸，地下储藏不明。自 1982 年无限期出租，现租客 2005 年经判决承接，主租金净 €215.69/月（€2.23/㎡）。收益法算得 €224,218，扣贷款余额 €5,038，估值约 €2,266/㎡。楼内 2023 年贷款 €67,000 修楼板，本套月摊 €55.36；维修基金仅 €2,878，可能修地窖拱顶。",
@@ -8037,12 +8037,12 @@
         "U2",
         "U3"
       ],
-      "meters": 450,
+      "meters": 460,
       "minutes": 6,
       "walk": true,
       "at": [
-        48.20263,
-        16.35519
+        48.2026,
+        16.35508
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8691,8 +8691,8 @@
     "area": 221.52,
     "pricePerSqm": 609.43,
     "deposit": 13500,
-    "latitude": 48.2105549,
-    "longitude": 16.3306764,
+    "latitude": 48.2106756,
+    "longitude": 16.3307587,
     "geocodeSource": "official",
     "ownershipType": "Lager mit Rohdachboden",
     "summary": "实为 23/845 份额：地下 Lager 11.18㎡（现作婴儿车和单车间）、未改建阁楼 258.19㎡及 3 个储物间；221.52㎡ 是规划面积。改建许可已于 2024-10-11 失效，需重新报建并加电梯。屋架部分受损。残值法（售价 €6,000/㎡、造价 €3,700/㎡）估值 €135,000（约 €523/㎡ 阁楼）。2021 年购入价 €237,000，合同含开工和完工期限。土地册有 §27 WEG 诉讼注记。",
@@ -8712,12 +8712,12 @@
       "lines": [
         "U6"
       ],
-      "meters": 810,
+      "meters": 800,
       "minutes": 11,
       "walk": true,
       "at": [
-        48.21055,
-        16.33068
+        48.21068,
+        16.33076
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8866,8 +8866,8 @@
     "area": 922.04,
     "pricePerSqm": 369.83,
     "deposit": 34100,
-    "latitude": 48.2004657,
-    "longitude": 16.3446478,
+    "latitude": 48.2004616,
+    "longitude": 16.3445256,
     "geocodeSource": "official",
     "ownershipType": "Wohnungseigentumsobjekt an Tankstelle in 1070 Wien, Seidengasse 12 ident mit Zieglergasse 27;\n---\nsiebengeschoßige Wohnhausanlage aus Bj 1966 mit ausgebautem Dachgeschoss, bestehend aus drei Stiegen d",
     "summary": "1966 年住宅楼底层的加油站与轮胎仓库 Top 1a，已打通，合并估值，共 922.04㎡，状况简单实用。2022 年 3 月起无限期整体出租，可转租，净主租金 €1,200，指数调整后约 €1,365/月（约 €1.48/㎡），但提供的租约双方均未签字。收益法约 €41.3 万，因垃圾房归属、实际面积和强制车位不清扣 15%，再扣押金，估值约 €34.1 万。两单元月费合计约 €2,536。经营涉及危险品，污染未排除但无迹象。",
@@ -8888,12 +8888,12 @@
       "lines": [
         "U3"
       ],
-      "meters": 430,
+      "meters": 440,
       "minutes": 6,
       "walk": true,
       "at": [
-        48.20047,
-        16.34465
+        48.20046,
+        16.34453
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -9969,8 +9969,8 @@
     "area": 110,
     "pricePerSqm": 2963.64,
     "deposit": 32600,
-    "latitude": 48.2404393,
-    "longitude": 16.3603904,
+    "latitude": 48.240426,
+    "longitude": 16.3604105,
     "geocodeSource": "official",
     "ownershipType": "BLNr. 87, 117/4251 Anteile - verbunden mit Wohnungseigentum an W 18 \nBLNr. 88, 68/4251 Anteile - verbunden mit Wohnungseigentum an W 17\nHinzuweisen ist, dass in der Natur die Wohnung W 18 (BLNr. 87) u",
     "summary": "BLNr. 87, 117/4251 Anteile - verbunden mit Wohnungseigentum an W 18 \nBLNr. 88, 68/4251 Anteile - verbunden mit Wohnungseigentum an W 17\nHinzuweisen ist, dass in der Natur die Wohnung W 18 (BLNr. 87) u",
@@ -9986,12 +9986,12 @@
         "U4",
         "U6"
       ],
-      "meters": 680,
+      "meters": 670,
       "minutes": 9,
       "walk": true,
       "at": [
-        48.24044,
-        16.36039
+        48.24043,
+        16.36041
       ]
     },
     "firstSeenAt": "2026-11-12T08:15:31.132Z"
@@ -10010,8 +10010,8 @@
     "area": 125.5,
     "pricePerSqm": 3075.7,
     "deposit": 38600,
-    "latitude": 48.2404393,
-    "longitude": 16.3603904,
+    "latitude": 48.240426,
+    "longitude": 16.3604105,
     "geocodeSource": "official",
     "ownershipType": "BLNr. 90, 204/4251 Anteile - verbunden mit Wohnungseigentum an W 29 \nan der Liegenschaft EZ 722, Grundbuch 01503 Heiligenstadt, BG Döbling, mit \nder Grundstücksnummer 982/20, mit der Adresse 1190 Wien",
     "summary": "BLNr. 90, 204/4251 Anteile - verbunden mit Wohnungseigentum an W 29 \nan der Liegenschaft EZ 722, Grundbuch 01503 Heiligenstadt, BG Döbling, mit \nder Grundstücksnummer 982/20, mit der Adresse 1190 Wien",
@@ -10027,12 +10027,12 @@
         "U4",
         "U6"
       ],
-      "meters": 680,
+      "meters": 670,
       "minutes": 9,
       "walk": true,
       "at": [
-        48.24044,
-        16.36039
+        48.24043,
+        16.36041
       ]
     },
     "firstSeenAt": "2026-11-12T08:15:31.132Z"
