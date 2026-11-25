@@ -6388,8 +6388,8 @@
     "area": 63.26,
     "pricePerSqm": 4094.21,
     "deposit": 25900,
-    "latitude": 48.2169475,
-    "longitude": 16.3885452,
+    "latitude": 48.2154268,
+    "longitude": 16.38585,
     "geocodeSource": "official",
     "ownershipType": "Vorraum, Badezimmer mit WC, Wohnküche, Zimmer, Dachterrasse",
     "summary": "约 1965 年建七层院内楼 1 号楼梯 的顶层，Top 25 在 7 层，两室，63.26㎡（租约写 72㎡），院向，带约 82㎡ 屋顶露台，区域供暖，无地下储藏和车位，状况很好。2018 年起定期出租，2023 年转无限期。约定净租 €600，报告认为可调到 €767.77/月（€12.14/㎡），租客仍付毛租 €960；低于市价且短期难提升。收益法资本化率 1.75%，无扣减，€4,097/㎡。业主会记录部分楼体需修，外墙有裂缝剥落；能效差（HWB 119）。",
@@ -9329,8 +9329,8 @@
     "area": 98.56,
     "pricePerSqm": 8979.3,
     "deposit": 88500,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "ohne Zubehör",
     "summary": "ohne Zubehör",
@@ -9345,12 +9345,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9369,8 +9369,8 @@
     "area": 241.49,
     "pricePerSqm": 8116.28,
     "deposit": 196000,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "Wohnung Top 1.06 befindet sich im 2. und 3. OG bestehend aus:\nVorraum, 3 Zimmer, 3 Bad u WC, Schrankraum, Wirtschaftsraum, Wohnzimmer, Wohnküche, Terrassenflächen",
     "summary": "Wohnung Top 1.06 befindet sich im 2. und 3. OG bestehend aus:\nVorraum, 3 Zimmer, 3 Bad u WC, Schrankraum, Wirtschaftsraum, Wohnzimmer, Wohnküche, Terrassenflächen",
@@ -9385,12 +9385,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9409,8 +9409,8 @@
     "area": 214.82,
     "pricePerSqm": 8053.25,
     "deposit": 173000,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "Wohnung befindet sich im EG, bestehend aus Vorraum, 4 Zimmer, 3 Bäder, Saune, WC, Abstellraum, Galerie und Wohnküche, Terrasse und Garten",
     "summary": "Wohnung befindet sich im EG, bestehend aus Vorraum, 4 Zimmer, 3 Bäder, Saune, WC, Abstellraum, Galerie und Wohnküche, Terrasse und Garten",
@@ -9425,12 +9425,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9529,8 +9529,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9545,12 +9545,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9569,8 +9569,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9585,12 +9585,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9609,8 +9609,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9625,12 +9625,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9649,8 +9649,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9665,12 +9665,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9689,8 +9689,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3150,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9705,12 +9705,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9729,8 +9729,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9745,12 +9745,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9769,8 +9769,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3150,
-    "latitude": 48.2627708,
-    "longitude": 16.3317689,
+    "latitude": 48.2657929,
+    "longitude": 16.3244002,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9785,12 +9785,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 3560,
-      "minutes": 47,
+      "meters": 4600,
+      "minutes": 61,
       "walk": true,
       "at": [
-        48.26277,
-        16.33177
+        48.26579,
+        16.3244
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -10398,5 +10398,127 @@
       ]
     },
     "firstSeenAt": "2026-11-21T08:17:01.806Z"
+  },
+  {
+    "id": "wien-99e824b0531c",
+    "caseNumber": "74 E 59/26v",
+    "auctionDate": "2027-01-20",
+    "address": "1010 Wien Friedrichstraße 8 / Nibelungengasse 1-3 / Makartgasse 1",
+    "district": "1010",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Wohnungseigentumsobjekt",
+    "propertyType": "公寓",
+    "estimatedValue": 1190000,
+    "minimumBid": 595000,
+    "area": 108,
+    "pricePerSqm": 11018.52,
+    "deposit": 119000,
+    "latitude": 48.2012215,
+    "longitude": 16.3670145,
+    "geocodeSource": "official",
+    "ownershipType": "Das Gebäude wurde als Zinshaus „Nibelungenhof“ im Jahre 1870/71 in Massivbauweise von den Architekten Johann Romano von Ringe und August Schwendenwein im Zuge der Ringstraßenverbauung mit repräsentati",
+    "summary": "Das Gebäude wurde als Zinshaus „Nibelungenhof“ im Jahre 1870/71 in Massivbauweise von den Architekten Johann Romano von Ringe und August Schwendenwein im Zuge der Ringstraßenverbauung mit repräsentati",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/99e824b0531c447dc1258eba0028298b!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0233c5df678d58a0c1258eba0028298d/$file/VKW%20Gutachten%201010%20Wien%2C%20Nibelungengasse%201-3%20B%C3%BCro%2041.pdf",
+    "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/11bb2cda099c9da8c1258eba0028298c",
+    "tenancyStatus": "vacant",
+    "tenancyText": "",
+    "firstSeenAt": "2026-11-25T09:49:34.710Z",
+    "nearestStation": {
+      "name": "Karlsplatz",
+      "lines": [
+        "U1",
+        "U2",
+        "U4"
+      ],
+      "meters": 290,
+      "minutes": 4,
+      "walk": true,
+      "at": [
+        48.20122,
+        16.36701
+      ]
+    }
+  },
+  {
+    "id": "wien-196751d6d691",
+    "caseNumber": "30 E 9/26x",
+    "auctionDate": "2027-03-04",
+    "address": "1080 Wien Lederergasse 13",
+    "district": "1080",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Eigentumswohnung",
+    "propertyType": "公寓",
+    "estimatedValue": 320100,
+    "minimumBid": 224070,
+    "area": 102.96,
+    "pricePerSqm": 3108.97,
+    "deposit": 32010,
+    "latitude": 48.211081,
+    "longitude": 16.3485294,
+    "geocodeSource": "official",
+    "ownershipType": "Gründerzeithaus (Baujahr 1877/1878) in 1080 Wien,\nLederergasse 13, bestehend aus Keller, drei Obergeschoßen sowie einem Dachgeschoß (Ausbau 1992-1996); guter Gesamtzustand; Gegensprechanlage\nvorhanden",
+    "summary": "Gründerzeithaus (Baujahr 1877/1878) in 1080 Wien,\nLederergasse 13, bestehend aus Keller, drei Obergeschoßen sowie einem Dachgeschoß (Ausbau 1992-1996); guter Gesamtzustand; Gegensprechanlage\nvorhanden",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/196751d6d691a91ac1258eb90042e65d!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0056793e756a2eaac1258eb90042e428/$file/SV%20033a-25%20Gutachten%20sign.pdf",
+    "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d0b23b41778e8396c1258eb90042e65e",
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Die Wohnung ist seit 01.11.1987 auf unbestimmte Zeit vermietet. Der monatliche Nettohauptmietzins beträgt EUR 228,46.",
+    "firstSeenAt": "2026-11-25T09:49:34.710Z",
+    "nearestStation": {
+      "name": "Rathaus",
+      "lines": [
+        "U2"
+      ],
+      "meters": 800,
+      "minutes": 11,
+      "walk": true,
+      "at": [
+        48.21108,
+        16.34853
+      ]
+    }
+  },
+  {
+    "id": "wien-ad7c4abc6a0d",
+    "caseNumber": "30 E 9/26x",
+    "auctionDate": "2027-03-04",
+    "address": "1080 Wien Lederergasse 13",
+    "district": "1080",
+    "title": "Gerichtliche Versteigerungen",
+    "category": "Eigentumswohnung",
+    "propertyType": "公寓",
+    "estimatedValue": 318500,
+    "minimumBid": 222950,
+    "area": 106.99,
+    "pricePerSqm": 2976.91,
+    "deposit": 31850,
+    "latitude": 48.211081,
+    "longitude": 16.3485294,
+    "geocodeSource": "official",
+    "ownershipType": "Gründerzeithaus (Baujahr 1877/1878) in 1080 Wien, Lederergasse 13, bestehend aus Keller, drei\nObergeschoßen sowie einem Dachgeschoß (Ausbau\n1992-1996); guter Gesamtzustand; Gegensprechanlage\nvorhanden",
+    "summary": "Gründerzeithaus (Baujahr 1877/1878) in 1080 Wien, Lederergasse 13, bestehend aus Keller, drei\nObergeschoßen sowie einem Dachgeschoß (Ausbau\n1992-1996); guter Gesamtzustand; Gegensprechanlage\nvorhanden",
+    "riskTags": [],
+    "detailUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/alldoc/ad7c4abc6a0d827ac1258eb90042e41c!OpenDocument",
+    "pdfUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/0056793e756a2eaac1258eb90042e428/$file/SV%20033a-25%20Gutachten%20sign.pdf",
+    "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5a238ef65c87a323c1258eb90042e41d",
+    "tenancyStatus": "unlimited",
+    "tenancyText": "Die Wohnung ist seit 12.11.1941 auf unbestimmte Zeit vermietet. Der monatliche Nettohauptmietzins beträgt EUR 160,60.",
+    "firstSeenAt": "2026-11-25T09:49:34.710Z",
+    "nearestStation": {
+      "name": "Rathaus",
+      "lines": [
+        "U2"
+      ],
+      "meters": 800,
+      "minutes": 11,
+      "walk": true,
+      "at": [
+        48.21108,
+        16.34853
+      ]
+    }
   }
 ]
