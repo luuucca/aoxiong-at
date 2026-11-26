@@ -7552,8 +7552,8 @@
     "area": 1666.72,
     "pricePerSqm": 490.18,
     "deposit": 81700,
-    "latitude": 48.1807949,
-    "longitude": 16.3298736,
+    "latitude": 48.1808207,
+    "longitude": 16.3298393,
     "geocodeSource": "official",
     "ownershipType": "Das Wohnungseigentumsobjekt verteilt sich auf das Erd- und 1. Obergeschoss eines in den Jahren um 1986-1990 errichteten Wohn- und Geschäftshauses, bestehend aus 2 Kellergeschossen, Erd-, 1. - 5. Ober-",
     "summary": "1 号楼梯 Geschäft 4，1986–1990 年建住商楼的底层和 1 楼商铺，户内楼梯和电梯，共 1,666.72㎡（卖场约 1,498㎡、辅助 169㎡），带院侧露台，状况中等至部分需翻修。现由服装零售租户经营，报告称依判决无限期出租，主租金 €7,500/月（€4.50/㎡），无指数调整；但另处称无有效租约。租户提出瑕疵、减租和赔偿主张。收益法资本化率 3%，算得 €1,816,879，扣翻修 €600/㎡（约 €100 万）。楼内计划修露台、外墙石板和电气；一段 20.32㎡ 走廊归属未明。",
@@ -7578,8 +7578,8 @@
       "minutes": 2,
       "walk": true,
       "at": [
-        48.18079,
-        16.32987
+        48.18082,
+        16.32984
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -8016,8 +8016,8 @@
     "area": 96.72,
     "pricePerSqm": 2264.27,
     "deposit": 21900,
-    "latitude": 48.202595,
-    "longitude": 16.3550757,
+    "latitude": 48.2026283,
+    "longitude": 16.3551892,
     "geocodeSource": "official",
     "ownershipType": "Mehrparteienhaus in 1070 Wien, Siebensterngasse 16A;\nBj. 1870, weitgehend historisch erhalten; Keller, EG, 1. – 4. Stock, DG nachträglich ausgebaut; Haus in durchschnittlichem Erhaltungszustand, Perso",
     "summary": "约 1870 年建老楼的 2 楼，1996–2000 年加建阁楼，电梯停半层，楼况中等。W 7 面积 96.72㎡，两室一小间、厨房内设洗浴、WC、临街阳台，可对流通风，燃气壁挂炉，状况中等，部分使用痕迹重，大致符合图纸，地下储藏不明。自 1982 年无限期出租，现租客 2005 年经判决承接，主租金净 €215.69/月（€2.23/㎡）。收益法算得 €224,218，扣贷款余额 €5,038，估值约 €2,266/㎡。楼内 2023 年贷款 €67,000 修楼板，本套月摊 €55.36；维修基金仅 €2,878，可能修地窖拱顶。",
@@ -8037,12 +8037,12 @@
         "U2",
         "U3"
       ],
-      "meters": 460,
+      "meters": 450,
       "minutes": 6,
       "walk": true,
       "at": [
-        48.2026,
-        16.35508
+        48.20263,
+        16.35519
       ]
     },
     "summarizedAt": "2026-11-07T12:22:18.222Z",
@@ -9329,8 +9329,8 @@
     "area": 98.56,
     "pricePerSqm": 8979.3,
     "deposit": 88500,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "ohne Zubehör",
     "summary": "ohne Zubehör",
@@ -9345,12 +9345,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9369,8 +9369,8 @@
     "area": 241.49,
     "pricePerSqm": 8116.28,
     "deposit": 196000,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "Wohnung Top 1.06 befindet sich im 2. und 3. OG bestehend aus:\nVorraum, 3 Zimmer, 3 Bad u WC, Schrankraum, Wirtschaftsraum, Wohnzimmer, Wohnküche, Terrassenflächen",
     "summary": "Wohnung Top 1.06 befindet sich im 2. und 3. OG bestehend aus:\nVorraum, 3 Zimmer, 3 Bad u WC, Schrankraum, Wirtschaftsraum, Wohnzimmer, Wohnküche, Terrassenflächen",
@@ -9385,12 +9385,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9409,8 +9409,8 @@
     "area": 214.82,
     "pricePerSqm": 8053.25,
     "deposit": 173000,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "Wohnung befindet sich im EG, bestehend aus Vorraum, 4 Zimmer, 3 Bäder, Saune, WC, Abstellraum, Galerie und Wohnküche, Terrasse und Garten",
     "summary": "Wohnung befindet sich im EG, bestehend aus Vorraum, 4 Zimmer, 3 Bäder, Saune, WC, Abstellraum, Galerie und Wohnküche, Terrasse und Garten",
@@ -9425,12 +9425,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9529,8 +9529,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9545,12 +9545,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9569,8 +9569,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9585,12 +9585,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9609,8 +9609,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9625,12 +9625,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9649,8 +9649,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9665,12 +9665,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9689,8 +9689,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3150,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9705,12 +9705,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9729,8 +9729,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3000,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9745,12 +9745,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -9769,8 +9769,8 @@
     "area": 0,
     "pricePerSqm": 0,
     "deposit": 3150,
-    "latitude": 48.2657929,
-    "longitude": 16.3244002,
+    "latitude": 48.2627708,
+    "longitude": 16.3317689,
     "geocodeSource": "official",
     "ownershipType": "",
     "summary": "",
@@ -9785,12 +9785,12 @@
       "lines": [
         "U4"
       ],
-      "meters": 4600,
-      "minutes": 61,
+      "meters": 3560,
+      "minutes": 47,
       "walk": true,
       "at": [
-        48.26579,
-        16.3244
+        48.26277,
+        16.33177
       ]
     },
     "firstSeenAt": "2026-11-10T08:19:50.811Z"
@@ -10424,7 +10424,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/11bb2cda099c9da8c1258eba0028298c",
     "tenancyStatus": "vacant",
     "tenancyText": "",
-    "firstSeenAt": "2026-11-25T09:49:34.710Z",
     "nearestStation": {
       "name": "Karlsplatz",
       "lines": [
@@ -10439,7 +10438,8 @@
         48.20122,
         16.36701
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-25T09:49:34.710Z"
   },
   {
     "id": "wien-196751d6d691",
@@ -10466,7 +10466,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/d0b23b41778e8396c1258eb90042e65e",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Wohnung ist seit 01.11.1987 auf unbestimmte Zeit vermietet. Der monatliche Nettohauptmietzins beträgt EUR 228,46.",
-    "firstSeenAt": "2026-11-25T09:49:34.710Z",
     "nearestStation": {
       "name": "Rathaus",
       "lines": [
@@ -10479,7 +10478,8 @@
         48.21108,
         16.34853
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-25T09:49:34.710Z"
   },
   {
     "id": "wien-ad7c4abc6a0d",
@@ -10506,7 +10506,6 @@
     "shortReportUrl": "https://edikte.justiz.gv.at/edikte/ex/exedi3.nsf/0/5a238ef65c87a323c1258eb90042e41d",
     "tenancyStatus": "unlimited",
     "tenancyText": "Die Wohnung ist seit 12.11.1941 auf unbestimmte Zeit vermietet. Der monatliche Nettohauptmietzins beträgt EUR 160,60.",
-    "firstSeenAt": "2026-11-25T09:49:34.710Z",
     "nearestStation": {
       "name": "Rathaus",
       "lines": [
@@ -10519,6 +10518,7 @@
         48.21108,
         16.34853
       ]
-    }
+    },
+    "firstSeenAt": "2026-11-25T09:49:34.710Z"
   }
 ]
